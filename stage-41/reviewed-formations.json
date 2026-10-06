@@ -1,0 +1,1202 @@
+[
+  {
+    "source_message_id": "1545054097663852706",
+    "stage_start": 1,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "41-5",
+    "screenshot_enemy_level": 1077,
+    "tatari_level": 835,
+    "credited_player_name": "Poori (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "armorjaw",
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "pandarrior",
+        "cluckeroo",
+        null
+      ],
+      [
+        "clangnaga",
+        "hyphoria",
+        "voltmare",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption; adjustments retained separately from posting display identity. Not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545060927211044884",
+    "stage_start": 5,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "41-10",
+    "screenshot_enemy_level": 1079,
+    "tatari_level": 836,
+    "credited_player_name": "Esek YT (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "armorjaw",
+        "cluckeroo",
+        "rockwu",
+        "serrabloom:glitter"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "pandarrior"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "solaflora"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption; adjustments retained separately from posting display identity. Not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545380890639605780",
+    "stage_start": 10,
+    "stage_end": 10,
+    "screenshot_displayed_stage": "41-11",
+    "screenshot_enemy_level": 1079,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "dreadclaw",
+        null,
+        "blitzmane",
+        null,
+        "rockwu"
+      ],
+      [
+        null,
+        "cheerspring",
+        "voltmare",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "hyphoria",
+        "sonarbat",
+        null,
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The source message explicitly says finally beat it with this level and credits Esek YT in its second line.",
+    "credit_basis": "Reference named in the caption; adjustments retained separately from posting display identity. Not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545382203486244914",
+    "stage_start": 11,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "41-15",
+    "screenshot_enemy_level": 1081,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "armorjaw",
+        "serrabloom:glitter",
+        "blitzmane",
+        "voltverine",
+        "rockwu"
+      ],
+      [
+        "dreadclaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "zapantler",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Same Reference in caption refers to the immediately preceding Esek YT credit.",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545384725559123978",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "41-20",
+    "screenshot_enemy_level": 1082,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "capobeetle",
+        "blitzmane",
+        "dreadclaw",
+        "serrabloom:glitter"
+      ],
+      [
+        "rockwu",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "pandarrior",
+        "sonarbat",
+        "seaswirl",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption; adjustments retained separately from posting display identity. Not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545386005329215588",
+    "stage_start": 20,
+    "stage_end": 20,
+    "screenshot_displayed_stage": "41-21",
+    "screenshot_enemy_level": 1083,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "silversear",
+        null,
+        "hyphoria",
+        "cheerspring",
+        "frostique"
+      ],
+      [
+        "hellhound",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "dreadclaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "cactobloom",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom:glitter",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545387135979225128",
+    "stage_start": 21,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "41-25",
+    "screenshot_enemy_level": 1084,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "hellhound",
+        null,
+        "serrabloom:glitter",
+        "blitzmane",
+        "dreadclaw"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "solaflora"
+      ],
+      [
+        "flarevix",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        null,
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545388142289358889",
+    "stage_start": 25,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "41-30",
+    "screenshot_enemy_level": 1086,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "voltverine",
+        "dreadclaw",
+        "blitzmane",
+        null,
+        "serrabloom:glitter"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "zapantler",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "voltmare",
+        "frostique",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545393821959856189",
+    "stage_start": 30,
+    "stage_end": 30,
+    "screenshot_displayed_stage": "41-31",
+    "screenshot_enemy_level": 1086,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "blitzmane",
+        "capypapa",
+        "hellhound",
+        "clangnaga"
+      ],
+      [
+        null,
+        "charflutter",
+        "frostique",
+        "cheerspring",
+        "pandarrior"
+      ],
+      [
+        null,
+        null,
+        "hyphoria",
+        "silversear",
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545396475108925521",
+    "stage_start": 31,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "41-35",
+    "screenshot_enemy_level": 1087,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "solaflora",
+        "hellhound",
+        "dreadclaw",
+        "blitzmane",
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "pandarrior"
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        "silversear",
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545400312213414039",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "41-40",
+    "screenshot_enemy_level": 1089,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "blitzmane",
+        "rockwu",
+        "serrabloom:glitter",
+        "hellhound"
+      ],
+      [
+        "solaflora",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "armorjaw"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "frostique"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545401651425321032",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "41-41",
+    "screenshot_enemy_level": 1089,
+    "tatari_level": 845,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "blitzmane",
+        "serrabloom:glitter",
+        "clangnaga",
+        "armorjaw"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        "solaflora",
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545590327509909526",
+    "stage_start": 41,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "41-45",
+    "screenshot_enemy_level": 1091,
+    "tatari_level": 847,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "blitzmane",
+        "serrabloom:glitter",
+        "clangnaga",
+        "armorjaw"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        "solaflora",
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545746826597245028",
+    "stage_start": 45,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "41-50",
+    "screenshot_enemy_level": 1092,
+    "tatari_level": 849,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "pandarrior",
+        "hellhound",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "voltverine"
+      ],
+      [
+        "solaflora",
+        null,
+        "frostique",
+        "clangnaga",
+        "silversear"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545751575857860608",
+    "stage_start": 50,
+    "stage_end": 50,
+    "screenshot_displayed_stage": "41-51",
+    "screenshot_enemy_level": 1093,
+    "tatari_level": 849,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom:glitter",
+        "cobbledon",
+        "hellhound",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "rockwu",
+        "charflutter",
+        "voltverine"
+      ],
+      [
+        "clangnaga",
+        null,
+        "hyphoria",
+        "sonarbat",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545751651099615284",
+    "stage_start": 51,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "41-55",
+    "screenshot_enemy_level": 1094,
+    "tatari_level": 849,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom:glitter",
+        "cobbledon",
+        "hellhound",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "rockwu",
+        "charflutter",
+        "voltverine"
+      ],
+      [
+        "clangnaga",
+        null,
+        "hyphoria",
+        "sonarbat",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545751739058360432",
+    "stage_start": 55,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "41-60",
+    "screenshot_enemy_level": 1096,
+    "tatari_level": 849,
+    "credited_player_name": "Esek YT (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockshell",
+        "hellhound",
+        "sonarbat",
+        "blitzmane",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "rockwu"
+      ],
+      [
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545752954236051609",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "41-61",
+    "screenshot_enemy_level": 1096,
+    "tatari_level": 849,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "silversear",
+        "dreadclaw",
+        "blitzmane",
+        "hellhound",
+        null
+      ],
+      [
+        "flarevix",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapantler"
+      ],
+      [
+        "solaflora",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545755852533669999",
+    "stage_start": 61,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "41-65",
+    "screenshot_enemy_level": 1097,
+    "tatari_level": 849,
+    "credited_player_name": "Esek YT (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pyroclobster",
+        "dreadclaw",
+        "blitzmane",
+        "hellhound",
+        null
+      ],
+      [
+        "silversear",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapantler"
+      ],
+      [
+        "flarevix",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "clangnaga"
+      ],
+      [
+        "solaflora",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545757229872058438",
+    "stage_start": 65,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "41-70",
+    "screenshot_enemy_level": 1099,
+    "tatari_level": 849,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "serrabloom:glitter",
+        "pandarrior",
+        "hellhound",
+        "clangnaga",
+        null
+      ],
+      [
+        "rockwu",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "armorjaw"
+      ],
+      [
+        "silversear",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frostique"
+      ],
+      [
+        "solaflora",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545758355799154698",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "41-71",
+    "screenshot_enemy_level": 1099,
+    "tatari_level": 849,
+    "credited_player_name": "Esek YT",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        null,
+        "serrabloom:glitter",
+        "rockwu"
+      ],
+      [
+        "voltverine",
+        "charflutter",
+        "capypapa",
+        "cheerspring",
+        "sonarbat"
+      ],
+      [
+        "solaflora",
+        "clangnaga",
+        "frostique",
+        "hyphoria",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545770344860618883",
+    "stage_start": 71,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "41-75",
+    "screenshot_enemy_level": 1101,
+    "tatari_level": 849,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        null,
+        "serrabloom:glitter",
+        null
+      ],
+      [
+        "voltverine",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "clangnaga"
+      ],
+      [
+        null,
+        "rockwu",
+        "frostique",
+        "sonarbat",
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zapantler"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption; adjustments retained separately from posting display identity. Not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545770492177416272",
+    "stage_start": 75,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "41-80",
+    "screenshot_enemy_level": 1102,
+    "tatari_level": 849,
+    "credited_player_name": "Bruno (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        "blitzmane",
+        "sonarbat",
+        "frostique",
+        "dreadclaw"
+      ],
+      [
+        "kitjitsu",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapantler"
+      ],
+      [
+        "silversear",
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Inferred from the preceding named reference and caption saying Same Reference/Formation; not a verified Discord username."
+  },
+  {
+    "source_message_id": "1545781168966729898",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "42-1",
+    "screenshot_enemy_level": 1103,
+    "tatari_level": 849,
+    "credited_player_name": "Bruno (adapted by nil)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "serrabloom:glitter",
+        "zapantler",
+        "frugagon",
+        null
+      ],
+      [
+        "dreadclaw",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        "voltmare",
+        "solaflora",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Caption explicitly calls the stage RNG Hell; clear success is author-reported.",
+    "credit_basis": "Reference named in the caption; adjustments retained separately from posting display identity. Not a verified Discord username."
+  }
+]

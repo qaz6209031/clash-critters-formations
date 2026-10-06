@@ -1,0 +1,1306 @@
+[
+  {
+    "source_message_id": "1555769207176831079",
+    "stage_start": 1,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "40-5",
+    "screenshot_enemy_level": 1051,
+    "tatari_level": 806,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "hellhound",
+        "armorjaw",
+        "serrabloom",
+        null
+      ],
+      [
+        "voltverine",
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        null
+      ],
+      [
+        "nekowatt",
+        "silversear",
+        "hyphoria",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        "chronerva",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555770271959621853",
+    "stage_start": 5,
+    "stage_end": 7,
+    "screenshot_displayed_stage": "40-8",
+    "screenshot_enemy_level": 1052,
+    "tatari_level": 806,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "armorjaw",
+        "chronerva",
+        null
+      ],
+      [
+        "rockshell",
+        "charflutter",
+        "sonarbat",
+        "cheerspring",
+        "serrabloom"
+      ],
+      [
+        "rockwu",
+        "silversear",
+        "hyphoria",
+        "clangnaga",
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555771473371598858",
+    "stage_start": 8,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "40-10",
+    "screenshot_enemy_level": 1052,
+    "tatari_level": 806,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "rockshell",
+        null,
+        "armorjaw",
+        "chronerva",
+        null
+      ],
+      [
+        "clangnaga",
+        "silversear",
+        "hyphoria",
+        "cheerspring",
+        "serrabloom"
+      ],
+      [
+        "solaflora",
+        "charflutter",
+        "sonarbat",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555775318902571119",
+    "stage_start": 10,
+    "stage_end": 12,
+    "screenshot_displayed_stage": "40-11",
+    "screenshot_enemy_level": 1053,
+    "tatari_level": 806,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "lickflicker",
+        "serrabloom",
+        null
+      ],
+      [
+        "voltverine",
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "clangnaga",
+        "hyphoria",
+        "solaflora",
+        "flarevix"
+      ],
+      [
+        null,
+        "silversear",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Caption reports the same formation for stages 40-10 through 40-12. Screenshot shows 40-11, consistent with a capture after clearing 40-10; stages 11-12 are supported by the author caption, not the screenshot header alone.",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately.",
+    "stage_assignment_basis": "Author's caption reports the full cleared range. Screenshot was captured after its first stage and shows the next stage; it does not alone verify the later endpoints."
+  },
+  {
+    "source_message_id": "1555777566990671953",
+    "stage_start": 13,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "40-15",
+    "screenshot_enemy_level": 1054,
+    "tatari_level": 806,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "lickflicker",
+        "serrabloom",
+        null
+      ],
+      [
+        "voltverine",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "hellhound"
+      ],
+      [
+        null,
+        "clangnaga",
+        "sonarbat",
+        "solaflora",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555778766284918796",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "40-20",
+    "screenshot_enemy_level": 1056,
+    "tatari_level": 806,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "dreadclaw",
+        "armorjaw",
+        "voltverine",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "silversear",
+        "sonarbat",
+        "solaflora",
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555784083639115908",
+    "stage_start": 20,
+    "stage_end": 20,
+    "screenshot_displayed_stage": "40-21",
+    "screenshot_enemy_level": 1056,
+    "tatari_level": 806,
+    "credited_player_name": "Antzer (adapted by Casey)",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "zapantler",
+        "voltverine",
+        null
+      ],
+      [
+        null,
+        "hellhound",
+        "cheerspring",
+        "blitzmane",
+        null
+      ],
+      [
+        "serrabloom",
+        "charflutter",
+        "clangnaga",
+        "hyphoria",
+        null
+      ],
+      [
+        null,
+        "silversear",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        "flarevix",
+        null,
+        null,
+        "solaflora"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Caption says adapted from 28-30 and up references! (45-9), the thread authored by Antzer, observed during the opening-stage comparison.",
+    "credit_basis": "Caption and linked reference thread identify Antzer; adapted by posting player Casey. Not a verified Discord username."
+  },
+  {
+    "source_message_id": "1555798633583214713",
+    "stage_start": 21,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "40-25",
+    "screenshot_enemy_level": 1057,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "solaflora",
+        "hellhound",
+        "clangnaga",
+        "blitzmane",
+        null
+      ],
+      [
+        "serrabloom",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "capobeetle"
+      ],
+      [
+        null,
+        "flarevix",
+        "sonarbat",
+        null,
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555804092775923822",
+    "stage_start": 25,
+    "stage_end": 26,
+    "screenshot_displayed_stage": "40-27",
+    "screenshot_enemy_level": 1058,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "serrabloom",
+        null,
+        "clangnaga",
+        null
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "sonarbat",
+        "cheerspring",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        "rockwu",
+        "hyphoria",
+        null,
+        "armorjaw"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555806158323716106",
+    "stage_start": 27,
+    "stage_end": 27,
+    "screenshot_displayed_stage": "40-28",
+    "screenshot_enemy_level": 1058,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "serrabloom",
+        null,
+        "clangnaga",
+        null
+      ],
+      [
+        "armorjaw",
+        "charflutter",
+        "sonarbat",
+        "cheerspring",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        "rockwu",
+        "hyphoria",
+        null,
+        "zapantler"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555823046026076190",
+    "stage_start": 28,
+    "stage_end": 28,
+    "screenshot_displayed_stage": "40-29",
+    "screenshot_enemy_level": 1059,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "serrabloom",
+        null,
+        "clangnaga",
+        null
+      ],
+      [
+        "armorjaw",
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        "rockwu",
+        "hyphoria",
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555826259324444733",
+    "stage_start": 29,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "40-30",
+    "screenshot_enemy_level": 1059,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "serrabloom",
+        null,
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "hyphoria",
+        "clangnaga",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        "rockwu",
+        "sonarbat",
+        "cheerspring",
+        "armorjaw"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555828250238787588",
+    "stage_start": 30,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "40-31",
+    "screenshot_enemy_level": 1059,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        null,
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "cheerspring",
+        "thornwisp",
+        "serrabloom",
+        null
+      ],
+      [
+        "rockwu",
+        "chronerva",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "silversear"
+      ],
+      [
+        null,
+        "solaflora",
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Author reports stages 40-30 through 40-34. Screenshot shows 40-31, captured after the first stage of the reported range.",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately.",
+    "stage_assignment_basis": "Author's caption reports the full cleared range. Screenshot was captured after its first stage and shows the next stage; it does not alone verify the later endpoints."
+  },
+  {
+    "source_message_id": "1555830245972770836",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "40-40",
+    "screenshot_enemy_level": 1062,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "thornwisp",
+        "rockwu",
+        "serrabloom"
+      ],
+      [
+        null,
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "zapantler",
+        "hyphoria",
+        "clangnaga",
+        "silversear"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555831134355726362",
+    "stage_start": 40,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "40-41",
+    "screenshot_enemy_level": 1063,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "voltverine",
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        "armorjaw",
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        null,
+        "hyphoria",
+        null,
+        "silversear"
+      ],
+      [
+        "flarevix",
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Author reports stages 40-40 through 40-44. Screenshot shows 40-41, captured after the first stage of the reported range.",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately.",
+    "stage_assignment_basis": "Author's caption reports the full cleared range. Screenshot was captured after its first stage and shows the next stage; it does not alone verify the later endpoints."
+  },
+  {
+    "source_message_id": "1555837754078662666",
+    "stage_start": 45,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "40-50",
+    "screenshot_enemy_level": 1066,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "voltverine",
+        "blitzmane",
+        "serrabloom",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        "armorjaw"
+      ],
+      [
+        "silversear",
+        null,
+        "hyphoria",
+        "chronerva",
+        "clangnaga"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555839218364719194",
+    "stage_start": 50,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "40-51",
+    "screenshot_enemy_level": 1066,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        null,
+        "rockwu",
+        "blitzmane",
+        "voltverine"
+      ],
+      [
+        null,
+        "charflutter",
+        "sonarbat",
+        "cheerspring",
+        null
+      ],
+      [
+        "silversear",
+        "frostique",
+        "hyphoria",
+        "zapantler",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "voltmare",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Author reports stages 40-50 through 40-54. Screenshot shows 40-51, captured after the first stage of the reported range.",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately.",
+    "stage_assignment_basis": "Author's caption reports the full cleared range. Screenshot was captured after its first stage and shows the next stage; it does not alone verify the later endpoints."
+  },
+  {
+    "source_message_id": "1555846859644211300",
+    "stage_start": 55,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "40-60",
+    "screenshot_enemy_level": 1069,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "serrabloom"
+      ],
+      [
+        null,
+        "rockshell",
+        "rockwu",
+        "thornwisp",
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "sonarbat",
+        "cheerspring",
+        null
+      ],
+      [
+        "silversear",
+        "clangnaga",
+        "hyphoria",
+        "chronerva",
+        null
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555859263711350844",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "40-61",
+    "screenshot_enemy_level": 1069,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "dreadclaw",
+        null,
+        "serrabloom",
+        "rockwu",
+        "blitzmane"
+      ],
+      [
+        "seaswirl",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "silversear",
+        "solaflora",
+        null,
+        null,
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555859752699957279",
+    "stage_start": 61,
+    "stage_end": 62,
+    "screenshot_displayed_stage": "40-63",
+    "screenshot_enemy_level": 1070,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "dreadclaw",
+        null,
+        "serrabloom",
+        "rockwu",
+        "blitzmane"
+      ],
+      [
+        "seaswirl",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "silversear",
+        "solaflora",
+        "sonarbat",
+        null,
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555863119149015100",
+    "stage_start": 63,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "40-65",
+    "screenshot_enemy_level": 1071,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "armorjaw",
+        "serrabloom",
+        "thornwisp",
+        "clangnaga",
+        null
+      ],
+      [
+        "silversear",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "solaflora",
+        null,
+        "sonarbat",
+        null,
+        "rockwu"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555864352773513277",
+    "stage_start": 65,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "40-70",
+    "screenshot_enemy_level": 1072,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "blitzmane",
+        "clangnaga",
+        "rockwu",
+        "serrabloom",
+        "armorjaw"
+      ],
+      [
+        "voltverine",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "solaflora",
+        null,
+        "sonarbat",
+        null,
+        "zapantler"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555866101743751190",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "40-71",
+    "screenshot_enemy_level": 1073,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "sonarbat",
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "rockwu",
+        "nekowatt",
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        "silversear",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555867408990736425",
+    "stage_start": 71,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "40-75",
+    "screenshot_enemy_level": 1074,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "blitzmane",
+        "rockwu",
+        "voltverine",
+        "serrabloom",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "solaflora",
+        "silversear",
+        "sonarbat",
+        null,
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555869178651746414",
+    "stage_start": 75,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "40-80",
+    "screenshot_enemy_level": 1076,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "lickflicker",
+        "chronerva",
+        "hellhound",
+        "serrabloom"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "clangnaga",
+        "silversear",
+        "sonarbat",
+        "flarevix",
+        "solaflora"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  },
+  {
+    "source_message_id": "1555870348782600212",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "41-1",
+    "screenshot_enemy_level": 1076,
+    "tatari_level": 807,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "cluckeroo",
+        "armorjaw",
+        "blitzmane",
+        "serrabloom",
+        null
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "sonarbat",
+        "silversear",
+        null
+      ],
+      [
+        "clangnaga",
+        "hyphoria",
+        "voltmare",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Original creator is not identified in the caption; posting display name is retained separately."
+  }
+]

@@ -1,0 +1,1202 @@
+[
+  {
+    "source_message_id": "1548163019597549621",
+    "stage_start": 1,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "43-5",
+    "screenshot_enemy_level": 1131,
+    "tatari_level": 941,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "voltverine",
+        "blitzmane",
+        "armorjaw",
+        null
+      ],
+      [
+        "cactoczar",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "voltmare:glitter",
+        "silversear",
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548163071946522644",
+    "stage_start": 5,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "43-10",
+    "screenshot_enemy_level": 1132,
+    "tatari_level": 941,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "hellhound",
+        "blitzmane",
+        "armorjaw",
+        null
+      ],
+      [
+        "voltmare:glitter",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "solaflora"
+      ],
+      [
+        null,
+        "clangnaga",
+        "silversear",
+        "sonarbat",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548163128637001881",
+    "stage_start": 10,
+    "stage_end": 10,
+    "screenshot_displayed_stage": "43-11",
+    "screenshot_enemy_level": 1133,
+    "tatari_level": 941,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "hellhound",
+        "pyroclobster",
+        "cactoczar",
+        "serrabloom:glitter"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "clangnaga",
+        "silversear",
+        "solaflora",
+        "pandarrior"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548163198736142356",
+    "stage_start": 11,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "43-15",
+    "screenshot_enemy_level": 1134,
+    "tatari_level": 941,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "hellhound",
+        "pyroclobster",
+        "cactoczar",
+        "serrabloom:glitter"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "clangnaga",
+        "silversear",
+        "solaflora",
+        "pandarrior"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548163261856227358",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "43-20",
+    "screenshot_enemy_level": 1136,
+    "tatari_level": 941,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "pyroclobster",
+        "voltverine",
+        "hellhound",
+        "serrabloom:glitter"
+      ],
+      [
+        "zapantler",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "solaflora"
+      ],
+      [
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548163303925092452",
+    "stage_start": 20,
+    "stage_end": 20,
+    "screenshot_displayed_stage": "43-21",
+    "screenshot_enemy_level": 1136,
+    "tatari_level": 941,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "rockwu",
+        "sonarbat",
+        "hellhound",
+        "serrabloom:glitter"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "solaflora"
+      ],
+      [
+        null,
+        "clangnaga",
+        "voltmare:glitter",
+        null,
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548170915739734026",
+    "stage_start": 21,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "43-25",
+    "screenshot_enemy_level": 1137,
+    "tatari_level": 942,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "rockwu",
+        "sonarbat",
+        "hellhound",
+        "serrabloom:glitter"
+      ],
+      [
+        "zapantler",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "solaflora"
+      ],
+      [
+        null,
+        "clangnaga",
+        "voltmare:glitter",
+        null,
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548170989635113043",
+    "stage_start": 25,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "43-30",
+    "screenshot_enemy_level": 1139,
+    "tatari_level": 942,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "swaystroll",
+        "serrabloom:glitter",
+        "dreadclaw",
+        "armorjaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "frostique"
+      ],
+      [
+        "silversear",
+        "clangnaga",
+        null,
+        "solaflora",
+        "voltmare:glitter"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548171052683894837",
+    "stage_start": 30,
+    "stage_end": 30,
+    "screenshot_displayed_stage": "43-31",
+    "screenshot_enemy_level": 1139,
+    "tatari_level": 942,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "serrabloom:glitter",
+        "cactoczar",
+        "voltverine",
+        "hellhound"
+      ],
+      [
+        "seaswirl",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "pandarrior",
+        null,
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548171718265151518",
+    "stage_start": 31,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "43-35",
+    "screenshot_enemy_level": 1141,
+    "tatari_level": 942,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "serrabloom:glitter",
+        "cactoczar",
+        "voltverine",
+        "hellhound"
+      ],
+      [
+        "seaswirl",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "pandarrior",
+        null,
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548174197136826438",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "43-40",
+    "screenshot_enemy_level": 1142,
+    "tatari_level": 942,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "hellhound",
+        "pyroclobster",
+        "voltverine",
+        "serrabloom:glitter"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "solaflora"
+      ],
+      [
+        null,
+        "flarevix",
+        "frostique",
+        null,
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548174240002347110",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "43-41",
+    "screenshot_enemy_level": 1143,
+    "tatari_level": 942,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        "serrabloom:glitter",
+        "armorjaw",
+        "solaflora",
+        null
+      ],
+      [
+        "flarevix",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "clangnaga",
+        "frostique",
+        "cactoczar",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548216696320299099",
+    "stage_start": 41,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "43-45",
+    "screenshot_enemy_level": 1144,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        "serrabloom:glitter",
+        "dreadclaw",
+        "solaflora",
+        "pyroclobster"
+      ],
+      [
+        "silversear",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        "frostique",
+        "capobeetle",
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548216783717007444",
+    "stage_start": 45,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "43-50",
+    "screenshot_enemy_level": 1146,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "serrabloom:glitter",
+        null
+      ],
+      [
+        "blitzmane",
+        "armorjaw",
+        "voltverine",
+        "charflutter",
+        "hellhound"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "solaflora",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548216833088168057",
+    "stage_start": 50,
+    "stage_end": 50,
+    "screenshot_displayed_stage": "43-51",
+    "screenshot_enemy_level": 1146,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        null,
+        "blitzmane",
+        "armorjaw",
+        "voltverine"
+      ],
+      [
+        "solaflora",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapantler"
+      ],
+      [
+        null,
+        "silversear",
+        "voltmare:glitter",
+        "sonarbat",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548227109346873405",
+    "stage_start": 51,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "43-55",
+    "screenshot_enemy_level": 1147,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "hellhound",
+        "blitzmane",
+        "armorjaw",
+        "voltverine"
+      ],
+      [
+        "solaflora",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapantler"
+      ],
+      [
+        null,
+        "silversear",
+        "clangnaga",
+        null,
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548227178947158066",
+    "stage_start": 55,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "43-60",
+    "screenshot_enemy_level": 1149,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "armorjaw",
+        "serrabloom:glitter",
+        "hellhound",
+        null
+      ],
+      [
+        "seaswirl",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "rockwu"
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        "silversear",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548227252959838288",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "43-61",
+    "screenshot_enemy_level": 1149,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockshell",
+        "rockzilla",
+        "rockwu",
+        "voltverine",
+        null
+      ],
+      [
+        "zenscarab",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "frostique",
+        "clangnaga",
+        null,
+        "silversear"
+      ],
+      [
+        null,
+        "seaswirl",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548227297138581537",
+    "stage_start": 61,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "43-65",
+    "screenshot_enemy_level": 1151,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockshell",
+        "armorjaw",
+        "rockwu",
+        "voltverine",
+        null
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "frostique",
+        "zenscarab",
+        "sonarbat",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548229631952425001",
+    "stage_start": 65,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "43-70",
+    "screenshot_enemy_level": 1152,
+    "tatari_level": 945,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "dreadclaw",
+        "serrabloom:glitter",
+        "voltverine",
+        "hellhound",
+        "blitzmane"
+      ],
+      [
+        "armorjaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frostique"
+      ],
+      [
+        null,
+        "solaflora",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548229738995261522",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "43-71",
+    "screenshot_enemy_level": 1153,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "voltverine",
+        "blitzmane",
+        "solaflora",
+        "hellhound"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "clangnaga",
+        "cactoczar",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548232238297120889",
+    "stage_start": 71,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "43-75",
+    "screenshot_enemy_level": 1154,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "solaflora",
+        "voltverine",
+        "blitzmane",
+        "cactoczar",
+        "hellhound"
+      ],
+      [
+        "serrabloom:glitter",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        "pandarrior",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548232349391786014",
+    "stage_start": 75,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "43-80",
+    "screenshot_enemy_level": 1156,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "voltverine",
+        "hellhound",
+        "dreadclaw",
+        "cactoczar"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "silversear",
+        "seaswirl",
+        "pandarrior"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1548232410062397461",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "44-1",
+    "screenshot_enemy_level": 1156,
+    "tatari_level": 945,
+    "credited_player_name": "Izzy",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockzilla",
+        "blitzmane",
+        "serrabloom:glitter",
+        "armorjaw"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        "rockwu",
+        "voltmare:glitter",
+        null,
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  }
+]

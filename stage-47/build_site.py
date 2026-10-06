@@ -14,6 +14,14 @@ CATALOG_ROOT = ROOT.parent / "2026-10-05"
 CATALOG = json.loads((CATALOG_ROOT / "tatari-reference.json").read_text())
 FORMS = {form["form_id"]: form for form in CATALOG["forms"]}
 CHAPTERS = [
+    {"chapter": 40, "directory": ROOT.parent / "stage-40", "first": 1, "last": 80,
+     "source_files": ["raw-browser-sources.json"]},
+    {"chapter": 41, "directory": ROOT.parent / "stage-41", "first": 1, "last": 80,
+     "source_files": ["raw-browser-sources.json"]},
+    {"chapter": 42, "directory": ROOT.parent / "stage-42", "first": 1, "last": 80,
+     "source_files": ["raw-browser-sources.json", "raw-browser-sources-gap-15-19.json"]},
+    {"chapter": 43, "directory": ROOT.parent / "stage-43", "first": 1, "last": 80,
+     "source_files": ["raw-browser-sources.json"]},
     {"chapter": 44, "directory": ROOT.parent / "stage-44", "first": 1, "last": 80,
      "source_files": ["raw-browser-sources.json"]},
     {"chapter": 45, "directory": ROOT.parent / "stage-45", "first": 1, "last": 80,
@@ -104,7 +112,7 @@ def build() -> None:
         lineup = [unit_record(key, r, c)
                   for r, row in enumerate(board, 1)
                   for c, key in enumerate(row, 1) if key]
-        assert len(lineup) == 15, source["id"]
+        assert len(lineup) == reviewed.get("deployed_count", 15), source["id"]
         signature = json.dumps([(u["position"], u["form_id"], u["variant"])
                                 for u in lineup], separators=(",", ":"))
         formations.append({
@@ -116,13 +124,13 @@ def build() -> None:
             "permalink_method": source["permalink_method"],
             "source_server": "Clash of Critters",
             "source_server_id": "1343763804349267989",
-            "source_thread_id": "1545053459869339698",
-            "source_thread": "Beating Zobos In Public (F2P Journey). Chapter: 41 42 43 44 45 46 47 48 49 50",
+            "source_thread_id": source.get("channel_id") or source["source_message_url"].split("/")[-2],
+            "source_thread": source.get("source_thread", "Beating Zobos In Public (F2P Journey). Chapter: 41 42 43 44 45 46 47 48 49 50"),
             "source_type": "mixed",
             "discord_display_name": source["display_name"],
             "discord_username": None,
             "credited_player_name": credit,
-            "credit_basis": "Name in the message caption; not a verified Discord username.",
+            "credit_basis": reviewed.get("credit_basis", "Name in the message caption; not a verified Discord username."),
             "posted_at": source["posted_at"],
             "message_text": source["text"],
             "reply_context_text": source.get("reply_context"),
@@ -145,6 +153,8 @@ def build() -> None:
             "review_notes": reviewed["notes"] or "Exact forms and occupied cells visually matched to the supplied planner catalog. Glitter variants matched separately where present.",
             "outcome_basis": "Author-reported clear; not independently tested in game.",
         })
+        if "deployed_count" in reviewed:
+            formations[-1]["deployed_count"] = reviewed["deployed_count"]
         for n in range(start, end + 1):
             stage = f"{chapter}-{n}"
             stages.append({"stage": stage, "formation_id": source["id"], "tatari_level": level, "level_from_reconstruction": recreated})
@@ -191,7 +201,7 @@ def build() -> None:
 
     assert [s["stage"] for s in stages] == [f"{c['chapter']}-{n}" for c in CHAPTERS for n in range(c["first"], c["last"] + 1)]
     dataset = {
-        "schema_version": "1.3",
+        "schema_version": "1.4",
         "collected_at": "2026-10-05",
         "collection_method": "Authenticated Discord website, read-only browser inspection and attachment downloads.",
         "catalog_reference": {
@@ -205,7 +215,7 @@ def build() -> None:
         "high_confidence": [formation for formation in formations if not formation["needs_review"]],
         "needs_human_review": [formation for formation in formations if formation["needs_review"]],
         "deduplication": "Source message ID identifies each submission. Stage entries reference their source formation; shared captions are not counted as extra submissions. Cards group exact forms, variants and positions by formation hash. New messages are preserved separately; supersedes_message_id remains null without explicit evidence of replacement.",
-        "selection_scope": "All requested stages were present in the user-provided reference thread. Levels are observed in those source screenshots; no server-wide minimum level has been established. Missing stages should be searched with the stage name and has:image, then compared among author-reported clears with readable player levels.",
+        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapter 40 uses Casey's Chapter 19 and onwards thread, selected after comparing opening-stage search results. Selected alternatives had the lowest readable player levels among the inspected clear candidates; no server-wide minimum has been established. Levels remain observations, not independently tested requirements.",
     }
     for record in dataset["high_confidence"] + dataset["needs_human_review"]:
         record["local_image"] = (os.path.relpath(record["local_image_path"], ROOT.parent)
