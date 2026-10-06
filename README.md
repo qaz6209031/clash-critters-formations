@@ -1,5 +1,8 @@
 # Clash of Critters formations
 
+[Live website](https://kaichin.dev/clash-critters-formations/) ·
+[GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
+
 A simple, static Main Stage reference showing stage ranges, observed Tatari
 levels and exact 5×5 formations. It currently covers all **560 stages in
 chapters 44–50**, grouped into **162 formation cards** from 168 source posts.
