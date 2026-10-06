@@ -1,0 +1,1164 @@
+[
+  {
+    "source_message_id": "1549802998614589500",
+    "stage_start": 1,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "47-5",
+    "screenshot_enemy_level": 1237,
+    "tatari_level": 969,
+    "credited_player_name": "Pikas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "solaflora",
+        "dreadclaw",
+        "serrabloom:glitter",
+        "hellhound"
+      ],
+      [
+        "zapantler",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "flarevix"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        null,
+        null
+      ]
+    ],
+    "needs_review": true,
+    "notes": "Caption says 47-1 to 47-5, but screenshot shows 47-5 and the following post covers 47-5 to 47-9. Conservatively assign 47-1 through 47-4 using the established next-stage screenshot convention; caption endpoint needs review.",
+    "caption_stage_range": {
+      "chapter": 47,
+      "start": 1,
+      "end": 5
+    },
+    "stage_assignment_basis": "Screenshot shows the next stage; subsequent caption starts at that stage. Original caption has an overlapping endpoint, preserved for review.",
+    "extraction_revision": 1
+  },
+  {
+    "source_message_id": "1549831392563822594",
+    "stage_start": 5,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "47-10",
+    "screenshot_enemy_level": 1239,
+    "tatari_level": 969,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "blitzmane",
+        "hellhound",
+        "dreadclaw",
+        "rockzilla",
+        "serrabloom:glitter"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "pandarrior"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "rockwu"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "extraction_revision": 1
+  },
+  {
+    "source_message_id": "1549967396087795772",
+    "stage_start": 10,
+    "stage_end": 10,
+    "screenshot_displayed_stage": "47-11",
+    "screenshot_enemy_level": 1239,
+    "tatari_level": 983,
+    "credited_player_name": "silversreyleigh_3",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "hellhound",
+        "serrabloom:glitter",
+        "boldclaw"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "flarevix"
+      ],
+      [
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "silversear",
+        "solaflora",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1549967485435117578",
+    "stage_start": 11,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "47-15",
+    "screenshot_enemy_level": 1241,
+    "tatari_level": 983,
+    "credited_player_name": "Gallivany",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "blitzmane",
+        "dreadclaw",
+        "lickflicker",
+        "serrabloom:glitter",
+        "hellhound"
+      ],
+      [
+        "zapantler",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550099353593585756",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "47-20",
+    "screenshot_enemy_level": 1242,
+    "tatari_level": 984,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "hellhound",
+        "blitzmane",
+        "rockzilla",
+        "rockwu"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "frostique",
+        "seaswirl",
+        "sonarbat",
+        null,
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": ""
+  },
+  {
+    "source_message_id": "1550099519545286746",
+    "stage_start": 20,
+    "stage_end": 20,
+    "screenshot_displayed_stage": "47-21",
+    "screenshot_enemy_level": 1243,
+    "tatari_level": 984,
+    "credited_player_name": "foodpanda",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "hellhound",
+        "clangnaga",
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "charflutter",
+        "sonarbat",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        "flarevix",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        "silversear",
+        "voltmare:glitter",
+        null,
+        "solaflora"
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550118609982853231",
+    "stage_start": 21,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "47-25",
+    "screenshot_enemy_level": 1244,
+    "tatari_level": 984,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "blitzmane",
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "hellhound",
+        "rockwu",
+        "cheerspring",
+        "kitjitsu"
+      ],
+      [
+        "pandarrior",
+        "charflutter",
+        "hyphoria",
+        "sonarbat",
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550126642628661361",
+    "stage_start": 25,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "47-30",
+    "screenshot_enemy_level": 1246,
+    "tatari_level": 984,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "serrabloom:glitter",
+        "rockwu",
+        "blitzmane",
+        "voltverine"
+      ],
+      [
+        "armorjaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "sonarbat",
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550126728754757773",
+    "stage_start": 30,
+    "stage_end": 30,
+    "screenshot_displayed_stage": "47-31",
+    "screenshot_enemy_level": 1246,
+    "tatari_level": 984,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "voltverine",
+        "serrabloom:glitter",
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "rockwu"
+      ],
+      [
+        "solaflora",
+        "frugagon",
+        null,
+        "pandarrior",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550126901908078633",
+    "stage_start": 31,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "47-40",
+    "screenshot_enemy_level": 1249,
+    "tatari_level": 984,
+    "credited_player_name": "Bruno",
+    "capture_type": "reconstructed",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "voltverine",
+        "serrabloom:glitter",
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "rockwu"
+      ],
+      [
+        "solaflora",
+        "sonarbat",
+        null,
+        "pandarrior",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Author reports forgetting to capture the original lineup and reconstructing it later. Tatari level is from the later screenshot; the original clear level is unverified. Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550127106225340559",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "47-40",
+    "screenshot_enemy_level": 1249,
+    "tatari_level": 984,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "voltverine",
+        "capobeetle",
+        "clangnaga",
+        "serrabloom:glitter"
+      ],
+      [
+        "frostique",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "solaflora",
+        "sonarbat",
+        null,
+        "pandarrior",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550129718857306122",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "47-41",
+    "screenshot_enemy_level": 1249,
+    "tatari_level": 984,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "voltverine",
+        "serrabloom:glitter",
+        "voltmare:glitter",
+        "hellhound"
+      ],
+      [
+        "frostique",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "silversear",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "flarevix"
+      ],
+      [
+        null,
+        null,
+        null,
+        "solaflora",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550134415978537062",
+    "stage_start": 41,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "47-45",
+    "screenshot_enemy_level": 1251,
+    "tatari_level": 984,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "voltmare:glitter",
+        "serrabloom:glitter",
+        "voltverine",
+        "hellhound"
+      ],
+      [
+        "silversear",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        null,
+        "solaflora",
+        null,
+        "flarevix"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550134509565902908",
+    "stage_start": 45,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "47-50",
+    "screenshot_enemy_level": 1252,
+    "tatari_level": 984,
+    "credited_player_name": "Gallivant",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        "voltverine",
+        "blitzmane",
+        "serrabloom:glitter",
+        "armorjaw"
+      ],
+      [
+        "sonarbat",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapantler"
+      ],
+      [
+        "silversear",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora"
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550152696223240272",
+    "stage_start": 50,
+    "stage_end": 50,
+    "screenshot_displayed_stage": "47-51",
+    "screenshot_enemy_level": 1253,
+    "tatari_level": 984,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "blitzmane",
+        "voltverine",
+        "zapantler"
+      ],
+      [
+        null,
+        "charflutter",
+        "sonarbat",
+        "cheerspring",
+        null
+      ],
+      [
+        "silversear",
+        "voltmare:glitter",
+        "hyphoria",
+        "rockwu",
+        "clangnaga"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": ""
+  },
+  {
+    "source_message_id": "1550372465279111230",
+    "stage_start": 51,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "47-55",
+    "screenshot_enemy_level": 1254,
+    "tatari_level": 994,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        "voltverine",
+        "clangnaga"
+      ],
+      [
+        null,
+        "frostique",
+        "sonarbat",
+        "cheerspring",
+        "rockshell"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "rockwu",
+        null
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora",
+        null
+      ]
+    ],
+    "notes": ""
+  },
+  {
+    "source_message_id": "1550372676688674857",
+    "stage_start": 55,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "47-60",
+    "screenshot_enemy_level": 1256,
+    "tatari_level": 994,
+    "credited_player_name": "Di",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        "clangnaga",
+        "rockwu",
+        "rockzilla",
+        "serrabloom:glitter"
+      ],
+      [
+        "silversear",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "pandarrior"
+      ],
+      [
+        "sonarbat",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora"
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550372757626294304",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "47-61",
+    "screenshot_enemy_level": 1256,
+    "tatari_level": 994,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        null,
+        "serrabloom:glitter",
+        "rockwu",
+        "boldclaw"
+      ],
+      [
+        "dreadclaw",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        null,
+        "pandarrior",
+        "cluckeroo",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550372880770924614",
+    "stage_start": 61,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "47-65",
+    "screenshot_enemy_level": 1257,
+    "tatari_level": 994,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "frugagon",
+        null,
+        "serrabloom:glitter",
+        "dreadclaw"
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "pandarrior",
+        "solaflora",
+        "rockwu",
+        "seaswirl"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550373022152663091",
+    "stage_start": 65,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "47-70",
+    "screenshot_enemy_level": 1259,
+    "tatari_level": 994,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "clangnaga",
+        "rockwu",
+        "serrabloom:glitter",
+        "dreadclaw"
+      ],
+      [
+        "blitzmane",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapantler"
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550373104163885076",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "47-71",
+    "screenshot_enemy_level": 1259,
+    "tatari_level": 994,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "rockwu",
+        "voltmare:glitter",
+        "serrabloom:glitter",
+        "dreadclaw"
+      ],
+      [
+        "sonarbat",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "zapantler",
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550373340554723372",
+    "stage_start": 71,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "47-75",
+    "screenshot_enemy_level": 1261,
+    "tatari_level": 994,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "blitzmane",
+        "clangnaga",
+        "sonarbat",
+        "serrabloom:glitter",
+        "dreadclaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "zapantler",
+        "solaflora",
+        "voltmare:glitter",
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550377258873524304",
+    "stage_start": 75,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "48-5",
+    "screenshot_enemy_level": 1264,
+    "tatari_level": 996,
+    "credited_player_name": "Pika",
+    "capture_type": "reconstructed",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "hellhound",
+        "lickflicker",
+        "serrabloom:glitter"
+      ],
+      [
+        "voltverine",
+        "charflutter",
+        "solaflora",
+        "cheerspring",
+        "chronerva"
+      ],
+      [
+        "rockwu",
+        null,
+        "silversear",
+        "hyphoria",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Author reports forgetting to capture the original lineup and reconstructing it later. Tatari level is from the later screenshot; the original clear level is unverified. Author also says 'Toad isnt needed'; the photographed 15-unit formation is preserved without removing a unit. Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  },
+  {
+    "source_message_id": "1550377369171132486",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "48-1",
+    "screenshot_enemy_level": 1263,
+    "tatari_level": 994,
+    "credited_player_name": "Bruno",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "voltverine",
+        "serrabloom:glitter",
+        null
+      ],
+      [
+        null,
+        "frostique",
+        "sonarbat",
+        "cheerspring",
+        "hellhound"
+      ],
+      [
+        "rockwu",
+        "charflutter",
+        "voltmare:glitter",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Serrabloom glitter variant confirmed by purple wing markings and mint-green lower leaves against the planner glitter reference."
+  }
+]

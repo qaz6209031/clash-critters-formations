@@ -1,0 +1,1178 @@
+[
+  {
+    "source_message_id": "1548233013110771772",
+    "stage_start": 1,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "44-5",
+    "screenshot_enemy_level": 1157,
+    "tatari_level": 945,
+    "credited_player_name": "Izzys",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockzilla",
+        "blitzmane",
+        "serrabloom:glitter",
+        "armorjaw"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        "rockwu",
+        "voltmare:glitter",
+        null,
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548252571414569031",
+    "stage_start": 5,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "44-10",
+    "screenshot_enemy_level": 1159,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        "rockwu",
+        "serrabloom:glitter",
+        "pyroclobster"
+      ],
+      [
+        "armorjaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "clangnaga",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548252633737724047",
+    "stage_start": 10,
+    "stage_end": 10,
+    "screenshot_displayed_stage": "44-11",
+    "screenshot_enemy_level": 1159,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        "serrabloom:glitter",
+        null,
+        null,
+        null
+      ],
+      [
+        "frugagon",
+        "cheerspring",
+        "pyroclobster",
+        "pandarrior",
+        null
+      ],
+      [
+        "silversear",
+        "rockwu",
+        "hyphoria",
+        "charflutter",
+        "voltverine"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora"
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548252733901901917",
+    "stage_start": 11,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "44-15",
+    "screenshot_enemy_level": 1161,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "hellhound",
+        null,
+        null
+      ],
+      [
+        "pandarrior",
+        "rockwu",
+        "sonarbat",
+        "serrabloom:glitter",
+        "blitzmane"
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapantler"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "cluckeroo",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548252800113315890",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "44-20",
+    "screenshot_enemy_level": 1162,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "serrabloom:glitter",
+        null,
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        "cheerspring",
+        "hellhound",
+        null,
+        null
+      ],
+      [
+        "clangnaga",
+        null,
+        "hyphoria",
+        "dreadclaw",
+        "frostique"
+      ],
+      [
+        "solaflora",
+        null,
+        "silversear",
+        "charflutter",
+        "seaswirl"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548252926609199145",
+    "stage_start": 20,
+    "stage_end": 20,
+    "screenshot_displayed_stage": "44-21",
+    "screenshot_enemy_level": 1163,
+    "tatari_level": 946,
+    "credited_player_name": "Goofylight041s",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "blitzmane",
+        "voltverine"
+      ],
+      [
+        "capypapa",
+        null,
+        "solaflora",
+        "cheerspring",
+        "seaswirl"
+      ],
+      [
+        "rockwu",
+        "charflutter",
+        "hyphoria",
+        "pandarrior",
+        "silversear"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548252978870222858",
+    "stage_start": 21,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "44-25",
+    "screenshot_enemy_level": 1164,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "hellhound",
+        "serrabloom:glitter",
+        "voltverine",
+        "blitzmane"
+      ],
+      [
+        "armorjaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapantler"
+      ],
+      [
+        "seaswirl",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique"
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548253031370326046",
+    "stage_start": 25,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "44-30",
+    "screenshot_enemy_level": 1166,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        "serrabloom:glitter",
+        "hellhound",
+        null
+      ],
+      [
+        "armorjaw",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "voltverine"
+      ],
+      [
+        "seaswirl",
+        null,
+        "rockwu",
+        null,
+        "voltmare:glitter"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548253090400968704",
+    "stage_start": 30,
+    "stage_end": 30,
+    "screenshot_displayed_stage": "44-31",
+    "screenshot_enemy_level": 1166,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "frostique",
+        "rockzilla",
+        "blitzmane",
+        null
+      ],
+      [
+        "armorjaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "rockshell"
+      ],
+      [
+        "silversear",
+        null,
+        "clangnaga",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548253258643021844",
+    "stage_start": 31,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "44-35",
+    "screenshot_enemy_level": 1167,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        null,
+        "clangnaga",
+        "blitzmane",
+        "rockzilla"
+      ],
+      [
+        "armorjaw",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "rockshell"
+      ],
+      [
+        "silversear",
+        "frostique",
+        null,
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548253298329395250",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "44-40",
+    "screenshot_enemy_level": 1169,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        null,
+        "rockwu",
+        "serrabloom:glitter",
+        "dreadclaw"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "armorjaw"
+      ],
+      [
+        "frostique",
+        null,
+        null,
+        "silversear",
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548253418534076456",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "44-41",
+    "screenshot_enemy_level": 1169,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "hellhound",
+        "dreadclaw",
+        "blitzmane",
+        "capypapa",
+        "serrabloom:glitter"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        "seaswirl",
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548254711684010044",
+    "stage_start": 41,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "44-45",
+    "screenshot_enemy_level": 1171,
+    "tatari_level": 946,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "voltverine",
+        "hellhound",
+        "blitzmane",
+        "frugagon",
+        "serrabloom:glitter"
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "pandarrior"
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620023248199720",
+    "stage_start": 45,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "44-50",
+    "screenshot_enemy_level": 1172,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "hellhound",
+        "blitzmane",
+        "frugagon",
+        "serrabloom:glitter"
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "pandarrior"
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620087538487317",
+    "stage_start": 50,
+    "stage_end": 50,
+    "screenshot_displayed_stage": "44-51",
+    "screenshot_enemy_level": 1173,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "serrabloom:glitter",
+        null,
+        "blitzmane",
+        "sonarbat",
+        "hellhound"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "seaswirl"
+      ],
+      [
+        null,
+        "solaflora",
+        "frostique",
+        null,
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620127883239466",
+    "stage_start": 51,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "44-55",
+    "screenshot_enemy_level": 1174,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "capobeetle",
+        "serrabloom:glitter",
+        "sonarbat",
+        "blitzmane",
+        "hellhound"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "seaswirl"
+      ],
+      [
+        "solaflora",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620257718042685",
+    "stage_start": 55,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "44-60",
+    "screenshot_enemy_level": 1176,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        "serrabloom:glitter",
+        "voltverine",
+        "capobeetle"
+      ],
+      [
+        "seaswirl",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620382926544896",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "44-61",
+    "screenshot_enemy_level": 1176,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "hellhound",
+        "blitzmane",
+        "rockzilla",
+        null
+      ],
+      [
+        "voltverine",
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "hyphoria",
+        "voltmare:glitter",
+        "rockwu",
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620447124299828",
+    "stage_start": 61,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "44-65",
+    "screenshot_enemy_level": 1177,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "hellhound",
+        "frostique",
+        "blitzmane",
+        "rockwu"
+      ],
+      [
+        "voltverine",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "voltmare:glitter",
+        null,
+        "sonarbat",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620540279787620",
+    "stage_start": 65,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "44-70",
+    "screenshot_enemy_level": 1179,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "voltverine",
+        "serrabloom:glitter",
+        "dreadclaw",
+        "blitzmane"
+      ],
+      [
+        "capypapa",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "solaflora",
+        "sonarbat",
+        null,
+        "seaswirl"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620654008606740",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "44-71",
+    "screenshot_enemy_level": 1179,
+    "tatari_level": 947,
+    "credited_player_name": "ARSEMIC.33s",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "rockwu",
+        "hellhound",
+        "serrabloom:glitter",
+        "capobeetle",
+        "pandarrior"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zapantler"
+      ],
+      [
+        "solaflora",
+        null,
+        null,
+        null,
+        "cactoczar"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620741279354930",
+    "stage_start": 71,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "44-75",
+    "screenshot_enemy_level": 1181,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "blitzmane",
+        "hellhound",
+        "pandarrior",
+        "serrabloom:glitter",
+        "voltverine"
+      ],
+      [
+        "rockwu",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zapantler"
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620787483676732",
+    "stage_start": 75,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "44-80",
+    "screenshot_enemy_level": 1182,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        "rockwu",
+        "serrabloom:glitter",
+        "hellhound"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        "frostique",
+        null,
+        "sonarbat",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": ""
+  },
+  {
+    "source_message_id": "1548620841195929652",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "45-1",
+    "screenshot_enemy_level": 1183,
+    "tatari_level": 947,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "voltverine",
+        "blitzmane",
+        "solaflora",
+        "clangnaga"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "rockshell"
+      ],
+      [
+        null,
+        "sonarbat",
+        "voltmare:glitter",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact screenshot forms and placements were visually matched to the planner catalog. A following author comment says some formations were adjusted without identifying which; caption credits are preserved as written and remain unverified. Context message: https://discord.com/channels/1343763804349267989/1545053459869339698/1548620920719941754"
+  }
+]

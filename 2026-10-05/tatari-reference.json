@@ -1,0 +1,3400 @@
+{
+  "source_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/",
+  "source_version": "1.9.7",
+  "source_data_date": "2026-09-22",
+  "catalog_sha256": "6065618894aee4bf4b93fe892d4c9fae2b5333d443b03b68bd3d79b1890d3995",
+  "observed_at": "2026-10-05T23:08:36.558605Z",
+  "authority": "User-provided fan planner reference; names and tiers follow this catalog.",
+  "families": [
+    {
+      "family_id": "zapup",
+      "family_name": "Zapup",
+      "reference_family_id": 0,
+      "forms": {
+        "T1": "zapup",
+        "T2": "zapooch",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "clucky",
+      "family_name": "Clucky",
+      "reference_family_id": 1,
+      "forms": {
+        "T1": "clucky",
+        "T2": "cluckeroo",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "cindermunk",
+      "family_name": "Cindermunk",
+      "reference_family_id": 2,
+      "forms": {
+        "T1": "cindermunk",
+        "T2": "embertail",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "shellshy",
+      "family_name": "Shellshy",
+      "reference_family_id": 3,
+      "forms": {
+        "T1": "shellshy",
+        "T2": "boldclaw",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "capywata",
+      "family_name": "Capywata",
+      "reference_family_id": 4,
+      "forms": {
+        "T1": "capywata",
+        "T2": "capypapa",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "sparkrow",
+      "family_name": "Sparkrow",
+      "reference_family_id": 5,
+      "forms": {
+        "T1": "sparkrow",
+        "T2": "scorchwing",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "solpear",
+      "family_name": "Solpear",
+      "reference_family_id": 6,
+      "forms": {
+        "T1": "solpear",
+        "T2": "pearpair",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "mudrump",
+      "family_name": "Mudrump",
+      "reference_family_id": 7,
+      "forms": {
+        "T1": "mudrump",
+        "T2": "rockhog",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "wobbler",
+      "family_name": "Wobbler",
+      "reference_family_id": 8,
+      "forms": {
+        "T1": "wobbler",
+        "T2": "boltskipper",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "dozy",
+      "family_name": "Dozy",
+      "reference_family_id": 9,
+      "forms": {
+        "T1": "dozy",
+        "T2": "snoozebo",
+        "T3": null,
+        "T4": null
+      }
+    },
+    {
+      "family_id": "frostnip",
+      "family_name": "Frostnip",
+      "reference_family_id": 10,
+      "forms": {
+        "T1": "frostnip",
+        "T2": "frostpaw",
+        "T3": "frostique",
+        "T4": "frostluna"
+      }
+    },
+    {
+      "family_id": "pyropup",
+      "family_name": "Pyropup",
+      "reference_family_id": 11,
+      "forms": {
+        "T1": "pyropup",
+        "T2": "pyrohound",
+        "T3": "hellhound",
+        "T4": "pyrodaemon"
+      }
+    },
+    {
+      "family_id": "frugling",
+      "family_name": "Frugling",
+      "reference_family_id": 12,
+      "forms": {
+        "T1": "frugling",
+        "T2": "frugatoad",
+        "T3": "frugagon",
+        "T4": "frugantuan"
+      }
+    },
+    {
+      "family_id": "rubblet",
+      "family_name": "Rubblet",
+      "reference_family_id": 13,
+      "forms": {
+        "T1": "rubblet",
+        "T2": "cobbledon",
+        "T3": "rockzilla",
+        "T4": "meteorax"
+      }
+    },
+    {
+      "family_id": "zappur",
+      "family_name": "Zappur",
+      "reference_family_id": 14,
+      "forms": {
+        "T1": "zappur",
+        "T2": "electroar",
+        "T3": "blitzmane",
+        "T4": "stormlion"
+      }
+    },
+    {
+      "family_id": "sealing",
+      "family_name": "Sealing",
+      "reference_family_id": 15,
+      "forms": {
+        "T1": "sealing",
+        "T2": "sealoon",
+        "T3": "seaswirl",
+        "T4": "sealord"
+      }
+    },
+    {
+      "family_id": "blueflick",
+      "family_name": "Blueflick",
+      "reference_family_id": 16,
+      "forms": {
+        "T1": "blueflick",
+        "T2": "ignisnap",
+        "T3": "azurion",
+        "T4": "newflamander"
+      }
+    },
+    {
+      "family_id": "manteeny",
+      "family_name": "Manteeny",
+      "reference_family_id": 17,
+      "forms": {
+        "T1": "manteeny",
+        "T2": "stalkerix",
+        "T3": "serrabloom",
+        "T4": "orchitoria"
+      }
+    },
+    {
+      "family_id": "gibber",
+      "family_name": "Gibber",
+      "reference_family_id": 18,
+      "forms": {
+        "T1": "gibber",
+        "T2": "turtuff",
+        "T3": "rockshell",
+        "T4": "terraton"
+      }
+    },
+    {
+      "family_id": "voltfawn",
+      "family_name": "Voltfawn",
+      "reference_family_id": 19,
+      "forms": {
+        "T1": "voltfawn",
+        "T2": "sparkdoe",
+        "T3": "zapantler",
+        "T4": "magnedart"
+      }
+    },
+    {
+      "family_id": "droppit",
+      "family_name": "Droppit",
+      "reference_family_id": 20,
+      "forms": {
+        "T1": "droppit",
+        "T2": "bubbit",
+        "T3": "tideon",
+        "T4": "haplysia"
+      }
+    },
+    {
+      "family_id": "sparkit",
+      "family_name": "Sparkit",
+      "reference_family_id": 21,
+      "forms": {
+        "T1": "sparkit",
+        "T2": "firefox",
+        "T3": "flarevix",
+        "T4": "phantifox"
+      }
+    },
+    {
+      "family_id": "goonbug",
+      "family_name": "Goonbug",
+      "reference_family_id": 22,
+      "forms": {
+        "T1": "goonbug",
+        "T2": "capobeetle",
+        "T3": "donscarab",
+        "T4": "beetleknight"
+      }
+    },
+    {
+      "family_id": "punchimp",
+      "family_name": "Punchimp",
+      "reference_family_id": 23,
+      "forms": {
+        "T1": "punchimp",
+        "T2": "rockfu",
+        "T3": "rockwu",
+        "T4": "rockong"
+      }
+    },
+    {
+      "family_id": "voltkit",
+      "family_name": "Voltkit",
+      "reference_family_id": 24,
+      "forms": {
+        "T1": "voltkit",
+        "T2": "voltling",
+        "T3": "voltverine",
+        "T4": "voltreaver"
+      }
+    },
+    {
+      "family_id": "waddledo",
+      "family_name": "Waddledo",
+      "reference_family_id": 25,
+      "forms": {
+        "T1": "waddledo",
+        "T2": "swaystroll",
+        "T3": "stoodbeak",
+        "T4": "glideflip"
+      }
+    },
+    {
+      "family_id": "zapuni",
+      "family_name": "Zapuni",
+      "reference_family_id": 26,
+      "forms": {
+        "T1": "zapuni",
+        "T2": "surgehoof",
+        "T3": "voltmare",
+        "T4": "boltallion"
+      }
+    },
+    {
+      "family_id": "gopher",
+      "family_name": "Gopher",
+      "reference_family_id": 27,
+      "forms": {
+        "T1": "gopher",
+        "T2": "watchroo",
+        "T3": "bastogard",
+        "T4": "cratzar"
+      }
+    },
+    {
+      "family_id": "ashlarva",
+      "family_name": "Ashlarva",
+      "reference_family_id": 28,
+      "forms": {
+        "T1": "ashlarva",
+        "T2": "firecoil",
+        "T3": "charflutter",
+        "T4": "chrysolaria"
+      }
+    },
+    {
+      "family_id": "pandaroo",
+      "family_name": "Pandaroo",
+      "reference_family_id": 29,
+      "forms": {
+        "T1": "pandaroo",
+        "T2": "pandaroot",
+        "T3": "pandarrior",
+        "T4": "pandagrand"
+      }
+    },
+    {
+      "family_id": "cribbler",
+      "family_name": "Cribbler",
+      "reference_family_id": 30,
+      "forms": {
+        "T1": "cribbler",
+        "T2": "clawzor",
+        "T3": "dreadclaw",
+        "T4": "cribking"
+      }
+    },
+    {
+      "family_id": "shrimpyro",
+      "family_name": "Shrimpyro",
+      "reference_family_id": 31,
+      "forms": {
+        "T1": "shrimpyro",
+        "T2": "pyroprawn",
+        "T3": "pyroclobster",
+        "T4": "pyroviathan"
+      }
+    },
+    {
+      "family_id": "buddi",
+      "family_name": "Buddi",
+      "reference_family_id": 32,
+      "forms": {
+        "T1": "buddi",
+        "T2": "sunfleur",
+        "T3": "solaflora",
+        "T4": "heliabloom"
+      }
+    },
+    {
+      "family_id": "joeyo",
+      "family_name": "Joeyo",
+      "reference_family_id": 33,
+      "forms": {
+        "T1": "joeyo",
+        "T2": "puncharoo",
+        "T3": "kangachamp",
+        "T4": "kaiseroo"
+      }
+    },
+    {
+      "family_id": "sparkeet",
+      "family_name": "Sparkeet",
+      "reference_family_id": 34,
+      "forms": {
+        "T1": "sparkeet",
+        "T2": "buzzbeak",
+        "T3": "toucanzam",
+        "T4": "technocan"
+      }
+    },
+    {
+      "family_id": "sackling",
+      "family_name": "Sackling",
+      "reference_family_id": 35,
+      "forms": {
+        "T1": "sackling",
+        "T2": "jarachnid",
+        "T3": "terracrawler",
+        "T4": "weaverfang"
+      }
+    },
+    {
+      "family_id": "skinklet",
+      "family_name": "Skinklet",
+      "reference_family_id": 36,
+      "forms": {
+        "T1": "skinklet",
+        "T2": "skinkoon",
+        "T3": "ninjaguana",
+        "T4": "hychroma"
+      }
+    },
+    {
+      "family_id": "souphog",
+      "family_name": "Souphog",
+      "reference_family_id": 37,
+      "forms": {
+        "T1": "souphog",
+        "T2": "grillhog",
+        "T3": "hothog",
+        "T4": "searhog"
+      }
+    },
+    {
+      "family_id": "shardsnail",
+      "family_name": "Shardsnail",
+      "reference_family_id": 38,
+      "forms": {
+        "T1": "shardsnail",
+        "T2": "gemsnail",
+        "T3": "jewelsnail",
+        "T4": "crystalsnail"
+      }
+    },
+    {
+      "family_id": "cheerling",
+      "family_name": "Cheerling",
+      "reference_family_id": 39,
+      "forms": {
+        "T1": "cheerling",
+        "T2": "cheerlet",
+        "T3": "cheerspring",
+        "T4": "cheerstella"
+      }
+    },
+    {
+      "family_id": "cactobud",
+      "family_name": "Cactobud",
+      "reference_family_id": 40,
+      "forms": {
+        "T1": "cactobud",
+        "T2": "cactobloom",
+        "T3": "cactoczar",
+        "T4": null
+      }
+    },
+    {
+      "family_id": "lullelly",
+      "family_name": "Lullelly",
+      "reference_family_id": 41,
+      "forms": {
+        "T1": "lullelly",
+        "T2": "yawnelly",
+        "T3": "souverelle",
+        "T4": "somnrayna"
+      }
+    },
+    {
+      "family_id": "tindercub",
+      "family_name": "Tindercub",
+      "reference_family_id": 42,
+      "forms": {
+        "T1": "tindercub",
+        "T2": "kitjitsu",
+        "T3": "taiglow",
+        "T4": "saberheart"
+      }
+    },
+    {
+      "family_id": "humbug",
+      "family_name": "Humbug",
+      "reference_family_id": 43,
+      "forms": {
+        "T1": "humbug",
+        "T2": "humbleetle",
+        "T3": "zenscarab",
+        "T4": "hierotyrus"
+      }
+    },
+    {
+      "family_id": "fluffle",
+      "family_name": "Fluffle",
+      "reference_family_id": 44,
+      "forms": {
+        "T1": "fluffle",
+        "T2": "nimbuzzy",
+        "T3": "galewether",
+        "T4": "cosmoram"
+      }
+    },
+    {
+      "family_id": "funglet",
+      "family_name": "Funglet",
+      "reference_family_id": 45,
+      "forms": {
+        "T1": "funglet",
+        "T2": "trippet",
+        "T3": "hyphoria",
+        "T4": "ecstamira"
+      }
+    },
+    {
+      "family_id": "dewgrub",
+      "family_name": "Dewgrub",
+      "reference_family_id": 46,
+      "forms": {
+        "T1": "dewgrub",
+        "T2": "ripplewing",
+        "T3": "waveflutter",
+        "T4": "morphanessa"
+      }
+    },
+    {
+      "family_id": "fumekit",
+      "family_name": "Fumekit",
+      "reference_family_id": 47,
+      "forms": {
+        "T1": "fumekit",
+        "T2": "sulfunk",
+        "T3": "magmusk",
+        "T4": "blastniff"
+      }
+    },
+    {
+      "family_id": "taptail",
+      "family_name": "Taptail",
+      "reference_family_id": 48,
+      "forms": {
+        "T1": "taptail",
+        "T2": "rattlecoil",
+        "T3": "clangnaga",
+        "T4": "dharmadder"
+      }
+    },
+    {
+      "family_id": "kittazap",
+      "family_name": "Kittazap",
+      "reference_family_id": 49,
+      "forms": {
+        "T1": "kittazap",
+        "T2": "nekowatt",
+        "T3": "voltazar",
+        "T4": "thunderpaw"
+      }
+    },
+    {
+      "family_id": "lollama",
+      "family_name": "Lollama",
+      "reference_family_id": 50,
+      "forms": {
+        "T1": "lollama",
+        "T2": "slobberlama",
+        "T3": "ptooielama",
+        "T4": "blechlama"
+      }
+    },
+    {
+      "family_id": "dumbopus",
+      "family_name": "Dumbopus",
+      "reference_family_id": 51,
+      "forms": {
+        "T1": "dumbopus",
+        "T2": "dazopus",
+        "T3": "fishopus",
+        "T4": "lordopus"
+      }
+    },
+    {
+      "family_id": "flameow",
+      "family_name": "Flameow",
+      "reference_family_id": 52,
+      "forms": {
+        "T1": "flameow",
+        "T2": "nekoflare",
+        "T3": "silversear",
+        "T4": "cinderclaw"
+      }
+    },
+    {
+      "family_id": "drilleroo",
+      "family_name": "Drilleroo",
+      "reference_family_id": 53,
+      "forms": {
+        "T1": "drilleroo",
+        "T2": "cragolin",
+        "T3": "borelord",
+        "T4": null
+      }
+    },
+    {
+      "family_id": "zaplet",
+      "family_name": "Zaplet",
+      "reference_family_id": 54,
+      "forms": {
+        "T1": "zaplet",
+        "T2": "synthhog",
+        "T3": "sonarbat",
+        "T4": "umbraveil"
+      }
+    },
+    {
+      "family_id": "maskfry",
+      "family_name": "Maskfry",
+      "reference_family_id": 55,
+      "forms": {
+        "T1": "maskfry",
+        "T2": "ospisces",
+        "T3": "armorjaw",
+        "T4": "dagondeep"
+      }
+    },
+    {
+      "family_id": "hootlet",
+      "family_name": "Hootlet",
+      "reference_family_id": 56,
+      "forms": {
+        "T1": "hootlet",
+        "T2": "tikowl",
+        "T3": "chronerva",
+        "T4": "hypnostrix"
+      }
+    },
+    {
+      "family_id": "momopo",
+      "family_name": "Momopo",
+      "reference_family_id": 57,
+      "forms": {
+        "T1": "momopo",
+        "T2": "lulupo",
+        "T3": "lilypo",
+        "T4": "gemmapo"
+      }
+    },
+    {
+      "family_id": "blowfin",
+      "family_name": "Blowfin",
+      "reference_family_id": 58,
+      "forms": {
+        "T1": "blowfin",
+        "T2": "puffbelly",
+        "T3": "chefugu",
+        "T4": "pyromaki"
+      }
+    },
+    {
+      "family_id": "glowfly",
+      "family_name": "Glowfly",
+      "reference_family_id": 59,
+      "forms": {
+        "T1": "glowfly",
+        "T2": "phosflare",
+        "T3": "glimmerwing",
+        "T4": "luminastra"
+      }
+    },
+    {
+      "family_id": "poakie",
+      "family_name": "Poakie",
+      "reference_family_id": 60,
+      "forms": {
+        "T1": "poakie",
+        "T2": "sizzribb",
+        "T3": "lickflicker",
+        "T4": "ignitoad"
+      }
+    },
+    {
+      "family_id": "budboo",
+      "family_name": "Budboo",
+      "reference_family_id": 61,
+      "forms": {
+        "T1": "budboo",
+        "T2": "snapshade",
+        "T3": "thornwisp",
+        "T4": "chomperwraith"
+      }
+    },
+    {
+      "family_id": "cavyzap",
+      "family_name": "Cavyzap",
+      "reference_family_id": 62,
+      "forms": {
+        "T1": "cavyzap",
+        "T2": "hippiehog",
+        "T3": "wheekroller",
+        "T4": "gigagnash"
+      }
+    },
+    {
+      "family_id": "snowcub",
+      "family_name": "Snowcub",
+      "reference_family_id": 63,
+      "forms": {
+        "T1": "snowcub",
+        "T2": "polarpaw",
+        "T3": "blizzgrizz",
+        "T4": "anglerbear"
+      }
+    },
+    {
+      "family_id": "ringtail",
+      "family_name": "Ringtail",
+      "reference_family_id": 64,
+      "forms": {
+        "T1": "ringtail",
+        "T2": "rizzler",
+        "T3": "zorrock",
+        "T4": "phantothief"
+      }
+    },
+    {
+      "family_id": "dolphie",
+      "family_name": "Dolphie",
+      "reference_family_id": 65,
+      "forms": {
+        "T1": "dolphie",
+        "T2": "blubbles",
+        "T3": "aquariel",
+        "T4": "irisia"
+      }
+    }
+  ],
+  "forms": [
+    {
+      "form_id": "zapup",
+      "name": "Zapup",
+      "family_id": "zapup",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zapup.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapup.png"
+    },
+    {
+      "form_id": "zapooch",
+      "name": "Zapooch",
+      "family_id": "zapup",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zapooch.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapooch.png"
+    },
+    {
+      "form_id": "clucky",
+      "name": "Clucky",
+      "family_id": "clucky",
+      "tier": 1,
+      "element": "Grass",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/clucky.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/clucky.png"
+    },
+    {
+      "form_id": "cluckeroo",
+      "name": "Cluckeroo",
+      "family_id": "clucky",
+      "tier": 2,
+      "element": "Grass",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cluckeroo.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cluckeroo.png"
+    },
+    {
+      "form_id": "cindermunk",
+      "name": "Cindermunk",
+      "family_id": "cindermunk",
+      "tier": 1,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cindermunk.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cindermunk.png"
+    },
+    {
+      "form_id": "embertail",
+      "name": "Embertail",
+      "family_id": "cindermunk",
+      "tier": 2,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/embertail.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/embertail.png"
+    },
+    {
+      "form_id": "shellshy",
+      "name": "Shellshy",
+      "family_id": "shellshy",
+      "tier": 1,
+      "element": "Water",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/shellshy.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/shellshy.png"
+    },
+    {
+      "form_id": "boldclaw",
+      "name": "Boldclaw",
+      "family_id": "shellshy",
+      "tier": 2,
+      "element": "Water",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/boldclaw.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/boldclaw.png"
+    },
+    {
+      "form_id": "capywata",
+      "name": "Capywata",
+      "family_id": "capywata",
+      "tier": 1,
+      "element": "Water",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/capywata.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/capywata.png"
+    },
+    {
+      "form_id": "capypapa",
+      "name": "Capypapa",
+      "family_id": "capywata",
+      "tier": 2,
+      "element": "Water",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/capypapa.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/capypapa.png"
+    },
+    {
+      "form_id": "sparkrow",
+      "name": "Sparkrow",
+      "family_id": "sparkrow",
+      "tier": 1,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sparkrow.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkrow.png"
+    },
+    {
+      "form_id": "scorchwing",
+      "name": "Scorchwing",
+      "family_id": "sparkrow",
+      "tier": 2,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/scorchwing.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/scorchwing.png"
+    },
+    {
+      "form_id": "solpear",
+      "name": "Solpear",
+      "family_id": "solpear",
+      "tier": 1,
+      "element": "Grass",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/solpear.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/solpear.png"
+    },
+    {
+      "form_id": "pearpair",
+      "name": "Pearpair",
+      "family_id": "solpear",
+      "tier": 2,
+      "element": "Grass",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pearpair.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pearpair.png"
+    },
+    {
+      "form_id": "mudrump",
+      "name": "Mudrump",
+      "family_id": "mudrump",
+      "tier": 1,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/mudrump.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/mudrump.png"
+    },
+    {
+      "form_id": "rockhog",
+      "name": "Rockhog",
+      "family_id": "mudrump",
+      "tier": 2,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockhog.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockhog.png"
+    },
+    {
+      "form_id": "wobbler",
+      "name": "Wobbler",
+      "family_id": "wobbler",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/wobbler.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/wobbler.png"
+    },
+    {
+      "form_id": "boltskipper",
+      "name": "Boltskipper",
+      "family_id": "wobbler",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/boltskipper.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/boltskipper.png"
+    },
+    {
+      "form_id": "dozy",
+      "name": "Dozy",
+      "family_id": "dozy",
+      "tier": 1,
+      "element": "Rock",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dozy.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dozy.png"
+    },
+    {
+      "form_id": "snoozebo",
+      "name": "Snoozebo",
+      "family_id": "dozy",
+      "tier": 2,
+      "element": "Rock",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/snoozebo.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/snoozebo.png"
+    },
+    {
+      "form_id": "frostnip",
+      "name": "Frostnip",
+      "family_id": "frostnip",
+      "tier": 1,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frostnip.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frostnip.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostnip.png"
+    },
+    {
+      "form_id": "frostpaw",
+      "name": "Frostpaw",
+      "family_id": "frostnip",
+      "tier": 2,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frostpaw.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frostpaw.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostpaw.png"
+    },
+    {
+      "form_id": "frostique",
+      "name": "Frostique",
+      "family_id": "frostnip",
+      "tier": 3,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frostique.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frostique.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostique.png"
+    },
+    {
+      "form_id": "frostluna",
+      "name": "Frostluna",
+      "family_id": "frostnip",
+      "tier": 4,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frostluna.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frostluna.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostluna.png"
+    },
+    {
+      "form_id": "pyropup",
+      "name": "Pyropup",
+      "family_id": "pyropup",
+      "tier": 1,
+      "element": "Fire",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyropup.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyropup.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyropup.png"
+    },
+    {
+      "form_id": "pyrohound",
+      "name": "Pyrohound",
+      "family_id": "pyropup",
+      "tier": 2,
+      "element": "Fire",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyrohound.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyrohound.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyrohound.png"
+    },
+    {
+      "form_id": "hellhound",
+      "name": "Hellhound",
+      "family_id": "pyropup",
+      "tier": 3,
+      "element": "Fire",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hellhound.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hellhound.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hellhound.png"
+    },
+    {
+      "form_id": "pyrodaemon",
+      "name": "Pyrodaemon",
+      "family_id": "pyropup",
+      "tier": 4,
+      "element": "Fire",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyrodaemon.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyrodaemon.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyrodaemon.png"
+    },
+    {
+      "form_id": "frugling",
+      "name": "Frugling",
+      "family_id": "frugling",
+      "tier": 1,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frugling.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frugling.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugling.png"
+    },
+    {
+      "form_id": "frugatoad",
+      "name": "Frugatoad",
+      "family_id": "frugling",
+      "tier": 2,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frugatoad.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frugatoad.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugatoad.png"
+    },
+    {
+      "form_id": "frugagon",
+      "name": "Frugagon",
+      "family_id": "frugling",
+      "tier": 3,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frugagon.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frugagon.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugagon.png"
+    },
+    {
+      "form_id": "frugantuan",
+      "name": "Frugantuan",
+      "family_id": "frugling",
+      "tier": 4,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frugantuan.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frugantuan.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugantuan.png"
+    },
+    {
+      "form_id": "rubblet",
+      "name": "Rubblet",
+      "family_id": "rubblet",
+      "tier": 1,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rubblet.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rubblet.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rubblet.png"
+    },
+    {
+      "form_id": "cobbledon",
+      "name": "Cobbledon",
+      "family_id": "rubblet",
+      "tier": 2,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cobbledon.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cobbledon.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cobbledon.png"
+    },
+    {
+      "form_id": "rockzilla",
+      "name": "Rockzilla",
+      "family_id": "rubblet",
+      "tier": 3,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockzilla.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockzilla.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockzilla.png"
+    },
+    {
+      "form_id": "meteorax",
+      "name": "Meteorax",
+      "family_id": "rubblet",
+      "tier": 4,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/meteorax.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/meteorax.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/meteorax.png"
+    },
+    {
+      "form_id": "zappur",
+      "name": "Zappur",
+      "family_id": "zappur",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zappur.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zappur.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zappur.png"
+    },
+    {
+      "form_id": "electroar",
+      "name": "Electroar",
+      "family_id": "zappur",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/electroar.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/electroar.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/electroar.png"
+    },
+    {
+      "form_id": "blitzmane",
+      "name": "Blitzmane",
+      "family_id": "zappur",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blitzmane.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blitzmane.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blitzmane.png"
+    },
+    {
+      "form_id": "stormlion",
+      "name": "Stormlion",
+      "family_id": "zappur",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/stormlion.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/stormlion.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/stormlion.png"
+    },
+    {
+      "form_id": "sealing",
+      "name": "Sealing",
+      "family_id": "sealing",
+      "tier": 1,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sealing.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sealing.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sealing.png"
+    },
+    {
+      "form_id": "sealoon",
+      "name": "Sealoon",
+      "family_id": "sealing",
+      "tier": 2,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sealoon.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sealoon.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sealoon.png"
+    },
+    {
+      "form_id": "seaswirl",
+      "name": "Seaswirl",
+      "family_id": "sealing",
+      "tier": 3,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/seaswirl.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/seaswirl.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/seaswirl.png"
+    },
+    {
+      "form_id": "sealord",
+      "name": "Sealord",
+      "family_id": "sealing",
+      "tier": 4,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sealord.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sealord.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sealord.png"
+    },
+    {
+      "form_id": "blueflick",
+      "name": "Blueflick",
+      "family_id": "blueflick",
+      "tier": 1,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blueflick.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blueflick.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blueflick.png"
+    },
+    {
+      "form_id": "ignisnap",
+      "name": "Ignisnap",
+      "family_id": "blueflick",
+      "tier": 2,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ignisnap.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ignisnap.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ignisnap.png"
+    },
+    {
+      "form_id": "azurion",
+      "name": "Azurion",
+      "family_id": "blueflick",
+      "tier": 3,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/azurion.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/azurion.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/azurion.png"
+    },
+    {
+      "form_id": "newflamander",
+      "name": "Newflamander",
+      "family_id": "blueflick",
+      "tier": 4,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/newflamander.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/newflamander.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/newflamander.png"
+    },
+    {
+      "form_id": "manteeny",
+      "name": "Manteeny",
+      "family_id": "manteeny",
+      "tier": 1,
+      "element": "Grass",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/manteeny.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/manteeny.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/manteeny.png"
+    },
+    {
+      "form_id": "stalkerix",
+      "name": "Stalkerix",
+      "family_id": "manteeny",
+      "tier": 2,
+      "element": "Grass",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/stalkerix.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/stalkerix.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/stalkerix.png"
+    },
+    {
+      "form_id": "serrabloom",
+      "name": "Serrabloom",
+      "family_id": "manteeny",
+      "tier": 3,
+      "element": "Grass",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/serrabloom.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/serrabloom.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/serrabloom.png"
+    },
+    {
+      "form_id": "orchitoria",
+      "name": "Orchitoria",
+      "family_id": "manteeny",
+      "tier": 4,
+      "element": "Grass",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/orchitoria.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/orchitoria.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/orchitoria.png"
+    },
+    {
+      "form_id": "gibber",
+      "name": "Gibber",
+      "family_id": "gibber",
+      "tier": 1,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gibber.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gibber.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gibber.png"
+    },
+    {
+      "form_id": "turtuff",
+      "name": "Turtuff",
+      "family_id": "gibber",
+      "tier": 2,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/turtuff.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/turtuff.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/turtuff.png"
+    },
+    {
+      "form_id": "rockshell",
+      "name": "Rockshell",
+      "family_id": "gibber",
+      "tier": 3,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockshell.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockshell.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockshell.png"
+    },
+    {
+      "form_id": "terraton",
+      "name": "Terraton",
+      "family_id": "gibber",
+      "tier": 4,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/terraton.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/terraton.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/terraton.png"
+    },
+    {
+      "form_id": "voltfawn",
+      "name": "Voltfawn",
+      "family_id": "voltfawn",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltfawn.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltfawn.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltfawn.png"
+    },
+    {
+      "form_id": "sparkdoe",
+      "name": "Sparkdoe",
+      "family_id": "voltfawn",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sparkdoe.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sparkdoe.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkdoe.png"
+    },
+    {
+      "form_id": "zapantler",
+      "name": "Zapantler",
+      "family_id": "voltfawn",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zapantler.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zapantler.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapantler.png"
+    },
+    {
+      "form_id": "magnedart",
+      "name": "Magnedart",
+      "family_id": "voltfawn",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/magnedart.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/magnedart.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/magnedart.png"
+    },
+    {
+      "form_id": "droppit",
+      "name": "Droppit",
+      "family_id": "droppit",
+      "tier": 1,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/droppit.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/droppit.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/droppit.png"
+    },
+    {
+      "form_id": "bubbit",
+      "name": "Bubbit",
+      "family_id": "droppit",
+      "tier": 2,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/bubbit.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/bubbit.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/bubbit.png"
+    },
+    {
+      "form_id": "tideon",
+      "name": "Tideon",
+      "family_id": "droppit",
+      "tier": 3,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/tideon.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/tideon.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/tideon.png"
+    },
+    {
+      "form_id": "haplysia",
+      "name": "Haplysia",
+      "family_id": "droppit",
+      "tier": 4,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/haplysia.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/haplysia.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/haplysia.png"
+    },
+    {
+      "form_id": "sparkit",
+      "name": "Sparkit",
+      "family_id": "sparkit",
+      "tier": 1,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sparkit.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sparkit.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkit.png"
+    },
+    {
+      "form_id": "firefox",
+      "name": "Firefox",
+      "family_id": "sparkit",
+      "tier": 2,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/firefox.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/firefox.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/firefox.png"
+    },
+    {
+      "form_id": "flarevix",
+      "name": "Flarevix",
+      "family_id": "sparkit",
+      "tier": 3,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/flarevix.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/flarevix.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/flarevix.png"
+    },
+    {
+      "form_id": "phantifox",
+      "name": "Phantifox",
+      "family_id": "sparkit",
+      "tier": 4,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/phantifox.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/phantifox.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/phantifox.png"
+    },
+    {
+      "form_id": "goonbug",
+      "name": "Goonbug",
+      "family_id": "goonbug",
+      "tier": 1,
+      "element": "Grass",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/goonbug.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/goonbug.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/goonbug.png"
+    },
+    {
+      "form_id": "capobeetle",
+      "name": "Capobeetle",
+      "family_id": "goonbug",
+      "tier": 2,
+      "element": "Grass",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/capobeetle.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/capobeetle.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/capobeetle.png"
+    },
+    {
+      "form_id": "donscarab",
+      "name": "Donscarab",
+      "family_id": "goonbug",
+      "tier": 3,
+      "element": "Grass",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/donscarab.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/donscarab.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/donscarab.png"
+    },
+    {
+      "form_id": "beetleknight",
+      "name": "Beetleknight",
+      "family_id": "goonbug",
+      "tier": 4,
+      "element": "Grass",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/beetleknight.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/beetleknight.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/beetleknight.png"
+    },
+    {
+      "form_id": "punchimp",
+      "name": "Punchimp",
+      "family_id": "punchimp",
+      "tier": 1,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/punchimp.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/punchimp.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/punchimp.png"
+    },
+    {
+      "form_id": "rockfu",
+      "name": "Rockfu",
+      "family_id": "punchimp",
+      "tier": 2,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockfu.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockfu.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockfu.png"
+    },
+    {
+      "form_id": "rockwu",
+      "name": "Rockwu",
+      "family_id": "punchimp",
+      "tier": 3,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockwu.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockwu.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockwu.png"
+    },
+    {
+      "form_id": "rockong",
+      "name": "Rockong",
+      "family_id": "punchimp",
+      "tier": 4,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockong.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockong.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockong.png"
+    },
+    {
+      "form_id": "voltkit",
+      "name": "Voltkit",
+      "family_id": "voltkit",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltkit.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltkit.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltkit.png"
+    },
+    {
+      "form_id": "voltling",
+      "name": "Voltling",
+      "family_id": "voltkit",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltling.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltling.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltling.png"
+    },
+    {
+      "form_id": "voltverine",
+      "name": "Voltverine",
+      "family_id": "voltkit",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltverine.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltverine.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltverine.png"
+    },
+    {
+      "form_id": "voltreaver",
+      "name": "Voltreaver",
+      "family_id": "voltkit",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltreaver.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltreaver.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltreaver.png"
+    },
+    {
+      "form_id": "waddledo",
+      "name": "Waddledo",
+      "family_id": "waddledo",
+      "tier": 1,
+      "element": "Water",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/waddledo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/waddledo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/waddledo.png"
+    },
+    {
+      "form_id": "swaystroll",
+      "name": "Swaystroll",
+      "family_id": "waddledo",
+      "tier": 2,
+      "element": "Water",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/swaystroll.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/swaystroll.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/swaystroll.png"
+    },
+    {
+      "form_id": "stoodbeak",
+      "name": "Stoodbeak",
+      "family_id": "waddledo",
+      "tier": 3,
+      "element": "Water",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/stoodbeak.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/stoodbeak.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/stoodbeak.png"
+    },
+    {
+      "form_id": "glideflip",
+      "name": "Glideflip",
+      "family_id": "waddledo",
+      "tier": 4,
+      "element": "Water",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/glideflip.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/glideflip.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/glideflip.png"
+    },
+    {
+      "form_id": "zapuni",
+      "name": "Zapuni",
+      "family_id": "zapuni",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zapuni.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zapuni.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapuni.png"
+    },
+    {
+      "form_id": "surgehoof",
+      "name": "Surgehoof",
+      "family_id": "zapuni",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/surgehoof.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/surgehoof.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/surgehoof.png"
+    },
+    {
+      "form_id": "voltmare",
+      "name": "Voltmare",
+      "family_id": "zapuni",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltmare.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltmare.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltmare.png"
+    },
+    {
+      "form_id": "boltallion",
+      "name": "Boltallion",
+      "family_id": "zapuni",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/boltallion.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/boltallion.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/boltallion.png"
+    },
+    {
+      "form_id": "gopher",
+      "name": "Gopher",
+      "family_id": "gopher",
+      "tier": 1,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gopher.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gopher.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gopher.png"
+    },
+    {
+      "form_id": "watchroo",
+      "name": "Watchroo",
+      "family_id": "gopher",
+      "tier": 2,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/watchroo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/watchroo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/watchroo.png"
+    },
+    {
+      "form_id": "bastogard",
+      "name": "Bastogard",
+      "family_id": "gopher",
+      "tier": 3,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/bastogard.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/bastogard.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/bastogard.png"
+    },
+    {
+      "form_id": "cratzar",
+      "name": "Cratzar",
+      "family_id": "gopher",
+      "tier": 4,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cratzar.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cratzar.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cratzar.png"
+    },
+    {
+      "form_id": "ashlarva",
+      "name": "Ashlarva",
+      "family_id": "ashlarva",
+      "tier": 1,
+      "element": "Fire",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ashlarva.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ashlarva.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ashlarva.png"
+    },
+    {
+      "form_id": "firecoil",
+      "name": "Firecoil",
+      "family_id": "ashlarva",
+      "tier": 2,
+      "element": "Fire",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/firecoil.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/firecoil.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/firecoil.png"
+    },
+    {
+      "form_id": "charflutter",
+      "name": "Charflutter",
+      "family_id": "ashlarva",
+      "tier": 3,
+      "element": "Fire",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/charflutter.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/charflutter.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/charflutter.png"
+    },
+    {
+      "form_id": "chrysolaria",
+      "name": "Chrysolaria",
+      "family_id": "ashlarva",
+      "tier": 4,
+      "element": "Fire",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/chrysolaria.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/chrysolaria.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chrysolaria.png"
+    },
+    {
+      "form_id": "pandaroo",
+      "name": "Pandaroo",
+      "family_id": "pandaroo",
+      "tier": 1,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pandaroo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pandaroo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandaroo.png"
+    },
+    {
+      "form_id": "pandaroot",
+      "name": "Pandaroot",
+      "family_id": "pandaroo",
+      "tier": 2,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pandaroot.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pandaroot.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandaroot.png"
+    },
+    {
+      "form_id": "pandarrior",
+      "name": "Pandarrior",
+      "family_id": "pandaroo",
+      "tier": 3,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pandarrior.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pandarrior.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandarrior.png"
+    },
+    {
+      "form_id": "pandagrand",
+      "name": "Pandagrand",
+      "family_id": "pandaroo",
+      "tier": 4,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pandagrand.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pandagrand.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandagrand.png"
+    },
+    {
+      "form_id": "cribbler",
+      "name": "Cribbler",
+      "family_id": "cribbler",
+      "tier": 1,
+      "element": "Water",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cribbler.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cribbler.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cribbler.png"
+    },
+    {
+      "form_id": "clawzor",
+      "name": "Clawzor",
+      "family_id": "cribbler",
+      "tier": 2,
+      "element": "Water",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/clawzor.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/clawzor.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/clawzor.png"
+    },
+    {
+      "form_id": "dreadclaw",
+      "name": "Dreadclaw",
+      "family_id": "cribbler",
+      "tier": 3,
+      "element": "Water",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dreadclaw.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dreadclaw.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dreadclaw.png"
+    },
+    {
+      "form_id": "cribking",
+      "name": "Cribking",
+      "family_id": "cribbler",
+      "tier": 4,
+      "element": "Water",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cribking.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cribking.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cribking.png"
+    },
+    {
+      "form_id": "shrimpyro",
+      "name": "Shrimpyro",
+      "family_id": "shrimpyro",
+      "tier": 1,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/shrimpyro.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/shrimpyro.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/shrimpyro.png"
+    },
+    {
+      "form_id": "pyroprawn",
+      "name": "Pyroprawn",
+      "family_id": "shrimpyro",
+      "tier": 2,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyroprawn.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyroprawn.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyroprawn.png"
+    },
+    {
+      "form_id": "pyroclobster",
+      "name": "Pyroclobster",
+      "family_id": "shrimpyro",
+      "tier": 3,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyroclobster.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyroclobster.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyroclobster.png"
+    },
+    {
+      "form_id": "pyroviathan",
+      "name": "Pyroviathan",
+      "family_id": "shrimpyro",
+      "tier": 4,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyroviathan.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyroviathan.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyroviathan.png"
+    },
+    {
+      "form_id": "buddi",
+      "name": "Buddi",
+      "family_id": "buddi",
+      "tier": 1,
+      "element": "Grass",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/buddi.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/buddi.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/buddi.png"
+    },
+    {
+      "form_id": "sunfleur",
+      "name": "Sunfleur",
+      "family_id": "buddi",
+      "tier": 2,
+      "element": "Grass",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sunfleur.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sunfleur.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sunfleur.png"
+    },
+    {
+      "form_id": "solaflora",
+      "name": "Solaflora",
+      "family_id": "buddi",
+      "tier": 3,
+      "element": "Grass",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/solaflora.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/solaflora.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/solaflora.png"
+    },
+    {
+      "form_id": "heliabloom",
+      "name": "Heliabloom",
+      "family_id": "buddi",
+      "tier": 4,
+      "element": "Grass",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/heliabloom.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/heliabloom.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/heliabloom.png"
+    },
+    {
+      "form_id": "joeyo",
+      "name": "Joeyo",
+      "family_id": "joeyo",
+      "tier": 1,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/joeyo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/joeyo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/joeyo.png"
+    },
+    {
+      "form_id": "puncharoo",
+      "name": "Puncharoo",
+      "family_id": "joeyo",
+      "tier": 2,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/puncharoo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/puncharoo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/puncharoo.png"
+    },
+    {
+      "form_id": "kangachamp",
+      "name": "Kangachamp",
+      "family_id": "joeyo",
+      "tier": 3,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/kangachamp.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/kangachamp.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kangachamp.png"
+    },
+    {
+      "form_id": "kaiseroo",
+      "name": "Kaiseroo",
+      "family_id": "joeyo",
+      "tier": 4,
+      "element": "Rock",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/kaiseroo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/kaiseroo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kaiseroo.png"
+    },
+    {
+      "form_id": "sparkeet",
+      "name": "Sparkeet",
+      "family_id": "sparkeet",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sparkeet.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sparkeet.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkeet.png"
+    },
+    {
+      "form_id": "buzzbeak",
+      "name": "Buzzbeak",
+      "family_id": "sparkeet",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/buzzbeak.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/buzzbeak.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/buzzbeak.png"
+    },
+    {
+      "form_id": "toucanzam",
+      "name": "Toucanzam",
+      "family_id": "sparkeet",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/toucanzam.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/toucanzam.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/toucanzam.png"
+    },
+    {
+      "form_id": "technocan",
+      "name": "Technocan",
+      "family_id": "sparkeet",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/technocan.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/technocan.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/technocan.png"
+    },
+    {
+      "form_id": "sackling",
+      "name": "Sackling",
+      "family_id": "sackling",
+      "tier": 1,
+      "element": "Grass",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sackling.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sackling.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sackling.png"
+    },
+    {
+      "form_id": "jarachnid",
+      "name": "Jarachnid",
+      "family_id": "sackling",
+      "tier": 2,
+      "element": "Grass",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/jarachnid.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/jarachnid.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/jarachnid.png"
+    },
+    {
+      "form_id": "terracrawler",
+      "name": "Terracrawler",
+      "family_id": "sackling",
+      "tier": 3,
+      "element": "Grass",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/terracrawler.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/terracrawler.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/terracrawler.png"
+    },
+    {
+      "form_id": "weaverfang",
+      "name": "Weaverfang",
+      "family_id": "sackling",
+      "tier": 4,
+      "element": "Grass",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/weaverfang.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/weaverfang.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/weaverfang.png"
+    },
+    {
+      "form_id": "skinklet",
+      "name": "Skinklet",
+      "family_id": "skinklet",
+      "tier": 1,
+      "element": "Water",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/skinklet.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/skinklet.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/skinklet.png"
+    },
+    {
+      "form_id": "skinkoon",
+      "name": "Skinkoon",
+      "family_id": "skinklet",
+      "tier": 2,
+      "element": "Water",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/skinkoon.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/skinkoon.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/skinkoon.png"
+    },
+    {
+      "form_id": "ninjaguana",
+      "name": "Ninjaguana",
+      "family_id": "skinklet",
+      "tier": 3,
+      "element": "Water",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ninjaguana.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ninjaguana.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ninjaguana.png"
+    },
+    {
+      "form_id": "hychroma",
+      "name": "Hychroma",
+      "family_id": "skinklet",
+      "tier": 4,
+      "element": "Water",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hychroma.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hychroma.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hychroma.png"
+    },
+    {
+      "form_id": "souphog",
+      "name": "Souphog",
+      "family_id": "souphog",
+      "tier": 1,
+      "element": "Fire",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/souphog.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/souphog.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/souphog.png"
+    },
+    {
+      "form_id": "grillhog",
+      "name": "Grillhog",
+      "family_id": "souphog",
+      "tier": 2,
+      "element": "Fire",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/grillhog.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/grillhog.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/grillhog.png"
+    },
+    {
+      "form_id": "hothog",
+      "name": "Hothog",
+      "family_id": "souphog",
+      "tier": 3,
+      "element": "Fire",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hothog.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hothog.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hothog.png"
+    },
+    {
+      "form_id": "searhog",
+      "name": "Searhog",
+      "family_id": "souphog",
+      "tier": 4,
+      "element": "Fire",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/searhog.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/searhog.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/searhog.png"
+    },
+    {
+      "form_id": "shardsnail",
+      "name": "Shardsnail",
+      "family_id": "shardsnail",
+      "tier": 1,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/shardsnail.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/shardsnail.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/shardsnail.png"
+    },
+    {
+      "form_id": "gemsnail",
+      "name": "Gemsnail",
+      "family_id": "shardsnail",
+      "tier": 2,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gemsnail.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gemsnail.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gemsnail.png"
+    },
+    {
+      "form_id": "jewelsnail",
+      "name": "Jewelsnail",
+      "family_id": "shardsnail",
+      "tier": 3,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/jewelsnail.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/jewelsnail.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/jewelsnail.png"
+    },
+    {
+      "form_id": "crystalsnail",
+      "name": "Crystalsnail",
+      "family_id": "shardsnail",
+      "tier": 4,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/crystalsnail.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/crystalsnail.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/crystalsnail.png"
+    },
+    {
+      "form_id": "cheerling",
+      "name": "Cheerling",
+      "family_id": "cheerling",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cheerling.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cheerling.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerling.png"
+    },
+    {
+      "form_id": "cheerlet",
+      "name": "Cheerlet",
+      "family_id": "cheerling",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cheerlet.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cheerlet.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerlet.png"
+    },
+    {
+      "form_id": "cheerspring",
+      "name": "Cheerspring",
+      "family_id": "cheerling",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cheerspring.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cheerspring.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerspring.png"
+    },
+    {
+      "form_id": "cheerstella",
+      "name": "Cheerstella",
+      "family_id": "cheerling",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cheerstella.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cheerstella.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerstella.png"
+    },
+    {
+      "form_id": "cactobud",
+      "name": "Cactobud",
+      "family_id": "cactobud",
+      "tier": 1,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cactobud.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cactobud.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cactobud.png"
+    },
+    {
+      "form_id": "cactobloom",
+      "name": "Cactobloom",
+      "family_id": "cactobud",
+      "tier": 2,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cactobloom.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cactobloom.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cactobloom.png"
+    },
+    {
+      "form_id": "cactoczar",
+      "name": "Cactoczar",
+      "family_id": "cactobud",
+      "tier": 3,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cactoczar.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cactoczar.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cactoczar.png"
+    },
+    {
+      "form_id": "lullelly",
+      "name": "Lullelly",
+      "family_id": "lullelly",
+      "tier": 1,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lullelly.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lullelly.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lullelly.png"
+    },
+    {
+      "form_id": "yawnelly",
+      "name": "Yawnelly",
+      "family_id": "lullelly",
+      "tier": 2,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/yawnelly.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/yawnelly.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/yawnelly.png"
+    },
+    {
+      "form_id": "souverelle",
+      "name": "Souverelle",
+      "family_id": "lullelly",
+      "tier": 3,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/souverelle.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/souverelle.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/souverelle.png"
+    },
+    {
+      "form_id": "somnrayna",
+      "name": "Somnrayna",
+      "family_id": "lullelly",
+      "tier": 4,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/somnrayna.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/somnrayna.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/somnrayna.png"
+    },
+    {
+      "form_id": "tindercub",
+      "name": "Tindercub",
+      "family_id": "tindercub",
+      "tier": 1,
+      "element": "Fire",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/tindercub.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/tindercub.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/tindercub.png"
+    },
+    {
+      "form_id": "kitjitsu",
+      "name": "Kitjitsu",
+      "family_id": "tindercub",
+      "tier": 2,
+      "element": "Fire",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/kitjitsu.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/kitjitsu.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kitjitsu.png"
+    },
+    {
+      "form_id": "taiglow",
+      "name": "Taiglow",
+      "family_id": "tindercub",
+      "tier": 3,
+      "element": "Fire",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/taiglow.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/taiglow.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/taiglow.png"
+    },
+    {
+      "form_id": "saberheart",
+      "name": "Saberheart",
+      "family_id": "tindercub",
+      "tier": 4,
+      "element": "Fire",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/saberheart.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/saberheart.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/saberheart.png"
+    },
+    {
+      "form_id": "humbug",
+      "name": "Humbug",
+      "family_id": "humbug",
+      "tier": 1,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/humbug.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/humbug.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/humbug.png"
+    },
+    {
+      "form_id": "humbleetle",
+      "name": "Humbleetle",
+      "family_id": "humbug",
+      "tier": 2,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/humbleetle.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/humbleetle.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/humbleetle.png"
+    },
+    {
+      "form_id": "zenscarab",
+      "name": "Zenscarab",
+      "family_id": "humbug",
+      "tier": 3,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zenscarab.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zenscarab.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zenscarab.png"
+    },
+    {
+      "form_id": "hierotyrus",
+      "name": "Hierotyrus",
+      "family_id": "humbug",
+      "tier": 4,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hierotyrus.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hierotyrus.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hierotyrus.png"
+    },
+    {
+      "form_id": "fluffle",
+      "name": "Fluffle",
+      "family_id": "fluffle",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/fluffle.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/fluffle.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/fluffle.png"
+    },
+    {
+      "form_id": "nimbuzzy",
+      "name": "Nimbuzzy",
+      "family_id": "fluffle",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/nimbuzzy.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/nimbuzzy.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/nimbuzzy.png"
+    },
+    {
+      "form_id": "galewether",
+      "name": "Galewether",
+      "family_id": "fluffle",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/galewether.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/galewether.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/galewether.png"
+    },
+    {
+      "form_id": "cosmoram",
+      "name": "Cosmoram",
+      "family_id": "fluffle",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cosmoram.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cosmoram.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cosmoram.png"
+    },
+    {
+      "form_id": "funglet",
+      "name": "Funglet",
+      "family_id": "funglet",
+      "tier": 1,
+      "element": "Grass",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/funglet.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/funglet.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/funglet.png"
+    },
+    {
+      "form_id": "trippet",
+      "name": "Trippet",
+      "family_id": "funglet",
+      "tier": 2,
+      "element": "Grass",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/trippet.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/trippet.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/trippet.png"
+    },
+    {
+      "form_id": "hyphoria",
+      "name": "Hyphoria",
+      "family_id": "funglet",
+      "tier": 3,
+      "element": "Grass",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hyphoria.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hyphoria.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hyphoria.png"
+    },
+    {
+      "form_id": "ecstamira",
+      "name": "Ecstamira",
+      "family_id": "funglet",
+      "tier": 4,
+      "element": "Grass",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ecstamira.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ecstamira.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ecstamira.png"
+    },
+    {
+      "form_id": "dewgrub",
+      "name": "Dewgrub",
+      "family_id": "dewgrub",
+      "tier": 1,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dewgrub.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dewgrub.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dewgrub.png"
+    },
+    {
+      "form_id": "ripplewing",
+      "name": "Ripplewing",
+      "family_id": "dewgrub",
+      "tier": 2,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ripplewing.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ripplewing.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ripplewing.png"
+    },
+    {
+      "form_id": "waveflutter",
+      "name": "Waveflutter",
+      "family_id": "dewgrub",
+      "tier": 3,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/waveflutter.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/waveflutter.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/waveflutter.png"
+    },
+    {
+      "form_id": "morphanessa",
+      "name": "Morphanessa",
+      "family_id": "dewgrub",
+      "tier": 4,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/morphanessa.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/morphanessa.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/morphanessa.png"
+    },
+    {
+      "form_id": "fumekit",
+      "name": "Fumekit",
+      "family_id": "fumekit",
+      "tier": 1,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/fumekit.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/fumekit.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/fumekit.png"
+    },
+    {
+      "form_id": "sulfunk",
+      "name": "Sulfunk",
+      "family_id": "fumekit",
+      "tier": 2,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sulfunk.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sulfunk.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sulfunk.png"
+    },
+    {
+      "form_id": "magmusk",
+      "name": "Magmusk",
+      "family_id": "fumekit",
+      "tier": 3,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/magmusk.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/magmusk.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/magmusk.png"
+    },
+    {
+      "form_id": "blastniff",
+      "name": "Blastniff",
+      "family_id": "fumekit",
+      "tier": 4,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blastniff.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blastniff.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blastniff.png"
+    },
+    {
+      "form_id": "taptail",
+      "name": "Taptail",
+      "family_id": "taptail",
+      "tier": 1,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/taptail.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/taptail.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/taptail.png"
+    },
+    {
+      "form_id": "rattlecoil",
+      "name": "Rattlecoil",
+      "family_id": "taptail",
+      "tier": 2,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rattlecoil.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rattlecoil.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rattlecoil.png"
+    },
+    {
+      "form_id": "clangnaga",
+      "name": "Clangnaga",
+      "family_id": "taptail",
+      "tier": 3,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/clangnaga.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/clangnaga.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/clangnaga.png"
+    },
+    {
+      "form_id": "dharmadder",
+      "name": "Dharmadder",
+      "family_id": "taptail",
+      "tier": 4,
+      "element": "Rock",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dharmadder.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dharmadder.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dharmadder.png"
+    },
+    {
+      "form_id": "kittazap",
+      "name": "Kittazap",
+      "family_id": "kittazap",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/kittazap.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/kittazap.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kittazap.png"
+    },
+    {
+      "form_id": "nekowatt",
+      "name": "Nekowatt",
+      "family_id": "kittazap",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/nekowatt.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/nekowatt.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/nekowatt.png"
+    },
+    {
+      "form_id": "voltazar",
+      "name": "Voltazar",
+      "family_id": "kittazap",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltazar.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltazar.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltazar.png"
+    },
+    {
+      "form_id": "thunderpaw",
+      "name": "Thunderpaw",
+      "family_id": "kittazap",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/thunderpaw.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/thunderpaw.png"
+    },
+    {
+      "form_id": "lollama",
+      "name": "Lollama",
+      "family_id": "lollama",
+      "tier": 1,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lollama.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lollama.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lollama.png"
+    },
+    {
+      "form_id": "slobberlama",
+      "name": "Slobberlama",
+      "family_id": "lollama",
+      "tier": 2,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/slobberlama.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/slobberlama.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/slobberlama.png"
+    },
+    {
+      "form_id": "ptooielama",
+      "name": "Ptooielama",
+      "family_id": "lollama",
+      "tier": 3,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ptooielama.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ptooielama.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ptooielama.png"
+    },
+    {
+      "form_id": "blechlama",
+      "name": "Blechlama",
+      "family_id": "lollama",
+      "tier": 4,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blechlama.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blechlama.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blechlama.png"
+    },
+    {
+      "form_id": "dumbopus",
+      "name": "Dumbopus",
+      "family_id": "dumbopus",
+      "tier": 1,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dumbopus.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dumbopus.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dumbopus.png"
+    },
+    {
+      "form_id": "dazopus",
+      "name": "Dazopus",
+      "family_id": "dumbopus",
+      "tier": 2,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dazopus.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dazopus.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dazopus.png"
+    },
+    {
+      "form_id": "fishopus",
+      "name": "Fishopus",
+      "family_id": "dumbopus",
+      "tier": 3,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/fishopus.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/fishopus.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/fishopus.png"
+    },
+    {
+      "form_id": "lordopus",
+      "name": "Lordopus",
+      "family_id": "dumbopus",
+      "tier": 4,
+      "element": "Water",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lordopus.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lordopus.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lordopus.png"
+    },
+    {
+      "form_id": "flameow",
+      "name": "Flameow",
+      "family_id": "flameow",
+      "tier": 1,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/flameow.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/flameow.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/flameow.png"
+    },
+    {
+      "form_id": "nekoflare",
+      "name": "Nekoflare",
+      "family_id": "flameow",
+      "tier": 2,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/nekoflare.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/nekoflare.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/nekoflare.png"
+    },
+    {
+      "form_id": "silversear",
+      "name": "Silversear",
+      "family_id": "flameow",
+      "tier": 3,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/silversear.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/silversear.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/silversear.png"
+    },
+    {
+      "form_id": "cinderclaw",
+      "name": "Cinderclaw",
+      "family_id": "flameow",
+      "tier": 4,
+      "element": "Fire",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cinderclaw.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cinderclaw.png"
+    },
+    {
+      "form_id": "drilleroo",
+      "name": "Drilleroo",
+      "family_id": "drilleroo",
+      "tier": 1,
+      "element": "Rock",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/drilleroo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/drilleroo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/drilleroo.png"
+    },
+    {
+      "form_id": "cragolin",
+      "name": "Cragolin",
+      "family_id": "drilleroo",
+      "tier": 2,
+      "element": "Rock",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cragolin.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cragolin.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cragolin.png"
+    },
+    {
+      "form_id": "borelord",
+      "name": "Borelord",
+      "family_id": "drilleroo",
+      "tier": 3,
+      "element": "Rock",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/borelord.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/borelord.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/borelord.png"
+    },
+    {
+      "form_id": "zaplet",
+      "name": "Zaplet",
+      "family_id": "zaplet",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zaplet.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zaplet.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zaplet.png"
+    },
+    {
+      "form_id": "synthhog",
+      "name": "Synthhog",
+      "family_id": "zaplet",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/synthhog.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/synthhog.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/synthhog.png"
+    },
+    {
+      "form_id": "sonarbat",
+      "name": "Sonarbat",
+      "family_id": "zaplet",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sonarbat.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sonarbat.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sonarbat.png"
+    },
+    {
+      "form_id": "umbraveil",
+      "name": "Umbraveil",
+      "family_id": "zaplet",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "Specialist",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/umbraveil.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/umbraveil.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/umbraveil.png"
+    },
+    {
+      "form_id": "maskfry",
+      "name": "Maskfry",
+      "family_id": "maskfry",
+      "tier": 1,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/maskfry.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/maskfry.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/maskfry.png"
+    },
+    {
+      "form_id": "ospisces",
+      "name": "Ospisces",
+      "family_id": "maskfry",
+      "tier": 2,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ospisces.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ospisces.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ospisces.png"
+    },
+    {
+      "form_id": "armorjaw",
+      "name": "Armorjaw",
+      "family_id": "maskfry",
+      "tier": 3,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/armorjaw.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/armorjaw.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/armorjaw.png"
+    },
+    {
+      "form_id": "dagondeep",
+      "name": "Dagondeep",
+      "family_id": "maskfry",
+      "tier": 4,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dagondeep.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dagondeep.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dagondeep.png"
+    },
+    {
+      "form_id": "hootlet",
+      "name": "Hootlet",
+      "family_id": "hootlet",
+      "tier": 1,
+      "element": "Grass",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hootlet.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hootlet.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hootlet.png"
+    },
+    {
+      "form_id": "tikowl",
+      "name": "Tikowl",
+      "family_id": "hootlet",
+      "tier": 2,
+      "element": "Grass",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/tikowl.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/tikowl.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/tikowl.png"
+    },
+    {
+      "form_id": "chronerva",
+      "name": "Chronerva",
+      "family_id": "hootlet",
+      "tier": 3,
+      "element": "Grass",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/chronerva.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/chronerva.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chronerva.png"
+    },
+    {
+      "form_id": "hypnostrix",
+      "name": "Hypnostrix",
+      "family_id": "hootlet",
+      "tier": 4,
+      "element": "Grass",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hypnostrix.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hypnostrix.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hypnostrix.png"
+    },
+    {
+      "form_id": "momopo",
+      "name": "Momopo",
+      "family_id": "momopo",
+      "tier": 1,
+      "element": "Rock",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/momopo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/momopo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/momopo.png"
+    },
+    {
+      "form_id": "lulupo",
+      "name": "Lulupo",
+      "family_id": "momopo",
+      "tier": 2,
+      "element": "Rock",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lulupo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lulupo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lulupo.png"
+    },
+    {
+      "form_id": "lilypo",
+      "name": "Lilypo",
+      "family_id": "momopo",
+      "tier": 3,
+      "element": "Rock",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lilypo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lilypo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lilypo.png"
+    },
+    {
+      "form_id": "gemmapo",
+      "name": "Gemmapo",
+      "family_id": "momopo",
+      "tier": 4,
+      "element": "Rock",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gemmapo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gemmapo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gemmapo.png"
+    },
+    {
+      "form_id": "blowfin",
+      "name": "Blowfin",
+      "family_id": "blowfin",
+      "tier": 1,
+      "element": "Fire",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blowfin.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blowfin.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blowfin.png"
+    },
+    {
+      "form_id": "puffbelly",
+      "name": "Puffbelly",
+      "family_id": "blowfin",
+      "tier": 2,
+      "element": "Fire",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/puffbelly.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/puffbelly.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/puffbelly.png"
+    },
+    {
+      "form_id": "chefugu",
+      "name": "Chefugu",
+      "family_id": "blowfin",
+      "tier": 3,
+      "element": "Fire",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/chefugu.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/chefugu.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chefugu.png"
+    },
+    {
+      "form_id": "pyromaki",
+      "name": "Pyromaki",
+      "family_id": "blowfin",
+      "tier": 4,
+      "element": "Fire",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyromaki.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyromaki.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyromaki.png"
+    },
+    {
+      "form_id": "glowfly",
+      "name": "Glowfly",
+      "family_id": "glowfly",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/glowfly.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/glowfly.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/glowfly.png"
+    },
+    {
+      "form_id": "phosflare",
+      "name": "Phosflare",
+      "family_id": "glowfly",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/phosflare.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/phosflare.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/phosflare.png"
+    },
+    {
+      "form_id": "glimmerwing",
+      "name": "Glimmerwing",
+      "family_id": "glowfly",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/glimmerwing.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/glimmerwing.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/glimmerwing.png"
+    },
+    {
+      "form_id": "luminastra",
+      "name": "Luminastra",
+      "family_id": "glowfly",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "Healer",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/luminastra.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/luminastra.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/luminastra.png"
+    },
+    {
+      "form_id": "poakie",
+      "name": "Poakie",
+      "family_id": "poakie",
+      "tier": 1,
+      "element": "Fire",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/poakie.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/poakie.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/poakie.png"
+    },
+    {
+      "form_id": "sizzribb",
+      "name": "Sizzribb",
+      "family_id": "poakie",
+      "tier": 2,
+      "element": "Fire",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sizzribb.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sizzribb.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sizzribb.png"
+    },
+    {
+      "form_id": "lickflicker",
+      "name": "Lickflicker",
+      "family_id": "poakie",
+      "tier": 3,
+      "element": "Fire",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lickflicker.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lickflicker.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lickflicker.png"
+    },
+    {
+      "form_id": "ignitoad",
+      "name": "Ignitoad",
+      "family_id": "poakie",
+      "tier": 4,
+      "element": "Fire",
+      "role": "Guardian",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ignitoad.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ignitoad.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ignitoad.png"
+    },
+    {
+      "form_id": "budboo",
+      "name": "Budboo",
+      "family_id": "budboo",
+      "tier": 1,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/budboo.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/budboo.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/budboo.png"
+    },
+    {
+      "form_id": "snapshade",
+      "name": "Snapshade",
+      "family_id": "budboo",
+      "tier": 2,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/snapshade.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/snapshade.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/snapshade.png"
+    },
+    {
+      "form_id": "thornwisp",
+      "name": "Thornwisp",
+      "family_id": "budboo",
+      "tier": 3,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/thornwisp.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/thornwisp.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/thornwisp.png"
+    },
+    {
+      "form_id": "chomperwraith",
+      "name": "Chomperwraith",
+      "family_id": "budboo",
+      "tier": 4,
+      "element": "Grass",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/chomperwraith.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/chomperwraith.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chomperwraith.png"
+    },
+    {
+      "form_id": "cavyzap",
+      "name": "Cavyzap",
+      "family_id": "cavyzap",
+      "tier": 1,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cavyzap.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cavyzap.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cavyzap.png"
+    },
+    {
+      "form_id": "hippiehog",
+      "name": "Hippiehog",
+      "family_id": "cavyzap",
+      "tier": 2,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hippiehog.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hippiehog.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hippiehog.png"
+    },
+    {
+      "form_id": "wheekroller",
+      "name": "Wheekroller",
+      "family_id": "cavyzap",
+      "tier": 3,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/wheekroller.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/wheekroller.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/wheekroller.png"
+    },
+    {
+      "form_id": "gigagnash",
+      "name": "Gigagnash",
+      "family_id": "cavyzap",
+      "tier": 4,
+      "element": "Lightning",
+      "role": "DPS",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gigagnash.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gigagnash.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gigagnash.png"
+    },
+    {
+      "form_id": "snowcub",
+      "name": "Snowcub",
+      "family_id": "snowcub",
+      "tier": 1,
+      "element": "Water",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/snowcub.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/snowcub.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/snowcub.png"
+    },
+    {
+      "form_id": "polarpaw",
+      "name": "Polarpaw",
+      "family_id": "snowcub",
+      "tier": 2,
+      "element": "Water",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/polarpaw.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/polarpaw.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/polarpaw.png"
+    },
+    {
+      "form_id": "blizzgrizz",
+      "name": "Blizzgrizz",
+      "family_id": "snowcub",
+      "tier": 3,
+      "element": "Water",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blizzgrizz.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blizzgrizz.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blizzgrizz.png"
+    },
+    {
+      "form_id": "anglerbear",
+      "name": "Anglerbear",
+      "family_id": "snowcub",
+      "tier": 4,
+      "element": "Water",
+      "role": "Tank",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/anglerbear.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/anglerbear.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/anglerbear.png"
+    },
+    {
+      "form_id": "ringtail",
+      "name": "Ringtail",
+      "family_id": "ringtail",
+      "tier": 1,
+      "element": "Rock",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ringtail.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ringtail.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ringtail.png"
+    },
+    {
+      "form_id": "rizzler",
+      "name": "Rizzler",
+      "family_id": "ringtail",
+      "tier": 2,
+      "element": "Rock",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rizzler.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rizzler.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rizzler.png"
+    },
+    {
+      "form_id": "zorrock",
+      "name": "Zorrock",
+      "family_id": "ringtail",
+      "tier": 3,
+      "element": "Rock",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zorrock.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zorrock.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zorrock.png"
+    },
+    {
+      "form_id": "phantothief",
+      "name": "Phantothief",
+      "family_id": "ringtail",
+      "tier": 4,
+      "element": "Rock",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/phantothief.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/phantothief.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/phantothief.png"
+    },
+    {
+      "form_id": "dolphie",
+      "name": "Dolphie",
+      "family_id": "dolphie",
+      "tier": 1,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dolphie.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dolphie.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dolphie.png"
+    },
+    {
+      "form_id": "blubbles",
+      "name": "Blubbles",
+      "family_id": "dolphie",
+      "tier": 2,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blubbles.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blubbles.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blubbles.png"
+    },
+    {
+      "form_id": "aquariel",
+      "name": "Aquariel",
+      "family_id": "dolphie",
+      "tier": 3,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/aquariel.png",
+      "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/aquariel.png",
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/aquariel.png"
+    },
+    {
+      "form_id": "irisia",
+      "name": "Irisia",
+      "family_id": "dolphie",
+      "tier": 4,
+      "element": "Water",
+      "role": "Support",
+      "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/irisia.png",
+      "glitter_sprite_url": null,
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/irisia.png"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+# Publish the website, reviewed boards, public catalog and reproducible build.
+# Original Discord evidence and generated detailed datasets stay local.
+*
+!/.gitignore
+!/README.md
+!/.github/
+!/.github/workflows/
+!/.github/workflows/pages.yml
+!/data/
+!/data/source-index.json
+!/stage-*/
+!/stage-*/README.md
+!/stage-*/reviewed-formations.json
+!/stage-47/build_site.py
+!/stage-47/page-template.html
+!/stage-47/site/
+!/stage-47/site/index.html
+!/2026-10-05/
+!/2026-10-05/tatari-reference.json
+!/2026-10-05/reference-sprites/
+!/2026-10-05/reference-sprites/*.png
+!/2026-10-05/reference-sprites/glitter/
+!/2026-10-05/reference-sprites/glitter/*.png

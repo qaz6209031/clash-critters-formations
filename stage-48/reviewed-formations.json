@@ -1,0 +1,1154 @@
+[
+  {
+    "source_message_id": "1550377453191569450",
+    "stage_start": 1,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "48-5",
+    "screenshot_enemy_level": 1264,
+    "tatari_level": 996,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "pandarrior",
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "frostique",
+        "blitzmane",
+        "charflutter",
+        "hellhound"
+      ],
+      [
+        "rockwu",
+        "cheerspring",
+        "hyphoria",
+        "solaflora",
+        "silversear"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550423038976073788",
+    "stage_start": 5,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "48-10",
+    "screenshot_enemy_level": 1266,
+    "tatari_level": 996,
+    "credited_player_name": "Pikas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "rockwu",
+        "serrabloom:glitter"
+      ],
+      [
+        null,
+        "blitzmane",
+        "chronerva",
+        "cheerspring",
+        "frugagon"
+      ],
+      [
+        "voltverine",
+        "charflutter",
+        "solaflora",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550423217968250910",
+    "stage_start": 10,
+    "stage_end": 10,
+    "screenshot_displayed_stage": "48-11",
+    "screenshot_enemy_level": 1266,
+    "tatari_level": 996,
+    "credited_player_name": "DwynCookies",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "dreadclaw",
+        "blitzmane",
+        "zapantler",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        "cheerspring",
+        "clangnaga"
+      ],
+      [
+        "silversear",
+        null,
+        "hyphoria",
+        "solaflora",
+        "rockwu"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "voltmare:glitter",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550423325455683636",
+    "stage_start": 11,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "48-15",
+    "screenshot_enemy_level": 1267,
+    "tatari_level": 997,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "serrabloom:glitter",
+        "voltverine",
+        "blitzmane",
+        "clangnaga"
+      ],
+      [
+        "capypapa",
+        "silversear",
+        "hyphoria",
+        "cheerspring",
+        "rockwu"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "solaflora",
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550423435459428404",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "48-20",
+    "screenshot_enemy_level": 1269,
+    "tatari_level": 997,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "frugagon",
+        "dreadclaw",
+        "blitzmane",
+        "serrabloom:glitter"
+      ],
+      [
+        "rockwu",
+        "silversear",
+        "hyphoria",
+        "cheerspring",
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        "capobeetle",
+        "frostique",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550423903275327498",
+    "stage_start": 20,
+    "stage_end": 20,
+    "screenshot_displayed_stage": "48-21",
+    "screenshot_enemy_level": 1269,
+    "tatari_level": 997,
+    "credited_player_name": "DwynCookies",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "flarevix",
+        "solaflora",
+        "cactoczar",
+        null,
+        "rockwu"
+      ],
+      [
+        "silversear",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        null,
+        "serrabloom:glitter",
+        "blitzmane",
+        "frostique"
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550424050549919845",
+    "stage_start": 21,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "48-25",
+    "screenshot_enemy_level": 1271,
+    "tatari_level": 997,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "hellhound",
+        "charflutter",
+        "serrabloom:glitter",
+        "blitzmane",
+        "frostique"
+      ],
+      [
+        "silversear",
+        "solaflora",
+        "hyphoria",
+        "cheerspring",
+        "rockwu"
+      ],
+      [
+        "flarevix",
+        null,
+        "sonarbat",
+        null,
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550424128480354425",
+    "stage_start": 25,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "48-30",
+    "screenshot_enemy_level": 1272,
+    "tatari_level": 997,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "hellhound",
+        "voltmare:glitter",
+        "blitzmane",
+        "serrabloom:glitter"
+      ],
+      [
+        "zapantler",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        "frostique",
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550494318253580298",
+    "stage_start": 30,
+    "stage_end": 30,
+    "screenshot_displayed_stage": "48-31",
+    "screenshot_enemy_level": 1273,
+    "tatari_level": 997,
+    "credited_player_name": "foodpandas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "chronerva",
+        null,
+        "dreadclaw",
+        "hellhound",
+        "clangnaga"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        "serrabloom:glitter",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "capypapa",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550497152697110528",
+    "stage_start": 31,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "48-35",
+    "screenshot_enemy_level": 1274,
+    "tatari_level": 997,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "hellhound",
+        "capobeetle"
+      ],
+      [
+        "serrabloom:glitter",
+        "charflutter",
+        "frostique",
+        "cheerspring",
+        "rockwu"
+      ],
+      [
+        "solaflora",
+        "blitzmane",
+        "hyphoria",
+        "silversear",
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550500041670524998",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "48-40",
+    "screenshot_enemy_level": 1276,
+    "tatari_level": 997,
+    "credited_player_name": "Pikas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "serrabloom:glitter",
+        null
+      ],
+      [
+        "voltverine",
+        "blitzmane",
+        "rockwu",
+        "charflutter",
+        "armorjaw"
+      ],
+      [
+        null,
+        "silversear",
+        "hyphoria",
+        "cheerspring",
+        "hellhound"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frostique"
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550502647256064100",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "48-41",
+    "screenshot_enemy_level": 1276,
+    "tatari_level": 997,
+    "credited_player_name": "Pikas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "blitzmane",
+        "serrabloom:glitter",
+        "clangnaga",
+        "dreadclaw"
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "silversear"
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550507135648014478",
+    "stage_start": 41,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "48-45",
+    "screenshot_enemy_level": 1277,
+    "tatari_level": 997,
+    "credited_player_name": "Pikas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "chronerva",
+        null
+      ],
+      [
+        "voltverine",
+        "blitzmane",
+        "serrabloom:glitter",
+        "charflutter",
+        "dreadclaw"
+      ],
+      [
+        null,
+        "cheerspring",
+        "sonarbat",
+        "clangnaga",
+        "frostique"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "silversear"
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550518503801622682",
+    "stage_start": 45,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "48-50",
+    "screenshot_enemy_level": 1279,
+    "tatari_level": 997,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "frugagon",
+        "serrabloom:glitter",
+        "frostique",
+        "rockwu",
+        "voltverine"
+      ],
+      [
+        "cluckeroo",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "pandarrior",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "zapantler"
+      ],
+      [
+        null,
+        null,
+        null,
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550518587343507537",
+    "stage_start": 50,
+    "stage_end": 50,
+    "screenshot_displayed_stage": "48-51",
+    "screenshot_enemy_level": 1279,
+    "tatari_level": 997,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom:glitter",
+        "rockwu",
+        "hellhound",
+        null
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "zenscarab",
+        "cheerspring",
+        null
+      ],
+      [
+        "silversear",
+        "solaflora",
+        "hyphoria",
+        "sonarbat",
+        "zapantler"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550518671435374825",
+    "stage_start": 51,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "48-55",
+    "screenshot_enemy_level": 1281,
+    "tatari_level": 997,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom:glitter",
+        "rockwu",
+        "hellhound",
+        "blitzmane"
+      ],
+      [
+        null,
+        "charflutter",
+        null,
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        "solaflora",
+        "hyphoria",
+        "sonarbat",
+        "zapantler"
+      ],
+      [
+        "silversear",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550518750527361177",
+    "stage_start": 55,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "48-60",
+    "screenshot_enemy_level": 1282,
+    "tatari_level": 997,
+    "credited_player_name": "Brunos",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        null,
+        "serrabloom:glitter",
+        "blitzmane",
+        null
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "rockwu"
+      ],
+      [
+        "zapantler",
+        "solaflora",
+        "sonarbat",
+        "frostique",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550518827505291456",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "48-61",
+    "screenshot_enemy_level": 1283,
+    "tatari_level": 997,
+    "credited_player_name": "Tivas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        "dreadclaw",
+        "serrabloom:glitter",
+        "blitzmane",
+        "zapantler"
+      ],
+      [
+        "flarevix",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "clangnaga"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "silversear"
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550572782964965399",
+    "stage_start": 61,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "48-65",
+    "screenshot_enemy_level": 1284,
+    "tatari_level": 997,
+    "credited_player_name": "Tivas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        "dreadclaw",
+        "frostique",
+        "pyroclobster",
+        "clangnaga"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapantler"
+      ],
+      [
+        "flarevix",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora"
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550572903416729682",
+    "stage_start": 65,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "48-70",
+    "screenshot_enemy_level": 1286,
+    "tatari_level": 997,
+    "credited_player_name": "Tivas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "chronerva",
+        "hellhound",
+        null,
+        null
+      ],
+      [
+        "pandarrior",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        "solaflora",
+        null,
+        "rockwu",
+        "frostique"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "silversear"
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550573141946933399",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "48-71",
+    "screenshot_enemy_level": 1286,
+    "tatari_level": 997,
+    "credited_player_name": "Tivas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "capypapa",
+        "serrabloom:glitter",
+        null
+      ],
+      [
+        "voltverine",
+        "rockwu",
+        "frostique",
+        "cheerspring",
+        "clangnaga"
+      ],
+      [
+        "solaflora",
+        "charflutter",
+        "hyphoria",
+        "silversear",
+        "zapantler"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550573273371254804",
+    "stage_start": 71,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "48-75",
+    "screenshot_enemy_level": 1287,
+    "tatari_level": 997,
+    "credited_player_name": "Tivas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "rockzilla",
+        "blitzmane",
+        "serrabloom:glitter",
+        "rockwu"
+      ],
+      [
+        "voltmare:glitter",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "silversear"
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550573468695789690",
+    "stage_start": 75,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "48-80",
+    "screenshot_enemy_level": 1289,
+    "tatari_level": 997,
+    "credited_player_name": "Tivas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom:glitter",
+        "rockwu",
+        "hellhound",
+        "dreadclaw",
+        "frostique"
+      ],
+      [
+        "flarevix",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapantler"
+      ],
+      [
+        "silversear",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora"
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  },
+  {
+    "source_message_id": "1550573710375784468",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "49-1",
+    "screenshot_enemy_level": 1289,
+    "tatari_level": 997,
+    "credited_player_name": "Tivas",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "rockwu",
+        "sonarbat",
+        "frugagon",
+        null
+      ],
+      [
+        "frostique",
+        "cheerspring",
+        "zapantler",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "silversear",
+        "hyphoria",
+        "solaflora",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Exact forms and positions matched to the planner catalog; Serrabloom is the glitter variant wherever present. Source caption reports the preceding cleared stage/range."
+  }
+]
