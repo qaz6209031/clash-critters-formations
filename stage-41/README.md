@@ -19,7 +19,7 @@ reference thread. Caption references credit Poori, Esek YT and Bruno.
 “Same Reference” attributions are explicitly identified as contextual
 inferences from the preceding named reference, rather than verified creator
 identities. Screenshots show the next stage after each captioned clear/range.
-Identical boards for 41-40/41-41–41-44 and 41-70/41-71–41-74 merge, while
+Identical boards for 41-40/41-41–41-44 and 41-50/41-51–41-54 merge, while
 preserving both source records and any differing observed levels.
 
 Levels are read from multiple deployed inventory cards. They are observations,
