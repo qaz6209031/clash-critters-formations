@@ -1,0 +1,1323 @@
+[
+  {
+    "source_message_id": "1529299014158389479",
+    "stage_start": 1,
+    "stage_end": 5,
+    "screenshot_displayed_stage": "26-6",
+    "screenshot_enemy_level": 678,
+    "tatari_level": 476,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 476",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "serrabloom",
+        null,
+        null,
+        null
+      ],
+      [
+        "zapooch",
+        "charflutter",
+        "frostique",
+        "blitzmane",
+        null
+      ],
+      [
+        "rockwu",
+        "cheerspring:glitter",
+        "trippet",
+        "zapantler",
+        "capobeetle"
+      ],
+      [
+        "rockshell",
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529316489365159957",
+    "stage_start": 6,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "26-10",
+    "screenshot_enemy_level": 679,
+    "tatari_level": 477,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 477",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "firefox",
+        "rockshell",
+        "blitzmane",
+        "rockwu"
+      ],
+      [
+        "pyroprawn",
+        "charflutter",
+        "trippet",
+        "cheerspring:glitter",
+        "zapantler"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique",
+        "frugagon"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529317750734983281",
+    "stage_start": 10,
+    "stage_end": 10,
+    "screenshot_displayed_stage": "26-11",
+    "screenshot_enemy_level": 679,
+    "tatari_level": 477,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 477",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        "serrabloom",
+        null
+      ],
+      [
+        "rockshell",
+        "synthhog",
+        "zapantler",
+        "charflutter",
+        "swaystroll"
+      ],
+      [
+        "rockwu",
+        "cheerspring:glitter",
+        "trippet",
+        "cluckeroo",
+        "frostique"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529325315950903568",
+    "stage_start": 11,
+    "stage_end": 15,
+    "screenshot_displayed_stage": "26-16",
+    "screenshot_enemy_level": 681,
+    "tatari_level": 477,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 477",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "serrabloom",
+        null
+      ],
+      [
+        "rockwu",
+        "rockshell",
+        "blitzmane",
+        "charflutter",
+        "swaystroll"
+      ],
+      [
+        "zapantler",
+        "cheerspring:glitter",
+        "synthhog",
+        "trippet",
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "firefox"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529326633184661555",
+    "stage_start": 16,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "26-20",
+    "screenshot_enemy_level": 682,
+    "tatari_level": 477,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 477",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "frostique",
+        null
+      ],
+      [
+        "serrabloom",
+        null,
+        "rockshell",
+        "cheerspring:glitter",
+        "blitzmane"
+      ],
+      [
+        "firefox",
+        "charflutter",
+        "rockwu",
+        "trippet",
+        "synthhog"
+      ],
+      [
+        "cluckeroo",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frugagon"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529328150365081794",
+    "stage_start": 20,
+    "stage_end": 20,
+    "screenshot_displayed_stage": "26-21",
+    "screenshot_enemy_level": 683,
+    "tatari_level": 477,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 477",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom",
+        null,
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        "charflutter",
+        "blitzmane",
+        "swaystroll"
+      ],
+      [
+        "kitjitsu",
+        "trippet",
+        "rockshell",
+        "cheerspring:glitter",
+        "zapantler"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "synthhog",
+        "frostique"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529330351351267479",
+    "stage_start": 21,
+    "stage_end": 25,
+    "screenshot_displayed_stage": "26-26",
+    "screenshot_enemy_level": 684,
+    "tatari_level": 477,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 477",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        null,
+        "synthhog",
+        "charflutter",
+        "swaystroll"
+      ],
+      [
+        "kitjitsu",
+        "rockwu",
+        "trippet",
+        "cheerspring:glitter",
+        "zapooch"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zapantler",
+        "frostique"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529331277797523527",
+    "stage_start": 26,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "26-30",
+    "screenshot_enemy_level": 686,
+    "tatari_level": 477,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 477",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "synthhog",
+        "blitzmane",
+        "frostique",
+        null
+      ],
+      [
+        "rockshell",
+        "cheerspring:glitter",
+        "trippet",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Screenshot deploys 13 units; empty cells preserved.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "deployed_count": 13,
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529376199015661689",
+    "stage_start": 30,
+    "stage_end": 30,
+    "screenshot_displayed_stage": "26-31",
+    "screenshot_enemy_level": 686,
+    "tatari_level": 478,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 478",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "rockshell",
+        "serrabloom",
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "cheerspring:glitter",
+        null,
+        "capobeetle",
+        null
+      ],
+      [
+        "zapantler",
+        "rockwu",
+        "trippet",
+        "charflutter",
+        "blitzmane"
+      ],
+      [
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frugagon"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529377077516697722",
+    "stage_start": 31,
+    "stage_end": 35,
+    "screenshot_displayed_stage": "26-36",
+    "screenshot_enemy_level": 688,
+    "tatari_level": 478,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 478",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "rockshell",
+        "serrabloom",
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "cheerspring:glitter",
+        null,
+        "capobeetle",
+        null
+      ],
+      [
+        "zapantler",
+        "rockwu",
+        "trippet",
+        "charflutter",
+        "blitzmane"
+      ],
+      [
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frugagon"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529384618061729825",
+    "stage_start": 36,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "26-40",
+    "screenshot_enemy_level": 689,
+    "tatari_level": 478,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 478",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "serrabloom",
+        null,
+        null
+      ],
+      [
+        "pyrohound",
+        "rockshell",
+        "charflutter",
+        "capobeetle",
+        null
+      ],
+      [
+        "frostique",
+        "rockwu",
+        "trippet",
+        "cheerspring:glitter",
+        "blitzmane"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "zapantler"
+      ],
+      [
+        null,
+        "cluckeroo",
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529442738704220230",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "26-41",
+    "screenshot_enemy_level": 689,
+    "tatari_level": 478,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 478",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "rockshell",
+        null,
+        "blitzmane",
+        "serrabloom"
+      ],
+      [
+        "capobeetle",
+        "cheerspring:glitter",
+        "trippet",
+        "charflutter",
+        null
+      ],
+      [
+        "zapantler",
+        "rockwu",
+        "frugagon",
+        "cluckeroo",
+        null
+      ],
+      [
+        "frostique",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529455693625692220",
+    "stage_start": 41,
+    "stage_end": 45,
+    "screenshot_displayed_stage": "26-46",
+    "screenshot_enemy_level": 691,
+    "tatari_level": 478,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 478",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockshell",
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "cheerspring:glitter",
+        "serrabloom",
+        "kitjitsu",
+        "blitzmane"
+      ],
+      [
+        "zapantler",
+        "rockwu",
+        "trippet",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frugagon"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529468881150803989",
+    "stage_start": 46,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "26-50",
+    "screenshot_enemy_level": 692,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "frostique",
+        "synthhog",
+        "kitjitsu",
+        "rockwu"
+      ],
+      [
+        null,
+        "cheerspring:glitter",
+        "trippet",
+        "charflutter",
+        "rockshell"
+      ],
+      [
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "zapantler"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529489840809185290",
+    "stage_start": 50,
+    "stage_end": 50,
+    "screenshot_displayed_stage": "26-51",
+    "screenshot_enemy_level": 693,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "swaystroll",
+        "rockwu",
+        "serrabloom",
+        null
+      ],
+      [
+        "zapantler",
+        "cheerspring:glitter",
+        "rockshell",
+        "charflutter",
+        "humbleetle"
+      ],
+      [
+        null,
+        "trippet",
+        "rockhog",
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529494018851999764",
+    "stage_start": 51,
+    "stage_end": 55,
+    "screenshot_displayed_stage": "26-56",
+    "screenshot_enemy_level": 694,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "pyroprawn",
+        "rockshell",
+        "serrabloom",
+        "swaystroll"
+      ],
+      [
+        "zapantler",
+        "cheerspring:glitter",
+        "trippet",
+        "charflutter",
+        "capypapa"
+      ],
+      [
+        null,
+        "firefox",
+        null,
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529509871043608617",
+    "stage_start": 56,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "26-61",
+    "screenshot_enemy_level": 696,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "reconstructed",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockshell",
+        "rockwu",
+        "blitzmane",
+        "serrabloom",
+        "swaystroll"
+      ],
+      [
+        "humbleetle",
+        "cheerspring:glitter",
+        "trippet",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        "capypapa"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": true,
+    "notes": "Author explicitly says the original screenshot was missed and this lineup is a recollection. Stage 26-56–26-59 coverage needs confirmation; image shows 26-61. Exact occupied cells were transcribed from the available image.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Tentative author recollection in the caption, not a verified original clear screenshot."
+  },
+  {
+    "source_message_id": "1529510023175209244",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "26-61",
+    "screenshot_enemy_level": 696,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        "frostique",
+        "frugagon",
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "trippet",
+        "cheerspring:glitter",
+        "rockshell"
+      ],
+      [
+        null,
+        "zapantler",
+        "capypapa",
+        "cluckeroo",
+        "rockwu"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529512794679017513",
+    "stage_start": 61,
+    "stage_end": 65,
+    "screenshot_displayed_stage": "26-66",
+    "screenshot_enemy_level": 698,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        "frostique",
+        null,
+        null
+      ],
+      [
+        "capobeetle",
+        "cheerspring:glitter",
+        "trippet",
+        "charflutter",
+        "rockshell"
+      ],
+      [
+        null,
+        "zapantler",
+        null,
+        "frugagon",
+        "rockwu"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "cluckeroo"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529518544247590982",
+    "stage_start": 66,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "26-70",
+    "screenshot_enemy_level": 699,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        null,
+        "blitzmane",
+        "serrabloom",
+        "swaystroll"
+      ],
+      [
+        "rockshell",
+        "cheerspring:glitter",
+        "trippet",
+        "charflutter",
+        "capypapa"
+      ],
+      [
+        "humbleetle",
+        null,
+        "zapantler",
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529522291526860981",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "26-71",
+    "screenshot_enemy_level": 699,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "rockshell",
+        "serrabloom",
+        null
+      ],
+      [
+        null,
+        null,
+        "rockwu",
+        "charflutter",
+        "swaystroll"
+      ],
+      [
+        "blitzmane",
+        null,
+        "humbleetle",
+        "cheerspring:glitter",
+        "ospisces"
+      ],
+      [
+        "zapantler",
+        null,
+        "synthhog",
+        "trippet",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529528012985598066",
+    "stage_start": 71,
+    "stage_end": 75,
+    "screenshot_displayed_stage": "26-76",
+    "screenshot_enemy_level": 701,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "rockshell",
+        "serrabloom",
+        "swaystroll"
+      ],
+      [
+        "blitzmane",
+        "synthhog",
+        "charflutter",
+        "cheerspring:glitter",
+        "ospisces"
+      ],
+      [
+        "zapooch",
+        null,
+        "rockwu",
+        "trippet",
+        null
+      ],
+      [
+        "zapantler",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529630684405174493",
+    "stage_start": 76,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "26-80",
+    "screenshot_enemy_level": 702,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "blitzmane",
+        null
+      ],
+      [
+        "pyrohound",
+        null,
+        "serrabloom",
+        "cheerspring:glitter",
+        "rockwu"
+      ],
+      [
+        "pyroprawn",
+        "charflutter",
+        "synthhog",
+        "trippet",
+        "zapantler"
+      ],
+      [
+        "firefox",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "cluckeroo"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1529631908743352413",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "27-1",
+    "screenshot_enemy_level": 703,
+    "tatari_level": 485,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 485",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "frostique",
+        null,
+        "rockshell"
+      ],
+      [
+        "serrabloom",
+        "charflutter",
+        "capypapa",
+        "cheerspring:glitter",
+        "rockwu"
+      ],
+      [
+        null,
+        "zapantler",
+        "synthhog",
+        "trippet",
+        "cluckeroo"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  }
+]
