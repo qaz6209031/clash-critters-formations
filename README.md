@@ -4,8 +4,8 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple, static Main Stage reference showing stage ranges, observed Tatari
-levels and exact 5×5 formations. It currently covers all **880 stages in
-chapters 40–50**, grouped into **253 formation cards** from 267 source posts.
+levels and exact 5×5 formations. It currently covers all **960 stages in
+chapter 31 and chapters 40–50**, grouped into **290 formation cards** from 305 source posts.
 Exact forms, glitter variants and positions determine whether cards can merge.
 Stage labels and the “Posted by” line link to the original Discord messages,
 which require the viewer's own server access. The posting display name appears
@@ -23,7 +23,7 @@ python3 stage-47/build_site.py
 python3 -m http.server 8765 --bind 127.0.0.1 --directory stage-47/site
 ```
 
-Open `http://127.0.0.1:8765/`. Chapter links use `#chapter-40` through
+Open `http://127.0.0.1:8765/`. Chapter links use `#chapter-31` and `#chapter-40` through
 `#chapter-50`. The finished `stage-47/site/index.html` also opens offline.
 All artwork is embedded, so GitHub Pages project paths work without a base-URL
 setting or asset server.
@@ -44,7 +44,7 @@ and updating the page title/description.
 
 ## Files and source evidence
 
-- `stage-40` through `stage-50`: reviewed formations and chapter notes.
+- `stage-31` and `stage-40` through `stage-50`: reviewed formations and chapter notes.
 - `stage-47/build_site.py`: static site and structured-data generator.
 - `stage-47/page-template.html`: website layout and styles.
 - `stage-47/site/index.html`: generated offline website.
@@ -73,3 +73,10 @@ Chapter 19 and onwards thread. The missing 42-15–42-19 range uses pony’s
 level-853 posts found through Discord search; all other new chapters use the
 provided nil reference thread. Search comparisons establish only the lowest
 readable level among inspected candidates, not a server-wide minimum.
+
+Chapter 31 adds all 80 stages from 38 Casey posts, grouped into 37 cards.
+Selected levels are 579–604, below Harsh’s level-637 chapter reference and
+the other inspected readable candidates. One post for 31-10–31-12 reports
+level 596 in its caption but attaches a 31-15 image with no readable player
+level; that source remains flagged for human review. Chapters 32–39 are
+not yet included.

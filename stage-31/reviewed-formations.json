@@ -1,0 +1,1881 @@
+[
+  {
+    "source_message_id": "1549859316079792168",
+    "stage_start": 1,
+    "stage_end": 1,
+    "screenshot_displayed_stage": "31-1",
+    "screenshot_enemy_level": 809,
+    "tatari_level": 579,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "serrabloom",
+        "rockwu",
+        "blitzmane",
+        "capobeetle",
+        "rockshell"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        "cluckeroo",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Caption reports 30-80 through 31-1; only 31-1 is selected for this chapter. Screenshot displays 31-1 after 30-80, so the additional 31-1 clear relies on the author\u2019s caption. Inventory cards show level 579.",
+    "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately."
+  },
+  {
+    "source_message_id": "1549861689950740571",
+    "stage_start": 2,
+    "stage_end": 2,
+    "screenshot_displayed_stage": "31-3",
+    "screenshot_enemy_level": 810,
+    "tatari_level": 579,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "serrabloom",
+        "rockwu",
+        "blitzmane",
+        "capobeetle",
+        "rockshell"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1549862294731755520",
+    "stage_start": 3,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "31-5",
+    "screenshot_enemy_level": 811,
+    "tatari_level": 579,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "serrabloom",
+        "rockwu",
+        "blitzmane",
+        "capobeetle",
+        "rockshell"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1549865027190792223",
+    "stage_start": 5,
+    "stage_end": 5,
+    "screenshot_displayed_stage": "31-6",
+    "screenshot_enemy_level": 811,
+    "tatari_level": 579,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "rockshell",
+        "voltling",
+        "blitzmane",
+        "clawzor",
+        null
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "solaflora",
+        "hippiehog",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "synthhog",
+        "zapantler",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1549871060441104505",
+    "stage_start": 6,
+    "stage_end": 6,
+    "screenshot_displayed_stage": "31-7",
+    "screenshot_enemy_level": 811,
+    "tatari_level": 579,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "serrabloom",
+        "voltling",
+        "blitzmane",
+        "synthhog",
+        null
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "clawzor",
+        "charflutter"
+      ],
+      [
+        "solaflora",
+        "zapooch",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        "zapantler",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1549875832879718430",
+    "stage_start": 7,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "31-10",
+    "screenshot_enemy_level": 812,
+    "tatari_level": 579,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "serrabloom",
+        "voltling",
+        "blitzmane",
+        "synthhog",
+        null
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "capypapa"
+      ],
+      [
+        "solaflora",
+        "zapooch",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        "zapantler",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550077090425213041",
+    "stage_start": 10,
+    "stage_end": 12,
+    "screenshot_displayed_stage": "31-15",
+    "screenshot_enemy_level": 814,
+    "tatari_level": 596,
+    "credited_player_name": "jacobdumbnut",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "ospisces",
+        "serrabloom",
+        "zapantler",
+        null,
+        "blitzmane"
+      ],
+      [
+        "zapooch",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "synthhog"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon:glitter",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "clangnaga",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": true,
+    "notes": "Caption claims 31-10 through 31-12 at level 596, but the image displays 31-15 and does not show player level text. The exact attached board includes Glitter Tideon. Stage attribution and reported level need human review; no missing screenshot level was invented.",
+    "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately.",
+    "credit_basis": "Caption says adapted from jacobdumbnut\u2019s chapter reference; posting author is Casey.",
+    "tatari_level_basis": "Level 596 is explicitly reported in the message caption. Inventory card levels are not visible in the attached image.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550078702027673681",
+    "stage_start": 13,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "31-15",
+    "screenshot_enemy_level": 814,
+    "tatari_level": 596,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "serrabloom",
+        "synthhog",
+        null,
+        "blitzmane"
+      ],
+      [
+        "ospisces",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapantler"
+      ],
+      [
+        "zapooch",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "clangnaga",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550082047677300757",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "31-20",
+    "screenshot_enemy_level": 816,
+    "tatari_level": 596,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "frugagon",
+        "rockwu",
+        "serrabloom",
+        "ospisces"
+      ],
+      [
+        "zapantler",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        null,
+        "solaflora",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550084378091065376",
+    "stage_start": 20,
+    "stage_end": 21,
+    "screenshot_displayed_stage": "31-21",
+    "screenshot_enemy_level": 816,
+    "tatari_level": 596,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "rockwu",
+        "serrabloom",
+        "blitzmane",
+        "ospisces"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "synthhog"
+      ],
+      [
+        "zapantler",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        "clangnaga",
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards. Screenshot stage differs from the usual range-end-plus-one capture; the full reported range relies on the caption.",
+    "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately."
+  },
+  {
+    "source_message_id": "1550097266159657021",
+    "stage_start": 22,
+    "stage_end": 22,
+    "screenshot_displayed_stage": "31-23",
+    "screenshot_enemy_level": 817,
+    "tatari_level": 596,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "rockwu",
+        "serrabloom",
+        "blitzmane",
+        "ospisces"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "synthhog"
+      ],
+      [
+        "zapantler",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        "clangnaga",
+        null,
+        "solaflora",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550121314159951872",
+    "stage_start": 23,
+    "stage_end": 23,
+    "screenshot_displayed_stage": "31-24",
+    "screenshot_enemy_level": 817,
+    "tatari_level": 597,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "rockwu",
+        "hyphoria",
+        "blitzmane",
+        "ospisces"
+      ],
+      [
+        "zapantler",
+        "cheerspring",
+        "synthhog",
+        "charflutter",
+        null
+      ],
+      [
+        "zapooch",
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon"
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550123664215638177",
+    "stage_start": 24,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "31-25",
+    "screenshot_enemy_level": 817,
+    "tatari_level": 597,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "rockwu",
+        "hyphoria",
+        "zapantler",
+        "ospisces"
+      ],
+      [
+        "blitzmane",
+        "cheerspring",
+        "synthhog",
+        "charflutter",
+        null
+      ],
+      [
+        "zapooch",
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon"
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550131596852465736",
+    "stage_start": 25,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "31-28",
+    "screenshot_enemy_level": 818,
+    "tatari_level": 600,
+    "credited_player_name": "jacobdumbnut",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "capobeetle"
+      ],
+      [
+        "rockwu",
+        "serrabloom",
+        "lickflicker",
+        null,
+        "pearpair"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frugagon"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "cluckeroo"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "solaflora"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards. Screenshot stage differs from the usual range-end-plus-one capture; the full reported range relies on the caption.",
+    "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately.",
+    "credit_basis": "Caption says adapted from jacobdumbnut\u2019s chapter reference; posting author is Casey."
+  },
+  {
+    "source_message_id": "1550139816786530334",
+    "stage_start": 30,
+    "stage_end": 31,
+    "screenshot_displayed_stage": "31-31",
+    "screenshot_enemy_level": 819,
+    "tatari_level": 600,
+    "credited_player_name": "Harsh | 19911459",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "serrabloom",
+        "synthhog",
+        "blitzmane",
+        null
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "rockwu",
+        "charflutter",
+        null
+      ],
+      [
+        "cluckeroo",
+        "hyphoria",
+        "zapantler",
+        "frostique",
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards. Screenshot stage differs from the usual range-end-plus-one capture; the full reported range relies on the caption.",
+    "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately.",
+    "credit_basis": "Caption explicitly says adapted from Harsh\u2019s chapter 31 reference; posting author is Casey."
+  },
+  {
+    "source_message_id": "1550141210348359823",
+    "stage_start": 32,
+    "stage_end": 32,
+    "screenshot_displayed_stage": "31-33",
+    "screenshot_enemy_level": 820,
+    "tatari_level": 600,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pearpair",
+        "serrabloom",
+        "synthhog",
+        "blitzmane",
+        null
+      ],
+      [
+        "cluckeroo",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "solaflora",
+        "rockwu",
+        "clangnaga",
+        "frostique",
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the planner catalog, retaining the empty front row. Inventory shows roster level 600, but the visible cards are undeployed; individual deployed levels are unverified.",
+    "tatari_level_basis": "Visible level 600 on multiple inventory cards. This is an observed roster level; levels of deployed units are not individually readable in this capture."
+  },
+  {
+    "source_message_id": "1550141991608787065",
+    "stage_start": 33,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "31-35",
+    "screenshot_enemy_level": 821,
+    "tatari_level": 600,
+    "credited_player_name": "jacobdumbnut",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "capobeetle",
+        "serrabloom",
+        "rockwu",
+        "boldclaw",
+        null
+      ],
+      [
+        "frugagon",
+        "cheerspring",
+        "zapantler",
+        "charflutter",
+        null
+      ],
+      [
+        "clangnaga",
+        "hyphoria",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        "cluckeroo",
+        "solaflora",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
+    "credit_basis": "Caption says adapted from jacobdumbnut\u2019s chapter reference; posting author is Casey."
+  },
+  {
+    "source_message_id": "1550143140093104289",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "31-40",
+    "screenshot_enemy_level": 822,
+    "tatari_level": 600,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "ospisces",
+        null,
+        "blitzmane",
+        "serrabloom",
+        "lickflicker"
+      ],
+      [
+        "boldclaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "firefox"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550167972470067280",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "31-41",
+    "screenshot_enemy_level": 823,
+    "tatari_level": 600,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "boldclaw",
+        "serrabloom",
+        "ospisces",
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "cheerspring",
+        null,
+        "charflutter",
+        null
+      ],
+      [
+        "zapantler",
+        "hyphoria",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        "solaflora",
+        null,
+        "synthhog",
+        "clangnaga",
+        "capobeetle"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550169839442596005",
+    "stage_start": 41,
+    "stage_end": 41,
+    "screenshot_displayed_stage": "31-42",
+    "screenshot_enemy_level": 823,
+    "tatari_level": 600,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "blitzmane",
+        "pearpair",
+        "ospisces",
+        "serrabloom",
+        null
+      ],
+      [
+        "zapantler",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "frostique"
+      ],
+      [
+        "capypapa",
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "synthhog",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550169863878610954",
+    "stage_start": 42,
+    "stage_end": 42,
+    "screenshot_displayed_stage": "31-43",
+    "screenshot_enemy_level": 823,
+    "tatari_level": 600,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "blitzmane",
+        "pearpair",
+        "ospisces",
+        "serrabloom",
+        null
+      ],
+      [
+        "zapantler",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "clangnaga",
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        "solaflora",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550190318354300950",
+    "stage_start": 43,
+    "stage_end": 43,
+    "screenshot_displayed_stage": "31-44",
+    "screenshot_enemy_level": 824,
+    "tatari_level": 600,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "boldclaw",
+        "charflutter",
+        "ospisces",
+        "serrabloom",
+        "lickflicker"
+      ],
+      [
+        "blitzmane",
+        "clangnaga",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "synthhog",
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550190547598057652",
+    "stage_start": 44,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "31-45",
+    "screenshot_enemy_level": 824,
+    "tatari_level": 600,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "boldclaw",
+        "charflutter",
+        "clawzor",
+        "serrabloom",
+        "lickflicker"
+      ],
+      [
+        "blitzmane",
+        "clangnaga",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "synthhog",
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550198992632283136",
+    "stage_start": 45,
+    "stage_end": 46,
+    "screenshot_displayed_stage": "31-47",
+    "screenshot_enemy_level": 825,
+    "tatari_level": 600,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "rockshell",
+        "kitjitsu",
+        "lickflicker",
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "snoozebo"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "clangnaga"
+      ],
+      [
+        null,
+        "firefox",
+        "solaflora",
+        "synthhog",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550365800928645150",
+    "stage_start": 47,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "31-50",
+    "screenshot_enemy_level": 826,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockshell",
+        "lickflicker",
+        "hellhound",
+        null,
+        null
+      ],
+      [
+        "cheerspring",
+        "silversear",
+        "synthhog",
+        null,
+        "snoozebo"
+      ],
+      [
+        "rockwu",
+        "hyphoria",
+        "solaflora",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550368045594050572",
+    "stage_start": 50,
+    "stage_end": 52,
+    "screenshot_displayed_stage": "31-51",
+    "screenshot_enemy_level": 826,
+    "tatari_level": 604,
+    "credited_player_name": "Layios",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "hellhound",
+        "serrabloom",
+        "voltling"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapantler"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "synthhog",
+        "rockwu"
+      ],
+      [
+        null,
+        null,
+        null,
+        "solaflora",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards. Screenshot stage differs from the usual range-end-plus-one capture; the full reported range relies on the caption.",
+    "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately.",
+    "credit_basis": "Caption says adapted from Layios F2P Adventure chapter reference; posting author is Casey."
+  },
+  {
+    "source_message_id": "1550370712659959918",
+    "stage_start": 53,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "31-55",
+    "screenshot_enemy_level": 827,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "synthhog",
+        "serrabloom",
+        "voltling"
+      ],
+      [
+        "rockwu",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapantler"
+      ],
+      [
+        "clangnaga",
+        "silversear",
+        "azurion",
+        "waveflutter",
+        "tideon"
+      ],
+      [
+        null,
+        null,
+        null,
+        "solaflora",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550372271284293682",
+    "stage_start": 55,
+    "stage_end": 57,
+    "screenshot_displayed_stage": "31-58",
+    "screenshot_enemy_level": 828,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pearpair",
+        "rockwu",
+        "ospisces",
+        "serrabloom",
+        null
+      ],
+      [
+        "cluckeroo",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "silversear",
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "synthhog",
+        "solaflora",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550373677470720101",
+    "stage_start": 58,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "31-60",
+    "screenshot_enemy_level": 829,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pearpair",
+        "rockwu",
+        "synthhog",
+        "serrabloom",
+        null
+      ],
+      [
+        "solaflora",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "cluckeroo",
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        "capobeetle",
+        null,
+        null,
+        "silversear",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550375003453923420",
+    "stage_start": 60,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "31-61",
+    "screenshot_enemy_level": 829,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        "blitzmane",
+        "pearpair",
+        "serrabloom",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "synthhog"
+      ],
+      [
+        "clangnaga",
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        "silversear",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards. Screenshot stage differs from the usual range-end-plus-one capture; the full reported range relies on the caption.",
+    "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately."
+  },
+  {
+    "source_message_id": "1550379038005137478",
+    "stage_start": 65,
+    "stage_end": 65,
+    "screenshot_displayed_stage": "31-66",
+    "screenshot_enemy_level": 831,
+    "tatari_level": 604,
+    "credited_player_name": "jacobdumbnut",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        "rizzler",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "cluckeroo",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        "zapantler",
+        null,
+        "frugagon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
+    "credit_basis": "Caption says adapted from jacobdumbnut\u2019s chapter reference; posting author is Casey."
+  },
+  {
+    "source_message_id": "1550380147730022420",
+    "stage_start": 66,
+    "stage_end": 66,
+    "screenshot_displayed_stage": "31-67",
+    "screenshot_enemy_level": 831,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        "rizzler",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "silversear",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        "zapantler",
+        null,
+        "cluckeroo",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550380888054038628",
+    "stage_start": 67,
+    "stage_end": 68,
+    "screenshot_displayed_stage": "31-69",
+    "screenshot_enemy_level": 832,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        "rizzler",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "cluckeroo",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        "zapantler",
+        null,
+        "silversear",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550382431847186432",
+    "stage_start": 69,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "31-70",
+    "screenshot_enemy_level": 832,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "solaflora",
+        "blitzmane",
+        "rizzler",
+        "serrabloom",
+        null
+      ],
+      [
+        "pearpair",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "silversear",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "cluckeroo"
+      ],
+      [
+        null,
+        "zapantler",
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550384440230805594",
+    "stage_start": 70,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "31-71",
+    "screenshot_enemy_level": 833,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "hellhound",
+        "clawzor",
+        "serrabloom",
+        "blitzmane",
+        "ospisces"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "boldclaw"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "clangnaga",
+        null
+      ],
+      [
+        null,
+        "silversear",
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards. Screenshot stage differs from the usual range-end-plus-one capture; the full reported range relies on the caption.",
+    "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately."
+  },
+  {
+    "source_message_id": "1550386537274023957",
+    "stage_start": 75,
+    "stage_end": 76,
+    "screenshot_displayed_stage": "31-77",
+    "screenshot_enemy_level": 835,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "ospisces",
+        "blitzmane",
+        "synthhog",
+        "serrabloom",
+        "voltling"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapooch"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora",
+        "zapantler"
+      ],
+      [
+        null,
+        null,
+        "silversear",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550387559501266946",
+    "stage_start": 77,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "31-80",
+    "screenshot_enemy_level": 836,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "clawzor",
+        "blitzmane",
+        "synthhog",
+        "serrabloom",
+        "voltling"
+      ],
+      [
+        "ospisces",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapantler"
+      ],
+      [
+        "silversear",
+        "solaflora",
+        "azurion",
+        "waveflutter",
+        "tideon"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+  },
+  {
+    "source_message_id": "1550393765871485028",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "32-1",
+    "screenshot_enemy_level": null,
+    "tatari_level": 604,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "ospisces",
+        "hellhound",
+        "lickflicker",
+        "cheerspring",
+        "blitzmane"
+      ],
+      [
+        "boldclaw",
+        "charflutter",
+        "pyroprawn",
+        "synthhog",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "hyphoria",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "silversear",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Caption reports 31-80 at level 604 with badges 44444; screenshot shows 32-1, the next chapter after this clear. No enemy-level text is shown. Exact forms, tiers and occupied cells visually matched to the planner catalog; inventory cards show level 604."
+  }
+]

@@ -14,6 +14,8 @@ CATALOG_ROOT = ROOT.parent / "2026-10-05"
 CATALOG = json.loads((CATALOG_ROOT / "tatari-reference.json").read_text())
 FORMS = {form["form_id"]: form for form in CATALOG["forms"]}
 CHAPTERS = [
+    {"chapter": 31, "directory": ROOT.parent / "stage-31", "first": 1, "last": 80,
+     "source_files": ["raw-browser-sources.json"]},
     {"chapter": 40, "directory": ROOT.parent / "stage-40", "first": 1, "last": 80,
      "source_files": ["raw-browser-sources.json"]},
     {"chapter": 41, "directory": ROOT.parent / "stage-41", "first": 1, "last": 80,
@@ -140,8 +142,8 @@ def build() -> None:
             "screenshot_enemy_level": reviewed["screenshot_enemy_level"],
             "screenshot_capture_type": reviewed["capture_type"],
             "tatari_level": level,
-            "tatari_level_basis": "Visible level text on multiple deployed inventory cards. This is the observed player level in the screenshot; individual levels were not readable for every deployed unit.",
-            "level_from_original_post_clear_screenshot": not recreated,
+            "tatari_level_basis": reviewed.get("tatari_level_basis", "Visible level text on multiple deployed inventory cards. This is the observed player level in the screenshot; individual levels were not readable for every deployed unit."),
+            "level_from_original_post_clear_screenshot": reviewed.get("level_from_original_post_clear_screenshot", not recreated),
             "cleared_stages": [f"{chapter}-{n}" for n in range(start, end + 1)],
             "caption_stage_range": reviewed.get("caption_stage_range"),
             "stage_assignment": reviewed.get("stage_assignment_basis") or ("Author's caption; reconstructed later because the original screenshot was missed." if recreated else "Author's caption; screenshot shows the next stage after the reported clear/range, including the next chapter's stage 1 after stage 80."),
@@ -166,7 +168,12 @@ def build() -> None:
         group["numbers"].extend(range(start, end + 1))
         group["levels"].add(level)
         group["posters"].setdefault(source["display_name"], source["source_message_url"])
-        group["level_notes"].append(f"{stage_label(list(range(start, end + 1)), chapter)}: Tatari Lv.{level}" + (" in a recreated screenshot; original clear level unverified" if recreated else " in the post-clear screenshot"))
+        level_observation = (" in a recreated screenshot; original clear level unverified" if recreated else
+                             "; " + reviewed["tatari_level_basis"] if "tatari_level_basis" in reviewed else
+                             " in the post-clear screenshot")
+        group["level_notes"].append(f"{stage_label(list(range(start, end + 1)), chapter)}: Tatari Lv.{level}" + level_observation)
+        if needs_review and not range_check:
+            group["level_notes"].append(reviewed["notes"])
         if range_check:
             group["level_notes"].append(reviewed["notes"])
 
@@ -201,7 +208,7 @@ def build() -> None:
     assert [s["stage"] for s in stages] == [f"{c['chapter']}-{n}" for c in CHAPTERS for n in range(c["first"], c["last"] + 1)]
     dataset = {
         "schema_version": "1.4",
-        "collected_at": "2026-10-05",
+        "collected_at": "2026-10-07",
         "collection_method": "Authenticated Discord website, read-only browser inspection and attachment downloads.",
         "catalog_reference": {
             "url": CATALOG["source_url"],
@@ -214,7 +221,7 @@ def build() -> None:
         "high_confidence": [formation for formation in formations if not formation["needs_review"]],
         "needs_human_review": [formation for formation in formations if formation["needs_review"]],
         "deduplication": "Source message ID identifies each submission. Stage entries reference their source formation; shared captions are not counted as extra submissions. Cards group exact forms, variants and positions by formation hash. New messages are preserved separately; supersedes_message_id remains null without explicit evidence of replacement.",
-        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapter 40 uses Casey's Chapter 19 and onwards thread, selected after comparing opening-stage search results. Selected alternatives had the lowest readable player levels among the inspected clear candidates; no server-wide minimum has been established. Levels remain observations, not independently tested requirements.",
+        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapters 31 and 40 use Casey's Chapter 19 and onwards thread. Chapter 31 was selected after comparisons with Harsh, Win, Unown, Antzer and opening-stage search candidates: Casey's readable levels were lower among inspected clear candidates. Win's caption-only 549 and Casey's caption-only 596 are not treated as verified screenshot levels; the latter record remains flagged for review. No server-wide minimum has been established. Levels remain observations, not independently tested requirements.",
     }
     for record in dataset["high_confidence"] + dataset["needs_human_review"]:
         record["local_image"] = (os.path.relpath(record["local_image_path"], ROOT.parent)
