@@ -161,12 +161,11 @@ def build() -> None:
         group = groups.setdefault((chapter, formations[-1]["formation_hash"]), {
             "chapter": chapter,
             "board": board, "numbers": [], "source": source, "levels": set(),
-            "recreated": False, "range_check": False, "level_notes": [],
+            "posters": {}, "level_notes": [],
         })
         group["numbers"].extend(range(start, end + 1))
         group["levels"].add(level)
-        group["recreated"] |= recreated
-        group["range_check"] |= range_check
+        group["posters"].setdefault(source["display_name"], source["source_message_url"])
         group["level_notes"].append(f"{stage_label(list(range(start, end + 1)), chapter)}: Tatari Lv.{level}" + (" in a recreated screenshot; original clear level unverified" if recreated else " in the post-clear screenshot"))
         if range_check:
             group["level_notes"].append(reviewed["notes"])
@@ -196,8 +195,8 @@ def build() -> None:
         stage_numbers = ",".join(f"{chapter}-{n}" for n in sorted(set(group["numbers"])))
         level_text = "Lv." + "/".join(str(level) for level in sorted(group["levels"]))
         level_title = html.escape("; ".join(group["level_notes"]))
-        recreated_note = '<small>recreated</small>' if group["recreated"] else ('<small>check range</small>' if group["range_check"] else "")
-        cards.append(f'<article class="stage" data-chapter="{chapter}" data-stages="{stage_numbers}" data-formation-id="{source["id"]}"><h2><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" title="Open the original Discord reference">{stage}</a><span class="level" title="{level_title}" aria-label="{level_title}">{level_text}{recreated_note}</span></h2><div class="board" role="group" aria-label="Stages {stage}: 5 by 5 formation, top row is the front">{"".join(cells)}</div></article>')
+        poster_links = ", ".join(f'<a href="{html.escape(url, quote=True)}" target="_blank" rel="noopener noreferrer">{html.escape(name)}</a>' for name, url in group["posters"].items())
+        cards.append(f'<article class="stage" data-chapter="{chapter}" data-stages="{stage_numbers}" data-formation-id="{source["id"]}"><h2><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" title="Open the original Discord reference">{stage}</a><span class="level" title="{level_title}" aria-label="{level_title}">{level_text}</span></h2><p class="poster">Posted by {poster_links}</p><div class="board" role="group" aria-label="Stages {stage}: 5 by 5 formation, top row is the front">{"".join(cells)}</div></article>')
 
     assert [s["stage"] for s in stages] == [f"{c['chapter']}-{n}" for c in CHAPTERS for n in range(c["first"], c["last"] + 1)]
     dataset = {

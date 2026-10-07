@@ -7,8 +7,12 @@ A simple, static Main Stage reference showing stage ranges, observed Tatari
 levels and exact 5×5 formations. It currently covers all **880 stages in
 chapters 40–50**, grouped into **253 formation cards** from 267 source posts.
 Exact forms, glitter variants and positions determine whether cards can merge.
-Stage labels link to the original Discord messages, which require the viewer's
-own server access. Recreated screenshots and ambiguous stage ranges are labeled.
+Stage labels and the “Posted by” line link to the original Discord messages,
+which require the viewer's own server access. The posting display name appears
+below the stage/level heading and above the grid; it is distinct from any
+credited formation creator. Level badges show only the observed level numbers.
+Recreated screenshots and ambiguous stage ranges retain notes in the saved data
+and level tooltips.
 
 ## Preview and build
 
