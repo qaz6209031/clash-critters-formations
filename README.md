@@ -5,7 +5,8 @@
 
 A simple, static Main Stage reference showing stage ranges, observed Tatari
 levels and exact 5×5 formations. It currently covers all **960 stages in
-chapter 31 and chapters 40–50**, grouped into **290 formation cards** from 305 source posts.
+chapter 31 and chapters 40–50**, grouped into **288 formation cards** from 303 selected source posts.
+All 306 collected sources are preserved, including three higher-level alternatives.
 Exact forms, glitter variants and positions determine whether cards can merge.
 Stage labels and the “Posted by” line link to the original Discord messages,
 which require the viewer's own server access. The posting display name appears
@@ -60,8 +61,12 @@ When local evidence is available, the builder includes that richer evidence in
 the locally generated JSON. A fresh clone builds from the publication index
 and leaves original-image fields empty. Only the site folder is deployed.
 
-Credits follow source captions and are not independently verified. Levels are
-observed screenshot levels, not established minimum clear levels. Screenshots
+Credits follow source captions and are not independently verified. Use a formation
+only when its level is readable in the image or explicitly typed in the post.
+Typed levels are valid even without image-level text; provenance is retained as
+`tatari_level_source: image | message_text`, with an exact quote for typed levels.
+Never infer a missing level from nearby posts or enemy levels. Levels are source
+observations or author statements, not established minimum clear levels. Screenshots
 normally display the next stage after the reported clear. Some chapter 40
 captures follow the first stage of a captioned range; later endpoints rely on
 the author’s caption. Recreated captures
@@ -74,9 +79,9 @@ level-853 posts found through Discord search; all other new chapters use the
 provided nil reference thread. Search comparisons establish only the lowest
 readable level among inspected candidates, not a server-wide minimum.
 
-Chapter 31 adds all 80 stages from 38 Casey posts, grouped into 37 cards.
-Selected levels are 579–604, below Harsh’s level-637 chapter reference and
-the other inspected readable candidates. One post for 31-10–31-12 reports
-level 596 in its caption but attaches a 31-15 image with no readable player
-level; that source remains flagged for human review. Chapters 32–39 are
+Chapter 31 adds all 80 stages from 36 selected posts, grouped into 35 cards.
+Selected levels are 549–604. Win’s explicitly posted level 549 is selected
+for 31-5–31-9; Casey’s three level-579 alternatives remain in the data.
+Casey’s explicitly posted level 596 is accepted for 31-10–31-12, while that
+source remains flagged for its screenshot-stage mismatch. Chapters 32–39 are
 not yet included.

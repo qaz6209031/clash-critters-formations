@@ -46,7 +46,7 @@
       ]
     ],
     "needs_review": false,
-    "notes": "Caption reports 30-80 through 31-1; only 31-1 is selected for this chapter. Screenshot displays 31-1 after 30-80, so the additional 31-1 clear relies on the author\u2019s caption. Inventory cards show level 579.",
+    "notes": "Caption reports 30-80 through 31-1; only 31-1 is selected for this chapter. Screenshot displays 31-1 after 30-80, so the additional 31-1 clear relies on the author’s caption. Inventory cards show level 579.",
     "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately."
   },
   {
@@ -148,6 +148,61 @@
     "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
   },
   {
+    "source_message_id": "1538997557391532152",
+    "stage_start": 5,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "31-10",
+    "screenshot_enemy_level": 812,
+    "tatari_level": 549,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 549",
+    "tatari_level_basis": "Level 549 is explicitly stated in the source message: “31-5 to 31-9, lvl 549”. No player-level number is readable in the image.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "rockwu",
+        "synthhog",
+        "blitzmane",
+        "zapup",
+        "capypapa"
+      ],
+      [
+        "rockshell",
+        "cheerspring",
+        "trippet",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Caption reports clearing 31-5 through 31-9 at level 549; screenshot displays the next stage 31-10. Level is an explicit author statement, not an image reading. Exact deployed forms, tiers and positions were visually matched to the planner catalog. No missing level was inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among the inspected clear candidates for this range, accepting explicit message-text levels under the user’s collection rule. The level has not been independently tested."
+  },
+  {
     "source_message_id": "1549865027190792223",
     "stage_start": 5,
     "stage_end": 5,
@@ -194,7 +249,9 @@
       ]
     ],
     "needs_review": false,
-    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
+    "selected_for_website": false,
+    "selection_reason": "Higher-level alternative preserved. Website selects Win’s explicitly stated level 549 source 1538997557391532152 for 31-5 through 31-9."
   },
   {
     "source_message_id": "1549871060441104505",
@@ -243,7 +300,9 @@
       ]
     ],
     "needs_review": false,
-    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
+    "selected_for_website": false,
+    "selection_reason": "Higher-level alternative preserved. Website selects Win’s explicitly stated level 549 source 1538997557391532152 for 31-5 through 31-9."
   },
   {
     "source_message_id": "1549875832879718430",
@@ -292,7 +351,9 @@
       ]
     ],
     "needs_review": false,
-    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards."
+    "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
+    "selected_for_website": false,
+    "selection_reason": "Higher-level alternative preserved. Website selects Win’s explicitly stated level 549 source 1538997557391532152 for 31-5 through 31-9."
   },
   {
     "source_message_id": "1550077090425213041",
@@ -341,11 +402,13 @@
       ]
     ],
     "needs_review": true,
-    "notes": "Caption claims 31-10 through 31-12 at level 596, but the image displays 31-15 and does not show player level text. The exact attached board includes Glitter Tideon. Stage attribution and reported level need human review; no missing screenshot level was invented.",
+    "notes": "The author explicitly states level 596, which is accepted as a message-text level. The caption reports 31-10 through 31-12, but its attached image displays 31-15. Stage attribution alone needs human review; the exact attached board includes Glitter Tideon.",
     "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately.",
-    "credit_basis": "Caption says adapted from jacobdumbnut\u2019s chapter reference; posting author is Casey.",
+    "credit_basis": "Caption says adapted from jacobdumbnut’s chapter reference; posting author is Casey.",
     "tatari_level_basis": "Level 596 is explicitly reported in the message caption. Inventory card levels are not visible in the attached image.",
-    "level_from_original_post_clear_screenshot": false
+    "level_from_original_post_clear_screenshot": false,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 596"
   },
   {
     "source_message_id": "1550078702027673681",
@@ -691,7 +754,7 @@
     "needs_review": false,
     "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards. Screenshot stage differs from the usual range-end-plus-one capture; the full reported range relies on the caption.",
     "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately.",
-    "credit_basis": "Caption says adapted from jacobdumbnut\u2019s chapter reference; posting author is Casey."
+    "credit_basis": "Caption says adapted from jacobdumbnut’s chapter reference; posting author is Casey."
   },
   {
     "source_message_id": "1550139816786530334",
@@ -742,7 +805,7 @@
     "needs_review": false,
     "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards. Screenshot stage differs from the usual range-end-plus-one capture; the full reported range relies on the caption.",
     "stage_assignment_basis": "Author's caption supplies the cleared range. The attached screenshot was captured partway through that range or later; its displayed stage is preserved separately.",
-    "credit_basis": "Caption explicitly says adapted from Harsh\u2019s chapter 31 reference; posting author is Casey."
+    "credit_basis": "Caption explicitly says adapted from Harsh’s chapter 31 reference; posting author is Casey."
   },
   {
     "source_message_id": "1550141210348359823",
@@ -842,7 +905,7 @@
     ],
     "needs_review": false,
     "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
-    "credit_basis": "Caption says adapted from jacobdumbnut\u2019s chapter reference; posting author is Casey."
+    "credit_basis": "Caption says adapted from jacobdumbnut’s chapter reference; posting author is Casey."
   },
   {
     "source_message_id": "1550143140093104289",
@@ -1532,7 +1595,7 @@
     ],
     "needs_review": false,
     "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
-    "credit_basis": "Caption says adapted from jacobdumbnut\u2019s chapter reference; posting author is Casey."
+    "credit_basis": "Caption says adapted from jacobdumbnut’s chapter reference; posting author is Casey."
   },
   {
     "source_message_id": "1550380147730022420",

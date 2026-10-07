@@ -107,6 +107,12 @@ def build() -> None:
         displayed = reviewed["screenshot_displayed_stage"]
         credit, board = reviewed["credited_player_name"], reviewed["board"]
         level = reviewed["tatari_level"]
+        level_source = reviewed.get("tatari_level_source", "image")
+        assert isinstance(level, int) and not isinstance(level, bool) and level > 0, source["id"]
+        assert level_source in {"image", "message_text"}, source["id"]
+        if level_source == "message_text":
+            quote = reviewed["tatari_level_quote"]
+            assert quote in source["text"] and str(level) in quote, source["id"]
         recreated = reviewed["capture_type"] == "reconstructed"
         needs_review = recreated or reviewed.get("needs_review", False)
         range_check = bool(reviewed.get("caption_stage_range"))
@@ -142,6 +148,8 @@ def build() -> None:
             "screenshot_enemy_level": reviewed["screenshot_enemy_level"],
             "screenshot_capture_type": reviewed["capture_type"],
             "tatari_level": level,
+            "tatari_level_source": level_source,
+            "tatari_level_quote": reviewed.get("tatari_level_quote"),
             "tatari_level_basis": reviewed.get("tatari_level_basis", "Visible level text on multiple deployed inventory cards. This is the observed player level in the screenshot; individual levels were not readable for every deployed unit."),
             "level_from_original_post_clear_screenshot": reviewed.get("level_from_original_post_clear_screenshot", not recreated),
             "cleared_stages": [f"{chapter}-{n}" for n in range(start, end + 1)],
@@ -151,12 +159,16 @@ def build() -> None:
             "lineup": lineup,
             "formation_hash": hashlib.sha256(signature.encode()).hexdigest(),
             "supersedes_message_id": None,
+            "selected_for_website": reviewed.get("selected_for_website", True),
+            "selection_reason": reviewed.get("selection_reason"),
             "needs_review": needs_review,
             "review_notes": reviewed["notes"] or "Exact forms and occupied cells visually matched to the supplied planner catalog. Glitter variants matched separately where present.",
             "outcome_basis": "Author-reported clear; not independently tested in game.",
         })
         if "deployed_count" in reviewed:
             formations[-1]["deployed_count"] = reviewed["deployed_count"]
+        if not formations[-1]["selected_for_website"]:
+            continue
         for n in range(start, end + 1):
             stage = f"{chapter}-{n}"
             stages.append({"stage": stage, "formation_id": source["id"], "tatari_level": level, "level_from_reconstruction": recreated})
@@ -207,7 +219,7 @@ def build() -> None:
 
     assert [s["stage"] for s in stages] == [f"{c['chapter']}-{n}" for c in CHAPTERS for n in range(c["first"], c["last"] + 1)]
     dataset = {
-        "schema_version": "1.4",
+        "schema_version": "1.5",
         "collected_at": "2026-10-07",
         "collection_method": "Authenticated Discord website, read-only browser inspection and attachment downloads.",
         "catalog_reference": {
@@ -221,7 +233,8 @@ def build() -> None:
         "high_confidence": [formation for formation in formations if not formation["needs_review"]],
         "needs_human_review": [formation for formation in formations if formation["needs_review"]],
         "deduplication": "Source message ID identifies each submission. Stage entries reference their source formation; shared captions are not counted as extra submissions. Cards group exact forms, variants and positions by formation hash. New messages are preserved separately; supersedes_message_id remains null without explicit evidence of replacement.",
-        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapters 31 and 40 use Casey's Chapter 19 and onwards thread. Chapter 31 was selected after comparisons with Harsh, Win, Unown, Antzer and opening-stage search candidates: Casey's readable levels were lower among inspected clear candidates. Win's caption-only 549 and Casey's caption-only 596 are not treated as verified screenshot levels; the latter record remains flagged for review. No server-wide minimum has been established. Levels remain observations, not independently tested requirements.",
+        "level_selection_policy": "Use a formation only when its Tatari level is readable in the image or explicitly stated in the source message. A stated level is valid without image-level text; preserve whether its source is image or message_text. Do not infer an absent level from adjacent posts or enemy levels. Prefer the lowest supported level among inspected clear candidates, preserving unselected alternatives.",
+        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapters 31 and 40 use Casey's Chapter 19 and onwards thread; chapter 31 uses Win's explicitly stated level 549 formation for 31-5 through 31-9. Other chapter 31 selections use Casey after comparisons with Harsh, Win, Unown, Antzer and opening-stage candidates. Casey's explicitly stated 596 for 31-10 through 31-12 is accepted as a message-text level; the record remains flagged only because the screenshot displays 31-15. Three higher-level Casey alternatives for 31-5 through 31-9 are retained with selected_for_website=false. No server-wide minimum has been established. Levels are source observations or author statements, not independently tested requirements.",
     }
     for record in dataset["high_confidence"] + dataset["needs_human_review"]:
         record["local_image"] = (os.path.relpath(record["local_image_path"], ROOT.parent)
