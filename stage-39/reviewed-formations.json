@@ -1,0 +1,1342 @@
+[
+  {
+    "source_message_id": "1555057849963647047",
+    "stage_start": 1,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "39-1",
+    "screenshot_enemy_level": 1023,
+    "tatari_level": 771,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 771",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": "Nyu",
+    "capture_type": "range_snapshot",
+    "board": [
+      [
+        null,
+        null,
+        "serrabloom",
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "sonarbat",
+        "flarevix",
+        "blitzmane",
+        "lickflicker"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "stage_assignment_basis": "Author explicitly reports the selected stages in the caption; screenshot displays 39-1, not the end-of-range next stage. Only the caption-supported portion of the requested block is selected.",
+    "level_from_original_post_clear_screenshot": false,
+    "credit_basis": "Caption explicitly says adapted from Nyu\u2019s guide; this is attribution, not a verified Discord username."
+  },
+  {
+    "source_message_id": "1550802979563507713",
+    "stage_start": 5,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "39-10",
+    "screenshot_enemy_level": 1026,
+    "tatari_level": 812,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 812",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "stoodbeak",
+        "silversear",
+        "serrabloom",
+        "voltverine"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "zapup"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "cluckeroo",
+        "zapantler"
+      ],
+      [
+        null,
+        null,
+        "flarevix",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550803026342842441",
+    "stage_start": 10,
+    "stage_end": 10,
+    "screenshot_displayed_stage": "39-11",
+    "screenshot_enemy_level": 1026,
+    "tatari_level": 812,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 812",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stoodbeak",
+        "blitzmane",
+        "frostique",
+        "rockwu",
+        null
+      ],
+      [
+        "armorjaw",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        null,
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "seaswirl",
+        "cluckeroo",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550803573821018132",
+    "stage_start": 11,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "39-15",
+    "screenshot_enemy_level": 1027,
+    "tatari_level": 813,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 813",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stoodbeak",
+        "voltverine",
+        "blitzmane",
+        "rockwu",
+        null
+      ],
+      [
+        "armorjaw",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        null,
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        "cluckeroo",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550803742922645635",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "39-20",
+    "screenshot_enemy_level": 1029,
+    "tatari_level": 813,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 813",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        "cluckeroo",
+        "serrabloom",
+        "stoodbeak"
+      ],
+      [
+        "silversear",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        "clangnaga",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550804435180195880",
+    "stage_start": 20,
+    "stage_end": 20,
+    "screenshot_displayed_stage": "39-21",
+    "screenshot_enemy_level": 1029,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stoodbeak",
+        "hellhound",
+        "blitzmane",
+        "rockwu",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapup"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550804652033974323",
+    "stage_start": 21,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "39-25",
+    "screenshot_enemy_level": 1031,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stoodbeak",
+        "hellhound",
+        "blitzmane",
+        "rockwu",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapup"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550805347168690266",
+    "stage_start": 25,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "39-30",
+    "screenshot_enemy_level": 1032,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "hellhound",
+        "blitzmane",
+        "rockwu",
+        "stoodbeak"
+      ],
+      [
+        "cluckeroo",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550805498213826612",
+    "stage_start": 30,
+    "stage_end": 30,
+    "screenshot_displayed_stage": "39-31",
+    "screenshot_enemy_level": 1033,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "hellhound",
+        "sonarbat",
+        "blitzmane",
+        "serrabloom"
+      ],
+      [
+        "voltverine",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550805591193296996",
+    "stage_start": 31,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "39-35",
+    "screenshot_enemy_level": 1034,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "hellhound",
+        "blitzmane",
+        "zapantler",
+        "serrabloom"
+      ],
+      [
+        "voltverine",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550805730116771872",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "39-40",
+    "screenshot_enemy_level": 1036,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "silversear",
+        "rockwu",
+        "frostique",
+        "blitzmane"
+      ],
+      [
+        "voltverine",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "rockshell"
+      ],
+      [
+        "zapantler",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "clangnaga",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550805852334596146",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "39-41",
+    "screenshot_enemy_level": 1036,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockshell",
+        "frostique",
+        "voltverine",
+        "silversear",
+        "rockwu"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "cluckeroo"
+      ],
+      [
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550805951467094026",
+    "stage_start": 41,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "39-45",
+    "screenshot_enemy_level": 1037,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockshell",
+        "frostique",
+        "voltverine",
+        "silversear",
+        "rockwu"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "rockwu"
+      ],
+      [
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550806073185673278",
+    "stage_start": 45,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "39-50",
+    "screenshot_enemy_level": 1039,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        "rockwu",
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        "rockshell",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        "cluckeroo",
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        "zapantler",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550806420130369618",
+    "stage_start": 50,
+    "stage_end": 50,
+    "screenshot_displayed_stage": "39-51",
+    "screenshot_enemy_level": 1039,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        "serrabloom"
+      ],
+      [
+        "hellhound",
+        "clangnaga",
+        "sonarbat",
+        "charflutter",
+        null
+      ],
+      [
+        "frugagon",
+        "cheerspring",
+        "hyphoria",
+        "chronerva",
+        "silversear"
+      ],
+      [
+        "zapantler",
+        "voltmare",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550806543992098846",
+    "stage_start": 51,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "39-55",
+    "screenshot_enemy_level": 1041,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "clangnaga",
+        "blitzmane",
+        "chronerva",
+        "serrabloom"
+      ],
+      [
+        "silversear",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "cluckeroo",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        "frugagon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550806630566989825",
+    "stage_start": 55,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "39-60",
+    "screenshot_enemy_level": 1042,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stoodbeak",
+        "rockzilla",
+        "rockwu",
+        "serrabloom",
+        null
+      ],
+      [
+        "armorjaw",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        null,
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        "solaflora",
+        "clangnaga",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550806806119587860",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "39-61",
+    "screenshot_enemy_level": 1043,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "voltverine",
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "cheerspring",
+        "sonarbat",
+        "clangnaga",
+        "armorjaw"
+      ],
+      [
+        null,
+        "rockwu",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "voltmare",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550806988206645280",
+    "stage_start": 61,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "39-65",
+    "screenshot_enemy_level": 1044,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "rockwu",
+        "blitzmane",
+        "clangnaga",
+        "armorjaw"
+      ],
+      [
+        "cluckeroo",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550807105639026698",
+    "stage_start": 65,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "39-70",
+    "screenshot_enemy_level": 1046,
+    "tatari_level": 816,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 816",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        "blitzmane",
+        "rockwu",
+        "serrabloom",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "zapantler"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550807225298190416",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "39-71",
+    "screenshot_enemy_level": 1046,
+    "tatari_level": 826,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 826",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom",
+        "blitzmane",
+        "hellhound",
+        "stoodbeak"
+      ],
+      [
+        null,
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        null,
+        "hyphoria",
+        "frugagon",
+        "zapantler"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1550807339563491370",
+    "stage_start": 71,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "39-75",
+    "screenshot_enemy_level": 1047,
+    "tatari_level": 826,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 826",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "silversear",
+        "frugagon",
+        "blitzmane",
+        "serrabloom",
+        "stoodbeak"
+      ],
+      [
+        "cluckeroo",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "armorjaw"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "flarevix",
+        "zapantler"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "unit_confidence": 0.95,
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1547637048620482753",
+    "stage_start": 75,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "39-80",
+    "screenshot_enemy_level": 1049,
+    "tatari_level": 830,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "LVL 830",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "hellhound",
+        "lickflicker",
+        "silversear",
+        "blitzmane"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "frostique",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "flarevix",
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1547637435763265656",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "40-1",
+    "screenshot_enemy_level": 1049,
+    "tatari_level": 830,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "LVL 830",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        null,
+        "dreadclaw",
+        "serrabloom",
+        "hellhound"
+      ],
+      [
+        "sonarbat",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "flarevix"
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        "solaflora",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  }
+]

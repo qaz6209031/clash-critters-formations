@@ -1,0 +1,1208 @@
+[
+  {
+    "source_message_id": "1544804470687273000",
+    "stage_start": 1,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "32-5",
+    "screenshot_enemy_level": 837,
+    "tatari_level": 637,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        "swaystroll",
+        "hellhound",
+        "cluckeroo",
+        "cheerspring",
+        null
+      ],
+      [
+        "ospisces",
+        "charflutter",
+        "synthhog",
+        "trippet",
+        "silversear"
+      ],
+      [
+        null,
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544804730453098536",
+    "stage_start": 5,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "32-10",
+    "screenshot_enemy_level": 839,
+    "tatari_level": 639,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "clawzor",
+        "synthhog",
+        "serrabloom",
+        "blitzmane"
+      ],
+      [
+        "rockwu",
+        "charflutter",
+        "trippet",
+        "cheerspring",
+        "zapooch"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora",
+        "zapantler"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544804813945184377",
+    "stage_start": 10,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "32-11",
+    "screenshot_enemy_level": 839,
+    "tatari_level": 639,
+    "credited_player_name": null,
+    "capture_type": "range_snapshot",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        "blitzmane",
+        "boldclaw",
+        "rockwu",
+        null
+      ],
+      [
+        "ospisces",
+        "cheerspring",
+        "charflutter",
+        "trippet",
+        null
+      ],
+      [
+        null,
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        "solaflora",
+        "frostique",
+        "zenscarab",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "supporting_message_ids": [
+      "1544808159208538212"
+    ],
+    "stage_assignment_basis": "Author caption reports 32-10. The same author explicitly extends this formation to 32-11 through 32-14 in reply 1544808159208538212: Also for 32-11 to 32-14.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1544808221682827315",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "32-20",
+    "screenshot_enemy_level": 842,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "cluckeroo",
+        "serrabloom",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "solaflora",
+        "charflutter",
+        "ospisces"
+      ],
+      [
+        "frostique",
+        "zapantler",
+        "hyphoria",
+        "rockwu",
+        "silversear"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544819062838661131",
+    "stage_start": 20,
+    "stage_end": 20,
+    "screenshot_displayed_stage": "32-21",
+    "screenshot_enemy_level": 843,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        "ospisces",
+        "cheerspring",
+        "synthhog",
+        "charflutter",
+        null
+      ],
+      [
+        "solaflora",
+        "silversear",
+        "hyphoria",
+        "rockwu",
+        "zapantler"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "capobeetle"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544819105171906660",
+    "stage_start": 21,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "32-25",
+    "screenshot_enemy_level": 844,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        "ospisces",
+        "charflutter",
+        "synthhog",
+        "cheerspring",
+        null
+      ],
+      [
+        "frostique",
+        "silversear",
+        "hyphoria",
+        "rockwu",
+        "zapantler"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "capobeetle"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544819143201792020",
+    "stage_start": 25,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "32-30",
+    "screenshot_enemy_level": 846,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        null,
+        "rockwu",
+        "blitzmane",
+        "ospisces"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "frostique"
+      ],
+      [
+        null,
+        "silversear",
+        "synthhog",
+        null,
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "Screenshot deploys 13 units; empty cells preserved.",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "deployed_count": 13,
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544824292888285295",
+    "stage_start": 30,
+    "stage_end": 30,
+    "screenshot_displayed_stage": "32-31",
+    "screenshot_enemy_level": 846,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "serrabloom"
+      ],
+      [
+        "voltling",
+        "blitzmane",
+        "synthhog",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "zapantler",
+        "hyphoria",
+        "solaflora"
+      ],
+      [
+        "zenscarab",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544825339572789281",
+    "stage_start": 31,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "32-35",
+    "screenshot_enemy_level": 847,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "voltling",
+        "hellhound",
+        "synthhog",
+        "blitzmane",
+        "serrabloom"
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        "zenscarab",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544833042160558142",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "32-40",
+    "screenshot_enemy_level": 849,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        null,
+        "rockwu",
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "charflutter",
+        "synthhog",
+        "blitzmane",
+        null
+      ],
+      [
+        "solaflora",
+        "silversear",
+        "hyphoria",
+        "cheerspring",
+        "zenscarab"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zapantler"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544833099115008154",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "32-41",
+    "screenshot_enemy_level": 849,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        null,
+        "blitzmane",
+        null,
+        "serrabloom"
+      ],
+      [
+        "rockshell",
+        "cheerspring",
+        "synthhog",
+        "charflutter",
+        null
+      ],
+      [
+        "solaflora",
+        "rockwu",
+        "hyphoria",
+        "silversear",
+        "zenscarab"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544833153875574825",
+    "stage_start": 41,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "32-45",
+    "screenshot_enemy_level": 851,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        "serrabloom"
+      ],
+      [
+        "rockzilla",
+        "cheerspring",
+        "synthhog",
+        "charflutter",
+        null
+      ],
+      [
+        "rockshell",
+        "rockwu",
+        "hyphoria",
+        "silversear",
+        "zenscarab"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544833214609096714",
+    "stage_start": 45,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "32-50",
+    "screenshot_enemy_level": 852,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        "rockwu",
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        "rockshell",
+        "cheerspring",
+        "synthhog",
+        "charflutter",
+        null
+      ],
+      [
+        "solaflora",
+        "zenscarab",
+        "hyphoria",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1544833234594959372",
+    "stage_start": 50,
+    "stage_end": 50,
+    "screenshot_displayed_stage": "32-51",
+    "screenshot_enemy_level": 853,
+    "tatari_level": 651,
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "zapooch",
+        "cactobloom",
+        "serrabloom"
+      ],
+      [
+        null,
+        "blitzmane",
+        "cheerspring",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        null,
+        "rockwu",
+        "synthhog",
+        "cluckeroo",
+        "solaflora"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "hyphoria",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Guide explicitly covers the requested stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": true
+  },
+  {
+    "source_message_id": "1543335576034480200",
+    "stage_start": 51,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "32-51",
+    "screenshot_enemy_level": 853,
+    "tatari_level": 671,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 671",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "range_snapshot",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        null,
+        "clangnaga",
+        "nimbuzzy",
+        "frugagon",
+        "serrabloom"
+      ],
+      [
+        "silversear",
+        "cheerspring",
+        "sonarbat",
+        "hyphoria",
+        "pandaroot"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "clucky",
+        "solaflora"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "stage_assignment_basis": "Author explicitly reports the selected stages in the caption; screenshot displays 32-51, not the end-of-range next stage. Only the caption-supported portion of the requested block is selected.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1543335684893577236",
+    "stage_start": 55,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "32-60",
+    "screenshot_enemy_level": 856,
+    "tatari_level": 671,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 671",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "cobbledon",
+        "serrabloom"
+      ],
+      [
+        "capywata",
+        null,
+        null,
+        "rockwu",
+        "humbleetle"
+      ],
+      [
+        "seaswirl",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        "frostique",
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1543580812048474212",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "32-61",
+    "screenshot_enemy_level": 856,
+    "tatari_level": 671,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 671",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": "@.unonu.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "cheerspring",
+        "zapantler",
+        null,
+        null
+      ],
+      [
+        "solaflora",
+        "rockwu",
+        "sonarbat",
+        "clangnaga",
+        null
+      ],
+      [
+        null,
+        "hyphoria",
+        "wobbler",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1543581073445752912",
+    "stage_start": 61,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "32-65",
+    "screenshot_enemy_level": 857,
+    "tatari_level": 671,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 671",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "cobbledon",
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "rockwu",
+        "blitzmane",
+        "clangnaga",
+        null
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        "clucky",
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1544030793486176297",
+    "stage_start": 65,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "32-70",
+    "screenshot_enemy_level": 859,
+    "tatari_level": 672,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 672",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "clucky",
+        "blitzmane",
+        "rockwu",
+        "serrabloom",
+        "voltverine"
+      ],
+      [
+        "silversear",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "frostique"
+      ],
+      [
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "zapantler"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1544709765920333845",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "32-71",
+    "screenshot_enemy_level": 859,
+    "tatari_level": 684,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 684",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom",
+        "nimbuzzy",
+        "frugagon",
+        "frostique"
+      ],
+      [
+        "silversear",
+        "clangnaga",
+        "hyphoria",
+        "cheerspring",
+        "sonarbat"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "clucky",
+        "zapantler"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1544709891489398915",
+    "stage_start": 71,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "32-75",
+    "screenshot_enemy_level": 861,
+    "tatari_level": 684,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 684",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom",
+        "seaswirl",
+        "frugagon",
+        "swaystroll"
+      ],
+      [
+        "silversear",
+        "clangnaga",
+        "hyphoria",
+        "cheerspring",
+        "zapantler"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "clucky",
+        "frostique"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1544709941367935016",
+    "stage_start": 75,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "32-80",
+    "screenshot_enemy_level": 862,
+    "tatari_level": 684,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 684",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        "hellhound",
+        "silversear",
+        "flarevix",
+        null
+      ],
+      [
+        "seaswirl",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "zapantler"
+      ],
+      [
+        "frostique",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "clangnaga"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1544710020938334338",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "33-1",
+    "screenshot_enemy_level": 863,
+    "tatari_level": 684,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 684",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "capywata",
+        null,
+        null
+      ],
+      [
+        null,
+        "flarevix",
+        "frostique",
+        "serrabloom",
+        "hellhound"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "seaswirl"
+      ],
+      [
+        "zapantler",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "silversear"
+      ]
+    ],
+    "needs_review": false,
+    "notes": "",
+    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "level_from_original_post_clear_screenshot": false
+  }
+]

@@ -4,10 +4,12 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple, static Main Stage reference showing stage ranges, observed Tatari
-levels and exact 5×5 formations. It currently covers all **960 stages in
-chapter 31 and chapters 40–50**, grouped into **288 formation cards** from 303 selected source posts.
-All 306 collected sources are preserved, including three higher-level alternatives.
+levels and exact 5×5 formations. It currently covers all **1600 stages in
+chapters 31–50**, grouped into **480 formation cards** from 489 selected source posts.
+All 492 selected or alternative submissions are preserved, plus one supporting reply in the public source index.
 Exact forms, glitter variants and positions determine whether cards can merge.
+Chapters 32–39 keep each 1–4 block, 5–9 block and boss separate, including when
+the same formation works across adjacent blocks.
 Stage labels and the “Posted by” line link to the original Discord messages,
 which require the viewer's own server access. The posting display name appears
 below the stage/level heading and above the grid; it is distinct from any
@@ -24,7 +26,7 @@ python3 stage-47/build_site.py
 python3 -m http.server 8765 --bind 127.0.0.1 --directory stage-47/site
 ```
 
-Open `http://127.0.0.1:8765/`. Chapter links use `#chapter-31` and `#chapter-40` through
+Open `http://127.0.0.1:8765/`. Chapter links use `#chapter-31` through
 `#chapter-50`. The finished `stage-47/site/index.html` also opens offline.
 All artwork is embedded, so GitHub Pages project paths work without a base-URL
 setting or asset server.
@@ -45,7 +47,7 @@ and updating the page title/description.
 
 ## Files and source evidence
 
-- `stage-31` and `stage-40` through `stage-50`: reviewed formations and chapter notes.
+- `stage-31` through `stage-50`: reviewed formations and chapter notes.
 - `stage-47/build_site.py`: static site and structured-data generator.
 - `stage-47/page-template.html`: website layout and styles.
 - `stage-47/site/index.html`: generated offline website.
@@ -83,5 +85,12 @@ Chapter 31 adds all 80 stages from 36 selected posts, grouped into 35 cards.
 Selected levels are 549–604. Win’s explicitly posted level 549 is selected
 for 31-5–31-9; Casey’s three level-579 alternatives remain in the data.
 Casey’s explicitly posted level 596 is accepted for 31-10–31-12, while that
-source remains flagged for its screenshot-stage mismatch. Chapters 32–39 are
-not yet included.
+source remains flagged for its screenshot-stage mismatch.
+
+Chapters 32–39 add all 640 stages from 186 selected submissions in 192 cards.
+The user waived exhaustive lowest-level comparison for this addition. Antzer
+is the main source, with Harsh, Unown and Casey filling missing or ambiguous
+blocks. Harsh’s explicit reply supports 32-11–32-14. When screenshots show base
+artwork, exact tiers come from explicit author statements and retain that
+provenance; unclear exceptions use other sources. Existing formations and card
+grouping for chapter 31 and chapters 40–50 are preserved.

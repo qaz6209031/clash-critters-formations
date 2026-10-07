@@ -16,6 +16,10 @@ FORMS = {form["form_id"]: form for form in CATALOG["forms"]}
 CHAPTERS = [
     {"chapter": 31, "directory": ROOT.parent / "stage-31", "first": 1, "last": 80,
      "source_files": ["raw-browser-sources.json"]},
+    *[{"chapter": number, "directory": ROOT.parent / f"stage-{number}", "first": 1, "last": 80,
+       "source_files": (["raw-browser-sources.json", "antzer-browser-sources.json"]
+                        if number == 32 else ["raw-browser-sources.json"])}
+      for number in range(32, 40)],
     {"chapter": 40, "directory": ROOT.parent / "stage-40", "first": 1, "last": 80,
      "source_files": ["raw-browser-sources.json"]},
     {"chapter": 41, "directory": ROOT.parent / "stage-41", "first": 1, "last": 80,
@@ -94,6 +98,12 @@ def stage_label(numbers: list[int], chapter: int) -> str:
     return ", ".join(ranges)
 
 
+def stage_block(number: int) -> int:
+    """Keep 1–4, 5–9 and each boss separate in the new chapters."""
+    decade, offset = divmod(number, 10)
+    return number if offset == 0 else decade * 10 + (1 if offset <= 4 else 5)
+
+
 def build() -> None:
     formations = []
     stages = []
@@ -120,6 +130,10 @@ def build() -> None:
         lineup = [unit_record(key, r, c)
                   for r, row in enumerate(board, 1)
                   for c, key in enumerate(row, 1) if key]
+        if "unit_confidence" in reviewed:
+            for unit in lineup:
+                unit["confidence"] = reviewed["unit_confidence"]
+                unit["tier_assignment_basis"] = reviewed["tier_assignment_basis"]
         assert len(lineup) == reviewed.get("deployed_count", 15), source["id"]
         signature = json.dumps([(u["position"], u["form_id"], u["variant"])
                                 for u in lineup], separators=(",", ":"))
@@ -167,27 +181,44 @@ def build() -> None:
         })
         if "deployed_count" in reviewed:
             formations[-1]["deployed_count"] = reviewed["deployed_count"]
+        if "tier_assignment_basis" in reviewed:
+            formations[-1]["tier_assignment_basis"] = reviewed["tier_assignment_basis"]
+        if "supporting_message_ids" in reviewed:
+            formations[-1]["supporting_messages"] = [
+                {key: SOURCES[message_id][key]
+                 for key in ("id", "source_message_url", "text", "posted_at")}
+                for message_id in reviewed["supporting_message_ids"]]
         if not formations[-1]["selected_for_website"]:
             continue
         for n in range(start, end + 1):
             stage = f"{chapter}-{n}"
             stages.append({"stage": stage, "formation_id": source["id"], "tatari_level": level, "level_from_reconstruction": recreated})
-        group = groups.setdefault((chapter, formations[-1]["formation_hash"]), {
-            "chapter": chapter,
-            "board": board, "numbers": [], "source": source, "levels": set(),
-            "posters": {}, "level_notes": [],
-        })
-        group["numbers"].extend(range(start, end + 1))
-        group["levels"].add(level)
-        group["posters"].setdefault(source["display_name"], source["source_message_url"])
+        blocks = {}
+        for number in range(start, end + 1):
+            block = stage_block(number) if 32 <= chapter <= 39 else None
+            blocks.setdefault(block, []).append(number)
         level_observation = (" in a recreated screenshot; original clear level unverified" if recreated else
                              "; " + reviewed["tatari_level_basis"] if "tatari_level_basis" in reviewed else
                              " in the post-clear screenshot")
-        group["level_notes"].append(f"{stage_label(list(range(start, end + 1)), chapter)}: Tatari Lv.{level}" + level_observation)
-        if needs_review and not range_check:
-            group["level_notes"].append(reviewed["notes"])
-        if range_check:
-            group["level_notes"].append(reviewed["notes"])
+        for block, numbers in blocks.items():
+            group = groups.setdefault((chapter, block, formations[-1]["formation_hash"]), {
+                "chapter": chapter,
+                "board": board, "numbers": [], "source": source, "levels": set(),
+                "posters": {}, "level_notes": [],
+            })
+            group["numbers"].extend(numbers)
+            group["levels"].add(level)
+            group["posters"].setdefault(source["display_name"], source["source_message_url"])
+            group["level_notes"].append(f"{stage_label(numbers, chapter)}: Tatari Lv.{level}" + level_observation)
+            if needs_review or range_check:
+                group["level_notes"].append(reviewed["notes"])
+
+    for chapter in range(32, 40):
+        chapter_groups = [group for group in groups.values() if group["chapter"] == chapter]
+        expected_blocks = [numbers for decade in range(0, 80, 10)
+                           for numbers in (list(range(decade + 1, decade + 5)),
+                                           list(range(decade + 5, decade + 10)), [decade + 10])]
+        assert [sorted(set(group["numbers"])) for group in chapter_groups] == expected_blocks, chapter
 
     previous_chapter = None
     for group in groups.values():
@@ -232,9 +263,9 @@ def build() -> None:
         "stages": stages,
         "high_confidence": [formation for formation in formations if not formation["needs_review"]],
         "needs_human_review": [formation for formation in formations if formation["needs_review"]],
-        "deduplication": "Source message ID identifies each submission. Stage entries reference their source formation; shared captions are not counted as extra submissions. Cards group exact forms, variants and positions by formation hash. New messages are preserved separately; supersedes_message_id remains null without explicit evidence of replacement.",
-        "level_selection_policy": "Use a formation only when its Tatari level is readable in the image or explicitly stated in the source message. A stated level is valid without image-level text; preserve whether its source is image or message_text. Do not infer an absent level from adjacent posts or enemy levels. Prefer the lowest supported level among inspected clear candidates, preserving unselected alternatives.",
-        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapters 31 and 40 use Casey's Chapter 19 and onwards thread; chapter 31 uses Win's explicitly stated level 549 formation for 31-5 through 31-9. Other chapter 31 selections use Casey after comparisons with Harsh, Win, Unown, Antzer and opening-stage candidates. Casey's explicitly stated 596 for 31-10 through 31-12 is accepted as a message-text level; the record remains flagged only because the screenshot displays 31-15. Three higher-level Casey alternatives for 31-5 through 31-9 are retained with selected_for_website=false. No server-wide minimum has been established. Levels are source observations or author statements, not independently tested requirements.",
+        "deduplication": "Source message ID identifies each submission. Stage entries reference their source formation; shared captions are not counted as extra submissions. Cards group exact forms, variants and positions by formation hash. Chapters 32–39 additionally keep each 1–4 block, 5–9 block and multiple-of-10 boss separate. Earlier chapter grouping is preserved. New messages are preserved separately; supersedes_message_id remains null without explicit evidence of replacement.",
+        "level_selection_policy": "Use a formation only when its Tatari level is readable in the image or explicitly stated in the source message. A stated level is valid without image-level text; preserve whether its source is image or message_text. Do not infer an absent level from adjacent posts or enemy levels. Prefer the lowest supported level among inspected clear candidates, preserving unselected alternatives. For chapters 32–39, the user waived exhaustive minimum-level comparison; choose a supported clear covering each required block.",
+        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapters 31 and 40 use Casey's Chapter 19 and onwards thread; chapter 31 uses Win's explicitly stated level 549 formation for 31-5 through 31-9. Other chapter 31 selections use Casey after comparisons with Harsh, Win, Unown, Antzer and opening-stage candidates. Casey's explicitly stated 596 for 31-10 through 31-12 is accepted as a message-text level; the record remains flagged only because the screenshot displays 31-15. Three higher-level Casey alternatives for 31-5 through 31-9 are retained with selected_for_website=false. Chapters 32–39 primarily use Antzer’s guide, with Harsh’s chapter 32 opening blocks and chapter 33 gap, Unown’s missing or ambiguous-tier blocks, and Casey’s explicitly stated level 771 for 39-1 through 39-4. Complete caption-supported blocks are kept together and each boss is separate. No server-wide minimum has been established. Levels are source observations or author statements, not independently tested requirements.",
     }
     for record in dataset["high_confidence"] + dataset["needs_human_review"]:
         record["local_image"] = (os.path.relpath(record["local_image_path"], ROOT.parent)
