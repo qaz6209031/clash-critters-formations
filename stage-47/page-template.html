@@ -14,10 +14,16 @@
     [hidden] { display: none !important; }
     .page-header { position: sticky; top: 0; z-index: 2; max-width: 1140px; margin: 0 auto; padding: 24px 24px 16px; background: #f5f7f0; }
     h1 { margin: 0 0 18px; font-size: clamp(22px, 4vw, 30px); line-height: 1.2; letter-spacing: -.6px; }
+    .header-controls { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
     .chapter-picker { display: flex; align-items: center; gap: 12px; }
     .chapter-picker label { font-size: 15px; font-weight: 650; }
     select { min-height: 44px; min-width: 170px; padding: 9px 36px 9px 12px; font: inherit; color: inherit; border: 1px solid #b9c8aa; border-radius: 10px; background: #fff; }
     select:focus-visible { outline: 3px solid #477c38; outline-offset: 3px; }
+    .donation-links { display: flex; align-items: center; gap: 8px; }
+    .donation-label { font-size: 13px; color: #536b49; }
+    .donation-link { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 9px 12px; border: 1px solid #b9c8aa; border-radius: 10px; background: #fff; color: #486342; font-size: 14px; font-weight: 650; text-decoration: none; }
+    .donation-link:hover { background: #edf2e6; border-color: #477c38; }
+    .donation-link:focus-visible { outline: 3px solid #477c38; outline-offset: 3px; }
     main { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; max-width: 1140px; margin: 0 auto; padding: 24px 24px 48px; }
     .chapter-title { grid-column: 1 / -1; margin: 0; padding: 2px 0 0; font-size: 18px; font-weight: 650; color: #536b49; scroll-margin-top: 150px; }
     .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
@@ -37,16 +43,23 @@
     .cell img { display: block; width: 100%; height: 100%; object-fit: contain; user-select: none; }
     .occupied:hover { background: #f4f7e6; }
     @media (max-width: 850px) { main { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 750px; gap: 18px; } .page-header { max-width: 750px; } }
-    @media (max-width: 520px) { main { grid-template-columns: 1fr; max-width: 420px; padding: 20px 12px 32px; gap: 18px; } .page-header { max-width: 420px; padding: 20px 12px 14px; } h2 { font-size: 18px; } h2 a { padding-left: 14px; } .level { margin-right: 10px; } .poster { margin-left: 14px; } .board { padding: 7px; gap: 2px; } select { flex: 1; } }
-    @media print { :root { background: white; } .chapter-picker { display: none; } main { max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
+    @media (max-width: 520px) { main { grid-template-columns: 1fr; max-width: 420px; padding: 20px 12px 32px; gap: 18px; } .page-header { max-width: 420px; padding: 20px 12px 14px; } .chapter-picker { flex: 1 1 100%; } .chapter-title { scroll-margin-top: 220px; } h2 { font-size: 18px; } h2 a { padding-left: 14px; } .level { margin-right: 10px; } .poster { margin-left: 14px; } .board { padding: 7px; gap: 2px; } select { flex: 1; } }
+    @media print { :root { background: white; } .header-controls { display: none; } main { max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
   </style>
 </head>
 <body>
   <header class="page-header">
     <h1>Clash of Critters Formations</h1>
-    <div class="chapter-picker">
-      <label for="chapter-select">Chapter</label>
-      <select id="chapter-select" aria-controls="formations"><!-- CHAPTER_OPTIONS --></select>
+    <div class="header-controls">
+      <div class="chapter-picker">
+        <label for="chapter-select">Chapter</label>
+        <select id="chapter-select" aria-controls="formations"><!-- CHAPTER_OPTIONS --></select>
+      </div>
+      <div class="donation-links" role="group" aria-label="Support this guide">
+        <span class="donation-label">Support this guide</span>
+        <a class="donation-link" href="https://venmo.com/KaiChin-Huang" target="_blank" rel="noopener noreferrer" aria-label="Support this guide with Venmo (opens in a new tab)">Venmo</a>
+        <a class="donation-link" href="https://www.paypal.com/donate/?business=9B232DHXN8ME4&amp;no_recurring=0&amp;currency_code=USD" target="_blank" rel="noopener noreferrer" aria-label="Support this guide with PayPal (opens in a new tab)">PayPal</a>
+      </div>
     </div>
     <p id="chapter-status" class="sr-only" role="status" aria-live="polite"></p>
   </header>
