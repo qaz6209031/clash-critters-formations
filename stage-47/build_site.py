@@ -15,7 +15,7 @@ CATALOG = json.loads((CATALOG_ROOT / "tatari-reference.json").read_text())
 FORMS = {form["form_id"]: form for form in CATALOG["forms"]}
 CHAPTERS = [
     *[{"chapter": number, "directory": ROOT.parent / f"stage-{number}", "first": 1, "last": 80,
-       "source_files": ["raw-browser-sources.json"]} for number in range(20, 30)],
+       "source_files": ["raw-browser-sources.json"]} for number in range(20, 31)],
     {"chapter": 31, "directory": ROOT.parent / "stage-31", "first": 1, "last": 80,
      "source_files": ["raw-browser-sources.json"]},
     *[{"chapter": number, "directory": ROOT.parent / f"stage-{number}", "first": 1, "last": 80,
@@ -203,7 +203,7 @@ def build() -> None:
             stages.append({"stage": stage, "formation_id": source["id"], "tatari_level": level, "level_from_reconstruction": recreated})
         blocks = {}
         for number in range(start, end + 1):
-            block = stage_block(number) if chapter < 30 or 32 <= chapter <= 39 or chapter >= 51 else None
+            block = stage_block(number) if chapter <= 30 or 32 <= chapter <= 39 or chapter >= 51 else None
             blocks.setdefault(block, []).append(number)
         level_observation = (" in a recreated screenshot; original clear level unverified" if recreated else
                              "; " + reviewed["tatari_level_basis"] if "tatari_level_basis" in reviewed else
@@ -221,7 +221,7 @@ def build() -> None:
             if needs_review or range_check:
                 group["level_notes"].append(reviewed["notes"])
 
-    for chapter in [*range(32, 40), *range(51, 60)]:
+    for chapter in [30, *range(32, 40), *range(51, 60)]:
         chapter_groups = [group for group in groups.values() if group["chapter"] == chapter]
         expected_blocks = [numbers for decade in range(0, 80, 10)
                            for numbers in (list(range(decade + 1, decade + 5)),
@@ -259,7 +259,7 @@ def build() -> None:
     assert [s["stage"] for s in stages] == [f"{c['chapter']}-{n}" for c in CHAPTERS for n in range(c["first"], c["last"] + 1)]
     dataset = {
         "schema_version": "1.6",
-        "collected_at": "2026-10-07",
+        "collected_at": "2026-10-08",
         "collection_method": "Authenticated Discord website, read-only browser inspection and attachment downloads.",
         "catalog_reference": {
             "url": CATALOG["source_url"],
@@ -271,9 +271,9 @@ def build() -> None:
         "stages": stages,
         "high_confidence": [formation for formation in formations if not formation["needs_review"]],
         "needs_human_review": [formation for formation in formations if formation["needs_review"]],
-        "deduplication": "Source message ID identifies each submission. Stage entries reference their source formation; shared captions are not counted as extra submissions. Cards group exact forms, variants and positions by formation hash. Chapters 20–29, 32–39 and 51–59 keep each 1–4 block, 5–9 block and multiple-of-10 boss separate. Early guide boundaries at stage 6 additionally split a 5–9 block when its formations differ. Existing chapter grouping is preserved. New messages are preserved separately; supersedes_message_id remains null without explicit evidence of replacement.",
-        "level_selection_policy": "Use a formation only when its Tatari level is readable in the image or explicitly stated in the source message. A stated level is valid without image-level text; preserve whether its source is image or message_text. Do not infer an absent level from adjacent posts or enemy levels. Prefer the lowest supported level among inspected clear candidates, preserving unselected alternatives. For chapters 20–29, 32–39 and 51–59, the user waived exhaustive minimum-level comparison; choose a supported clear covering each required block.",
-        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapters 31 and 40 use Casey's Chapter 19 and onwards thread; chapter 31 uses Win's explicitly stated level 549 formation for 31-5 through 31-9. Other chapter 31 selections use Casey after comparisons with Harsh, Win, Unown, Antzer and opening-stage candidates. Casey's explicitly stated 596 for 31-10 through 31-12 is accepted as a message-text level; the record remains flagged only because the screenshot displays 31-15. Three higher-level Casey alternatives for 31-5 through 31-9 are retained with selected_for_website=false. Chapters 32–39 primarily use Antzer’s guide, with Harsh’s chapter 32 opening blocks and chapter 33 gap, Unown’s missing or ambiguous-tier blocks, and Casey’s explicitly stated level 771 for 39-1 through 39-4. Complete caption-supported blocks are kept together and each boss is separate. Chapters 20–29 and 51–59 primarily use Pika’s guides, with Vanhhh filling 22-16–22-19 and 23-6–23-9, Vrondius (crediting Layios) filling 28-75–28-79, and Saber filling 58-11–58-14 and 59-1–59-4. All new levels are stated in their own source captions. Early guide formations change at stage 6 rather than stage 5; those verified changes are preserved. The recalled 26-56–26-59 range remains flagged for human review. No server-wide minimum has been established. Levels are source observations or author statements, not independently tested requirements.",
+        "deduplication": "Source message ID identifies each submission. Stage entries reference their source formation; shared captions are not counted as extra submissions. Cards group exact forms, variants and positions by formation hash. Chapters 20–30, 32–39 and 51–59 keep each 1–4 block, 5–9 block and multiple-of-10 boss separate. Early guide boundaries at stage 6 additionally split a 5–9 block when its formations differ. Existing chapter grouping is preserved. New messages are preserved separately; supersedes_message_id remains null without explicit evidence of replacement.",
+        "level_selection_policy": "Use a formation only when its Tatari level is readable in the image or explicitly stated in the source message. A stated level is valid without image-level text; preserve whether its source is image or message_text. Do not infer an absent level from adjacent posts or enemy levels. Prefer the lowest supported level among inspected clear candidates, preserving unselected alternatives. For chapters 20–30, 32–39 and 51–59, the user waived exhaustive minimum-level comparison; choose a supported clear covering each required block.",
+        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapters 31 and 40 use Casey's Chapter 19 and onwards thread; chapter 31 uses Win's explicitly stated level 549 formation for 31-5 through 31-9. Other chapter 31 selections use Casey after comparisons with Harsh, Win, Unown, Antzer and opening-stage candidates. Casey's explicitly stated 596 for 31-10 through 31-12 is accepted as a message-text level; the record remains flagged only because the screenshot displays 31-15. Three higher-level Casey alternatives for 31-5 through 31-9 are retained with selected_for_website=false. Chapters 32–39 primarily use Antzer’s guide, with Harsh’s chapter 32 opening blocks and chapter 33 gap, Unown’s missing or ambiguous-tier blocks, and Casey’s explicitly stated level 771 for 39-1 through 39-4. Complete caption-supported blocks are kept together and each boss is separate. Chapters 20–29 and 51–59 primarily use Pika’s guides, with Vanhhh filling 22-16–22-19 and 23-6–23-9, Vrondius (crediting Layios) filling 28-75–28-79, and Saber filling 58-11–58-14 and 59-1–59-4. All new levels are stated in their own source captions. Early guide formations change at stage 6 rather than stage 5; those verified changes are preserved. The recalled 26-56–26-59 range remains flagged for human review. No server-wide minimum has been established. Chapter 30 uses Antzer’s explicit stage-block captions, Casey’s level-573 boss 30-10 post (crediting jacobdumbnut), and Vrondius’s level-619 30-25–30-29 post (crediting Layios). Vrondius deploys 14/15 units and the screenshot shows the range beginning; its full coverage relies on the caption. Levels are source observations or author statements, not independently tested requirements.",
     }
     for record in dataset["high_confidence"] + dataset["needs_human_review"]:
         record["local_image"] = (os.path.relpath(record["local_image_path"], ROOT.parent)

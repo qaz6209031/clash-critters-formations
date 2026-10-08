@@ -1,0 +1,1176 @@
+[
+  {
+    "source_message_id": "1539529920131108884",
+    "stage_start": 1,
+    "stage_end": 4,
+    "screenshot_displayed_stage": "30-1",
+    "screenshot_enemy_level": 783,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        "sonarbat",
+        "blitzmane",
+        "serrabloom",
+        null
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "trippet",
+        "charflutter",
+        "capywata"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "tatari_level": 589,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 589",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption. Screenshot displays 30-1 following the reported 29-80 clear; the additional 30-1–30-4 range relies on the author’s explicit caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived.",
+    "stage_assignment_basis": "Author explicitly reports 29-80 and 30-1 through 30-4. Only chapter 30 is selected; the screenshot displays the start of this reported range."
+  },
+  {
+    "source_message_id": "1539529977010200586",
+    "stage_start": 5,
+    "stage_end": 9,
+    "screenshot_displayed_stage": "30-10",
+    "screenshot_enemy_level": 786,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        "blitzmane",
+        "rockwu",
+        "serrabloom",
+        "hellhound"
+      ],
+      [
+        "capywata",
+        "cheerspring",
+        "trippet",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "sonarbat",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        "zapantler",
+        null,
+        null,
+        null
+      ]
+    ],
+    "tatari_level": 589,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 589",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1549527503477940296",
+    "stage_start": 10,
+    "stage_end": 10,
+    "screenshot_displayed_stage": "30-11",
+    "screenshot_enemy_level": 786,
+    "board": [
+      [
+        null,
+        "serrabloom",
+        "pyroprawn",
+        null,
+        null
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "charflutter",
+        "solaflora",
+        null
+      ],
+      [
+        "firefox",
+        "hyphoria",
+        "synthhog",
+        "blitzmane",
+        "zapantler"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "scorchwing",
+        null,
+        null
+      ]
+    ],
+    "tatari_level": 573,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 573",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": "jacobdumbnut",
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived.",
+    "credit_basis": "Source caption explicitly credits jacobdumbnut as the guide adapted by the poster."
+  },
+  {
+    "source_message_id": "1539543534581850112",
+    "stage_start": 11,
+    "stage_end": 14,
+    "screenshot_displayed_stage": "30-15",
+    "screenshot_enemy_level": 787,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        null,
+        null,
+        null
+      ],
+      [
+        "flarevix",
+        "clangnaga",
+        "hellhound",
+        "serrabloom",
+        "blitzmane"
+      ],
+      [
+        "frugagon",
+        "charflutter",
+        "trippet",
+        "cheerspring",
+        "zapup"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        "zapantler"
+      ]
+    ],
+    "tatari_level": 589,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 589",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539543608649060382",
+    "stage_start": 15,
+    "stage_end": 19,
+    "screenshot_displayed_stage": "30-20",
+    "screenshot_enemy_level": 789,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        "serrabloom",
+        "hellhound",
+        "flarevix",
+        "swaystroll"
+      ],
+      [
+        "solaflora",
+        "charflutter",
+        "trippet",
+        "cheerspring",
+        "frostique"
+      ],
+      [
+        "clangnaga",
+        "frugagon",
+        "azurion",
+        "waveflutter",
+        "tideon"
+      ]
+    ],
+    "tatari_level": 589,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 589",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539551483962589194",
+    "stage_start": 20,
+    "stage_end": 24,
+    "screenshot_displayed_stage": "30-21",
+    "screenshot_enemy_level": 789,
+    "board": [
+      [
+        null,
+        null,
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        "cheerspring",
+        null
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "trippet",
+        "clucky",
+        "clangnaga"
+      ],
+      [
+        "capywata",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zapantler"
+      ],
+      [
+        null,
+        "frugagon",
+        null,
+        null,
+        null
+      ]
+    ],
+    "tatari_level": 589,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 589",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption. Screenshot displays the next stage after the boss. The same post explicitly reports the formation also works for the following four normal stages.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived.",
+    "stage_assignment_basis": "Author reports both the boss and the following four normal stages. Website grouping keeps the boss separate."
+  },
+  {
+    "source_message_id": "1551622572364406900",
+    "stage_start": 25,
+    "stage_end": 29,
+    "screenshot_displayed_stage": "30-25",
+    "screenshot_enemy_level": 791,
+    "deployed_count": 14,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom",
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "voltling",
+        "clangnaga",
+        null,
+        null
+      ],
+      [
+        "ospisces",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "blitzmane"
+      ],
+      [
+        "frostique",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "zapantler"
+      ]
+    ],
+    "tatari_level": 619,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 619",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": "Layios",
+    "capture_type": "range_reference",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption. Screenshot displays 30-25, the beginning of the captioned 30-25–30-29 range. The image explicitly shows Deployed: 14/15; no missing fifteenth unit is inferred.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived.",
+    "credit_basis": "Source caption explicitly credits Layios.",
+    "level_from_original_post_clear_screenshot": false,
+    "stage_assignment_basis": "Author’s guide caption explicitly reports 30-25, 30-26, 30-27, 30-28 and 30-29. Screenshot shows the range beginning; range coverage relies on the caption."
+  },
+  {
+    "source_message_id": "1539579207573569606",
+    "stage_start": 30,
+    "stage_end": 34,
+    "screenshot_displayed_stage": "30-31",
+    "screenshot_enemy_level": 793,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "voltverine",
+        "rockshell"
+      ],
+      [
+        null,
+        "seaswirl",
+        "mudrump",
+        "cheerspring",
+        null
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "clangnaga",
+        "trippet",
+        "rockwu"
+      ],
+      [
+        "azurion",
+        "tideon",
+        "waveflutter",
+        "zapantler",
+        null
+      ]
+    ],
+    "tatari_level": 590,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 590",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption. Screenshot displays the next stage after the boss. The same post explicitly reports the formation also works for the following four normal stages.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived.",
+    "stage_assignment_basis": "Author reports both the boss and the following four normal stages. Website grouping keeps the boss separate."
+  },
+  {
+    "source_message_id": "1539589240168513628",
+    "stage_start": 35,
+    "stage_end": 39,
+    "screenshot_displayed_stage": "30-40",
+    "screenshot_enemy_level": 796,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "rockwu",
+        "serrabloom",
+        null
+      ],
+      [
+        null,
+        "hellhound",
+        "sonarbat",
+        "charflutter",
+        null
+      ],
+      [
+        "capywata",
+        "cheerspring",
+        "trippet",
+        "solaflora",
+        "clangnaga"
+      ],
+      [
+        "flarevix",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frostique"
+      ]
+    ],
+    "tatari_level": 590,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 590",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539592033889550447",
+    "stage_start": 40,
+    "stage_end": 40,
+    "screenshot_displayed_stage": "30-41",
+    "screenshot_enemy_level": 796,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        "clangnaga",
+        null
+      ],
+      [
+        null,
+        "swaystroll",
+        "seaswirl",
+        "cheerspring",
+        "serrabloom"
+      ],
+      [
+        null,
+        "charflutter",
+        "frostique",
+        "trippet",
+        "clucky"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zapantler",
+        "solaflora"
+      ]
+    ],
+    "tatari_level": 590,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 590",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539618733474058300",
+    "stage_start": 41,
+    "stage_end": 44,
+    "screenshot_displayed_stage": "30-45",
+    "screenshot_enemy_level": 797,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        "clangnaga",
+        null
+      ],
+      [
+        null,
+        "swaystroll",
+        "seaswirl",
+        "cheerspring",
+        "serrabloom"
+      ],
+      [
+        null,
+        "charflutter",
+        "zapantler",
+        "trippet",
+        "clucky"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique",
+        "solaflora"
+      ]
+    ],
+    "tatari_level": 590,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 590",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539621077217583177",
+    "stage_start": 45,
+    "stage_end": 49,
+    "screenshot_displayed_stage": "30-50",
+    "screenshot_enemy_level": 799,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "seaswirl",
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "sonarbat",
+        "frugagon",
+        "serrabloom"
+      ],
+      [
+        "zapantler",
+        "charflutter",
+        "trippet",
+        "cheerspring",
+        "clucky"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ]
+    ],
+    "tatari_level": 590,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 590",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539654227423400050",
+    "stage_start": 50,
+    "stage_end": 50,
+    "screenshot_displayed_stage": "30-51",
+    "screenshot_enemy_level": 799,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "clawzor",
+        "blitzmane",
+        null
+      ],
+      [
+        "serrabloom",
+        "frugagon",
+        "seaswirl",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "trippet",
+        "zapantler",
+        "frostique"
+      ],
+      [
+        "clangnaga",
+        "clucky",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "tatari_level": 591,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 591",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539654439755849821",
+    "stage_start": 51,
+    "stage_end": 54,
+    "screenshot_displayed_stage": "30-55",
+    "screenshot_enemy_level": 801,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "goonbug",
+        null,
+        null,
+        "blitzmane",
+        null
+      ],
+      [
+        "rockwu",
+        "serrabloom",
+        "frostique",
+        "cheerspring",
+        null
+      ],
+      [
+        "clucky",
+        "charflutter",
+        "trippet",
+        "zapantler",
+        null
+      ],
+      [
+        "clangnaga",
+        "frugagon",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "tatari_level": 591,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 591",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539675506805575750",
+    "stage_start": 55,
+    "stage_end": 59,
+    "screenshot_displayed_stage": "30-60",
+    "screenshot_enemy_level": 802,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "clawzor",
+        "blitzmane",
+        "frugagon",
+        "voltverine",
+        "serrabloom"
+      ],
+      [
+        "seaswirl",
+        "zapup",
+        "trippet",
+        "cheerspring",
+        "clucky"
+      ],
+      [
+        "frostique",
+        "waveflutter",
+        "tideon",
+        "zapantler",
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "tatari_level": 591,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 591",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539724445101334598",
+    "stage_start": 60,
+    "stage_end": 60,
+    "screenshot_displayed_stage": "30-61",
+    "screenshot_enemy_level": 803,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "hellhound",
+        "voltverine",
+        "rockshell",
+        null
+      ],
+      [
+        "zapup",
+        "charflutter",
+        "sonarbat",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "trippet",
+        "zapantler",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "clangnaga"
+      ]
+    ],
+    "tatari_level": 591,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 591",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539724490207137883",
+    "stage_start": 61,
+    "stage_end": 64,
+    "screenshot_displayed_stage": "30-65",
+    "screenshot_enemy_level": 804,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "rockshell",
+        null
+      ],
+      [
+        "blitzmane",
+        "hellhound",
+        "sonarbat",
+        "rockwu",
+        "voltverine"
+      ],
+      [
+        "zapup",
+        "charflutter",
+        "trippet",
+        "cheerspring",
+        null
+      ],
+      [
+        "zapantler",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "clangnaga"
+      ]
+    ],
+    "tatari_level": 591,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 591",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539724540408762458",
+    "stage_start": 65,
+    "stage_end": 69,
+    "screenshot_displayed_stage": "30-70",
+    "screenshot_enemy_level": 806,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        "blitzmane",
+        "serrabloom",
+        "frostique",
+        "voltverine"
+      ],
+      [
+        "ospisces",
+        "cheerspring",
+        "trippet",
+        "charflutter",
+        "zapup"
+      ],
+      [
+        null,
+        null,
+        "sonarbat",
+        null,
+        "seaswirl"
+      ],
+      [
+        null,
+        "zapantler",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "tatari_level": 591,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 591",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539724655084961792",
+    "stage_start": 70,
+    "stage_end": 70,
+    "screenshot_displayed_stage": "30-71",
+    "screenshot_enemy_level": 806,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "tikowl",
+        null
+      ],
+      [
+        null,
+        "flarevix",
+        "serrabloom",
+        "frugagon",
+        "voltverine"
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "trippet",
+        "cheerspring",
+        "clucky"
+      ],
+      [
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zapantler"
+      ]
+    ],
+    "tatari_level": 591,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 591",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539739257432838165",
+    "stage_start": 71,
+    "stage_end": 74,
+    "screenshot_displayed_stage": "30-75",
+    "screenshot_enemy_level": 807,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "goonbug",
+        null
+      ],
+      [
+        "rockwu",
+        "hellhound",
+        "serrabloom",
+        "frugagon",
+        "blitzmane"
+      ],
+      [
+        "clucky",
+        "charflutter",
+        "trippet",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zapantler"
+      ]
+    ],
+    "tatari_level": 591,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 591",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539739295659724810",
+    "stage_start": 75,
+    "stage_end": 79,
+    "screenshot_displayed_stage": "30-80",
+    "screenshot_enemy_level": 809,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "rockwu",
+        "serrabloom",
+        null
+      ],
+      [
+        "frostique",
+        "cheerspring",
+        "trippet",
+        "charflutter",
+        "hellhound"
+      ],
+      [
+        "sonarbat",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "flarevix"
+      ],
+      [
+        null,
+        "solaflora",
+        null,
+        "clucky",
+        null
+      ]
+    ],
+    "tatari_level": 591,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 591",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  },
+  {
+    "source_message_id": "1539879961673080852",
+    "stage_start": 80,
+    "stage_end": 80,
+    "screenshot_displayed_stage": "31-1",
+    "screenshot_enemy_level": 809,
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "voltverine",
+        "blitzmane",
+        "frugagon",
+        null
+      ],
+      [
+        "solaflora",
+        "charflutter",
+        "frostique",
+        "trippet",
+        "rockwu"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        "cheerspring",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "tatari_level": 596,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 596",
+    "tatari_level_basis": "Level explicitly stated in this source message and preserved verbatim; enemy levels are recorded separately.",
+    "credited_player_name": null,
+    "capture_type": "post_clear",
+    "needs_review": false,
+    "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived."
+  }
+]

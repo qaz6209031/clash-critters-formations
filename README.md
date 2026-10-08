@@ -1,12 +1,12 @@
 # Clash of Critters formations
 
-[Live website](https://kaichin.dev/clash-critters-formations/) ·
+[Live website](https://critterformations.com/) ·
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. It covers **3120 stages in chapters 20–29 and
-31–59**, grouped into **1015 formation cards** from 942 selected source posts.
-All 945 reviewed submissions are preserved; the public index contains 947
+posters and exact 5×5 formations. It covers **3200 stages in chapters 20–59**,
+grouped into **1039 formation cards** from 964 selected source posts.
+All 967 reviewed submissions are preserved; the public index contains 969
 source and supporting posts.
 
 Choose a chapter at the top to show only its formations. The selector stays
@@ -17,7 +17,7 @@ Stage labels and posters link to their original Discord messages, which require
 the viewer's own server access. A credited creator is distinct from the poster.
 
 Exact forms, glitter variants and positions determine whether cards can merge.
-Chapters 20–29, 32–39 and 51–59 keep 1–4, 5–9 and each boss separate.
+Chapters 20–30, 32–39 and 51–59 keep 1–4, 5–9 and each boss separate.
 The early Pika guide changes at stage 6: where its formations differ, stage 5
 and stages 6–9 remain separate instead of asserting that one lineup clears the
 entire 5–9 block. Existing chapter 31 and 40–50 formations are unchanged.
@@ -53,7 +53,7 @@ The chapter selector is populated automatically.
 
 ## Files and source evidence
 
-- `stage-20` through `stage-29` and `stage-31` through `stage-59`: reviewed formations and chapter notes.
+- `stage-20` through `stage-59`: reviewed formations and chapter notes.
 - `stage-47/build_site.py`: static site and structured-data generator.
 - `stage-47/page-template.html`: website layout and styles.
 - `stage-47/site/index.html`: generated offline website.
@@ -110,3 +110,12 @@ exhaustive lowest-level comparison was waived. Vrondius credits Layios for
 formation, so that supporting message is retained as the board source.
 The recalled formation for **26-56–26-59 needs human review**: its author
 missed the original screenshot and says the replacement is from memory.
+
+Chapter 30 adds all 80 stages from 22 source posts in 24 cards, keeping
+1–4, 5–9 and each boss separate. Antzer provides 20 stage-block references;
+Casey supplies boss 30-10 at level 573, crediting jacobdumbnut, and Vrondius
+supplies 30-25–30-29 at level 619, crediting Layios. All selected levels are
+explicitly stated in their own messages. Vrondius's screenshot deploys 14/15
+Tatari and shows the range beginning; the caption supports the full range.
+No fifteenth unit or missing level is inferred. Existing chapter formations
+and grouping are unchanged.
