@@ -4,10 +4,11 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. The published site covers **2339 stages**,
-grouped into **703 formation cards** from **709 selected source posts**.
-All 967 reviewed submissions are preserved; the public index contains 969
-source and supporting posts.
+posters and exact 5×5 formations. The published site covers **3200 stages**
+(chapters 20–59), grouped into **1060 formation cards** from **994 selected
+Discord source posts** (996 chapter-specific records). All **1254 reviewed
+formation records** are preserved; the public index contains 1254 source and
+supporting posts.
 
 Only original posts **after August 27, 2026** qualify for publication, using
 America/Los_Angeles time: August 28 at midnight is `2026-08-28T07:00:00Z`.
@@ -15,13 +16,15 @@ The same cutoff applies to separate board sources and supporting evidence.
 Edit dates do not qualify an older post. Missing, invalid or timezone-free
 timestamps are excluded. The build enforces this policy on every update.
 
-The date audit excluded **258 older submissions**. Chapter 31-5–31-9 now uses
-Casey’s three September level-579 posts instead of Win’s August level-549 post.
-**861 stages without a reviewed newer replacement are hidden**, leaving chapters
-31–59 complete and partial coverage in chapters 22, 23, 28 and 30. Empty chapters
-are omitted from the selector. Earlier submissions remain in the local archive
-with `selected_for_website: false` and a publication exclusion reason.
+The date audit excludes **258 older submissions**. On October 8, newer visually
+reviewed references restored all **861 previously hidden stages**. Most use
+Vrondius’s September guide; individual gaps use Vanhhh, jacobdumbnut and
+ZERO_SUGAR. **27-80 now uses jacobdumbnut’s September 8 level-525 post.**
+Casey’s September level-579 posts replace the older 31-5–31-9 reference.
+All chapters 20–59 now have complete coverage. Earlier submissions remain
+archived with `selected_for_website: false` and their exclusion reason.
 
+The page opens on **chapter 31** unless its URL names a valid chapter.
 Choose a chapter at the top to show only its formations. The selector stays
 available while scrolling, supports chapter links such as `#chapter-40`, and
 works on phones. Artwork loads only for the selected chapter. Level badges
@@ -124,15 +127,21 @@ All newly selected levels are explicitly stated in their own source posts;
 exhaustive lowest-level comparison was waived. Vrondius credits Layios for
 28-75–28-79. The author’s correction for 51-10 points to the 51-11–51-15
 formation, so that supporting message is retained as the board source.
-The recalled formation for **26-56–26-59 needs human review**: its author
-missed the original screenshot and says the replacement is from memory.
+The older recalled formation for 26-56–26-59 remains archived and excluded;
+a visually reviewed September Vrondius reference now covers those stages.
 
-The historical chapter 30 collection contains all 80 stages from 22 source
-posts in 24 cards. Only 30-10 and 30-25–30-29 now qualify for publication, keeping
-1–4, 5–9 and each boss separate. Antzer provides 20 stage-block references;
-Casey supplies boss 30-10 at level 573, crediting jacobdumbnut, and Vrondius
-supplies 30-25–30-29 at level 619, crediting Layios. All selected levels are
-explicitly stated in their own messages. Vrondius's screenshot deploys 14/15
-Tatari and shows the range beginning; the caption supports the full range.
-No fifteenth unit or missing level is inferred. Existing chapter formations
-and grouping are preserved where their source dates qualify.
+Chapter 30 now publishes all 80 stages from 23 selected submissions, using
+Vrondius’s September posts plus the retained Casey 30-10 and Vrondius
+30-25–30-29 references. Supported observed/stated levels are 573–621.
+Fewer-than-15 deployments preserve the empty cells. No missing unit is inferred.
+
+Replacement captions may list nonconsecutive stages. `caption_stage_numbers`
+preserves those exact claims, and `website_stage_numbers` stores the selected
+subset. The builder never fills an unlisted stage from a range’s endpoints.
+A later overlapping post takes priority only for the previously hidden stages;
+earlier and alternative records remain archived. One source spanning two
+chapters uses chapter-qualified formation IDs and retains one source message ID.
+
+The 26-26 reference uses level **512**, visibly shown in Vanhhh’s screenshot;
+the caption’s different level 509 is retained in the data. The 28-38 reference
+includes Solaflora Glitter, visually matched to the planner’s exact sprite.

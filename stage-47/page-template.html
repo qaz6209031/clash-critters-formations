@@ -76,7 +76,7 @@
     const headings = [...document.querySelectorAll('.chapter-title')];
     const chapters = new Set(cards.map(card => card.dataset.chapter));
     function showChapter(chapter) {
-      if (!chapters.has(chapter)) chapter = chapterSelect.options[0].value;
+      if (!chapters.has(chapter)) chapter = chapters.has('31') ? '31' : chapterSelect.options[0].value;
       chapterSelect.value = chapter;
       cards.forEach(card => {
         card.hidden = card.dataset.chapter !== chapter;

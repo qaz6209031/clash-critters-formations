@@ -7,6 +7,7 @@ import hashlib
 import html
 import json
 import os
+from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -18,7 +19,7 @@ CATALOG = json.loads((CATALOG_ROOT / "tatari-reference.json").read_text())
 FORMS = {form["form_id"]: form for form in CATALOG["forms"]}
 CHAPTERS = [
     *[{"chapter": number, "directory": ROOT.parent / f"stage-{number}", "first": 1, "last": 80,
-       "source_files": ["raw-browser-sources.json"]} for number in range(20, 31)],
+       "source_files": ["raw-browser-sources.json", "newer-browser-sources.json"]} for number in range(20, 31)],
     {"chapter": 31, "directory": ROOT.parent / "stage-31", "first": 1, "last": 80,
      "source_files": ["raw-browser-sources.json"]},
     *[{"chapter": number, "directory": ROOT.parent / f"stage-{number}", "first": 1, "last": 80,
@@ -62,6 +63,7 @@ for chapter in CHAPTERS:
                 SOURCES[source["id"]] = source
     REVIEWED.extend({**formation, "chapter": chapter["chapter"]}
                     for formation in json.loads((chapter["directory"] / "reviewed-formations.json").read_text()))
+SOURCE_RECORD_COUNTS = Counter(record["source_message_id"] for record in REVIEWED)
 
 # Reviewed board rows run front to rear, with columns left to right.
 # None marks an empty cell; evidence and levels are stored beside each board.
@@ -136,6 +138,17 @@ def build() -> None:
         selected = reviewed.get("selected_for_website", True) and not excluded_reference_ids
         chapter = reviewed["chapter"]
         start, end = reviewed["stage_start"], reviewed["stage_end"]
+        caption_numbers = reviewed.get("caption_stage_numbers", list(range(start, end + 1)))
+        website_numbers = reviewed.get("website_stage_numbers", caption_numbers)
+        assert caption_numbers and len(set(caption_numbers)) == len(caption_numbers), source["id"]
+        assert all(isinstance(n, int) and not isinstance(n, bool) and 1 <= n <= 80
+                   for n in caption_numbers), source["id"]
+        assert (min(caption_numbers), max(caption_numbers)) == (start, end), source["id"]
+        assert len(set(website_numbers)) == len(website_numbers), source["id"]
+        assert set(website_numbers) <= set(caption_numbers), source["id"]
+        selected = selected and bool(website_numbers)
+        formation_id = (f'{source["id"]}:chapter-{chapter}'
+                        if SOURCE_RECORD_COUNTS[source["id"]] > 1 else source["id"])
         displayed = reviewed["screenshot_displayed_stage"]
         credit, board = reviewed["credited_player_name"], reviewed["board"]
         level = reviewed["tatari_level"]
@@ -160,7 +173,7 @@ def build() -> None:
         signature = json.dumps([(u["position"], u["form_id"], u["variant"])
                                 for u in lineup], separators=(",", ":"))
         formations.append({
-            "formation_id": source["id"],
+            "formation_id": formation_id,
             "chapter": chapter,
             "extraction_revision": reviewed.get("extraction_revision", 2 if chapter == 47 and any("serrabloom:glitter" in row for row in board) else 1),
             "source_message_id": source["id"],
@@ -188,7 +201,8 @@ def build() -> None:
             "tatari_level_quote": reviewed.get("tatari_level_quote"),
             "tatari_level_basis": reviewed.get("tatari_level_basis", "Visible level text on multiple deployed inventory cards. This is the observed player level in the screenshot; individual levels were not readable for every deployed unit."),
             "level_from_original_post_clear_screenshot": reviewed.get("level_from_original_post_clear_screenshot", not recreated),
-            "cleared_stages": [f"{chapter}-{n}" for n in range(start, end + 1)],
+            "cleared_stages": [f"{chapter}-{n}" for n in caption_numbers],
+            "website_stages": [f"{chapter}-{n}" for n in website_numbers] if selected else [],
             "caption_stage_range": reviewed.get("caption_stage_range"),
             "stage_assignment": reviewed.get("stage_assignment_basis") or ("Author's caption; reconstructed later because the original screenshot was missed." if recreated else "Author's caption; screenshot shows the next stage after the reported clear/range, including the next chapter's stage 1 after stage 80."),
             "grid": {"rows": 5, "columns": 5, "orientation": "Rows front to rear (top to bottom); columns left to right."},
@@ -219,11 +233,11 @@ def build() -> None:
                 for message_id in reviewed["supporting_message_ids"]]
         if not formations[-1]["selected_for_website"]:
             continue
-        for n in range(start, end + 1):
+        for n in website_numbers:
             stage = f"{chapter}-{n}"
-            stages.append({"stage": stage, "formation_id": source["id"], "tatari_level": level, "level_from_reconstruction": recreated})
+            stages.append({"stage": stage, "formation_id": formation_id, "tatari_level": level, "level_from_reconstruction": recreated})
         blocks = {}
-        for number in range(start, end + 1):
+        for number in website_numbers:
             block = stage_block(number) if chapter <= 30 or 32 <= chapter <= 39 or chapter >= 51 else None
             blocks.setdefault(block, []).append(number)
         level_observation = (" in a recreated screenshot; original clear level unverified" if recreated else
@@ -231,7 +245,7 @@ def build() -> None:
                              " in the post-clear screenshot")
         for block, numbers in blocks.items():
             group = groups.setdefault((chapter, block, formations[-1]["formation_hash"]), {
-                "chapter": chapter,
+                "chapter": chapter, "formation_id": formation_id,
                 "board": board, "numbers": [], "source": source, "levels": set(),
                 "posters": {}, "level_notes": [], "source_ids": [], "posted_at": [],
             })
@@ -246,6 +260,7 @@ def build() -> None:
 
     stages.sort(key=lambda stage: tuple(map(int, stage["stage"].split("-"))))
     ordered_groups = sorted(groups.values(), key=lambda group: (group["chapter"], min(group["numbers"])))
+    assert len({formation["formation_id"] for formation in formations}) == len(formations), "Duplicate formation IDs"
     for chapter in [30, *range(32, 40), *range(51, 60)]:
         chapter_groups = [group for group in ordered_groups if group["chapter"] == chapter]
         available = {int(stage["stage"].split("-")[1]) for stage in stages
@@ -285,7 +300,7 @@ def build() -> None:
         poster_links = ", ".join(f'<a href="{html.escape(url, quote=True)}" target="_blank" rel="noopener noreferrer">{html.escape(name)}</a>' for name, url in group["posters"].items())
         source_ids = ",".join(dict.fromkeys(group["source_ids"]))
         posted_at = min(group["posted_at"], key=lambda timestamp: datetime.fromisoformat(timestamp.replace("Z", "+00:00")))
-        cards.append(f'<article class="stage" data-chapter="{chapter}" data-stages="{stage_numbers}" data-formation-id="{source["id"]}" data-source-message-ids="{source_ids}" data-posted-at="{html.escape(posted_at, quote=True)}"><h2><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" title="Open the original Discord reference">{stage}</a><span class="level" title="{level_title}" aria-label="{level_title}">{level_text}</span></h2><p class="poster">Posted by {poster_links}</p><div class="board" role="group" aria-label="Stages {stage}: 5 by 5 formation, top row is the front">{"".join(cells)}</div></article>')
+        cards.append(f'<article class="stage" data-chapter="{chapter}" data-stages="{stage_numbers}" data-formation-id="{group["formation_id"]}" data-source-message-ids="{source_ids}" data-posted-at="{html.escape(posted_at, quote=True)}"><h2><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" title="Open the original Discord reference">{stage}</a><span class="level" title="{level_title}" aria-label="{level_title}">{level_text}</span></h2><p class="poster">Posted by {poster_links}</p><div class="board" role="group" aria-label="Stages {stage}: 5 by 5 formation, top row is the front">{"".join(cells)}</div></article>')
 
     requested_stages = [f"{c['chapter']}-{n}" for c in CHAPTERS for n in range(c["first"], c["last"] + 1)]
     published_stages = {stage["stage"] for stage in stages}
@@ -302,7 +317,7 @@ def build() -> None:
         "missing_replacement": "Hide the stage; preserve historical records in the archive.",
     }
     dataset = {
-        "schema_version": "1.7",
+        "schema_version": "1.8",
         "collected_at": "2026-10-08",
         "collection_method": "Authenticated Discord website, read-only browser inspection and attachment downloads.",
         "catalog_reference": {
@@ -317,9 +332,9 @@ def build() -> None:
         "unavailable_stages": unavailable_stages,
         "high_confidence": [formation for formation in formations if not formation["needs_review"]],
         "needs_human_review": [formation for formation in formations if formation["needs_review"]],
-        "deduplication": "Source message ID identifies each submission. Stage entries reference their source formation; shared captions are not counted as extra submissions. Cards group exact forms, variants and positions by formation hash. Chapters 20–30, 32–39 and 51–59 keep each 1–4 block, 5–9 block and multiple-of-10 boss separate. Early guide boundaries at stage 6 additionally split a 5–9 block when its formations differ. Existing chapter grouping is preserved. New messages are preserved separately; supersedes_message_id remains null without explicit evidence of replacement.",
+        "deduplication": "Source message ID identifies each Discord submission. When one message covers two chapters, chapter-qualified formation IDs distinguish its normalized boards while preserving the shared source message ID. Stage entries reference those formation IDs. Captions retain their exact listed stages; website_stages records the selected subset without filling caption gaps. Cards group exact forms, variants and positions by formation hash. Chapters 20–30, 32–39 and 51–59 keep each 1–4 block, 5–9 block and multiple-of-10 boss separate. Early guide boundaries at stage 6 additionally split a 5–9 block when its formations differ. Existing chapter grouping is preserved. New messages are preserved separately; supersedes_message_id remains null without explicit evidence of replacement.",
         "level_selection_policy": "Use a formation only when its Tatari level is readable in the image or explicitly stated in the source message. A stated level is valid without image-level text; preserve whether its source is image or message_text. Do not infer an absent level from adjacent posts or enemy levels. Prefer the lowest supported level among inspected clear candidates, preserving unselected alternatives. For chapters 20–30, 32–39 and 51–59, the user waived exhaustive minimum-level comparison; choose a supported clear covering each required block.",
-        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapters 31 and 40 use Casey's Chapter 19 and onwards thread; chapter 31 uses Casey's September level-579 references for 31-5 through 31-9; Win's August-17 level-549 reference is archived and excluded. Other chapter 31 selections use Casey after comparisons with Harsh, Win, Unown, Antzer and opening-stage candidates. Casey's explicitly stated 596 for 31-10 through 31-12 is accepted as a message-text level; the record remains flagged only because the screenshot displays 31-15. The three Casey references for 31-5 through 31-9 are selected under the posting-date policy. Chapters 32–39 primarily use Antzer’s guide, with Harsh’s chapter 32 opening blocks and chapter 33 gap, Unown’s missing or ambiguous-tier blocks, and Casey’s explicitly stated level 771 for 39-1 through 39-4. Complete caption-supported blocks are kept together and each boss is separate. Chapters 20–29 and 51–59 primarily use Pika’s guides, with Vanhhh filling 22-16–22-19 and 23-6–23-9, Vrondius (crediting Layios) filling 28-75–28-79, and Saber filling 58-11–58-14 and 59-1–59-4. All new levels are stated in their own source captions. Early guide formations change at stage 6 rather than stage 5; those verified changes are preserved. The recalled 26-56–26-59 range remains flagged for human review. No server-wide minimum has been established. Chapter 30 uses Antzer’s explicit stage-block captions, Casey’s level-573 boss 30-10 post (crediting jacobdumbnut), and Vrondius’s level-619 30-25–30-29 post (crediting Layios). Vrondius deploys 14/15 units and the screenshot shows the range beginning; its full coverage relies on the caption. Levels are source observations or author statements, not independently tested requirements. All selections additionally require original source and supporting post timestamps after August 27, 2026 in America/Los_Angeles; earlier references remain archived and unsupported stages are hidden.",
+        "selection_scope": "Chapters 41–50 use the supplied reference thread, except 42-15 through 42-19 found through Discord stage-name searches with has:image. Chapters 31 and 40 use Casey's Chapter 19 and onwards thread; chapter 31 uses Casey's September level-579 references for 31-5 through 31-9; Win's August-17 level-549 reference is archived and excluded. Other chapter 31 selections use Casey after comparisons with Harsh, Win, Unown, Antzer and opening-stage candidates. Casey's explicitly stated 596 for 31-10 through 31-12 is accepted as a message-text level; the record remains flagged only because the screenshot displays 31-15. The three Casey references for 31-5 through 31-9 are selected under the posting-date policy. Chapters 32–39 primarily use Antzer’s guide, with Harsh’s chapter 32 opening blocks and chapter 33 gap, Unown’s missing or ambiguous-tier blocks, and Casey’s explicitly stated level 771 for 39-1 through 39-4. Complete caption-supported blocks are kept together and each boss is separate. Chapters 20–30 now use September Vrondius references for stages previously hidden by the posting-date policy. Existing date-eligible Vanhhh, Casey and Vrondius references are retained. Search-found Vanhhh references fill 22-65, 24-74, 26-6 and 26-26; jacobdumbnut fills 27-80 and 28-23; ZERO_SUGAR fills 28-38. The corrected September-19 Vrondius post supplies 28-10 through 28-14; its earlier incorrect-image post is not published. Most replacement levels are explicitly stated in their own source captions. For 26-26, Vanhhh’s screenshot shows level 512 while the caption states 509; use the visible 512 and retain the discrepancy. Exact caption gaps and fewer-than-15 deployed units are preserved. Chapters 51–59 retain Pika’s guides, with Saber filling 58-11 through 58-14 and 59-1 through 59-4. The author’s correction for 51-10 retains its supporting board post. No server-wide minimum has been established. Levels are source observations or author statements, not independently tested requirements. All selections additionally require original source and supporting post timestamps after August 27, 2026 in America/Los_Angeles; earlier references remain archived and unsupported stages are hidden.",
     }
     for record in dataset["high_confidence"] + dataset["needs_human_review"]:
         record["local_image"] = (os.path.relpath(record["local_image_path"], ROOT.parent)
@@ -339,7 +354,7 @@ def build() -> None:
     template = (ROOT / "page-template.html").read_text()
     available_chapters = {group["chapter"] for group in ordered_groups}
     assert available_chapters, "No formations meet the publication policy"
-    options = "".join(f'<option value="{chapter["chapter"]}">Chapter {chapter["chapter"]}</option>'
+    options = "".join(f'<option value="{chapter["chapter"]}"' + (' selected' if chapter["chapter"] == 31 else '') + f'>Chapter {chapter["chapter"]}</option>'
                       for chapter in CHAPTERS if chapter["chapter"] in available_chapters)
     page = template.replace("<!-- STAGE_CARDS -->", "\n".join(cards)).replace("<!-- CHAPTER_OPTIONS -->", options).replace("/* SPRITE_DATA */ {}", json.dumps(sprites, separators=(",", ":")))
     site = ROOT / "site"

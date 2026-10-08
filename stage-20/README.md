@@ -1,10 +1,21 @@
-# Chapter 20
+# Chapter 20 formations
 
-Covers 20-1 through 20-80 using 24 visually reviewed Discord submissions.
-All levels are explicitly typed in their source posts. Original screenshots
-and browser captures remain local; publication metadata is in
-`../data/source-index.json`.
+All 80 stages are published from 27 selected chapter records in 35 cards.
+Observed or explicitly stated Tatari levels: 363–363.
 
-Boards preserve exact catalog forms, glitter variants and empty cells.
-The guide changes formations at stage 6; differing stage-5 and stage-6–9
-boards remain separate. Bosses are separate.
+The October 8 update replaces previously hidden older references with original
+posts after August 27, 2026 in America/Los_Angeles. Existing eligible formations
+are retained. The root README describes the shared publication policy and gaps.
+
+Exact forms, Glitter variants, positions and empty cells were visually reviewed
+against the supplied planner. Only caption-supported stages are selected;
+`caption_stage_numbers` preserves gaps and `website_stage_numbers` preserves the
+selected subset. Regular 1–4 and 5–9 blocks and bosses stay separate, with
+further splits when verified formations change within a block.
+
+The site shows the posting display name and links to the original Discord
+message. Creator credits are stored separately. Older and unselected references
+remain archived. Original screenshots and browser captures remain local; the
+public source index preserves captions, posting dates and permalinks.
+
+Rebuild with `python3 stage-47/build_site.py` from the repository root.

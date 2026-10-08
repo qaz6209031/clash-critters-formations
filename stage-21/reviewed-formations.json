@@ -1319,5 +1319,2831 @@
     "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
     "level_from_original_post_clear_screenshot": false,
     "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+  },
+  {
+    "source_message_id": "1544108085155594250",
+    "stage_start": 1,
+    "stage_end": 1,
+    "caption_stage_numbers": [
+      1
+    ],
+    "screenshot_displayed_stage": "21-1",
+    "screenshot_enemy_level": 543,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        "frostique",
+        "capobeetle",
+        "cobbledon"
+      ],
+      [
+        null,
+        "rockhog",
+        "synthhog",
+        "cheerlet",
+        "turtuff"
+      ],
+      [
+        "frugagon",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      1
+    ]
+  },
+  {
+    "source_message_id": "1544109171153051738",
+    "stage_start": 2,
+    "stage_end": 5,
+    "caption_stage_numbers": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "screenshot_displayed_stage": "21-3",
+    "screenshot_enemy_level": 543,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        "rockwu",
+        "capobeetle",
+        "cobbledon"
+      ],
+      [
+        "cluckeroo",
+        "rockhog",
+        "synthhog",
+        "cheerlet",
+        "turtuff"
+      ],
+      [
+        "frugagon",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "source_message_id": "1544111831826698300",
+    "stage_start": 6,
+    "stage_end": 8,
+    "caption_stage_numbers": [
+      6,
+      7,
+      8
+    ],
+    "screenshot_displayed_stage": "21-6",
+    "screenshot_enemy_level": 544,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        null,
+        "pyrohound",
+        "capobeetle",
+        "voltling"
+      ],
+      [
+        "ospisces",
+        null,
+        null,
+        "serrabloom",
+        "blitzmane"
+      ],
+      [
+        null,
+        "rockwu",
+        "firefox",
+        "cheerlet",
+        "sparkdoe"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "surgehoof"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "source_message_id": "1544112540764737656",
+    "stage_start": 9,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      9
+    ],
+    "screenshot_displayed_stage": "21-10",
+    "screenshot_enemy_level": 546,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        null,
+        "pyrohound",
+        "capobeetle",
+        null
+      ],
+      [
+        "ospisces",
+        null,
+        null,
+        "serrabloom",
+        "voltling"
+      ],
+      [
+        null,
+        "rockwu",
+        "firefox",
+        "cheerlet",
+        "blitzmane"
+      ],
+      [
+        "frostique",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      9
+    ]
+  },
+  {
+    "source_message_id": "1544113408842924162",
+    "stage_start": 10,
+    "stage_end": 10,
+    "caption_stage_numbers": [
+      10
+    ],
+    "screenshot_displayed_stage": "21-10",
+    "screenshot_enemy_level": 546,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "charflutter",
+        "serrabloom",
+        null,
+        "blitzmane",
+        null
+      ],
+      [
+        "frostique",
+        "trippet",
+        "firefox",
+        "cheerlet",
+        "rockwu"
+      ],
+      [
+        "pyroprawn",
+        null,
+        "synthhog",
+        "sparkdoe",
+        "zapooch"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      10
+    ]
+  },
+  {
+    "source_message_id": "1544113919432589343",
+    "stage_start": 11,
+    "stage_end": 12,
+    "caption_stage_numbers": [
+      11,
+      12
+    ],
+    "screenshot_displayed_stage": "21-11",
+    "screenshot_enemy_level": 546,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        "serrabloom",
+        null,
+        null,
+        null
+      ],
+      [
+        "tindercub",
+        null,
+        "synthhog",
+        "blitzmane",
+        "turtuff"
+      ],
+      [
+        "frostique",
+        "capobeetle",
+        null,
+        "cheerlet",
+        "zapooch"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "boltskipper",
+        "rockwu"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      11,
+      12
+    ]
+  },
+  {
+    "source_message_id": "1544114840853815340",
+    "stage_start": 13,
+    "stage_end": 13,
+    "caption_stage_numbers": [
+      13
+    ],
+    "screenshot_displayed_stage": "21-14",
+    "screenshot_enemy_level": 547,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom",
+        null,
+        null,
+        "turtuff"
+      ],
+      [
+        "firefox",
+        null,
+        "synthhog",
+        "blitzmane",
+        "zapooch"
+      ],
+      [
+        "frostique",
+        "capobeetle",
+        null,
+        "cheerlet",
+        "rockwu"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "boltskipper",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      13
+    ]
+  },
+  {
+    "source_message_id": "1544116146364481676",
+    "stage_start": 14,
+    "stage_end": 14,
+    "caption_stage_numbers": [
+      14
+    ],
+    "screenshot_displayed_stage": "21-15",
+    "screenshot_enemy_level": 547,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "กามู",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "charflutter",
+        "serrabloom",
+        null,
+        "blitzmane",
+        "turtuff"
+      ],
+      [
+        "frostique",
+        "frugagon",
+        "synthhog",
+        "cheerlet",
+        "rockwu"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "sparkdoe",
+        "zapooch"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      14
+    ]
+  },
+  {
+    "source_message_id": "1544117265082093692",
+    "stage_start": 15,
+    "stage_end": 15,
+    "caption_stage_numbers": [
+      15
+    ],
+    "screenshot_displayed_stage": "21-16",
+    "screenshot_enemy_level": 548,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pyrohound",
+        "serrabloom",
+        null,
+        "blitzmane",
+        "turtuff"
+      ],
+      [
+        "charflutter",
+        "frugagon",
+        null,
+        "cheerlet",
+        "rockwu"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "sparkdoe",
+        "zapooch"
+      ],
+      [
+        "frostique",
+        null,
+        null,
+        null,
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      15
+    ]
+  },
+  {
+    "source_message_id": "1544118076935634964",
+    "stage_start": 16,
+    "stage_end": 17,
+    "caption_stage_numbers": [
+      16,
+      17
+    ],
+    "screenshot_displayed_stage": "21-17",
+    "screenshot_enemy_level": 548,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "blitzmane"
+      ],
+      [
+        null,
+        "frugagon",
+        "pandaroo",
+        "serrabloom",
+        "tindercub"
+      ],
+      [
+        "charflutter",
+        "rockwu",
+        "frostique",
+        "cheerlet",
+        "humbleetle"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "capobeetle",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      16,
+      17
+    ]
+  },
+  {
+    "source_message_id": "1544118963384885338",
+    "stage_start": 18,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      18,
+      19
+    ],
+    "screenshot_displayed_stage": "21-19",
+    "screenshot_enemy_level": 549,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "blitzmane"
+      ],
+      [
+        null,
+        "frugagon",
+        "voltling",
+        "serrabloom",
+        "tindercub"
+      ],
+      [
+        "charflutter",
+        "rockwu",
+        "frostique",
+        "cheerlet",
+        "humbleetle"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "cluckeroo",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      18,
+      19
+    ]
+  },
+  {
+    "source_message_id": "1544120188990132274",
+    "stage_start": 20,
+    "stage_end": 20,
+    "caption_stage_numbers": [
+      20
+    ],
+    "screenshot_displayed_stage": "21-21",
+    "screenshot_enemy_level": 549,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "capobeetle",
+        "blitzmane",
+        "frostique",
+        null,
+        "pyrohound"
+      ],
+      [
+        "serrabloom",
+        "cheerlet",
+        "trippet",
+        null,
+        "charflutter"
+      ],
+      [
+        "frugagon",
+        "turtuff",
+        "waveflutter",
+        "azurion",
+        "humbleetle"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        null,
+        "rockwu"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      20
+    ]
+  },
+  {
+    "source_message_id": "1544120460328050688",
+    "stage_start": 21,
+    "stage_end": 22,
+    "caption_stage_numbers": [
+      21,
+      22
+    ],
+    "screenshot_displayed_stage": "21-21",
+    "screenshot_enemy_level": 549,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "capobeetle",
+        "blitzmane",
+        "frostique",
+        null,
+        "pyrohound"
+      ],
+      [
+        "serrabloom",
+        "cheerlet",
+        "trippet",
+        "charflutter",
+        "humbleetle"
+      ],
+      [
+        "frugagon",
+        "turtuff",
+        "waveflutter",
+        "azurion",
+        "rockwu"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "source_message_id": "1544121240602550273",
+    "stage_start": 23,
+    "stage_end": 23,
+    "caption_stage_numbers": [
+      23
+    ],
+    "screenshot_displayed_stage": "21-24",
+    "screenshot_enemy_level": 550,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        null,
+        null,
+        null
+      ],
+      [
+        "cluckeroo",
+        "charflutter",
+        null,
+        "capobeetle",
+        "cobbledon"
+      ],
+      [
+        "frugagon",
+        "sparkdoe",
+        "frostique",
+        "cheerlet",
+        "rattlecoil"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "rockwu"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      23
+    ]
+  },
+  {
+    "source_message_id": "1544121746620293161",
+    "stage_start": 24,
+    "stage_end": 24,
+    "caption_stage_numbers": [
+      24
+    ],
+    "screenshot_displayed_stage": "21-24",
+    "screenshot_enemy_level": 550,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "capobeetle",
+        "blitzmane",
+        null,
+        null,
+        null
+      ],
+      [
+        "frugagon",
+        "charflutter",
+        null,
+        "serrabloom",
+        "cobbledon"
+      ],
+      [
+        "cluckeroo",
+        "sparkdoe",
+        "frostique",
+        "cheerlet",
+        "rockwu"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "tikowl"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      24
+    ]
+  },
+  {
+    "source_message_id": "1544122207423303714",
+    "stage_start": 25,
+    "stage_end": 25,
+    "caption_stage_numbers": [
+      25
+    ],
+    "screenshot_displayed_stage": "21-26",
+    "screenshot_enemy_level": 551,
+    "tatari_level": 363,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 363",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "serrabloom",
+        null
+      ],
+      [
+        "capobeetle",
+        "blitzmane",
+        null,
+        null,
+        null
+      ],
+      [
+        "frugagon",
+        "charflutter",
+        null,
+        null,
+        "cobbledon"
+      ],
+      [
+        "cluckeroo",
+        "sparkdoe",
+        "frostique",
+        "cheerlet",
+        "rockwu"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      25
+    ]
+  },
+  {
+    "source_message_id": "1544190081709907978",
+    "stage_start": 26,
+    "stage_end": 26,
+    "caption_stage_numbers": [
+      26
+    ],
+    "screenshot_displayed_stage": "21-27",
+    "screenshot_enemy_level": 551,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        null,
+        "blitzmane",
+        "cobbledon"
+      ],
+      [
+        null,
+        "cheerlet",
+        "capobeetle",
+        "rockwu",
+        "turtuff"
+      ],
+      [
+        null,
+        "frostique",
+        "frugagon",
+        "sparkdoe",
+        "rattlecoil"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      26
+    ]
+  },
+  {
+    "source_message_id": "1544190685421375588",
+    "stage_start": 27,
+    "stage_end": 29,
+    "caption_stage_numbers": [
+      27,
+      28,
+      29
+    ],
+    "screenshot_displayed_stage": "21-28",
+    "screenshot_enemy_level": 552,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "capobeetle",
+        "blitzmane",
+        "cobbledon"
+      ],
+      [
+        null,
+        "charflutter",
+        "cheerlet",
+        "rockwu",
+        "turtuff"
+      ],
+      [
+        null,
+        "frostique",
+        "frugagon",
+        "sparkdoe",
+        "rattlecoil"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "source_message_id": "1544192605007380510",
+    "stage_start": 30,
+    "stage_end": 33,
+    "caption_stage_numbers": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "screenshot_displayed_stage": "21-30",
+    "screenshot_enemy_level": 552,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        "serrabloom",
+        "voltling",
+        "cobbledon",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        null,
+        "rockwu",
+        "cheerlet",
+        "zapooch"
+      ],
+      [
+        null,
+        null,
+        "humbleetle",
+        "synthhog",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "sparkdoe"
+      ],
+      [
+        "cluckeroo",
+        "frostique",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      30,
+      31,
+      32,
+      33
+    ]
+  },
+  {
+    "source_message_id": "1544193526621806642",
+    "stage_start": 34,
+    "stage_end": 34,
+    "caption_stage_numbers": [
+      34
+    ],
+    "screenshot_displayed_stage": "21-35",
+    "screenshot_enemy_level": 554,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "voltling",
+        "cobbledon",
+        "blitzmane",
+        "zapooch"
+      ],
+      [
+        null,
+        null,
+        "rockwu",
+        "cheerlet",
+        null
+      ],
+      [
+        "frugagon",
+        "frostique",
+        "humbleetle",
+        "synthhog",
+        "sparkdoe"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      34
+    ]
+  },
+  {
+    "source_message_id": "1544196097172443136",
+    "stage_start": 35,
+    "stage_end": 35,
+    "caption_stage_numbers": [
+      35
+    ],
+    "screenshot_displayed_stage": "21-35",
+    "screenshot_enemy_level": 554,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        "cobbledon",
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "nekowatt",
+        "synthhog",
+        "blitzmane",
+        null
+      ],
+      [
+        "frugagon",
+        null,
+        "rockwu",
+        "cheerlet",
+        "voltling"
+      ],
+      [
+        "capobeetle",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "sparkdoe"
+      ],
+      [
+        null,
+        "frostique",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      35
+    ]
+  },
+  {
+    "source_message_id": "1544197054216282214",
+    "stage_start": 36,
+    "stage_end": 39,
+    "caption_stage_numbers": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "screenshot_displayed_stage": "21-37",
+    "screenshot_enemy_level": 555,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        "capobeetle",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "charflutter",
+        "pyrohound",
+        null,
+        "blitzmane",
+        "serrabloom"
+      ],
+      [
+        "tikowl",
+        "trippet",
+        "rockwu",
+        "cheerlet",
+        null
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique",
+        "sparkdoe"
+      ],
+      [
+        null,
+        "firefox",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  {
+    "source_message_id": "1544199209358725150",
+    "stage_start": 40,
+    "stage_end": 41,
+    "caption_stage_numbers": [
+      40,
+      41
+    ],
+    "screenshot_displayed_stage": "21-41",
+    "screenshot_enemy_level": 556,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        "cobbledon",
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "voltling",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "rockwu",
+        "synthhog",
+        "blitzmane"
+      ],
+      [
+        "frugagon",
+        "frostique",
+        "humbleetle",
+        "cheerlet",
+        null
+      ],
+      [
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      40,
+      41
+    ]
+  },
+  {
+    "source_message_id": "1544200556610854922",
+    "stage_start": 42,
+    "stage_end": 44,
+    "caption_stage_numbers": [
+      42,
+      43,
+      44
+    ],
+    "screenshot_displayed_stage": "21-42",
+    "screenshot_enemy_level": 556,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "voltling",
+        "cobbledon",
+        "synthhog",
+        "blitzmane"
+      ],
+      [
+        "frugagon",
+        "frostique",
+        "rockwu",
+        "cheerlet",
+        "zapooch"
+      ],
+      [
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      42,
+      43,
+      44
+    ]
+  },
+  {
+    "source_message_id": "1544201051182473307",
+    "stage_start": 45,
+    "stage_end": 45,
+    "caption_stage_numbers": [
+      45
+    ],
+    "screenshot_displayed_stage": "21-46",
+    "screenshot_enemy_level": 558,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "cobbledon",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "voltling"
+      ],
+      [
+        "serrabloom",
+        null,
+        null,
+        "synthhog",
+        "blitzmane"
+      ],
+      [
+        "frugagon",
+        "frostique",
+        "rockwu",
+        "cheerlet",
+        "zapooch"
+      ],
+      [
+        "cluckeroo",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      45
+    ]
+  },
+  {
+    "source_message_id": "1544201991012614175",
+    "stage_start": 46,
+    "stage_end": 46,
+    "caption_stage_numbers": [
+      46
+    ],
+    "screenshot_displayed_stage": "21-46",
+    "screenshot_enemy_level": 558,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "charflutter",
+        "serrabloom",
+        "swaystroll"
+      ],
+      [
+        null,
+        null,
+        "rockwu",
+        "cheerlet",
+        "ospisces"
+      ],
+      [
+        null,
+        null,
+        null,
+        "synthhog",
+        "zapooch"
+      ],
+      [
+        null,
+        "sparkdoe",
+        null,
+        null,
+        "frostique"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        "boltskipper"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      46
+    ]
+  },
+  {
+    "source_message_id": "1544203434390069360",
+    "stage_start": 47,
+    "stage_end": 48,
+    "caption_stage_numbers": [
+      47,
+      48
+    ],
+    "screenshot_displayed_stage": "21-48",
+    "screenshot_enemy_level": 558,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "charflutter",
+        "serrabloom",
+        "swaystroll"
+      ],
+      [
+        "pyrohound",
+        "sparkdoe",
+        "rockwu",
+        "cheerlet",
+        "ospisces"
+      ],
+      [
+        null,
+        null,
+        "trippet",
+        "synthhog",
+        "zapooch"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      47,
+      48
+    ]
+  },
+  {
+    "source_message_id": "1544203882064904243",
+    "stage_start": 49,
+    "stage_end": 49,
+    "caption_stage_numbers": [
+      49
+    ],
+    "screenshot_displayed_stage": "21-50",
+    "screenshot_enemy_level": 559,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "charflutter",
+        "serrabloom",
+        "swaystroll"
+      ],
+      [
+        null,
+        "sparkdoe",
+        "rockwu",
+        "cheerlet",
+        "ospisces"
+      ],
+      [
+        null,
+        null,
+        null,
+        "synthhog",
+        "zapooch"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "frostique"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        "boltskipper"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      49
+    ]
+  },
+  {
+    "source_message_id": "1544207154435850310",
+    "stage_start": 50,
+    "stage_end": 52,
+    "caption_stage_numbers": [
+      50,
+      51,
+      52
+    ],
+    "screenshot_displayed_stage": "21-50",
+    "screenshot_enemy_level": 559,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "serrabloom"
+      ],
+      [
+        null,
+        "cobbledon",
+        "blitzmane",
+        "swaystroll",
+        "charflutter"
+      ],
+      [
+        null,
+        null,
+        "zapooch",
+        "cheerlet",
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        "sparkdoe",
+        "synthhog",
+        null
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      50,
+      51,
+      52
+    ]
+  },
+  {
+    "source_message_id": "1544208653509464094",
+    "stage_start": 53,
+    "stage_end": 55,
+    "caption_stage_numbers": [
+      53,
+      54,
+      55
+    ],
+    "screenshot_displayed_stage": "21-54",
+    "screenshot_enemy_level": 560,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "turtuff",
+        "blitzmane",
+        "clawzor",
+        "capobeetle"
+      ],
+      [
+        null,
+        null,
+        "cheerlet",
+        "charflutter",
+        "serrabloom"
+      ],
+      [
+        null,
+        "rockwu",
+        "trippet",
+        null,
+        "frugagon"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      53,
+      54,
+      55
+    ]
+  },
+  {
+    "source_message_id": "1544209483453173861",
+    "stage_start": 56,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "screenshot_displayed_stage": "21-56",
+    "screenshot_enemy_level": 561,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "rockwu",
+        "frostique",
+        null,
+        "serrabloom"
+      ],
+      [
+        "zapooch",
+        "charflutter",
+        "trippet",
+        "cheerlet",
+        "frugagon"
+      ],
+      [
+        "sparkdoe",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "firefox"
+      ],
+      [
+        null,
+        "capobeetle",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      56,
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "source_message_id": "1544212084986740837",
+    "stage_start": 60,
+    "stage_end": 61,
+    "caption_stage_numbers": [
+      60,
+      61
+    ],
+    "screenshot_displayed_stage": "21-61",
+    "screenshot_enemy_level": 563,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        "serrabloom",
+        "blitzmane",
+        "swaystroll"
+      ],
+      [
+        null,
+        null,
+        "cluckeroo",
+        "cheerlet",
+        "boltskipper"
+      ],
+      [
+        null,
+        "capobeetle",
+        "rockwu",
+        "sparkdoe",
+        "frostique"
+      ],
+      [
+        null,
+        "embertail",
+        "trippet",
+        null,
+        null
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      60,
+      61
+    ]
+  },
+  {
+    "source_message_id": "1544215444691623937",
+    "stage_start": 62,
+    "stage_end": 64,
+    "caption_stage_numbers": [
+      62,
+      63,
+      64
+    ],
+    "screenshot_displayed_stage": "21-63",
+    "screenshot_enemy_level": 563,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom",
+        "blitzmane",
+        "swaystroll"
+      ],
+      [
+        null,
+        "capobeetle",
+        "rockwu",
+        "cheerlet",
+        "sparkdoe"
+      ],
+      [
+        null,
+        "frugagon",
+        "trippet",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "boltskipper",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      62,
+      63,
+      64
+    ]
+  },
+  {
+    "source_message_id": "1544216189402611752",
+    "stage_start": 65,
+    "stage_end": 65,
+    "caption_stage_numbers": [
+      65
+    ],
+    "screenshot_displayed_stage": "21-66",
+    "screenshot_enemy_level": 564,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom",
+        "blitzmane",
+        "swaystroll"
+      ],
+      [
+        null,
+        "capobeetle",
+        "rockwu",
+        "cheerlet",
+        "sparkdoe"
+      ],
+      [
+        null,
+        "frugagon",
+        "trippet",
+        "charflutter",
+        "frostique"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "surgehoof",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      65
+    ]
+  },
+  {
+    "source_message_id": "1544216763502297168",
+    "stage_start": 66,
+    "stage_end": 66,
+    "caption_stage_numbers": [
+      66
+    ],
+    "screenshot_displayed_stage": "21-66",
+    "screenshot_enemy_level": 564,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "swaystroll",
+        null,
+        null
+      ],
+      [
+        "capobeetle",
+        "firefox",
+        "frostique",
+        null,
+        "blitzmane"
+      ],
+      [
+        "serrabloom",
+        "cheerlet",
+        "charflutter",
+        "rockwu",
+        "zapooch"
+      ],
+      [
+        "humbleetle",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      66
+    ]
+  },
+  {
+    "source_message_id": "1544217703219339265",
+    "stage_start": 67,
+    "stage_end": 68,
+    "caption_stage_numbers": [
+      67,
+      68
+    ],
+    "screenshot_displayed_stage": "21-68",
+    "screenshot_enemy_level": 565,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "swaystroll",
+        null,
+        null
+      ],
+      [
+        "capobeetle",
+        "firefox",
+        "frostique",
+        null,
+        "blitzmane"
+      ],
+      [
+        "serrabloom",
+        "cheerlet",
+        "synthhog",
+        "rockwu",
+        "zapooch"
+      ],
+      [
+        "humbleetle",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      67,
+      68
+    ]
+  },
+  {
+    "source_message_id": "1544219482442960937",
+    "stage_start": 69,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      69
+    ],
+    "screenshot_displayed_stage": "21-70",
+    "screenshot_enemy_level": 566,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "swaystroll",
+        null,
+        null
+      ],
+      [
+        "capobeetle",
+        "tindercub",
+        "frostique",
+        null,
+        "blitzmane"
+      ],
+      [
+        "serrabloom",
+        "cheerlet",
+        "synthhog",
+        "rockwu",
+        "zapooch"
+      ],
+      [
+        "embertail",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      69
+    ]
+  },
+  {
+    "source_message_id": "1544220788243038258",
+    "stage_start": 70,
+    "stage_end": 71,
+    "caption_stage_numbers": [
+      70,
+      71
+    ],
+    "screenshot_displayed_stage": "21-71",
+    "screenshot_enemy_level": 566,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom",
+        "swaystroll",
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "charflutter",
+        "frostique",
+        "pyrohound",
+        "turtuff"
+      ],
+      [
+        "sparkdoe",
+        null,
+        "capypapa",
+        "cheerlet",
+        "rockwu"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      70,
+      71
+    ]
+  },
+  {
+    "source_message_id": "1544221970168815626",
+    "stage_start": 72,
+    "stage_end": 73,
+    "caption_stage_numbers": [
+      72,
+      73
+    ],
+    "screenshot_displayed_stage": "21-72",
+    "screenshot_enemy_level": 566,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        "blitzmane",
+        "serrabloom",
+        null,
+        null,
+        null
+      ],
+      [
+        "zapooch",
+        "charflutter",
+        null,
+        "swaystroll",
+        "cobbledon"
+      ],
+      [
+        "sparkdoe",
+        "capobeetle",
+        "frostique",
+        "cheerlet",
+        "rockwu"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "humbleetle"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      72,
+      73
+    ]
+  },
+  {
+    "source_message_id": "1544223183941537902",
+    "stage_start": 74,
+    "stage_end": 75,
+    "caption_stage_numbers": [
+      74,
+      75
+    ],
+    "screenshot_displayed_stage": "21-76",
+    "screenshot_enemy_level": 568,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "serrabloom",
+        "frostique",
+        "clawzor",
+        "cobbledon"
+      ],
+      [
+        "zapooch",
+        "charflutter",
+        "trippet",
+        "cheerlet",
+        "rockwu"
+      ],
+      [
+        "sparkdoe",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      74,
+      75
+    ]
+  },
+  {
+    "source_message_id": "1544225908469268520",
+    "stage_start": 76,
+    "stage_end": 76,
+    "caption_stage_numbers": [
+      76
+    ],
+    "screenshot_displayed_stage": "21-77",
+    "screenshot_enemy_level": 568,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Vanhhh",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        null,
+        "serrabloom",
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        "frostique",
+        "cluckeroo",
+        "swaystroll"
+      ],
+      [
+        null,
+        "humbleetle",
+        "trippet",
+        "cheerlet",
+        "ospisces"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frugagon",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      76
+    ]
+  },
+  {
+    "source_message_id": "1544226172844507196",
+    "stage_start": 77,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      77,
+      78,
+      79
+    ],
+    "screenshot_displayed_stage": "21-78",
+    "screenshot_enemy_level": 568,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator identified in this caption; the posting author is preserved separately.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "turtuff",
+        null,
+        "serrabloom",
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "frostique",
+        "cluckeroo",
+        "swaystroll"
+      ],
+      [
+        null,
+        "rockwu",
+        "trippet",
+        "cheerlet",
+        "ospisces"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frugagon",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      77,
+      78,
+      79
+    ]
+  },
+  {
+    "source_message_id": "1544236069065588827",
+    "stage_start": 80,
+    "stage_end": 80,
+    "caption_stage_numbers": [
+      80
+    ],
+    "screenshot_displayed_stage": "22-1",
+    "screenshot_enemy_level": 569,
+    "tatari_level": 364,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 364",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "กามู",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "cluckeroo",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "frugagon",
+        "blitzmane",
+        "swaystroll"
+      ],
+      [
+        "pyrohound",
+        null,
+        "charflutter",
+        "cheerlet",
+        "ospisces"
+      ],
+      [
+        "azurion",
+        "embertail",
+        "trippet",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "sparkdoe",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "website_stage_numbers": [
+      80
+    ]
   }
 ]
