@@ -199,8 +199,8 @@
     ],
     "needs_review": false,
     "notes": "Caption reports clearing 31-5 through 31-9 at level 549; screenshot displays the next stage 31-10. Level is an explicit author statement, not an image reading. Exact deployed forms, tiers and positions were visually matched to the planner catalog. No missing level was inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Lowest supported level among the inspected clear candidates for this range, accepting explicit message-text levels under the user’s collection rule. The level has not been independently tested."
+    "selected_for_website": false,
+    "selection_reason": "Historical level-549 alternative preserved. Posted August 17, 2026, before the publication cutoff; website now selects Casey’s September level-579 references."
   },
   {
     "source_message_id": "1549865027190792223",
@@ -250,8 +250,8 @@
     ],
     "needs_review": false,
     "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
-    "selected_for_website": false,
-    "selection_reason": "Higher-level alternative preserved. Website selects Win’s explicitly stated level 549 source 1538997557391532152 for 31-5 through 31-9."
+    "selected_for_website": true,
+    "selection_reason": "Reviewed September reference meets the after-August-27 publication policy. Replaces the older website selection for these stages; the historical record is preserved."
   },
   {
     "source_message_id": "1549871060441104505",
@@ -301,8 +301,8 @@
     ],
     "needs_review": false,
     "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
-    "selected_for_website": false,
-    "selection_reason": "Higher-level alternative preserved. Website selects Win’s explicitly stated level 549 source 1538997557391532152 for 31-5 through 31-9."
+    "selected_for_website": true,
+    "selection_reason": "Reviewed September reference meets the after-August-27 publication policy. Replaces the older website selection for these stages; the historical record is preserved."
   },
   {
     "source_message_id": "1549875832879718430",
@@ -352,8 +352,8 @@
     ],
     "needs_review": false,
     "notes": "Exact forms, tiers and occupied cells visually matched to the supplied planner catalog. Level is readable on multiple inventory cards.",
-    "selected_for_website": false,
-    "selection_reason": "Higher-level alternative preserved. Website selects Win’s explicitly stated level 549 source 1538997557391532152 for 31-5 through 31-9."
+    "selected_for_website": true,
+    "selection_reason": "Reviewed September reference meets the after-August-27 publication policy. Replaces the older website selection for these stages; the historical record is preserved."
   },
   {
     "source_message_id": "1550077090425213041",

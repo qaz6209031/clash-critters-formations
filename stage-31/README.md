@@ -1,17 +1,18 @@
 # Chapter 31 formations
 
-[Live chapter](https://kaichin.dev/clash-critters-formations/#chapter-31)
+[Live chapter](https://critterformations.com/#chapter-31)
 
-All **31-1 through 31-80** have source-caption coverage in **35 grouped
-formation cards from 36 selected posts**. All **39 collected source records**
-are preserved, including three higher-level alternatives. Exact forms, tiers, Glitter variants
+All **31-1 through 31-80** have source-caption coverage in **37 grouped
+formation cards from 38 selected posts**. All **39 collected source records**
+are preserved, including the older Win alternative. Only sources posted after
+August 27, 2026 qualify for the website. Exact forms, tiers, Glitter variants
 and positions determine grouping. Cards show the stage range, observed level,
 posting display name and 5×5 grid. Both stage and poster links open the source.
 
 ## Levels and selection
 
 - 31-1–31-4: level 579, readable in the screenshots.
-- 31-5–31-9: level 549 explicitly typed by Win in the post.
+- 31-5–31-9: Casey’s September level 579, readable in the screenshots.
 - 31-10–31-12: level 596 explicitly typed by Casey; stage attribution needs review.
 - 31-13–31-22: level 596, readable in the screenshots.
 - 31-23–31-24: level 597, readable in the screenshots.
@@ -25,21 +26,24 @@ compared Harsh, Win, Unown, Antzer and opening-stage candidates. Harsh’s
 recommended `harsh5200` chapter thread reports level 637. Other inspected
 opening candidates showed Win 594, Antzer 598, Unown 600 and Dokeshi 603.
 Casey’s opening screenshots show 579 and later screenshots remain below
-the other inspected alternatives. Win’s explicit level-549 post is selected
-for 31-5–31-9. These are the lowest supported levels among inspected
-candidates, not a server-wide minimum or required level.
+the other inspected alternatives. Win’s explicit level-549 post was dated
+August 17 and is excluded under the publication cutoff. Casey’s September
+references replace it for 31-5–31-9.
+Levels are supported observations, not a server-wide minimum or required level.
 
 Use a formation only when its level is readable in the image or explicitly
-typed in its source post. Win’s 31-5–31-9 caption says `lvl 549`, which is
-accepted under the user’s rule even though no image-level number is visible.
+typed in its source post. Win’s 31-5–31-9 caption says `lvl 549`, which was
+accepted during the earlier collection even though no image-level number was visible.
+Its original posting date now excludes it from the website.
 The author’s number is preserved exactly. `tatari_level_source` distinguishes
 `image` from `message_text`; typed levels retain `tatari_level_quote`.
 Levels are not inferred from adjacent posts or enemy levels.
-Casey’s level-579 records for this range remain stored with
-`selected_for_website: false`; they were not deleted or marked as superseded.
+Casey’s level-579 records for this range now have
+`selected_for_website: true`; Win’s archived record is unselected.
+No submission was deleted or marked as author-superseded.
 Original formation credits in Casey’s captions are stored separately:
 jacobdumbnut, Harsh and Layios. `Posted by` identifies Casey, not the
-credited reference creator; the selected 31-5–31-9 card identifies Win.
+credited reference creator; the selected 31-5–31-9 cards identify Casey.
 
 ## Evidence and review
 
@@ -72,9 +76,9 @@ posting display names and message permalinks. Original attachments, raw browser
 captures and screenshots remain local under ignored `evidence/`. Generated
 `stage-31-lineups.json` and `../lineups.json` retain richer local evidence.
 
-The shared builder checks complete stage coverage, unique source IDs, valid
+The shared builder checks the posting-date cutoff, unique stage mappings, valid
 catalog forms and expected deployed counts. Chapter 31 covers 80 unique stages;
-the preceding 880 stage mappings are unchanged. GitHub Pages deploys only
+earlier chapter stages without newer references are hidden. GitHub Pages deploys only
 `stage-47/site`. A fresh checkout can rebuild without private evidence.
 
 Rebuild with `python3 stage-47/build_site.py` from the project root.

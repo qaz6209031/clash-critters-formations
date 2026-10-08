@@ -4,10 +4,23 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. It covers **3200 stages in chapters 20–59**,
-grouped into **1039 formation cards** from 964 selected source posts.
+posters and exact 5×5 formations. The published site covers **2339 stages**,
+grouped into **703 formation cards** from **709 selected source posts**.
 All 967 reviewed submissions are preserved; the public index contains 969
 source and supporting posts.
+
+Only original posts **after August 27, 2026** qualify for publication, using
+America/Los_Angeles time: August 28 at midnight is `2026-08-28T07:00:00Z`.
+The same cutoff applies to separate board sources and supporting evidence.
+Edit dates do not qualify an older post. Missing, invalid or timezone-free
+timestamps are excluded. The build enforces this policy on every update.
+
+The date audit excluded **258 older submissions**. Chapter 31-5–31-9 now uses
+Casey’s three September level-579 posts instead of Win’s August level-549 post.
+**861 stages without a reviewed newer replacement are hidden**, leaving chapters
+31–59 complete and partial coverage in chapters 22, 23, 28 and 30. Empty chapters
+are omitted from the selector. Earlier submissions remain in the local archive
+with `selected_for_website: false` and a publication exclusion reason.
 
 Choose a chapter at the top to show only its formations. The selector stays
 available while scrolling, supports chapter links such as `#chapter-40`, and
@@ -20,7 +33,7 @@ Exact forms, glitter variants and positions determine whether cards can merge.
 Chapters 20–30, 32–39 and 51–59 keep 1–4, 5–9 and each boss separate.
 The early Pika guide changes at stage 6: where its formations differ, stage 5
 and stages 6–9 remain separate instead of asserting that one lineup clears the
-entire 5–9 block. Existing chapter 31 and 40–50 formations are unchanged.
+entire 5–9 block. Existing grouping for chapter 31 and 40–50 is preserved.
 Ambiguous evidence retains review notes in the saved data and level tooltips.
 
 ## Preview and build
@@ -33,7 +46,7 @@ python3 -m http.server 8765 --bind 127.0.0.1 --directory stage-47/site
 ```
 
 Open `http://127.0.0.1:8765/`. Choose a chapter or use a link such as
-`#chapter-20`, `#chapter-40` or `#chapter-59`. The finished `stage-47/site/index.html` also opens offline.
+`#chapter-31`, `#chapter-40` or `#chapter-59`. The finished `stage-47/site/index.html` also opens offline.
 All artwork is embedded, so GitHub Pages project paths work without a base-URL
 setting or asset server.
 
@@ -46,8 +59,10 @@ The workflow follows the [GitHub Pages deployment documentation](https://docs.gi
 
 To update formations, edit the appropriate chapter's `reviewed-formations.json`
 and add source metadata to `data/source-index.json`, then build, commit and push.
-The builder validates complete stage coverage and each reviewed deployed count
-(15 by default; source screenshots sometimes deploy fewer units).
+The builder validates source timestamps, unique published stage mappings,
+chapter bounds, supported grouping and each reviewed deployed count
+(15 by default; source screenshots sometimes deploy fewer units). Gaps are
+recorded in generated `unavailable_stages`; no missing formation is invented.
 Expanding to another chapter also requires adding it to `CHAPTERS` in the builder.
 The chapter selector is populated automatically.
 
@@ -88,9 +103,9 @@ level-853 posts found through Discord search; all other new chapters use the
 provided nil reference thread. Search comparisons establish only the lowest
 readable level among inspected candidates, not a server-wide minimum.
 
-Chapter 31 adds all 80 stages from 36 selected posts, grouped into 35 cards.
-Selected levels are 549–604. Win’s explicitly posted level 549 is selected
-for 31-5–31-9; Casey’s three level-579 alternatives remain in the data.
+Chapter 31 covers all 80 stages from 38 selected posts, grouped into 37 cards.
+Selected levels are 579–604. Casey’s September level-579 posts are selected
+for 31-5–31-9; Win’s older level-549 alternative remains archived.
 Casey’s explicitly posted level 596 is accepted for 31-10–31-12, while that
 source remains flagged for its screenshot-stage mismatch.
 
@@ -102,7 +117,8 @@ artwork, exact tiers come from explicit author statements and retain that
 provenance; unclear exceptions use other sources. Existing formations and card
 grouping for chapter 31 and chapters 40–50 are preserved.
 
-Chapters 20–29 and 51–59 add 1520 stages from 453 reviewed posts. Pika’s
+The historical collection for chapters 20–29 and 51–59 contains 1520 stages
+from 453 reviewed posts; the publication cutoff now excludes the older entries. Pika’s
 chapter guides are the main sources; Vanhhh, Vrondius and Saber fill gaps.
 All newly selected levels are explicitly stated in their own source posts;
 exhaustive lowest-level comparison was waived. Vrondius credits Layios for
@@ -111,11 +127,12 @@ formation, so that supporting message is retained as the board source.
 The recalled formation for **26-56–26-59 needs human review**: its author
 missed the original screenshot and says the replacement is from memory.
 
-Chapter 30 adds all 80 stages from 22 source posts in 24 cards, keeping
+The historical chapter 30 collection contains all 80 stages from 22 source
+posts in 24 cards. Only 30-10 and 30-25–30-29 now qualify for publication, keeping
 1–4, 5–9 and each boss separate. Antzer provides 20 stage-block references;
 Casey supplies boss 30-10 at level 573, crediting jacobdumbnut, and Vrondius
 supplies 30-25–30-29 at level 619, crediting Layios. All selected levels are
 explicitly stated in their own messages. Vrondius's screenshot deploys 14/15
 Tatari and shows the range beginning; the caption supports the full range.
 No fifteenth unit or missing level is inferred. Existing chapter formations
-and grouping are unchanged.
+and grouping are preserved where their source dates qualify.
