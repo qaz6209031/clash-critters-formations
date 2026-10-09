@@ -4,11 +4,11 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. The published site covers **4739 stages**
-(chapters 10–69), grouped into **1667 formation cards** from **1474 selected
-Discord source posts** (1481 chapter-specific records). All **1739 reviewed
-formation records** are preserved; the public index contains 1734 source and
-supporting posts. The 61 unsupported stages in chapters 10–19 remain empty.
+posters and exact 5×5 formations. The published site covers **5155 stages**
+(chapters 10–79), grouped into **1810 formation cards** from **1619 selected
+Discord source posts** (1626 chapter-specific records). All **1885 reviewed
+formation records** are preserved; the public index contains 1882 source and
+supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
 America/Los_Angeles time: August 28 at midnight is `2026-08-28T07:00:00Z`.
@@ -33,7 +33,7 @@ Stage labels and posters link to their original Discord messages, which require
 the viewer's own server access. A credited creator is distinct from the poster.
 
 Exact forms, glitter variants and positions determine whether cards can merge.
-Chapters 10–30, 32–39 and 51–69 keep 1–4, 5–9 and each boss separate.
+Chapters 10–30, 32–39 and 51–79 keep 1–4, 5–9 and each boss separate.
 A block may contain different cards when the source only supports shorter ranges.
 The early Pika guide changes at stage 6: where its formations differ, stage 5
 and stages 6–9 remain separate instead of asserting that one lineup clears the
@@ -72,7 +72,7 @@ The chapter selector is populated automatically.
 
 ## Files and source evidence
 
-- `stage-10` through `stage-69`: reviewed formations and chapter notes.
+- `stage-10` through `stage-79`: reviewed formations and chapter notes.
 - `stage-47/build_site.py`: static site and structured-data generator.
 - `stage-47/page-template.html`: website layout and styles.
 - `stage-47/site/index.html`: generated offline website.
@@ -196,3 +196,32 @@ explicitly states the tiers, catalog forms are normalized to those stated tiers
 and `tier_assignment_basis` retains the evidence. No tier or level is borrowed
 from a neighboring post. The removed posting-date sentence stays absent from
 the page while the source and supporting-evidence cutoff remains enforced.
+
+
+Chapters 70–79 add **416 of 800 requested stages** from **146 visually reviewed
+posts**, grouped into **143 cards**. All 4739 existing stage mappings and
+1667 cards are unchanged. Pika supplies chapters 70–73 and the opening 74
+blocks. Mw’s eligible posts and Cutey, djinnlynx, oTradeMark, Krousty, Fuenite
+and Melinoë supply the remaining chapter 74 references; Mw supplies 75-1–49.
+Creator credits in the new captions are retained separately from posting authors.
+
+| Chapter | Available stages | Unavailable stages |
+| --- | ---: | --- |
+| 70–73 | 80/80 each | None |
+| 74 | 47/80 | 11–14, 19, 21–29, 31–39, 41–49, 64 |
+| 75 | 49/80 | 50–80 |
+| 76–79 | 0/80 each | 1–80 |
+
+The 75-50–70 multi-image submission has no readable level in any attachment
+or its caption. The 76-30 screenshot clips the final level digits and gives
+no caption level. These sources are excluded. Search results for chapters
+77–79 supplied no usable reference; reversed-number lower-chapter matches
+were discarded. Older chapter 74 posts and ambiguous baby-artwork references
+were not used. The chapter selector includes empty chapters with a simple
+“No verified formations available” message. Default chapter 31 is preserved.
+
+Two chapter 72 captions place their screenshots in an immediately following
+message from the same poster. Both original timestamps are checked, and the
+separate board-source permalinks are retained. Exact catalog forms, Glitter
+variants, positions, caption endpoints, screenshot stages and levels remain
+traceable. Fewer-than-15 deployments retain their empty cells.

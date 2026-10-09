@@ -27,6 +27,7 @@
     .donation-link:focus-visible { outline: 3px solid #477c38; outline-offset: 3px; }
     main { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; max-width: 1440px; margin: 0 auto; padding: 24px 24px 48px; }
     .chapter-title { grid-column: 1 / -1; margin: 0; padding: 2px 0 0; font-size: 18px; font-weight: 650; color: #536b49; scroll-margin-top: 150px; }
+    .empty-chapter { grid-column: 1 / -1; margin: 0; color: #687762; line-height: 1.5; }
     .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
     .stage { overflow: hidden; border: 1px solid #d8e0cc; border-radius: 15px; background: #fff; }
     h2 { display: flex; align-items: center; font-size: 20px; font-weight: 700; line-height: 1.3; letter-spacing: -.4px; margin: 0; }
@@ -66,13 +67,14 @@
   </header>
   <main id="formations" aria-label="Stage formations">
     <!-- STAGE_CARDS -->
+    <p id="empty-chapter" class="empty-chapter" hidden>No verified formations available for this chapter yet.</p>
   </main>
   <script>
     const sprites = /* SPRITE_DATA */ {};
     const chapterSelect = document.getElementById('chapter-select');
     const cards = [...document.querySelectorAll('article.stage')];
     const headings = [...document.querySelectorAll('.chapter-title')];
-    const chapters = new Set(cards.map(card => card.dataset.chapter));
+    const chapters = new Set([...chapterSelect.options].map(option => option.value));
     function showChapter(chapter) {
       if (!chapters.has(chapter)) chapter = chapters.has('31') ? '31' : chapterSelect.options[0].value;
       chapterSelect.value = chapter;
@@ -83,7 +85,11 @@
         });
       });
       headings.forEach(heading => { heading.hidden = heading.id !== `chapter-${chapter}`; });
-      document.getElementById('chapter-status').textContent = `Showing chapter ${chapter} formations`;
+      const hasFormations = cards.some(card => !card.hidden);
+      document.getElementById('empty-chapter').hidden = hasFormations;
+      document.getElementById('chapter-status').textContent = hasFormations
+        ? `Showing chapter ${chapter} formations`
+        : `No verified formations available for chapter ${chapter}`;
     }
     function chapterFromHash() {
       showChapter(location.hash.match(/^#chapter-(\d+)$/)?.[1]);
