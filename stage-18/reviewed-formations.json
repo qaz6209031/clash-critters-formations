@@ -1,0 +1,1814 @@
+[
+  {
+    "source_message_id": "1552899366715523102",
+    "stage_start": 1,
+    "stage_end": 5,
+    "caption_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "screenshot_displayed_stage": "18-6",
+    "screenshot_enemy_level": 464,
+    "tatari_level": 317,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 317",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "kitjitsu",
+        "goonbug",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "pyrohound",
+        null,
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        "firecoil",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        "funglet",
+        "azurion",
+        "cheerlet",
+        "swaystroll"
+      ],
+      [
+        "firefox",
+        "tideon",
+        "dewgrub",
+        "turtuff",
+        "frostique"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "source_message_id": "1552900663627747438",
+    "stage_start": 6,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "screenshot_displayed_stage": "18-10",
+    "screenshot_enemy_level": 466,
+    "tatari_level": 317,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 317",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "pyrohound",
+        "kitjitsu",
+        "cobbledon",
+        "swaystroll"
+      ],
+      [
+        "voltling",
+        "frugagon",
+        "firefox",
+        "cheerlet",
+        "turtuff"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "dewgrub",
+        "tideon",
+        "rockwu"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "source_message_id": "1552901870866137158",
+    "stage_start": 10,
+    "stage_end": 11,
+    "caption_stage_numbers": [
+      10,
+      11
+    ],
+    "screenshot_displayed_stage": "18-12",
+    "screenshot_enemy_level": 466,
+    "tatari_level": 317,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 317",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "pyrohound",
+        "clawzor",
+        "kitjitsu",
+        "cobbledon"
+      ],
+      [
+        "voltling",
+        "frugagon",
+        "frostique",
+        "cheerlet",
+        "turtuff"
+      ],
+      [
+        "sparkdoe",
+        "azurion",
+        "dewgrub",
+        "tideon",
+        "rockwu"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      10,
+      11
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "source_message_id": "1552905432991801344",
+    "stage_start": 12,
+    "stage_end": 13,
+    "caption_stage_numbers": [
+      12,
+      13
+    ],
+    "screenshot_displayed_stage": "18-14",
+    "screenshot_enemy_level": 467,
+    "tatari_level": 317,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 317",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        null,
+        null,
+        null,
+        "cobbledon"
+      ],
+      [
+        "blitzmane",
+        "serrabloom",
+        null,
+        null,
+        "turtuff"
+      ],
+      [
+        "zapooch",
+        "cheerlet",
+        "clawzor",
+        "frostique",
+        "rockwu"
+      ],
+      [
+        "sparkdoe",
+        "azurion",
+        "dewgrub",
+        "tideon",
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      12,
+      13
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      12,
+      13
+    ]
+  },
+  {
+    "source_message_id": "1552906468330573907",
+    "stage_start": 14,
+    "stage_end": 15,
+    "caption_stage_numbers": [
+      14,
+      15
+    ],
+    "screenshot_displayed_stage": "18-16",
+    "screenshot_enemy_level": 468,
+    "tatari_level": 317,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 317",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "voltling",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "zapooch",
+        null,
+        "frostique",
+        "kitjitsu",
+        "cobbledon"
+      ],
+      [
+        null,
+        "goonbug",
+        "synthhog",
+        "cheerlet",
+        "turtuff"
+      ],
+      [
+        "sparkdoe",
+        "azurion",
+        "dewgrub",
+        "tideon",
+        "rockwu"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      14,
+      15
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      14,
+      15
+    ]
+  },
+  {
+    "source_message_id": "1552907617376927824",
+    "stage_start": 16,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "screenshot_displayed_stage": "18-20",
+    "screenshot_enemy_level": 469,
+    "tatari_level": 317,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 317",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        "turtuff",
+        "pyrohound",
+        "goonbug",
+        "blitzmane"
+      ],
+      [
+        "firefox",
+        "rockwu",
+        "funglet",
+        "cheerlet",
+        "voltling"
+      ],
+      [
+        "frostique",
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "source_message_id": "1552951979842740264",
+    "stage_start": 20,
+    "stage_end": 22,
+    "caption_stage_numbers": [
+      20,
+      21,
+      22
+    ],
+    "screenshot_displayed_stage": "18-23",
+    "screenshot_enemy_level": 470,
+    "tatari_level": 317,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 317",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "goonbug",
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "cobbledon",
+        "serrabloom",
+        null,
+        "kitjitsu"
+      ],
+      [
+        "blitzmane",
+        "rockwu",
+        "frugagon",
+        "cheerlet",
+        "sparkdoe"
+      ],
+      [
+        "frostique",
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "capypapa"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      20,
+      21,
+      22
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      20,
+      21,
+      22
+    ]
+  },
+  {
+    "source_message_id": "1552954214156861480",
+    "stage_start": 23,
+    "stage_end": 25,
+    "caption_stage_numbers": [
+      23,
+      24,
+      25
+    ],
+    "screenshot_displayed_stage": "18-26",
+    "screenshot_enemy_level": 471,
+    "tatari_level": 317,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 317",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "cobbledon",
+        "serrabloom",
+        "clawzor",
+        "kitjitsu"
+      ],
+      [
+        "blitzmane",
+        "rockwu",
+        "frugagon",
+        "cheerlet",
+        "sparkdoe"
+      ],
+      [
+        "frostique",
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "capypapa"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      23,
+      24,
+      25
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      23,
+      24,
+      25
+    ]
+  },
+  {
+    "source_message_id": "1552955840443457556",
+    "stage_start": 26,
+    "stage_end": 29,
+    "caption_stage_numbers": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "screenshot_displayed_stage": "18-30",
+    "screenshot_enemy_level": 472,
+    "tatari_level": 317,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 317",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "clawzor",
+        "serrabloom",
+        "cobbledon",
+        "swaystroll"
+      ],
+      [
+        "blitzmane",
+        "cheerlet",
+        "frugagon",
+        "rockwu",
+        "zapooch"
+      ],
+      [
+        "sparkdoe",
+        "azurion",
+        "dewgrub",
+        "tideon",
+        "frostique"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "source_message_id": "1553045900425953450",
+    "stage_start": 30,
+    "stage_end": 35,
+    "caption_stage_numbers": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "screenshot_displayed_stage": "18-36",
+    "screenshot_enemy_level": 474,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "turtuff",
+        "cobbledon",
+        null,
+        "frugagon",
+        null
+      ],
+      [
+        "voltling",
+        "cheerlet",
+        "blitzmane",
+        "firecoil",
+        "swaystroll"
+      ],
+      [
+        "rockwu",
+        null,
+        "sparkdoe",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "sealoon"
+      ],
+      [
+        null,
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "frostique"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "source_message_id": "1553047609566957669",
+    "stage_start": 36,
+    "stage_end": 39,
+    "caption_stage_numbers": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "screenshot_displayed_stage": "18-40",
+    "screenshot_enemy_level": 476,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "swaystroll",
+        null,
+        null,
+        null
+      ],
+      [
+        "kitjitsu",
+        "pyrohound",
+        "serrabloom",
+        "voltling",
+        "turtuff"
+      ],
+      [
+        "firecoil",
+        "cheerlet",
+        "frugagon",
+        "blitzmane",
+        "rockwu"
+      ],
+      [
+        "firefox",
+        "azurion",
+        "dewgrub",
+        "tideon",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      36,
+      37,
+      38,
+      39
+    ]
+  },
+  {
+    "source_message_id": "1553050229929148476",
+    "stage_start": 40,
+    "stage_end": 42,
+    "caption_stage_numbers": [
+      40,
+      41,
+      42
+    ],
+    "screenshot_displayed_stage": "18-43",
+    "screenshot_enemy_level": 477,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "puffbelly",
+        "firecoil",
+        "frugagon",
+        "blitzmane",
+        "swaystroll"
+      ],
+      [
+        "cactobloom",
+        "frostique",
+        "cheerlet",
+        "rockwu",
+        "maskfry"
+      ],
+      [
+        "azurion",
+        "dewgrub",
+        "tideon",
+        "sparkdoe",
+        "capypapa"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      40,
+      41,
+      42
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      40,
+      41,
+      42
+    ]
+  },
+  {
+    "source_message_id": "1553051335488708719",
+    "stage_start": 43,
+    "stage_end": 45,
+    "caption_stage_numbers": [
+      43,
+      44,
+      45
+    ],
+    "screenshot_displayed_stage": "18-46",
+    "screenshot_enemy_level": 478,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "pyrohound",
+        "kitjitsu",
+        "serrabloom",
+        "blitzmane",
+        "swaystroll"
+      ],
+      [
+        "embertail",
+        "firefox",
+        "cheerlet",
+        "rockwu",
+        "frostique"
+      ],
+      [
+        "azurion",
+        "dewgrub",
+        "tideon",
+        "sparkdoe",
+        "capypapa"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      43,
+      44,
+      45
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      43,
+      44,
+      45
+    ]
+  },
+  {
+    "source_message_id": "1553097976396914709",
+    "stage_start": 46,
+    "stage_end": 49,
+    "caption_stage_numbers": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "screenshot_displayed_stage": "18-50",
+    "screenshot_enemy_level": 479,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "serrabloom"
+      ],
+      [
+        "pyrohound",
+        "cobbledon",
+        null,
+        "blitzmane",
+        "cactobloom"
+      ],
+      [
+        "frostique",
+        "firecoil",
+        "cheerlet",
+        "rockwu",
+        "frugagon"
+      ],
+      [
+        "azurion",
+        "dewgrub",
+        "tideon",
+        "sparkdoe",
+        "bubbit"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      46,
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "source_message_id": "1553099717645439006",
+    "stage_start": 50,
+    "stage_end": 52,
+    "caption_stage_numbers": [
+      50,
+      51,
+      52
+    ],
+    "screenshot_displayed_stage": "18-53",
+    "screenshot_enemy_level": 480,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        "swaystroll"
+      ],
+      [
+        "voltling",
+        "rockwu",
+        "sparkdoe",
+        null,
+        null
+      ],
+      [
+        "zapooch",
+        "cheerlet",
+        "boltskipper",
+        null,
+        null
+      ],
+      [
+        "turtuff",
+        null,
+        null,
+        "frugagon",
+        "yawnelly"
+      ],
+      [
+        null,
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "frostique"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      50,
+      51,
+      52
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      50,
+      51,
+      52
+    ]
+  },
+  {
+    "source_message_id": "1553101292778553484",
+    "stage_start": 53,
+    "stage_end": 55,
+    "caption_stage_numbers": [
+      53,
+      54,
+      55
+    ],
+    "screenshot_displayed_stage": "18-55",
+    "screenshot_enemy_level": 481,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        "voltling",
+        "rockwu",
+        "blitzmane",
+        "serrabloom",
+        "swaystroll"
+      ],
+      [
+        "zapooch",
+        "cheerlet",
+        "sparkdoe",
+        "frugagon",
+        "sealoon"
+      ],
+      [
+        "turtuff",
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      53,
+      54,
+      55
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      53,
+      54,
+      55
+    ]
+  },
+  {
+    "source_message_id": "1553106169873305633",
+    "stage_start": 56,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "screenshot_displayed_stage": "18-60",
+    "screenshot_enemy_level": 482,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "turtuff",
+        null
+      ],
+      [
+        "clawzor",
+        null,
+        "pyrohound",
+        "rockwu",
+        "voltling"
+      ],
+      [
+        "frostique",
+        "serrabloom",
+        "capypapa",
+        "cheerlet",
+        "blitzmane"
+      ],
+      [
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "frugagon",
+        "sparkdoe"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      56,
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "source_message_id": "1553107087624773823",
+    "stage_start": 60,
+    "stage_end": 61,
+    "caption_stage_numbers": [
+      60,
+      61
+    ],
+    "screenshot_displayed_stage": "18-62",
+    "screenshot_enemy_level": 483,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "swaystroll",
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        null,
+        "capypapa",
+        "frugagon",
+        "cobbledon"
+      ],
+      [
+        "goonbug",
+        "rockwu",
+        "frostique",
+        "cheerlet",
+        "turtuff"
+      ],
+      [
+        "bubbit",
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "rattlecoil"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      60,
+      61
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      60,
+      61
+    ]
+  },
+  {
+    "source_message_id": "1553107951856914432",
+    "stage_start": 62,
+    "stage_end": 62,
+    "caption_stage_numbers": [
+      62
+    ],
+    "screenshot_displayed_stage": "18-63",
+    "screenshot_enemy_level": 483,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Guide credited in the source caption; the actual posting author remains separate.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "sparkdoe",
+        null,
+        "frugagon",
+        "cobbledon"
+      ],
+      [
+        "goonbug",
+        "rockwu",
+        "frostique",
+        "cheerlet",
+        "turtuff"
+      ],
+      [
+        "bubbit",
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "rattlecoil"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      62
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3 ”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      62
+    ]
+  },
+  {
+    "source_message_id": "1553109385801367572",
+    "stage_start": 63,
+    "stage_end": 65,
+    "caption_stage_numbers": [
+      63,
+      64,
+      65
+    ],
+    "screenshot_displayed_stage": "18-66",
+    "screenshot_enemy_level": 484,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "humbleetle",
+        null,
+        "pyrohound",
+        "rockwu"
+      ],
+      [
+        "goonbug",
+        "sparkdoe",
+        "frostique",
+        "cheerlet",
+        "turtuff"
+      ],
+      [
+        "bubbit",
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "rattlecoil"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      63,
+      64,
+      65
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      63,
+      64,
+      65
+    ]
+  },
+  {
+    "source_message_id": "1553110281733808168",
+    "stage_start": 66,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "screenshot_displayed_stage": "18-70",
+    "screenshot_enemy_level": 486,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        "synthhog",
+        "pyrohound",
+        "shrimpyro"
+      ],
+      [
+        "goonbug",
+        "rockwu",
+        "frostique",
+        "cheerlet",
+        "kitjitsu"
+      ],
+      [
+        "bubbit",
+        "tideon",
+        "dewgrub",
+        "azurion",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      66,
+      67,
+      68,
+      69
+    ]
+  },
+  {
+    "source_message_id": "1553112397844189346",
+    "stage_start": 70,
+    "stage_end": 70,
+    "caption_stage_numbers": [
+      70
+    ],
+    "screenshot_displayed_stage": "18-71",
+    "screenshot_enemy_level": 486,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "serrabloom",
+        "pyrohound",
+        null
+      ],
+      [
+        null,
+        null,
+        "cactobloom",
+        "kitjitsu",
+        "blitzmane"
+      ],
+      [
+        "frostique",
+        "rockwu",
+        "frugagon",
+        "cheerlet",
+        "goonbug"
+      ],
+      [
+        "sparkdoe",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      70
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      70
+    ]
+  },
+  {
+    "source_message_id": "1553113439973548156",
+    "stage_start": 71,
+    "stage_end": 75,
+    "caption_stage_numbers": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "screenshot_displayed_stage": "18-76",
+    "screenshot_enemy_level": 488,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "turtuff",
+        "serrabloom",
+        "pyrohound",
+        "kitjitsu"
+      ],
+      [
+        "frostique",
+        "rockwu",
+        "frugagon",
+        "cheerlet",
+        "goonbug"
+      ],
+      [
+        "sparkdoe",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ]
+  },
+  {
+    "source_message_id": "1553116018639904928",
+    "stage_start": 80,
+    "stage_end": 80,
+    "caption_stage_numbers": [
+      80
+    ],
+    "screenshot_displayed_stage": "19-2",
+    "screenshot_enemy_level": 490,
+    "tatari_level": 321,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 321",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        "goonbug",
+        "rockwu",
+        "capypapa",
+        "serrabloom",
+        "cobbledon"
+      ],
+      [
+        "frugagon",
+        null,
+        "frostique",
+        "cheerlet",
+        "kitjitsu"
+      ],
+      [
+        "bubbit",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "rattlecoil"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      80
+    ],
+    "tier_assignment_basis": "Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "unit_confidence": 0.95,
+    "website_stage_numbers": [
+      80
+    ]
+  }
+]

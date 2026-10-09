@@ -1,0 +1,1677 @@
+[
+  {
+    "source_message_id": "1551313276174860348",
+    "stage_start": 1,
+    "stage_end": 5,
+    "caption_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "screenshot_displayed_stage": "13-6",
+    "screenshot_enemy_level": 331,
+    "tatari_level": 225,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 225",
+    "tatari_level_basis": "Level explicitly stated in this source message; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "pyrohound",
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "firecoil",
+        "cobbledon",
+        "boldclaw"
+      ],
+      [
+        "zapooch",
+        "cheerlet",
+        "azurion",
+        "frugagon",
+        "sealoon"
+      ],
+      [
+        null,
+        "frostique",
+        "firefox",
+        "clucky",
+        "bubbit"
+      ],
+      [
+        "voltfawn",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "source_message_id": "1548531508229177465",
+    "stage_start": 6,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "screenshot_displayed_stage": "13-10",
+    "screenshot_enemy_level": 332,
+    "tatari_level": 235,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "kitjitsu",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "cobbledon",
+        null
+      ],
+      [
+        "blitzmane",
+        "swaystroll",
+        null,
+        "turtuff",
+        null
+      ],
+      [
+        "sparkdoe",
+        "maskfry",
+        "cheerlet",
+        "firecoil",
+        "pyrohound"
+      ],
+      [
+        "humbleetle",
+        "sealoon",
+        "firefox",
+        "azurion",
+        "frostique"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "website_stage_numbers": [
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "source_message_id": "1548615791321161769",
+    "stage_start": 10,
+    "stage_end": 13,
+    "caption_stage_numbers": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "screenshot_displayed_stage": "13-11",
+    "screenshot_enemy_level": 333,
+    "tatari_level": 247,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "blitzmane",
+        "swaystroll",
+        "lollama",
+        "buzzbeak"
+      ],
+      [
+        null,
+        "bubbit",
+        "puncharoo",
+        "cheerlet",
+        "zapooch"
+      ],
+      [
+        "frugagon",
+        "stoodbeak",
+        "frostique",
+        "azurion",
+        "nimbuzzy"
+      ],
+      [
+        null,
+        "hippiehog",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      10,
+      11,
+      12,
+      13
+    ],
+    "website_stage_numbers": [
+      10
+    ]
+  },
+  {
+    "source_message_id": "1548823967895134308",
+    "stage_start": 11,
+    "stage_end": 12,
+    "caption_stage_numbers": [
+      11,
+      12
+    ],
+    "screenshot_displayed_stage": "13-13",
+    "screenshot_enemy_level": 333,
+    "tatari_level": 238,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "pyrohound",
+        null
+      ],
+      [
+        "stalkerix",
+        "blitzmane",
+        "swaystroll",
+        "firecoil",
+        "zapooch"
+      ],
+      [
+        "frugagon",
+        "cheerlet",
+        "bubbit",
+        "kitjitsu",
+        null
+      ],
+      [
+        "snapshade",
+        "surgehoof",
+        "synthhog",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        null,
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      11,
+      12
+    ],
+    "website_stage_numbers": [
+      11,
+      12
+    ]
+  },
+  {
+    "source_message_id": "1548824056009068595",
+    "stage_start": 13,
+    "stage_end": 15,
+    "caption_stage_numbers": [
+      13,
+      14,
+      15
+    ],
+    "screenshot_displayed_stage": "13-16",
+    "screenshot_enemy_level": 334,
+    "tatari_level": 238,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "swaystroll",
+        "pyrohound",
+        null
+      ],
+      [
+        "stalkerix",
+        "blitzmane",
+        "frostique",
+        "firecoil",
+        "zapooch"
+      ],
+      [
+        "goonbug",
+        "cheerlet",
+        "synthhog",
+        "frugagon",
+        "boltskipper"
+      ],
+      [
+        null,
+        "ripplewing",
+        null,
+        "cluckeroo",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      13,
+      14,
+      15
+    ],
+    "website_stage_numbers": [
+      13,
+      14,
+      15
+    ]
+  },
+  {
+    "source_message_id": "1548828012386979850",
+    "stage_start": 15,
+    "stage_end": 24,
+    "caption_stage_numbers": [
+      15,
+      21,
+      22,
+      23,
+      24
+    ],
+    "screenshot_displayed_stage": "13-26",
+    "screenshot_enemy_level": 338,
+    "tatari_level": 238,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        "pyrohound",
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "firecoil",
+        "blitzmane",
+        "sizzribb",
+        "swaystroll"
+      ],
+      [
+        null,
+        "azurion",
+        "zapooch",
+        "cheerlet",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "synthhog",
+        "firefox",
+        "surgehoof"
+      ],
+      [
+        "frugagon",
+        null,
+        "sparkdoe",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. The caption includes 13-15 alongside 13-21–13-24; that isolated number is retained as written and is not treated as 13-25. Earlier 13-15 evidence is selected.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      15,
+      21,
+      22,
+      23,
+      24
+    ],
+    "website_stage_numbers": [
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "source_message_id": "1548825611600924784",
+    "stage_start": 16,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "screenshot_displayed_stage": "13-20",
+    "screenshot_enemy_level": 336,
+    "tatari_level": 238,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "zapooch",
+        null,
+        null
+      ],
+      [
+        null,
+        "pyrohound",
+        "turtuff",
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        "firefox",
+        "firecoil",
+        "blitzmane",
+        "stalkerix"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "humbleetle",
+        "cheerlet",
+        "frugagon"
+      ],
+      [
+        null,
+        null,
+        null,
+        "sparkdoe",
+        "rockhog"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "website_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ]
+  },
+  {
+    "source_message_id": "1548826725868371999",
+    "stage_start": 20,
+    "stage_end": 20,
+    "caption_stage_numbers": [
+      20
+    ],
+    "screenshot_displayed_stage": "13-21",
+    "screenshot_enemy_level": 336,
+    "tatari_level": 238,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "pyrohound",
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "firecoil",
+        "blitzmane",
+        "sizzribb",
+        "swaystroll"
+      ],
+      [
+        null,
+        "azurion",
+        "zapooch",
+        "cheerlet",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "synthhog",
+        "firefox",
+        "surgehoof"
+      ],
+      [
+        "frugagon",
+        null,
+        "sparkdoe",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      20
+    ],
+    "website_stage_numbers": [
+      20
+    ]
+  },
+  {
+    "source_message_id": "1548829691362803874",
+    "stage_start": 26,
+    "stage_end": 29,
+    "caption_stage_numbers": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "screenshot_displayed_stage": "13-30",
+    "screenshot_enemy_level": 339,
+    "tatari_level": 238,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "pyrohound",
+        null
+      ],
+      [
+        "stalkerix",
+        "cobbledon",
+        "swaystroll",
+        "firecoil",
+        "blitzmane"
+      ],
+      [
+        "turtuff",
+        "cheerlet",
+        "frostique",
+        "azurion",
+        null
+      ],
+      [
+        "frugagon",
+        "surgehoof",
+        "synthhog",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "bubbit",
+        null,
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "website_stage_numbers": [
+      26,
+      27,
+      28,
+      29
+    ]
+  },
+  {
+    "source_message_id": "1548998418180087879",
+    "stage_start": 40,
+    "stage_end": 40,
+    "caption_stage_numbers": [
+      40
+    ],
+    "screenshot_displayed_stage": "13-41",
+    "screenshot_enemy_level": 343,
+    "tatari_level": 240,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "azurion",
+        "zapooch",
+        "frugagon",
+        null,
+        null
+      ],
+      [
+        "firecoil",
+        "sparkdoe",
+        "cluckeroo",
+        "frostique",
+        null
+      ],
+      [
+        null,
+        "humbleetle",
+        null,
+        "cheerlet",
+        "maskfry"
+      ],
+      [
+        "pyrohound",
+        "blitzmane",
+        "stalkerix",
+        "swaystroll",
+        "boldclaw"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      40
+    ],
+    "website_stage_numbers": [
+      40
+    ]
+  },
+  {
+    "source_message_id": "1549011720620605590",
+    "stage_start": 41,
+    "stage_end": 45,
+    "caption_stage_numbers": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "screenshot_displayed_stage": "13-46",
+    "screenshot_enemy_level": 344,
+    "tatari_level": 240,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pyrohound",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "firecoil",
+        "blitzmane",
+        "stalkerix",
+        "swaystroll",
+        "boldclaw"
+      ],
+      [
+        "azurion",
+        "zapooch",
+        "frugagon",
+        "cheerlet",
+        "maskfry"
+      ],
+      [
+        null,
+        "sparkdoe",
+        "cluckeroo",
+        "frostique",
+        "bubbit"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "website_stage_numbers": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ]
+  },
+  {
+    "source_message_id": "1549011869874921513",
+    "stage_start": 46,
+    "stage_end": 49,
+    "caption_stage_numbers": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "screenshot_displayed_stage": "13-50",
+    "screenshot_enemy_level": 346,
+    "tatari_level": 240,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "clawzor",
+        null,
+        "blitzmane",
+        "turtuff"
+      ],
+      [
+        "stalkerix",
+        "firecoil",
+        "swaystroll",
+        "cheerlet",
+        "humbleetle"
+      ],
+      [
+        "frugagon",
+        "azurion",
+        "frostique",
+        "surgehoof",
+        "sparkdoe"
+      ],
+      [
+        "cluckeroo",
+        "bubbit",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "website_stage_numbers": [
+      46,
+      47,
+      48,
+      49
+    ]
+  },
+  {
+    "source_message_id": "1549012577286357014",
+    "stage_start": 50,
+    "stage_end": 50,
+    "caption_stage_numbers": [
+      50
+    ],
+    "screenshot_displayed_stage": "13-51",
+    "screenshot_enemy_level": 346,
+    "tatari_level": 240,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        null,
+        "pyrohound",
+        null,
+        null
+      ],
+      [
+        null,
+        "cobbledon",
+        "firecoil",
+        "blitzmane",
+        "stalkerix"
+      ],
+      [
+        "frostique",
+        "turtuff",
+        "firefox",
+        "cheerlet",
+        "kitjitsu"
+      ],
+      [
+        "bubbit",
+        "cactobloom",
+        "azurion",
+        null,
+        "frugagon"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      50
+    ],
+    "website_stage_numbers": [
+      50
+    ]
+  },
+  {
+    "source_message_id": "1549181423095644200",
+    "stage_start": 51,
+    "stage_end": 55,
+    "caption_stage_numbers": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "screenshot_displayed_stage": "13-56",
+    "screenshot_enemy_level": 348,
+    "tatari_level": 240,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "pyrohound",
+        "blitzmane",
+        "stalkerix"
+      ],
+      [
+        "swaystroll",
+        "cobbledon",
+        "firecoil",
+        "cheerlet",
+        "kitjitsu"
+      ],
+      [
+        "bubbit",
+        "turtuff",
+        "azurion",
+        "sparkdoe",
+        "frugagon"
+      ],
+      [
+        "frostique",
+        "cactobloom",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "website_stage_numbers": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ]
+  },
+  {
+    "source_message_id": "1549182559982985216",
+    "stage_start": 56,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "screenshot_displayed_stage": "13-60",
+    "screenshot_enemy_level": 349,
+    "tatari_level": 240,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "stalkerix",
+        "blitzmane",
+        "pyrohound",
+        null
+      ],
+      [
+        "zapooch",
+        "frugagon",
+        "cheerlet",
+        "firecoil",
+        "cobbledon"
+      ],
+      [
+        "boltskipper",
+        "cactobloom",
+        "surgehoof",
+        "frostique",
+        "turtuff"
+      ],
+      [
+        "sparkdoe",
+        null,
+        "synthhog",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "website_stage_numbers": [
+      56,
+      57,
+      58,
+      59
+    ]
+  },
+  {
+    "source_message_id": "1549476834008236093",
+    "stage_start": 60,
+    "stage_end": 60,
+    "caption_stage_numbers": [
+      60
+    ],
+    "screenshot_displayed_stage": "13-61",
+    "screenshot_enemy_level": 349,
+    "tatari_level": 257,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "blitzmane",
+        "swaystroll",
+        "cobbledon",
+        "pyrohound"
+      ],
+      [
+        null,
+        "cheerlet",
+        "bubbit",
+        "turtuff",
+        "firecoil"
+      ],
+      [
+        "frugagon",
+        "sparkdoe",
+        "frostique",
+        "surgehoof",
+        "cactobloom"
+      ],
+      [
+        null,
+        null,
+        "synthhog",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      60
+    ],
+    "website_stage_numbers": [
+      60
+    ]
+  },
+  {
+    "source_message_id": "1549551826960130098",
+    "stage_start": 61,
+    "stage_end": 62,
+    "caption_stage_numbers": [
+      61,
+      62
+    ],
+    "screenshot_displayed_stage": "13-63",
+    "screenshot_enemy_level": 350,
+    "tatari_level": 257,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "blitzmane",
+        "swaystroll",
+        "cobbledon",
+        "pyrohound"
+      ],
+      [
+        null,
+        "cheerlet",
+        "bubbit",
+        "turtuff",
+        "firecoil"
+      ],
+      [
+        "frugagon",
+        "sparkdoe",
+        "frostique",
+        "surgehoof",
+        "cactobloom"
+      ],
+      [
+        null,
+        null,
+        "synthhog",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      61,
+      62
+    ],
+    "website_stage_numbers": [
+      61,
+      62
+    ]
+  },
+  {
+    "source_message_id": "1549551897810309180",
+    "stage_start": 63,
+    "stage_end": 65,
+    "caption_stage_numbers": [
+      63,
+      64,
+      65
+    ],
+    "screenshot_displayed_stage": "13-66",
+    "screenshot_enemy_level": 351,
+    "tatari_level": 257,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "swaystroll",
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "blitzmane",
+        "firecoil",
+        "cobbledon",
+        "pyrohound"
+      ],
+      [
+        null,
+        "cheerlet",
+        "frostique",
+        "turtuff",
+        "kitjitsu"
+      ],
+      [
+        "cactobloom",
+        "sparkdoe",
+        null,
+        "surgehoof",
+        "frugagon"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "bubbit"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      63,
+      64,
+      65
+    ],
+    "website_stage_numbers": [
+      63,
+      64,
+      65
+    ]
+  },
+  {
+    "source_message_id": "1549763211019161650",
+    "stage_start": 70,
+    "stage_end": 70,
+    "caption_stage_numbers": [
+      70
+    ],
+    "screenshot_displayed_stage": "13-71",
+    "screenshot_enemy_level": 353,
+    "tatari_level": 259,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "swaystroll",
+        "stalkerix",
+        "blitzmane",
+        "zapooch"
+      ],
+      [
+        "pyrohound",
+        "firecoil",
+        "frugagon",
+        "cheerlet",
+        null
+      ],
+      [
+        "kitjitsu",
+        "frostique",
+        "cluckeroo",
+        "turtuff",
+        "sparkdoe"
+      ],
+      [
+        "cactobloom",
+        null,
+        "goonbug",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      70
+    ],
+    "website_stage_numbers": [
+      70
+    ]
+  },
+  {
+    "source_message_id": "1549764849163051008",
+    "stage_start": 71,
+    "stage_end": 73,
+    "caption_stage_numbers": [
+      71,
+      72,
+      73
+    ],
+    "screenshot_displayed_stage": "13-74",
+    "screenshot_enemy_level": 354,
+    "tatari_level": 259,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "swaystroll",
+        null,
+        "blitzmane",
+        "zapooch"
+      ],
+      [
+        "pyrohound",
+        "firecoil",
+        "stalkerix",
+        "cheerlet",
+        "surgehoof"
+      ],
+      [
+        "kitjitsu",
+        "frostique",
+        "frugagon",
+        "turtuff",
+        "sparkdoe"
+      ],
+      [
+        "cactobloom",
+        null,
+        "cluckeroo",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      71,
+      72,
+      73
+    ],
+    "website_stage_numbers": [
+      71,
+      72,
+      73
+    ]
+  },
+  {
+    "source_message_id": "1549764913134698607",
+    "stage_start": 74,
+    "stage_end": 75,
+    "caption_stage_numbers": [
+      74,
+      75
+    ],
+    "screenshot_displayed_stage": "13-76",
+    "screenshot_enemy_level": 354,
+    "tatari_level": 259,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "swaystroll",
+        null,
+        "blitzmane",
+        "zapooch"
+      ],
+      [
+        "pyrohound",
+        "firecoil",
+        "stalkerix",
+        "cheerlet",
+        "surgehoof"
+      ],
+      [
+        "goonbug",
+        "frostique",
+        "firefox",
+        "turtuff",
+        "sparkdoe"
+      ],
+      [
+        "frugagon",
+        null,
+        "cluckeroo",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      74,
+      75
+    ],
+    "website_stage_numbers": [
+      74,
+      75
+    ]
+  },
+  {
+    "source_message_id": "1549766593649705020",
+    "stage_start": 76,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "screenshot_displayed_stage": "13-80",
+    "screenshot_enemy_level": 356,
+    "tatari_level": 259,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "clawzor",
+        "pyrohound",
+        null,
+        "swaystroll",
+        "blitzmane"
+      ],
+      [
+        "zapooch",
+        "firecoil",
+        "stalkerix",
+        "cheerlet",
+        "surgehoof"
+      ],
+      [
+        null,
+        "bubbit",
+        "turtuff",
+        "frostique",
+        "sparkdoe"
+      ],
+      [
+        "boltskipper",
+        null,
+        "synthhog",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "website_stage_numbers": [
+      76,
+      77,
+      78,
+      79
+    ]
+  },
+  {
+    "source_message_id": "1549769050135986226",
+    "stage_start": 80,
+    "stage_end": 80,
+    "caption_stage_numbers": [
+      80
+    ],
+    "screenshot_displayed_stage": "14-1",
+    "screenshot_enemy_level": 356,
+    "tatari_level": 259,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "pyrohound",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "firecoil",
+        "blitzmane",
+        "swaystroll",
+        "stalkerix",
+        "boldclaw"
+      ],
+      [
+        "azurion",
+        "turtuff",
+        "frostique",
+        "cheerlet",
+        "sealoon"
+      ],
+      [
+        null,
+        null,
+        "bubbit",
+        "frugagon",
+        "sparkdoe"
+      ],
+      [
+        null,
+        null,
+        null,
+        "cluckeroo",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "caption_stage_numbers_original": [
+      80
+    ],
+    "website_stage_numbers": [
+      80
+    ]
+  }
+]

@@ -4,11 +4,11 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. The published site covers **4000 stages**
-(chapters 20–69), grouped into **1300 formation cards** from **1234 selected
-Discord source posts** (1236 chapter-specific records). All **1494 reviewed
-formation records** are preserved; the public index contains 1494 source and
-supporting posts.
+posters and exact 5×5 formations. The published site covers **4739 stages**
+(chapters 10–69), grouped into **1667 formation cards** from **1474 selected
+Discord source posts** (1481 chapter-specific records). All **1739 reviewed
+formation records** are preserved; the public index contains 1734 source and
+supporting posts. The 61 unsupported stages in chapters 10–19 remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
 America/Los_Angeles time: August 28 at midnight is `2026-08-28T07:00:00Z`.
@@ -33,7 +33,8 @@ Stage labels and posters link to their original Discord messages, which require
 the viewer's own server access. A credited creator is distinct from the poster.
 
 Exact forms, glitter variants and positions determine whether cards can merge.
-Chapters 20–30, 32–39 and 51–69 keep 1–4, 5–9 and each boss separate.
+Chapters 10–30, 32–39 and 51–69 keep 1–4, 5–9 and each boss separate.
+A block may contain different cards when the source only supports shorter ranges.
 The early Pika guide changes at stage 6: where its formations differ, stage 5
 and stages 6–9 remain separate instead of asserting that one lineup clears the
 entire 5–9 block. Existing grouping for chapter 31 and 40–50 is preserved.
@@ -71,7 +72,7 @@ The chapter selector is populated automatically.
 
 ## Files and source evidence
 
-- `stage-20` through `stage-69`: reviewed formations and chapter notes.
+- `stage-10` through `stage-69`: reviewed formations and chapter notes.
 - `stage-47/build_site.py`: static site and structured-data generator.
 - `stage-47/page-template.html`: website layout and styles.
 - `stage-47/site/index.html`: generated offline website.
@@ -161,3 +162,37 @@ caption claims separately from normalized `caption_stage_numbers` and the
 selected `website_stage_numbers`. The 67-31–67-35 reference shows 67-36 and
 therefore supports its inclusive endpoint; the following formation is selected
 for the overlapping stage 35. All previous 3200 stage mappings are unchanged.
+
+
+Chapters 10–19 add **739 of 800 requested stages** from **240 source posts**
+(245 chapter-specific reviewed records), grouped into **367 cards**. Chiaki’s
+September guide is the main source; Libertas and Anthi fill chapter 13–14
+references. Every posting display name was checked against the rendered Discord
+message heading. Supported Tatari levels range from **181 to 346**. All 4000
+existing chapter 20–69 stage mappings, levels, formations and 1300 cards are unchanged.
+
+| Chapter | Available stages | Unavailable stages |
+| --- | ---: | --- |
+| 10 | 76/80 | 76–79 |
+| 11 | 77/80 | 57–59 |
+| 12 | 57/80 | 8–9, 11–19, 36–39, 66–69, 76–79 |
+| 13 | 65/80 | 25, 30–39, 66–69 |
+| 14 | 77/80 | 31–32, 40 |
+| 15 | 75/80 | 9, 16–19 |
+| 16 | 77/80 | 33–35 |
+| 17 | 80/80 | None |
+| 18 | 76/80 | 76–79 |
+| 19 | 79/80 | 1 |
+
+Early captions sometimes name irregular stage groups or contain a typo. Their
+literal numbers are preserved alongside the selected subset; unlisted stages
+are never filled from a screenshot’s next-stage label. Chapter 13’s isolated
+13-15 in a 13-21–13-24 caption is not treated as 13-25. Chapter 12’s conflicting
+opening-stage caption is used only for its explicitly named boss 12-10, with
+unambiguous posts supplying the opening stages.
+
+Some screenshots retain base artwork after evolution. When the same post
+explicitly states the tiers, catalog forms are normalized to those stated tiers
+and `tier_assignment_basis` retains the evidence. No tier or level is borrowed
+from a neighboring post. The removed posting-date sentence stays absent from
+the page while the source and supporting-evidence cutoff remains enforced.
