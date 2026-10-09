@@ -4,10 +4,10 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. The published site covers **3200 stages**
-(chapters 20–59), grouped into **1060 formation cards** from **994 selected
-Discord source posts** (996 chapter-specific records). All **1254 reviewed
-formation records** are preserved; the public index contains 1254 source and
+posters and exact 5×5 formations. The published site covers **4000 stages**
+(chapters 20–69), grouped into **1300 formation cards** from **1234 selected
+Discord source posts** (1236 chapter-specific records). All **1494 reviewed
+formation records** are preserved; the public index contains 1494 source and
 supporting posts.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -33,7 +33,7 @@ Stage labels and posters link to their original Discord messages, which require
 the viewer's own server access. A credited creator is distinct from the poster.
 
 Exact forms, glitter variants and positions determine whether cards can merge.
-Chapters 20–30, 32–39 and 51–59 keep 1–4, 5–9 and each boss separate.
+Chapters 20–30, 32–39 and 51–69 keep 1–4, 5–9 and each boss separate.
 The early Pika guide changes at stage 6: where its formations differ, stage 5
 and stages 6–9 remain separate instead of asserting that one lineup clears the
 entire 5–9 block. Existing grouping for chapter 31 and 40–50 is preserved.
@@ -49,7 +49,7 @@ python3 -m http.server 8765 --bind 127.0.0.1 --directory stage-47/site
 ```
 
 Open `http://127.0.0.1:8765/`. Choose a chapter or use a link such as
-`#chapter-31`, `#chapter-40` or `#chapter-59`. The finished `stage-47/site/index.html` also opens offline.
+`#chapter-31`, `#chapter-40` or `#chapter-69`. The finished `stage-47/site/index.html` also opens offline.
 All artwork is embedded, so GitHub Pages project paths work without a base-URL
 setting or asset server.
 
@@ -71,7 +71,7 @@ The chapter selector is populated automatically.
 
 ## Files and source evidence
 
-- `stage-20` through `stage-59`: reviewed formations and chapter notes.
+- `stage-20` through `stage-69`: reviewed formations and chapter notes.
 - `stage-47/build_site.py`: static site and structured-data generator.
 - `stage-47/page-template.html`: website layout and styles.
 - `stage-47/site/index.html`: generated offline website.
@@ -145,3 +145,19 @@ chapters uses chapter-qualified formation IDs and retains one source message ID.
 The 26-26 reference uses level **512**, visibly shown in Vanhhh’s screenshot;
 the caption’s different level 509 is retained in the data. The 28-38 reference
 includes Solaflora Glitter, visually matched to the planner’s exact sprite.
+
+Chapters 60–69 add **800 of 800 stages** from **240 reviewed posts**, grouped
+into **240 cards**. Pika supplies the main guide; Saber supplies 62-45–62-49
+and 63-15–63-19, Gallivant supplies 65-25–65-29, and Tiva supplies 66-5–66-9. Supported Tatari levels
+are 1310–1524. Each source was posted after the publication cutoff; levels
+come from the same caption or screenshot. Tiva’s second attachment supplies
+**66-5–66-9 at level 1449**, confirmed by both the caption and visible
+inventory cards. An ambiguous alternative was not used.
+
+Pika's regular captions often name the screenshot's next stage as the range
+endpoint. Normalized clear coverage stops before that endpoint when it matches
+the displayed stage. `caption_stage_numbers_original` retains the literal
+caption claims separately from normalized `caption_stage_numbers` and the
+selected `website_stage_numbers`. The 67-31–67-35 reference shows 67-36 and
+therefore supports its inclusive endpoint; the following formation is selected
+for the overlapping stage 35. All previous 3200 stage mappings are unchanged.
