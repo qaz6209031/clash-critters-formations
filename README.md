@@ -4,10 +4,10 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. The published site covers **5155 stages**
-(chapters 10–79), grouped into **1810 formation cards** from **1619 selected
-Discord source posts** (1626 chapter-specific records). All **1885 reviewed
-formation records** are preserved; the public index contains 1882 source and
+posters and exact 5×5 formations. The published site covers **5170 stages**
+(chapters 10–79), grouped into **1816 formation cards** from **1623 selected
+Discord source posts** (1630 chapter-specific records). All **1889 reviewed
+formation records** are preserved; the public index contains 1886 source and
 supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -164,10 +164,11 @@ therefore supports its inclusive endpoint; the following formation is selected
 for the overlapping stage 35. All previous 3200 stage mappings are unchanged.
 
 
-Chapters 10–19 add **739 of 800 requested stages** from **240 source posts**
-(245 chapter-specific reviewed records), grouped into **367 cards**. Chiaki’s
+Chapters 10–19 add **754 of 800 requested stages** from **244 source posts**
+(249 chapter-specific reviewed records), grouped into **373 cards**. Chiaki’s
 September guide is the main source; Libertas and Anthi fill chapter 13–14
-references. Every posting display name was checked against the rendered Discord
+references. Jessimika_x’s September 24–29 guide fills the remaining 15 chapter 13
+gaps at image-documented levels 279 and 292, preserving all previous selections. Every posting display name was checked against the rendered Discord
 message heading. Supported Tatari levels range from **181 to 346**. All 4000
 existing chapter 20–69 stage mappings, levels, formations and 1300 cards are unchanged.
 
@@ -176,7 +177,7 @@ existing chapter 20–69 stage mappings, levels, formations and 1300 cards are u
 | 10 | 76/80 | 76–79 |
 | 11 | 77/80 | 57–59 |
 | 12 | 57/80 | 8–9, 11–19, 36–39, 66–69, 76–79 |
-| 13 | 65/80 | 25, 30–39, 66–69 |
+| 13 | 80/80 | None |
 | 14 | 77/80 | 31–32, 40 |
 | 15 | 75/80 | 9, 16–19 |
 | 16 | 77/80 | 33–35 |

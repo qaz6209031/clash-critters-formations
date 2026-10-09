@@ -592,6 +592,83 @@
     ]
   },
   {
+    "source_message_id": "1552650534404755498",
+    "stage_start": 21,
+    "stage_end": 26,
+    "caption_stage_numbers": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "screenshot_displayed_stage": "13-27",
+    "screenshot_enemy_level": 338,
+    "tatari_level": 279,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on this screenshot’s player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "pyrohound",
+        "blitzmane",
+        "swaystroll",
+        "zapooch"
+      ],
+      [
+        "pandaroot",
+        "kitjitsu",
+        "surgehoof",
+        "embertail",
+        "boldclaw"
+      ],
+      [
+        "frugagon",
+        "azurion",
+        "boltskipper",
+        "frostique",
+        "sparkdoe"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and positions were visually compared with the local planner catalog, including Pyrohound T2, Frostique T3 and the distinct monkey forms. Empty cells are preserved. The author explicitly marks this range inclusive; screenshot stage and enemy level are retained separately. Only previously unavailable stages are selected.",
+    "stage_assignment_basis": "The author explicitly captions this inclusive cleared range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill an unavailable chapter 13 stage using a date-eligible original reference with its own readable player level; preserve all existing selections.",
+    "caption_stage_numbers_original": [
+      21,
+      22,
+      23,
+      24,
+      25,
+      26
+    ],
+    "website_stage_numbers": [
+      25
+    ]
+  },
+  {
     "source_message_id": "1548829691362803874",
     "stage_start": 26,
     "stage_end": 29,
@@ -665,6 +742,164 @@
       27,
       28,
       29
+    ]
+  },
+  {
+    "source_message_id": "1552652706441855027",
+    "stage_start": 30,
+    "stage_end": 35,
+    "caption_stage_numbers": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "screenshot_displayed_stage": "13-31",
+    "screenshot_enemy_level": 339,
+    "tatari_level": 279,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on this screenshot’s player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "pyrohound",
+        "cobbledon",
+        "swaystroll",
+        "stalkerix"
+      ],
+      [
+        "boldclaw",
+        null,
+        "rockfu",
+        "sealoon",
+        "embertail"
+      ],
+      [
+        "sparkdoe",
+        "azurion",
+        "rockhog",
+        "frostique",
+        "kitjitsu"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "frugagon"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and positions were visually compared with the local planner catalog, including Pyrohound T2, Frostique T3 and the distinct monkey forms. Empty cells are preserved. The author explicitly marks this range inclusive; screenshot stage and enemy level are retained separately. Only previously unavailable stages are selected.",
+    "stage_assignment_basis": "The author explicitly captions this inclusive cleared range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill an unavailable chapter 13 stage using a date-eligible original reference with its own readable player level; preserve all existing selections.",
+    "caption_stage_numbers_original": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "website_stage_numbers": [
+      30,
+      31,
+      32,
+      33,
+      34,
+      35
+    ]
+  },
+  {
+    "source_message_id": "1552663874593886318",
+    "stage_start": 36,
+    "stage_end": 39,
+    "caption_stage_numbers": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "screenshot_displayed_stage": "13-40",
+    "screenshot_enemy_level": 342,
+    "tatari_level": 279,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on this screenshot’s player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "swaystroll",
+        "blitzmane",
+        "pyrohound",
+        "snoozebo"
+      ],
+      [
+        "rockhog",
+        "sealoon",
+        "surgehoof",
+        "boldclaw",
+        "rockfu"
+      ],
+      [
+        "frugagon",
+        "frostique",
+        "sparkdoe",
+        "azurion",
+        "rattlecoil"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and positions were visually compared with the local planner catalog, including Pyrohound T2, Frostique T3 and the distinct monkey forms. Empty cells are preserved. The author explicitly marks this range inclusive; screenshot stage and enemy level are retained separately. Only previously unavailable stages are selected.",
+    "stage_assignment_basis": "The author explicitly captions this inclusive cleared range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill an unavailable chapter 13 stage using a date-eligible original reference with its own readable player level; preserve all existing selections.",
+    "caption_stage_numbers_original": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "website_stage_numbers": [
+      36,
+      37,
+      38,
+      39
     ]
   },
   {
@@ -1319,6 +1554,82 @@
       63,
       64,
       65
+    ]
+  },
+  {
+    "source_message_id": "1554603613467181086",
+    "stage_start": 66,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "screenshot_displayed_stage": "13-70",
+    "screenshot_enemy_level": 352,
+    "tatari_level": 292,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Level readable on this screenshot’s player inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "boldclaw",
+        "pearpair",
+        "pyrohound",
+        "swaystroll",
+        "snoozebo"
+      ],
+      [
+        "ospisces",
+        "stalkerix",
+        "kitjitsu",
+        null,
+        "rockwu"
+      ],
+      [
+        "sparkdoe",
+        "pandaroot",
+        "azurion",
+        "frostique",
+        "rockhog"
+      ],
+      [
+        null,
+        "frugagon",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and positions were visually compared with the local planner catalog, including Pyrohound T2, Frostique T3 and the distinct monkey forms. Empty cells are preserved. The author explicitly marks this range inclusive; screenshot stage and enemy level are retained separately. Only previously unavailable stages are selected.",
+    "stage_assignment_basis": "The author explicitly captions this inclusive cleared range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill an unavailable chapter 13 stage using a date-eligible original reference with its own readable player level; preserve all existing selections.",
+    "caption_stage_numbers_original": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "website_stage_numbers": [
+      66,
+      67,
+      68,
+      69
     ]
   },
   {
