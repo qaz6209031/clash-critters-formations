@@ -1,0 +1,1018 @@
+[
+  {
+    "source_message_id": "1549375211583836320",
+    "stage_start": 10,
+    "stage_end": 10,
+    "caption_stage_numbers": [
+      10
+    ],
+    "website_stage_numbers": [
+      10
+    ],
+    "screenshot_displayed_stage": "7-11",
+    "screenshot_enemy_level": null,
+    "tatari_level": 135,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "boldclaw",
+        null,
+        "cobbledon",
+        "cheerlet",
+        "sackling"
+      ],
+      [
+        "ignisnap",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "maskfry",
+        null,
+        null,
+        null,
+        "cactobud"
+      ],
+      [
+        "bubbit",
+        "frostpaw",
+        "rockhog",
+        "boltskipper",
+        "humbug"
+      ],
+      [
+        null,
+        "frugagon",
+        "taptail",
+        "sparkdoe",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1549426199330029569",
+    "stage_start": 20,
+    "stage_end": 20,
+    "caption_stage_numbers": [
+      20
+    ],
+    "website_stage_numbers": [
+      20
+    ],
+    "screenshot_displayed_stage": "7-21",
+    "screenshot_enemy_level": null,
+    "tatari_level": 135,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "maskfry",
+        "cheerlet",
+        "cluckeroo",
+        "ignisnap",
+        "zapooch"
+      ],
+      [
+        null,
+        "sparkdoe",
+        "frugagon",
+        "goonbug",
+        "firefox"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "frostpaw"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "boldclaw",
+        "waddledo",
+        "manteeny",
+        "blowfin",
+        "sackling"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1549956506605060160",
+    "stage_start": 30,
+    "stage_end": 30,
+    "caption_stage_numbers": [
+      30
+    ],
+    "website_stage_numbers": [
+      30
+    ],
+    "screenshot_displayed_stage": "7-31",
+    "screenshot_enemy_level": null,
+    "tatari_level": 142,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "cobbledon",
+        "boldclaw",
+        "zappur",
+        "sackling",
+        "snoozebo"
+      ],
+      [
+        "maskfry",
+        "firecoil",
+        "cheerlet",
+        "cluckeroo",
+        "rockfu"
+      ],
+      [
+        null,
+        "ignisnap",
+        "sparkdoe",
+        "frugagon",
+        "humbug"
+      ],
+      [
+        null,
+        null,
+        "boltskipper",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555048653897470004",
+    "stage_start": 40,
+    "stage_end": 45,
+    "caption_stage_numbers": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "website_stage_numbers": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "screenshot_displayed_stage": "7-41",
+    "screenshot_enemy_level": null,
+    "tatari_level": 141,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        "waddledo",
+        "rubblet",
+        "stalkerix",
+        "electroar",
+        "pyrohound"
+      ],
+      [
+        null,
+        "ignisnap",
+        "turtuff",
+        "cheerlet",
+        "tindercub"
+      ],
+      [
+        "ripplewing",
+        "bubbit",
+        "frugatoad",
+        "zapooch",
+        "cluckeroo"
+      ],
+      [
+        "frostpaw",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555051639818162216",
+    "stage_start": 46,
+    "stage_end": 49,
+    "caption_stage_numbers": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "website_stage_numbers": [
+      46,
+      47,
+      48,
+      49
+    ],
+    "screenshot_displayed_stage": "7-50",
+    "screenshot_enemy_level": null,
+    "tatari_level": 141,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        "turtuff",
+        "waddledo",
+        "stalkerix",
+        "pyrohound",
+        "electroar"
+      ],
+      [
+        "cheerlet",
+        null,
+        "frugatoad",
+        "tindercub",
+        "zapooch"
+      ],
+      [
+        "rockhog",
+        "ignisnap",
+        "cluckeroo",
+        "frostpaw",
+        "rockfu"
+      ],
+      [
+        null,
+        "bubbit",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555075095083360377",
+    "stage_start": 50,
+    "stage_end": 55,
+    "caption_stage_numbers": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "website_stage_numbers": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "screenshot_displayed_stage": "7-51",
+    "screenshot_enemy_level": null,
+    "tatari_level": 141,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        "waddledo",
+        "pyrohound",
+        "snoozebo",
+        "electroar",
+        "stalkerix"
+      ],
+      [
+        "zapooch",
+        "cheerlet",
+        "rockfu",
+        "hootlet",
+        null
+      ],
+      [
+        "frostpaw",
+        "ignisnap",
+        "rockhog",
+        null,
+        "turtuff"
+      ],
+      [
+        null,
+        null,
+        null,
+        "bubbit",
+        "frugatoad"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555129304244031528",
+    "stage_start": 56,
+    "stage_end": 57,
+    "caption_stage_numbers": [
+      56,
+      57
+    ],
+    "website_stage_numbers": [
+      56,
+      57
+    ],
+    "screenshot_displayed_stage": "7-60",
+    "screenshot_enemy_level": null,
+    "tatari_level": 141,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockfu",
+        "pyrohound",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ripplewing",
+        "turtuff",
+        "stalkerix",
+        "electroar"
+      ],
+      [
+        null,
+        "ignisnap",
+        "cheerlet",
+        "pandaroo",
+        "zapooch"
+      ],
+      [
+        "bubbit",
+        "frostpaw",
+        "rockhog",
+        "frugatoad",
+        "boltskipper"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555129406857412628",
+    "stage_start": 58,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      58,
+      59
+    ],
+    "website_stage_numbers": [
+      58,
+      59
+    ],
+    "screenshot_displayed_stage": "7-60",
+    "screenshot_enemy_level": null,
+    "tatari_level": 141,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockfu",
+        "pyrohound",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "ripplewing",
+        "turtuff",
+        "stalkerix",
+        "electroar"
+      ],
+      [
+        null,
+        "ignisnap",
+        "cheerlet",
+        "pandaroo",
+        "zapooch"
+      ],
+      [
+        "bubbit",
+        "frostpaw",
+        "rockhog",
+        "frugatoad",
+        "boltskipper"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555202149137522718",
+    "stage_start": 60,
+    "stage_end": 62,
+    "caption_stage_numbers": [
+      60,
+      61,
+      62
+    ],
+    "website_stage_numbers": [
+      60,
+      61,
+      62
+    ],
+    "screenshot_displayed_stage": "7-61",
+    "screenshot_enemy_level": null,
+    "tatari_level": 144,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "pyrohound",
+        "maskfry",
+        "waddledo",
+        "turtuff"
+      ],
+      [
+        null,
+        "boldclaw",
+        "cheerlet",
+        "electroar",
+        null
+      ],
+      [
+        "frugatoad",
+        null,
+        "rizzler",
+        "bubbit",
+        "rockfu"
+      ],
+      [
+        null,
+        "ignisnap",
+        "frostpaw",
+        "sparkdoe",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555202224244785223",
+    "stage_start": 63,
+    "stage_end": 66,
+    "caption_stage_numbers": [
+      63,
+      64,
+      65,
+      66
+    ],
+    "website_stage_numbers": [
+      63,
+      64,
+      65
+    ],
+    "screenshot_displayed_stage": "7-66",
+    "screenshot_enemy_level": null,
+    "tatari_level": 144,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "pyrohound",
+        "maskfry",
+        "electroar",
+        "turtuff"
+      ],
+      [
+        "frugatoad",
+        "boldclaw",
+        "cheerlet",
+        "bubbit",
+        null
+      ],
+      [
+        "cluckeroo",
+        null,
+        "rizzler",
+        "sparkdoe",
+        "rockfu"
+      ],
+      [
+        null,
+        "ignisnap",
+        "frostpaw",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555204413860352060",
+    "stage_start": 67,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      67,
+      68,
+      69
+    ],
+    "website_stage_numbers": [
+      67,
+      68,
+      69
+    ],
+    "screenshot_displayed_stage": "7-70",
+    "screenshot_enemy_level": null,
+    "tatari_level": 144,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "turtuff",
+        "maskfry",
+        "electroar",
+        "pyrohound"
+      ],
+      [
+        "frugatoad",
+        null,
+        "cheerlet",
+        "bubbit",
+        "boldclaw"
+      ],
+      [
+        "cluckeroo",
+        "rockfu",
+        "rizzler",
+        "sparkdoe",
+        null
+      ],
+      [
+        null,
+        null,
+        "frostpaw",
+        null,
+        "ignisnap"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555383457859768380",
+    "stage_start": 70,
+    "stage_end": 72,
+    "caption_stage_numbers": [
+      70,
+      71,
+      72
+    ],
+    "website_stage_numbers": [
+      70,
+      71,
+      72
+    ],
+    "screenshot_displayed_stage": "7-71",
+    "screenshot_enemy_level": null,
+    "tatari_level": 146,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "maskfry",
+        "turtuff",
+        "pyrohound",
+        "electroar"
+      ],
+      [
+        "rockfu",
+        "bubbit",
+        "cheerlet",
+        null,
+        "zapooch"
+      ],
+      [
+        "frugatoad",
+        "frostpaw",
+        "boltskipper",
+        "cluckeroo",
+        "sparkdoe"
+      ],
+      [
+        null,
+        null,
+        null,
+        "ignisnap",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555387731952009260",
+    "stage_start": 73,
+    "stage_end": 76,
+    "caption_stage_numbers": [
+      73,
+      74,
+      75,
+      76
+    ],
+    "website_stage_numbers": [
+      73,
+      74,
+      75
+    ],
+    "screenshot_displayed_stage": "7-76",
+    "screenshot_enemy_level": null,
+    "tatari_level": 146,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "maskfry",
+        "turtuff",
+        "pyrohound",
+        "electroar"
+      ],
+      [
+        "bubbit",
+        "ripplewing",
+        "cheerlet",
+        null,
+        "zapooch"
+      ],
+      [
+        "frugatoad",
+        "frostpaw",
+        "rockfu",
+        "cluckeroo",
+        "sparkdoe"
+      ],
+      [
+        null,
+        null,
+        null,
+        "ignisnap",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555388814309195897",
+    "stage_start": 77,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      77,
+      78,
+      79
+    ],
+    "website_stage_numbers": [
+      77,
+      78,
+      79
+    ],
+    "screenshot_displayed_stage": "7-80",
+    "screenshot_enemy_level": null,
+    "tatari_level": 146,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "electroar",
+        "stalkerix",
+        "waddledo",
+        "pyrohound",
+        "turtuff"
+      ],
+      [
+        "zapooch",
+        null,
+        "cheerlet",
+        null,
+        null
+      ],
+      [
+        "frostpaw",
+        "cluckeroo",
+        "sparkdoe",
+        "embertail",
+        "rockfu"
+      ],
+      [
+        "bubbit",
+        null,
+        null,
+        "ignisnap",
+        "frugatoad"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1555443731832897668",
+    "stage_start": 80,
+    "stage_end": 80,
+    "caption_stage_numbers": [
+      80
+    ],
+    "website_stage_numbers": [
+      80
+    ],
+    "screenshot_displayed_stage": "8-1",
+    "screenshot_enemy_level": null,
+    "tatari_level": 146,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "cribbler",
+        null,
+        null,
+        null
+      ],
+      [
+        "rubblet",
+        "ignisnap",
+        "frugatoad",
+        "cheerlet",
+        null
+      ],
+      [
+        "rizzler",
+        "capypapa",
+        "cluckeroo",
+        "sparkdoe",
+        "bubbit"
+      ],
+      [
+        "turtuff",
+        "pyrohound",
+        "stalkerix",
+        "electroar",
+        "rockfu"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  }
+]

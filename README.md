@@ -4,10 +4,10 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. The published site covers **5216 stages**
-(chapters 10–79), grouped into **1833 formation cards** from **1638 selected
-Discord source posts** (1645 chapter-specific records). All **1904 reviewed
-formation records** are preserved; the public index contains 1901 source and
+posters and exact 5×5 formations. The published site covers **5463 stages**
+(chapters 1–79, with unsupported chapters empty), grouped into **1954 formation cards** from **1722 selected
+Discord source posts** (1729 chapter-specific records). All **1989 reviewed
+formation records** are preserved; the public index contains 1985 source and
 supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -15,6 +15,12 @@ America/Los_Angeles time: August 28 at midnight is `2026-08-28T07:00:00Z`.
 The same cutoff applies to separate board sources and supporting evidence.
 Edit dates do not qualify an older post. Missing, invalid or timezone-free
 timestamps are excluded. The build enforces this policy on every update.
+
+Chapters 1–9 add **247 stages** from 85 visually reviewed records. Chapters 1–3 have no verified references and remain empty. Chapter 4 contains only 4-80; chapters 5–9 have partial coverage, including 79 of 80 chapter 8 stages. Existing chapters 10–79 retain their exact cards and selections.
+
+For **chapters 1–10 only**, unreadable or unstated player levels are allowed:
+`tatari_level: null`, `tatari_level_source: "unknown"`, displayed as **Lv. Unknown**.
+The expansion includes 66 unknown-level stages. Above chapter 10, the same-source screenshot or caption must provide a numeric player level. Enemy levels and adjacent posts never supply a missing player level. Help requests and older forwarded originals do not establish a qualifying clear. A caption range endpoint matching the displayed stage is excluded as uncleared.
 
 The date audit excludes **258 older submissions**. On October 8, newer visually
 reviewed references restored all **861 previously hidden stages**. Most use
@@ -28,12 +34,12 @@ The page opens on **chapter 31** unless its URL names a valid chapter.
 Choose a chapter at the top to show only its formations. The selector stays
 available while scrolling, supports chapter links such as `#chapter-40`, and
 works on phones. Only the selected chapter's cards and artwork are downloaded. Level badges
-show the level numbers, with the posting display name immediately below.
+show the level numbers (or Unknown in chapters 1–10), with the posting display name immediately below.
 Stage labels and posters link to their original Discord messages, which require
 the viewer's own server access. A credited creator is distinct from the poster.
 
 Exact forms, glitter variants and positions determine whether cards can merge.
-Chapters 10–30, 32–39 and 51–79 keep 1–4, 5–9 and each boss separate.
+Chapters 1–30, 32–39 and 51–79 keep 1–4, 5–9 and each boss separate.
 A block may contain different cards when the source only supports shorter ranges.
 The early Pika guide changes at stage 6: where its formations differ, stage 5
 and stages 6–9 remain separate instead of asserting that one lineup clears the
@@ -74,7 +80,7 @@ The chapter selector is populated automatically.
 
 ## Files and source evidence
 
-- `stage-10` through `stage-79`: reviewed formations and chapter notes.
+- `stage-1` through `stage-79`: reviewed formations and chapter notes.
 - `stage-47/build_site.py`: static site and structured-data generator.
 - `stage-47/page-template.html`: website layout and styles.
 - `stage-47/site`: generated website — `index.html`, one card fragment per

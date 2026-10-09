@@ -1,0 +1,66 @@
+[
+  {
+    "source_message_id": "1553910926540013703",
+    "stage_start": 80,
+    "stage_end": 80,
+    "caption_stage_numbers": [
+      80
+    ],
+    "website_stage_numbers": [
+      80
+    ],
+    "screenshot_displayed_stage": "5-1",
+    "screenshot_enemy_level": null,
+    "tatari_level": 92,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "rubblet",
+        "blowfin",
+        null,
+        null,
+        "boldclaw"
+      ],
+      [
+        null,
+        "sackling",
+        "snoozebo",
+        "sparkeet",
+        "pearpair"
+      ],
+      [
+        "punchimp",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "taptail",
+        "zapooch",
+        null
+      ],
+      [
+        "embertail",
+        "frugatoad",
+        "rockhog",
+        "zapuni",
+        "shardsnail"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
+    "selected_for_website": true,
+    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  }
+]
