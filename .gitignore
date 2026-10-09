@@ -16,6 +16,10 @@
 !/stage-47/site/
 !/stage-47/site/index.html
 !/stage-47/site/favicon-tatari.png
+!/stage-47/site/chapters/
+!/stage-47/site/chapters/*.html
+!/stage-47/site/sprites/
+!/stage-47/site/sprites/*.png
 !/2026-10-05/
 !/2026-10-05/tatari-reference.json
 !/2026-10-05/reference-sprites/

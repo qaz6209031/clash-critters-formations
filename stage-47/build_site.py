@@ -2,11 +2,11 @@
 
 from __future__ import annotations
 
-import base64
 import hashlib
 import html
 import json
 import os
+import shutil
 from collections import Counter
 from datetime import datetime, timezone
 from pathlib import Path
@@ -88,11 +88,10 @@ def unit_record(key: str, row: int, column: int) -> dict:
     }
 
 
-def sprite_data(key: str) -> str:
+def sprite_path(key: str) -> Path:
     form_id, _, variant = key.partition(":")
-    path = (CATALOG_ROOT / "reference-sprites" / "glitter" / f"{form_id}.png" if variant else
+    return (CATALOG_ROOT / "reference-sprites" / "glitter" / f"{form_id}.png" if variant else
             CATALOG_ROOT / "reference-sprites" / f"{form_id}.png")
-    return "data:image/png;base64," + base64.b64encode(path.read_bytes()).decode()
 
 
 def stage_label(numbers: list[int], chapter: int) -> str:
@@ -127,7 +126,7 @@ def source_date_eligible(source: dict) -> bool:
 def build() -> None:
     formations = []
     stages = []
-    cards = []
+    chapter_cards: dict[int, list[str]] = {}
     sprites = {}
     groups = {}
     for reviewed in REVIEWED:
@@ -278,12 +277,8 @@ def build() -> None:
                            if (present := [number for number in block if number in available])]
         assert [sorted(set(group["numbers"])) for group in chapter_groups] == expected_blocks, chapter
 
-    previous_chapter = None
     for group in ordered_groups:
         chapter = group["chapter"]
-        if chapter != previous_chapter:
-            cards.append(f'<h2 class="chapter-title" id="chapter-{chapter}">Chapter {chapter}</h2>')
-            previous_chapter = chapter
         stage = stage_label(group["numbers"], chapter)
         source = group["source"]
         cells = []
@@ -296,8 +291,8 @@ def build() -> None:
                         label += " · Glitter"
                     label += f" · row {r}, column {c}"
                     sprite_id = key.replace(":", "-")
-                    sprites.setdefault(sprite_id, sprite_data(key))
-                    cells.append(f'<div class="cell occupied" title="{html.escape(label)}"><img data-sprite="{sprite_id}" alt="{html.escape(label)}" width="200" height="200" draggable="false"></div>')
+                    sprites.setdefault(sprite_id, sprite_path(key))
+                    cells.append(f'<div class="cell occupied" title="{html.escape(label)}"><img src="sprites/{sprite_id}.png" alt="{html.escape(label)}" width="200" height="200" decoding="async" draggable="false"></div>')
                 else:
                     cells.append(f'<div class="cell" aria-label="Empty · row {r}, column {c}"></div>')
         stage_numbers = ",".join(f"{chapter}-{n}" for n in sorted(set(group["numbers"])))
@@ -306,7 +301,7 @@ def build() -> None:
         poster_links = ", ".join(f'<a href="{html.escape(url, quote=True)}" target="_blank" rel="noopener noreferrer">{html.escape(name)}</a>' for name, url in group["posters"].items())
         source_ids = ",".join(dict.fromkeys(group["source_ids"]))
         posted_at = min(group["posted_at"], key=lambda timestamp: datetime.fromisoformat(timestamp.replace("Z", "+00:00")))
-        cards.append(f'<article class="stage" data-chapter="{chapter}" data-stages="{stage_numbers}" data-formation-id="{group["formation_id"]}" data-source-message-ids="{source_ids}" data-posted-at="{html.escape(posted_at, quote=True)}"><h2><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" title="Open the original Discord reference">{stage}</a><span class="level" title="{level_title}" aria-label="{level_title}">{level_text}</span></h2><p class="poster">Posted by {poster_links}</p><div class="board" role="group" aria-label="Stages {stage}: 5 by 5 formation, top row is the front">{"".join(cells)}</div></article>')
+        chapter_cards.setdefault(chapter, []).append(f'<article class="stage" data-chapter="{chapter}" data-stages="{stage_numbers}" data-formation-id="{group["formation_id"]}" data-source-message-ids="{source_ids}" data-posted-at="{html.escape(posted_at, quote=True)}"><h2><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" title="Open the original Discord reference">{stage}</a><span class="level" title="{level_title}" aria-label="{level_title}">{level_text}</span></h2><p class="poster">Posted by {poster_links}</p><div class="board" role="group" aria-label="Stages {stage}: 5 by 5 formation, top row is the front">{"".join(cells)}</div></article>')
 
     requested_stages = [f"{c['chapter']}-{n}" for c in CHAPTERS for n in range(c["first"], c["last"] + 1)]
     published_stages = {stage["stage"] for stage in stages}
@@ -362,15 +357,19 @@ def build() -> None:
     assert available_chapters, "No formations meet the publication policy"
     options = "".join(f'<option value="{chapter["chapter"]}"' + (' selected' if chapter["chapter"] == 31 else '') + f'>Chapter {chapter["chapter"]}</option>'
                       for chapter in CHAPTERS)
+    page = template.replace("<!-- CHAPTER_OPTIONS -->", options)
+    site = ROOT / "site"
+    # Each chapter's cards and each sprite are separate files, so visitors download only the chapter they open.
+    for generated in ("chapters", "sprites"):
+        shutil.rmtree(site / generated, ignore_errors=True)
+        (site / generated).mkdir(parents=True)
+    (site / "index.html").write_text(page)
     for chapter in CHAPTERS:
         number = chapter["chapter"]
-        if number not in available_chapters:
-            cards.append(f'<h2 class="chapter-title" id="chapter-{number}">Chapter {number}</h2>')
-    page = template.replace("<!-- STAGE_CARDS -->", "\n".join(cards)).replace("<!-- CHAPTER_OPTIONS -->", options).replace("/* SPRITE_DATA */ {}", json.dumps(sprites, separators=(",", ":")))
-    site = ROOT / "site"
-    site.mkdir(exist_ok=True)
-    (site / "index.html").write_text(page)
-    print(f"Built {len(stages)} stages in {len(groups)} grouped formation cards; {len(sprites)} exact sprite variants. Offline page: {site / 'index.html'}")
+        (site / "chapters" / f"{number}.html").write_text("\n".join(chapter_cards.get(number, [])) + "\n")
+    for sprite_id, path in sprites.items():
+        shutil.copyfile(path, site / "sprites" / f"{sprite_id}.png")
+    print(f"Built {len(stages)} stages in {len(groups)} grouped formation cards; {len(sprites)} exact sprite variants. Site: {site}")
 
 
 if __name__ == "__main__":

@@ -1,7 +1,8 @@
 # Stage 44–50 formations
 
-Open `site/index.html` in a browser. This is a standalone offline website;
-no installation or server is required. It shows stage names/ranges,
+Serve `site` over HTTP (for example `python3 -m http.server --directory site`)
+and open it in a browser; chapters load on demand, so opening the file directly
+does not work. It shows stage names/ranges,
 observed Tatari levels and 5×5 formations. Exact forms, variants and cell
 positions determine which stages share a card. Hover over a Tatari for its
 name and tier; click the stage label for the Discord reference.
