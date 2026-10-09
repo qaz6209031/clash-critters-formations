@@ -1128,6 +1128,81 @@
     ]
   },
   {
+    "source_message_id": "1543635213765058700",
+    "stage_start": 56,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "caption_stage_numbers_original": [
+      56,
+      57,
+      58,
+      59
+    ],
+    "website_stage_numbers": [
+      57,
+      58,
+      59
+    ],
+    "screenshot_displayed_stage": "11-60",
+    "screenshot_enemy_level": 296,
+    "tatari_level": 213,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player level readable on this screenshot’s own inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "boldclaw",
+        "electroar",
+        "stalkerix",
+        "pyrohound",
+        "zapooch"
+      ],
+      [
+        "swaystroll",
+        "turtuff",
+        "frugagon",
+        "cheerlet",
+        "synthhog"
+      ],
+      [
+        "sealoon",
+        "rattlecoil",
+        "cluckeroo",
+        "azurion",
+        "surgehoof"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
+  },
+  {
     "source_message_id": "1551253533607862314",
     "stage_start": 60,
     "stage_end": 65,

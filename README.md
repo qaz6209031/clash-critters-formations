@@ -4,10 +4,10 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. The published site covers **5170 stages**
-(chapters 10–79), grouped into **1816 formation cards** from **1623 selected
-Discord source posts** (1630 chapter-specific records). All **1889 reviewed
-formation records** are preserved; the public index contains 1886 source and
+posters and exact 5×5 formations. The published site covers **5216 stages**
+(chapters 10–79), grouped into **1833 formation cards** from **1638 selected
+Discord source posts** (1645 chapter-specific records). All **1904 reviewed
+formation records** are preserved; the public index contains 1901 source and
 supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -164,26 +164,32 @@ therefore supports its inclusive endpoint; the following formation is selected
 for the overlapping stage 35. All previous 3200 stage mappings are unchanged.
 
 
-Chapters 10–19 add **754 of 800 requested stages** from **244 source posts**
-(249 chapter-specific reviewed records), grouped into **373 cards**. Chiaki’s
+Chapters 10–19 cover **all 800 requested stages** from **259 source posts**
+(264 chapter-specific reviewed records), grouped into **390 cards**. Chiaki’s
 September guide is the main source; Libertas and Anthi fill chapter 13–14
 references. Jessimika_x’s September 24–29 guide fills the remaining 15 chapter 13
-gaps at image-documented levels 279 and 292, preserving all previous selections. Every posting display name was checked against the rendered Discord
-message heading. Supported Tatari levels range from **181 to 346**. All 4000
+gaps at image-documented levels 279 and 292. A further 15 references from
+Libertas, SylvanWyvern, chiaki, HellBringer_TV and Lisha fill the remaining
+46 gaps across chapters 10–19, preserving every existing stage selection.
+Each level is readable in that source’s screenshot or explicitly typed in its
+caption; references with clipped levels were excluded. Exact evolved forms
+and all 25 positions were compared with the planner catalog. Every posting
+display name was checked against the rendered Discord message heading.
+Supported Tatari levels range from **181 to 391**. All 4000
 existing chapter 20–69 stage mappings, levels, formations and 1300 cards are unchanged.
 
 | Chapter | Available stages | Unavailable stages |
 | --- | ---: | --- |
-| 10 | 76/80 | 76–79 |
-| 11 | 77/80 | 57–59 |
-| 12 | 57/80 | 8–9, 11–19, 36–39, 66–69, 76–79 |
+| 10 | 80/80 | None |
+| 11 | 80/80 | None |
+| 12 | 80/80 | None |
 | 13 | 80/80 | None |
-| 14 | 77/80 | 31–32, 40 |
-| 15 | 75/80 | 9, 16–19 |
-| 16 | 77/80 | 33–35 |
+| 14 | 80/80 | None |
+| 15 | 80/80 | None |
+| 16 | 80/80 | None |
 | 17 | 80/80 | None |
-| 18 | 76/80 | 76–79 |
-| 19 | 79/80 | 1 |
+| 18 | 80/80 | None |
+| 19 | 80/80 | None |
 
 Early captions sometimes name irregular stage groups or contain a typo. Their
 literal numbers are preserved alongside the selected subset; unlisted stages

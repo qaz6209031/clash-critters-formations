@@ -1761,6 +1761,82 @@
     ]
   },
   {
+    "source_message_id": "1545932483785265302",
+    "stage_start": 76,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "caption_stage_numbers_original": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "website_stage_numbers": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "screenshot_displayed_stage": "10-80",
+    "screenshot_enemy_level": 276,
+    "tatari_level": 185,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player level readable on this screenshot’s own inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "swaystroll",
+        "stalkerix"
+      ],
+      [
+        "electroar",
+        "pyrohound",
+        "cobbledon",
+        "firecoil",
+        "frugagon"
+      ],
+      [
+        "bubbit",
+        "cheerlet",
+        "punchimp",
+        "frostique",
+        "cluckeroo"
+      ],
+      [
+        "sparkdoe",
+        "azurion",
+        "rockhog",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
+  },
+  {
     "source_message_id": "1550894919428735138",
     "stage_start": 80,
     "stage_end": 80,

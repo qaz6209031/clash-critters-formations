@@ -216,6 +216,75 @@
     ]
   },
   {
+    "source_message_id": "1547101180851920989",
+    "stage_start": 8,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      8,
+      9
+    ],
+    "caption_stage_numbers_original": [
+      8,
+      9
+    ],
+    "website_stage_numbers": [
+      9
+    ],
+    "screenshot_displayed_stage": "15-10",
+    "screenshot_enemy_level": 386,
+    "tatari_level": 270,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player level readable on this screenshot’s own inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "sizzribb",
+        "serrabloom",
+        "cobbledon",
+        "swaystroll"
+      ],
+      [
+        "cheerlet",
+        "firecoil",
+        null,
+        "rockshell",
+        "zapooch"
+      ],
+      [
+        "sparkdoe",
+        "azurion",
+        "frugagon",
+        "humbleetle",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "surgehoof"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
+  },
+  {
     "source_message_id": "1551693280209543188",
     "stage_start": 10,
     "stage_end": 15,
@@ -296,6 +365,82 @@
       14,
       15
     ]
+  },
+  {
+    "source_message_id": "1547303367867371600",
+    "stage_start": 16,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "caption_stage_numbers_original": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "website_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "screenshot_displayed_stage": "15-20",
+    "screenshot_enemy_level": 389,
+    "tatari_level": 271,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player level readable on this screenshot’s own inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "pyrohound",
+        "cobbledon",
+        "blitzmane",
+        "swaystroll"
+      ],
+      [
+        "frugagon",
+        "firecoil",
+        "rockshell",
+        "cheerlet",
+        "ospisces"
+      ],
+      [
+        "tikowl",
+        "azurion",
+        "humbleetle",
+        "zapooch",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "frostique",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
   },
   {
     "source_message_id": "1551699400315895928",

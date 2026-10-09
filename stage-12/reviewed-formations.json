@@ -290,6 +290,231 @@
     ]
   },
   {
+    "source_message_id": "1551264673557512323",
+    "stage_start": 8,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      8,
+      9
+    ],
+    "caption_stage_numbers_original": [
+      8,
+      9
+    ],
+    "website_stage_numbers": [
+      8,
+      9
+    ],
+    "screenshot_displayed_stage": "12-10",
+    "screenshot_enemy_level": 306,
+    "tatari_level": 225,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 225",
+    "tatari_level_basis": "Player level explicitly stated in the same source caption.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "clawzor",
+        "stalkerix",
+        "cobbledon",
+        "blitzmane"
+      ],
+      [
+        "gibber",
+        "frostique",
+        "frugagon",
+        "rattlecoil",
+        "cheerlet"
+      ],
+      [
+        "boltskipper",
+        "sealoon",
+        null,
+        "punchimp",
+        null
+      ],
+      [
+        "voltfawn",
+        "bubbit",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
+  },
+  {
+    "source_message_id": "1547766399492169881",
+    "stage_start": 11,
+    "stage_end": 15,
+    "caption_stage_numbers": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "caption_stage_numbers_original": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "website_stage_numbers": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "screenshot_displayed_stage": "12-16",
+    "screenshot_enemy_level": 308,
+    "tatari_level": 214,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player level readable on this screenshot’s own inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "pyrohound",
+        null,
+        null
+      ],
+      [
+        "boldclaw",
+        "blitzmane",
+        "firecoil",
+        "zapooch",
+        "cobbledon"
+      ],
+      [
+        "kitjitsu",
+        "sparkdoe",
+        "azurion",
+        "cheerlet",
+        "turtuff"
+      ],
+      [
+        "embertail",
+        null,
+        "sunfleur",
+        "frostique",
+        "rockhog"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
+  },
+  {
+    "source_message_id": "1544935496239681646",
+    "stage_start": 16,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "caption_stage_numbers_original": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "website_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "screenshot_displayed_stage": "12-20",
+    "screenshot_enemy_level": 309,
+    "tatari_level": 234,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player level readable on this screenshot’s own inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "cobbledon",
+        "swaystroll",
+        "electroar",
+        "stalkerix",
+        "pyrohound"
+      ],
+      [
+        "punchimp",
+        "sealoon",
+        "cheerlet",
+        "cluckeroo",
+        "capobeetle"
+      ],
+      [
+        "rockshell",
+        "frostique",
+        "sparkdoe",
+        "frugagon",
+        "kitjitsu"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
+  },
+  {
     "source_message_id": "1551273351945654392",
     "stage_start": 20,
     "stage_end": 25,
@@ -528,6 +753,82 @@
       34,
       35
     ]
+  },
+  {
+    "source_message_id": "1545089653344837663",
+    "stage_start": 36,
+    "stage_end": 39,
+    "caption_stage_numbers": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "caption_stage_numbers_original": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "website_stage_numbers": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "screenshot_displayed_stage": "12-40",
+    "screenshot_enemy_level": 316,
+    "tatari_level": 237,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player level readable on this screenshot’s own inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "swaystroll",
+        "pyrohound",
+        "electroar",
+        "stalkerix",
+        "cobbledon"
+      ],
+      [
+        "sealoon",
+        "firecoil",
+        "cheerlet",
+        "firefox",
+        "rockshell"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "sparkdoe",
+        "frugagon",
+        "rattlecoil"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
   },
   {
     "source_message_id": "1551282928506511571",
@@ -1248,6 +1549,82 @@
     ]
   },
   {
+    "source_message_id": "1545114037677854791",
+    "stage_start": 66,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "caption_stage_numbers_original": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "website_stage_numbers": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "screenshot_displayed_stage": "12-70",
+    "screenshot_enemy_level": 326,
+    "tatari_level": 241,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player level readable on this screenshot’s own inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "cobbledon",
+        "swaystroll",
+        "pyrohound",
+        "blitzmane",
+        "stalkerix"
+      ],
+      [
+        "rockshell",
+        "sealoon",
+        "firecoil",
+        "cheerlet",
+        "cactobud"
+      ],
+      [
+        "rattlecoil",
+        "frostique",
+        "azurion",
+        "sparkdoe",
+        "frugagon"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
+  },
+  {
     "source_message_id": "1551296484421537813",
     "stage_start": 70,
     "stage_end": 71,
@@ -1392,6 +1769,82 @@
       74,
       75
     ]
+  },
+  {
+    "source_message_id": "1545116664574779565",
+    "stage_start": 76,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "caption_stage_numbers_original": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "website_stage_numbers": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "screenshot_displayed_stage": "12-80",
+    "screenshot_enemy_level": 329,
+    "tatari_level": 241,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player level readable on this screenshot’s own inventory cards; enemy level is recorded separately.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pyrohound",
+        "stalkerix",
+        "cobbledon",
+        "blitzmane",
+        "jarachnid"
+      ],
+      [
+        "firecoil",
+        "rattlecoil",
+        "rockshell",
+        "cheerlet",
+        "capobeetle"
+      ],
+      [
+        "azurion",
+        "frugagon",
+        "sparkdoe",
+        "frostique",
+        "cactobud"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
+    "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
+    "selected_for_website": true,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
   },
   {
     "source_message_id": "1551312396637708298",
