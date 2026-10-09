@@ -89,6 +89,11 @@ When local evidence is available, the builder includes that richer evidence in
 the locally generated JSON. A fresh clone builds from the publication index
 and leaves original-image fields empty. Only the site folder is deployed.
 
+The page includes the Google Analytics 4 tag for the **Critter Formations**
+property, measurement ID `G-ZXNQ71FDKL`. It is maintained in
+`stage-47/page-template.html` so rebuilding preserves tracking. View traffic
+and engagement in the property's Google Analytics reports.
+
 Credits follow source captions and are not independently verified. Use a formation
 only when its level is readable in the image or explicitly typed in the post.
 Typed levels are valid even without image-level text; provenance is retained as
