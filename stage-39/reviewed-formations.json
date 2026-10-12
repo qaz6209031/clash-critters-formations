@@ -53,7 +53,7 @@
     "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
     "stage_assignment_basis": "Author explicitly reports the selected stages in the caption; screenshot displays 39-1, not the end-of-range next stage. Only the caption-supported portion of the requested block is selected.",
     "level_from_original_post_clear_screenshot": false,
-    "credit_basis": "Caption explicitly says adapted from Nyu\u2019s guide; this is attribution, not a verified Discord username."
+    "credit_basis": "Caption explicitly says adapted from Nyu’s guide; this is attribution, not a verified Discord username."
   },
   {
     "source_message_id": "1550802979563507713",
@@ -694,9 +694,9 @@
       [
         "rockshell",
         "frostique",
-        "voltverine",
+        "blitzmane",
         "silversear",
-        "rockwu"
+        "serrabloom"
       ],
       [
         null,
@@ -714,18 +714,51 @@
       ],
       [
         null,
-        null,
         "zapantler",
+        null,
         null,
         null
       ]
     ],
     "needs_review": false,
-    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
+    "notes": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
     "tier_assignment_basis": "The image shows base-family artwork. The author explicitly states all Tatari are T3, naming exceptions; Cluckeroo is T2 and Zapup is T1 where named. Positions and families were visually matched to the catalog.",
     "unit_confidence": 0.95,
-    "level_from_original_post_clear_screenshot": false
+    "level_from_original_post_clear_screenshot": false,
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 2,
+            "column": 3,
+            "before": "voltverine",
+            "after": "blitzmane"
+          },
+          {
+            "row": 2,
+            "column": 5,
+            "before": "rockwu",
+            "after": "serrabloom"
+          },
+          {
+            "row": 5,
+            "column": 3,
+            "before": "zapantler",
+            "after": null
+          },
+          {
+            "row": 5,
+            "column": 2,
+            "before": null,
+            "after": "zapantler"
+          }
+        ]
+      }
+    ]
   },
   {
     "source_message_id": "1550806073185673278",

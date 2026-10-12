@@ -3160,7 +3160,7 @@
         null,
         null,
         null,
-        "frostique",
+        "swaystroll",
         null
       ],
       [
@@ -3194,7 +3194,7 @@
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
+    "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
     "selected_for_website": true,
     "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
@@ -3204,6 +3204,21 @@
       77,
       78,
       79
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 1,
+            "column": 4,
+            "before": "frostique",
+            "after": "swaystroll"
+          }
+        ]
+      }
     ]
   }
 ]

@@ -4,10 +4,10 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. The published site covers **5463 stages**
-(chapters 1–79, with unsupported chapters empty), grouped into **1954 formation cards** from **1722 selected
-Discord source posts** (1729 chapter-specific records). All **1989 reviewed
-formation records** are preserved; the public index contains 1985 source and
+posters and exact 5×5 formations. The published site covers **5464 stages**
+(chapters 1–79, with unsupported chapters empty), grouped into **1955 formation cards** from **1724 selected
+Discord source posts** (1731 chapter-specific records). All **1991 reviewed
+formation records** are preserved; the public index contains 1988 source and
 supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -16,7 +16,9 @@ The same cutoff applies to separate board sources and supporting evidence.
 Edit dates do not qualify an older post. Missing, invalid or timezone-free
 timestamps are excluded. The build enforces this policy on every update.
 
-Chapters 1–9 add **247 stages** from 85 visually reviewed records. Chapters 1–3 have no verified references and remain empty. Chapter 4 contains only 4-80; chapters 5–9 have partial coverage, including 79 of 80 chapter 8 stages. Existing chapters 10–79 retain their exact cards and selections.
+Chapters 1–9 contain **248 stages** from 86 visually reviewed records. Chapters 1–3 have no verified references and remain empty. Chapter 4 contains only 4-80; chapters 5–9 have partial coverage, including 79 of 80 chapter 8 stages.
+
+October 12 feedback review adds Glorp’s confirmed **5-70 clear at level 112** and selects TextOffender’s **13-30 clear at level 229, dojo 33322**, with Boldclaw in the front-left occupied cell. The previous 13-30 source claim is preserved and still supplies 13-31–35. Original-image checks correct 23 records covering 65 stages, including Clucky mistaken for Bubbit at 16-80 and 17-1–5, repeated families, wrong butterfly tiers, and a misplaced deer. Each corrected record has an extraction revision and explicit cell corrections. Every selected board now passes a unique-family check; this catches transcription errors, not gameplay success. Historical chapter 30 availability and 27-80 reports already had fixes.
 
 For **chapters 1–10 only**, unreadable or unstated player levels are allowed:
 `tatari_level: null`, `tatari_level_source: "unknown"`, displayed as **Lv. Unknown**.
@@ -71,7 +73,7 @@ The workflow follows the [GitHub Pages deployment documentation](https://docs.gi
 
 To update formations, edit the appropriate chapter's `reviewed-formations.json`
 and add source metadata to `data/source-index.json`, then build, commit and push.
-The builder validates source timestamps, unique published stage mappings,
+The builder validates source timestamps, unique published stage mappings, unique Tatari families in selected boards,
 chapter bounds, supported grouping and each reviewed deployed count
 (15 by default; source screenshots sometimes deploy fewer units). Gaps are
 recorded in generated `unavailable_stages`; no missing formation is invented.

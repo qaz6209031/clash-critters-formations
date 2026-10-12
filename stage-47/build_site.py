@@ -174,6 +174,12 @@ def build() -> None:
                 unit["confidence"] = reviewed["unit_confidence"]
                 unit["tier_assignment_basis"] = reviewed["tier_assignment_basis"]
         assert len(lineup) == reviewed.get("deployed_count", 15), source["id"]
+        if selected:
+            family_counts = Counter(unit["family_id"] for unit in lineup)
+            duplicate_families = [family for family, count in family_counts.items() if count > 1]
+            assert not duplicate_families, (
+                f'{source["id"]}: chapter {chapter} repeats Tatari families: {duplicate_families}. '
+                "Recheck the original image before publishing.")
         signature = json.dumps([(u["position"], u["form_id"], u["variant"])
                                 for u in lineup], separators=(",", ":"))
         formations.append({
@@ -187,7 +193,7 @@ def build() -> None:
             "source_server_id": "1343763804349267989",
             "source_thread_id": source.get("channel_id") or source["source_message_url"].split("/")[-2],
             "source_thread": source.get("source_thread", "Beating Zobos In Public (F2P Journey). Chapter: 41 42 43 44 45 46 47 48 49 50"),
-            "source_type": "mixed",
+            "source_type": reviewed.get("source_type", "mixed"),
             "discord_display_name": source["display_name"],
             "discord_username": source.get("discord_username"),
             "credited_player_name": credit,
@@ -229,6 +235,8 @@ def build() -> None:
             formations[-1]["caption_stage_numbers_original"] = reviewed["caption_stage_numbers_original"]
         if "source_image_number" in reviewed:
             formations[-1]["source_image_number"] = reviewed["source_image_number"]
+        if "extraction_corrections" in reviewed:
+            formations[-1]["extraction_corrections"] = reviewed["extraction_corrections"]
         if "board_source_message_id" in reviewed:
             formations[-1]["board_source_message_id"] = board_source["id"]
             formations[-1]["board_source_message_url"] = board_source["source_message_url"]
@@ -325,7 +333,8 @@ def build() -> None:
     }
     dataset = {
         "schema_version": "1.12",
-        "collected_at": "2026-10-09",
+        "collected_at": "2026-10-12",
+        "feedback_review": "October 12: add Glorp’s confirmed 5-70 clear at level 112; select TextOffender’s confirmed 13-30 clear at level 229, dojo 33322; correct 23 source-image transcriptions covering 65 stages. Selected boards must have unique Tatari families. Corrections retain source IDs, extraction revisions and cell history. Previous source claims remain preserved; gameplay outcomes are author-reported.",
         "collection_method": "Authenticated Discord website, read-only browser inspection and attachment downloads.",
         "catalog_reference": {
             "url": CATALOG["source_url"],

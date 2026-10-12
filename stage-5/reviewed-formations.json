@@ -1353,5 +1353,72 @@
     "selected_for_website": true,
     "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived.",
     "source_image_number": 2
+  },
+  {
+    "source_message_id": "1557466674788302929",
+    "stage_start": 70,
+    "stage_end": 70,
+    "caption_stage_numbers": [
+      70
+    ],
+    "website_stage_numbers": [
+      70
+    ],
+    "screenshot_displayed_stage": null,
+    "screenshot_enemy_level": null,
+    "tatari_level": 112,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level is readable on inventory cards in this source screenshot; enemy level is separate.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "joeyo",
+        null,
+        null
+      ],
+      [
+        "manteeny",
+        null,
+        "ringtail",
+        "blowfin",
+        "kittazap"
+      ],
+      [
+        "tindercub",
+        "waddledo",
+        "humbug",
+        null,
+        null
+      ],
+      [
+        "pearpair",
+        "capypapa",
+        "shardsnail",
+        null,
+        "frugatoad"
+      ],
+      [
+        null,
+        "droppit",
+        null,
+        "firefox",
+        "fluffle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells matched visually to the catalog. Stage-specific thread is titled Stuck on 5-70. The player posts this solution image followed two seconds later by Solved; both original and confirmation are after the date cutoff. Stage header is cropped, so screenshot_displayed_stage remains null.",
+    "stage_assignment_basis": "Stage-specific thread is titled Stuck on 5-70. The player posts this solution image followed two seconds later by Solved; both original and confirmation are after the date cutoff. Stage header is cropped, so screenshot_displayed_stage remains null.",
+    "selected_for_website": true,
+    "selection_reason": "Verified author-reported clear selected during October 12 website feedback review; not independently tested in game.",
+    "supporting_message_ids": [
+      "1557466684263104654"
+    ],
+    "source_type": "image"
   }
 ]

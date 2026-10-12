@@ -184,7 +184,7 @@
       ],
       [
         "stalkerix",
-        "blitzmane",
+        "electroar",
         "swaystroll",
         "lollama",
         "buzzbeak"
@@ -198,7 +198,7 @@
       ],
       [
         "frugagon",
-        "stoodbeak",
+        "sparkdoe:glitter",
         "frostique",
         "azurion",
         "nimbuzzy"
@@ -213,7 +213,7 @@
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
     "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
@@ -225,6 +225,27 @@
     ],
     "website_stage_numbers": [
       10
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 2,
+            "column": 2,
+            "before": "blitzmane",
+            "after": "electroar"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "stoodbeak",
+            "after": "sparkdoe:glitter"
+          }
+        ]
+      }
     ]
   },
   {
@@ -808,7 +829,7 @@
     "notes": "Exact visible forms and positions were visually compared with the local planner catalog, including Pyrohound T2, Frostique T3 and the distinct monkey forms. Empty cells are preserved. The author explicitly marks this range inclusive; screenshot stage and enemy level are retained separately. Only previously unavailable stages are selected.",
     "stage_assignment_basis": "The author explicitly captions this inclusive cleared range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
     "selected_for_website": true,
-    "selection_reason": "Fill an unavailable chapter 13 stage using a date-eligible original reference with its own readable player level; preserve all existing selections.",
+    "selection_reason": "Fill an unavailable chapter 13 stage using a date-eligible original reference with its own readable player level; preserve all existing selections. Stage 13-30 now uses TextOffender’s separately confirmed level-229 clear after left-lane feedback; this original inclusive claim is preserved.",
     "caption_stage_numbers_original": [
       30,
       31,
@@ -818,7 +839,6 @@
       35
     ],
     "website_stage_numbers": [
-      30,
       31,
       32,
       33,
@@ -1984,5 +2004,69 @@
     "website_stage_numbers": [
       80
     ]
+  },
+  {
+    "source_message_id": "1550605614625984582",
+    "stage_start": 30,
+    "stage_end": 30,
+    "caption_stage_numbers": [
+      30
+    ],
+    "website_stage_numbers": [
+      30
+    ],
+    "screenshot_displayed_stage": "13-31",
+    "screenshot_enemy_level": 339,
+    "tatari_level": 229,
+    "tatari_level_source": "message_text",
+    "tatari_level_basis": "Level 229 is explicit in the own caption and visible in the same screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "boldclaw",
+        "electroar",
+        "cobbledon",
+        "swaystroll",
+        "kitjitsu"
+      ],
+      [
+        "bubbit",
+        "cheerlet",
+        "turtuff",
+        "firecoil",
+        "firefox"
+      ],
+      [
+        "sparkdoe",
+        "azurion",
+        "rizzler",
+        "frostique",
+        "frugagon"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Exact visible forms and occupied cells matched visually to the catalog. Own caption explicitly says 13-30 completed lvl 229 dojo 33322; screenshot shows 13-31 after the clear and player inventory level 229. This is a separate author’s alternative, not a claimed update by the previous author.",
+    "stage_assignment_basis": "Own caption explicitly says 13-30 completed lvl 229 dojo 33322; screenshot shows 13-31 after the clear and player inventory level 229. This is a separate author’s alternative, not a claimed update by the previous author.",
+    "selected_for_website": true,
+    "selection_reason": "Verified author-reported clear selected during October 12 website feedback review; not independently tested in game. Front-left Boldclaw follows the confirmed clear image; previous 13-31 through 13-35 selections are retained.",
+    "tatari_level_quote": "lvl 229"
   }
 ]

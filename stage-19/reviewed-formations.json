@@ -120,16 +120,16 @@
         "humbleetle"
       ],
       [
-        "bubbit",
+        "clucky",
         "tideon",
-        "waveflutter",
+        "ripplewing",
         "azurion",
         "rockwu"
       ]
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
     "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
@@ -140,6 +140,27 @@
     "unit_confidence": 0.95,
     "website_stage_numbers": [
       2
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 5,
+            "column": 1,
+            "before": "bubbit",
+            "after": "clucky"
+          },
+          {
+            "row": 5,
+            "column": 3,
+            "before": "waveflutter",
+            "after": "ripplewing"
+          }
+        ]
+      }
     ]
   },
   {
@@ -189,16 +210,16 @@
         "humbleetle"
       ],
       [
-        "bubbit",
+        "clucky",
         "tideon",
-        "waveflutter",
+        "ripplewing",
         "azurion",
         "mudrump"
       ]
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
     "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
@@ -209,6 +230,27 @@
     "unit_confidence": 0.95,
     "website_stage_numbers": [
       3
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 5,
+            "column": 1,
+            "before": "bubbit",
+            "after": "clucky"
+          },
+          {
+            "row": 5,
+            "column": 3,
+            "before": "waveflutter",
+            "after": "ripplewing"
+          }
+        ]
+      }
     ]
   },
   {
@@ -466,13 +508,13 @@
         "capypapa",
         null,
         "firefox",
-        "bubbit",
+        "clucky",
         null
       ],
       [
         "frostique",
         "azurion",
-        "waveflutter",
+        "ripplewing",
         "tideon",
         "sparkdoe"
       ],
@@ -486,7 +528,7 @@
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
     "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
@@ -503,6 +545,27 @@
       11,
       12,
       13
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 3,
+            "column": 4,
+            "before": "bubbit",
+            "after": "clucky"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "waveflutter",
+            "after": "ripplewing"
+          }
+        ]
+      }
     ]
   },
   {
@@ -540,14 +603,14 @@
       ],
       [
         "tideon",
-        "waveflutter",
+        "ripplewing",
         "azurion",
         "cheerlet",
         "turtuff"
       ],
       [
         "frostique",
-        "bubbit",
+        "clucky",
         "synthhog",
         "sparkdoe",
         "rockwu"
@@ -562,7 +625,7 @@
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
     "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
@@ -575,6 +638,27 @@
     "website_stage_numbers": [
       14,
       15
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 4,
+            "column": 2,
+            "before": "bubbit",
+            "after": "clucky"
+          },
+          {
+            "row": 3,
+            "column": 2,
+            "before": "waveflutter",
+            "after": "ripplewing"
+          }
+        ]
+      }
     ]
   },
   {
@@ -609,7 +693,7 @@
         "kitjitsu",
         null,
         null,
-        "bubbit",
+        "clucky",
         "serrabloom"
       ],
       [
@@ -622,7 +706,7 @@
       [
         "sparkrow",
         "tideon",
-        "waveflutter",
+        "ripplewing",
         "azurion",
         "rockwu"
       ],
@@ -636,7 +720,7 @@
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
     "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
@@ -653,6 +737,27 @@
       17,
       18,
       19
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 2,
+            "column": 4,
+            "before": "bubbit",
+            "after": "clucky"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "waveflutter",
+            "after": "ripplewing"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1514,13 +1619,13 @@
       ],
       [
         "azurion",
-        "waveflutter",
+        "ripplewing",
         "tideon",
         "humbleetle",
         null
       ],
       [
-        "bubbit",
+        "clucky",
         "firefox",
         null,
         null,
@@ -1529,7 +1634,7 @@
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot.",
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states “deer is t2, lion and monkey and butterfly are t3”. Catalog normalization uses Sparkdoe T2 and Blitzmane/Rockwu T3, and Waveflutter T3 only when butterfly is explicitly included. Positions and other forms follow the screenshot. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
     "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
@@ -1544,6 +1649,27 @@
       50,
       51,
       52
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 5,
+            "column": 1,
+            "before": "bubbit",
+            "after": "clucky"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "waveflutter",
+            "after": "ripplewing"
+          }
+        ]
+      }
     ]
   },
   {
@@ -1943,9 +2069,9 @@
         "frostique"
       ],
       [
-        "bubbit",
+        "clucky",
         "tideon",
-        "waveflutter",
+        "ripplewing",
         "azurion",
         "capypapa"
       ],
@@ -1966,7 +2092,7 @@
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states Voltfawn is T2 and Zappur, Punchimp, Dewgrub and Ashlarva are T3; these map to Sparkdoe, Blitzmane, Rockwu, Waveflutter and Charflutter in the catalog. Positions and other forms follow the screenshot.",
+    "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Source caption explicitly states Voltfawn is T2 and Zappur, Punchimp, Dewgrub and Ashlarva are T3; these map to Sparkdoe, Blitzmane, Rockwu, Waveflutter and Charflutter in the catalog. Positions and other forms follow the screenshot. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
     "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
@@ -1979,6 +2105,27 @@
     "website_stage_numbers": [
       64,
       65
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 3,
+            "column": 1,
+            "before": "bubbit",
+            "after": "clucky"
+          },
+          {
+            "row": 3,
+            "column": 3,
+            "before": "waveflutter",
+            "after": "ripplewing"
+          }
+        ]
+      }
     ]
   },
   {

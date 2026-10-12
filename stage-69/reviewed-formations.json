@@ -1759,7 +1759,7 @@
       [
         "cribking",
         "cheerspring:glitter",
-        "frostluna",
+        "magnedart",
         "orchitoria",
         "voltverine"
       ],
@@ -1780,7 +1780,7 @@
     ],
     "deployed_count": 15,
     "needs_review": false,
-    "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
+    "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred. Rechecked on October 12, 2026 after website feedback; corrected transcription cells are recorded in extraction_corrections.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
     "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
@@ -1789,6 +1789,21 @@
     ],
     "website_stage_numbers": [
       80
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-12",
+        "basis": "Original source image rechecked after website feedback; catalog forms, variants and occupied cells compared visually.",
+        "cells": [
+          {
+            "row": 3,
+            "column": 3,
+            "before": "frostluna",
+            "after": "magnedart"
+          }
+        ]
+      }
     ]
   }
 ]

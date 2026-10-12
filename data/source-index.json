@@ -23811,5 +23811,41 @@
     "channel_id": "1544426341003431936",
     "attachments": [],
     "local_image_path": null
+  },
+  {
+    "id": "1557466674788302929",
+    "text": "",
+    "display_name": "Glorp",
+    "posted_at": "2026-10-07T18:56:31.601Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1557427333441388595/1557466674788302929",
+    "permalink_method": "Rendered Discord thread route and message ID.",
+    "channel_id": "1557427333441388595",
+    "source_thread": "Stuck on 5-70",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1557466684263104654",
+    "text": "Solved",
+    "display_name": "Glorp",
+    "posted_at": "2026-10-07T18:56:33.860Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1557427333441388595/1557466684263104654",
+    "permalink_method": "Rendered Discord thread route and message ID.",
+    "channel_id": "1557427333441388595",
+    "source_thread": "Stuck on 5-70",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1550605614625984582",
+    "text": "13-30 completed lvl 229 dojo 33322",
+    "display_name": "TextOffender",
+    "posted_at": "2026-09-18T20:33:07.386Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1550605614625984582/1550605614625984582",
+    "permalink_method": "Rendered Discord thread route and message ID.",
+    "channel_id": "1550605614625984582",
+    "source_thread": "13 30",
+    "attachments": [],
+    "local_image_path": null
   }
 ]
