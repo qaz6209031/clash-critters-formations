@@ -22,7 +22,6 @@
     body { margin: 0; }
     [hidden] { display: none !important; }
     .page-header { position: sticky; top: 0; z-index: 2; max-width: 1440px; margin: 0 auto; padding: 24px 24px 16px; background: #f5f7f0; }
-    h1 { margin: 0 0 18px; font-size: clamp(22px, 4vw, 30px); line-height: 1.2; letter-spacing: -.6px; }
     .header-controls { display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
     .chapter-picker { display: flex; align-items: center; gap: 12px; }
     .chapter-picker label { font-size: 15px; font-weight: 650; }
@@ -35,7 +34,6 @@
     .donation-link:hover { background: #edf2e6; border-color: #477c38; }
     .donation-link:focus-visible { outline: 3px solid #477c38; outline-offset: 3px; }
     main { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 22px; max-width: 1440px; margin: 0 auto; padding: 24px 24px 48px; }
-    .chapter-title { grid-column: 1 / -1; margin: 0; padding: 2px 0 0; font-size: 18px; font-weight: 650; color: #536b49; scroll-margin-top: 150px; }
     #chapter-cards { display: contents; }
     .empty-chapter { grid-column: 1 / -1; margin: 0; color: #687762; line-height: 1.5; }
     .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
@@ -54,12 +52,11 @@
     .cell:nth-child(even) { background: #e0eac7; }
     .cell img { display: block; width: 100%; height: 100%; object-fit: contain; user-select: none; }
     .occupied:hover { background: #f4f7e6; }
-    @media (min-width: 851px) { .page-header, main { width: 90%; } h1 { font-size: clamp(27px, 2.07vw, 32.4px); } h2 { font-size: clamp(18px, 1.35vw, 23.4px); } .chapter-title { font-size: 18px; } .level, .poster { font-size: 12.6px; } }
+    @media (min-width: 851px) { .page-header, main { width: 90%; } h2 { font-size: clamp(18px, 1.35vw, 23.4px); } .level, .poster { font-size: 12.6px; } }
     @media (max-width: 850px) { main { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 750px; gap: 18px; } .page-header { max-width: 750px; } }
     @media (max-width: 520px) {
       main { grid-template-columns: 1fr; max-width: 420px; padding: 20px 12px 32px; gap: 18px; }
       .page-header { max-width: 420px; padding: 14px 12px 10px; }
-      h1 { margin-bottom: 12px; }
       .header-controls { flex-wrap: nowrap; gap: 10px; }
       .chapter-picker { flex: 1; min-width: 0; gap: 8px; }
       .chapter-picker label { font-size: 14px; }
@@ -68,7 +65,6 @@
       .donation-label, .donation-text-desktop { display: none; }
       .donation-text-mobile { display: inline; }
       .donation-link { min-height: 36px; padding: 6px 9px; font-size: 12px; border-radius: 8px; }
-      .chapter-title { scroll-margin-top: 160px; }
       h2 { font-size: 18px; }
       h2 a { padding-left: 14px; }
       .level { margin-right: 10px; }
@@ -80,7 +76,7 @@
 </head>
 <body>
   <header class="page-header">
-    <h1>Clash of Critters Formations</h1>
+    <h1 class="sr-only">Clash of Critters Formations</h1>
     <div class="header-controls">
       <div class="chapter-picker">
         <label for="chapter-select">Chapter</label>
@@ -94,7 +90,7 @@
     <p id="chapter-status" class="sr-only" role="status" aria-live="polite"></p>
   </header>
   <main id="formations" aria-label="Stage formations">
-    <h2 class="chapter-title" id="chapter-heading"></h2>
+    <h2 class="sr-only" id="chapter-heading"></h2>
     <div id="chapter-cards"></div>
     <p id="empty-chapter" class="empty-chapter" hidden></p>
   </main>
