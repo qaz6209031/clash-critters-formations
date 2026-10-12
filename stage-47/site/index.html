@@ -30,6 +30,7 @@
     select:focus-visible { outline: 3px solid #477c38; outline-offset: 3px; }
     .donation-links { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
     .donation-label { font-size: 13px; color: #536b49; }
+    .donation-text-mobile { display: none; }
     .donation-link { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 9px 12px; border: 1px solid #b9c8aa; border-radius: 10px; background: #fff; color: #486342; font-size: 14px; font-weight: 650; text-decoration: none; white-space: nowrap; }
     .donation-link:hover { background: #edf2e6; border-color: #477c38; }
     .donation-link:focus-visible { outline: 3px solid #477c38; outline-offset: 3px; }
@@ -55,7 +56,25 @@
     .occupied:hover { background: #f4f7e6; }
     @media (min-width: 851px) { .page-header, main { width: 90%; } h1 { font-size: clamp(27px, 2.07vw, 32.4px); } h2 { font-size: clamp(18px, 1.35vw, 23.4px); } .chapter-title { font-size: 18px; } .level, .poster { font-size: 12.6px; } }
     @media (max-width: 850px) { main { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 750px; gap: 18px; } .page-header { max-width: 750px; } }
-    @media (max-width: 520px) { main { grid-template-columns: 1fr; max-width: 420px; padding: 20px 12px 32px; gap: 18px; } .page-header { max-width: 420px; padding: 20px 12px 14px; } .chapter-picker { flex: 1 1 100%; } .chapter-title { scroll-margin-top: 220px; } h2 { font-size: 18px; } h2 a { padding-left: 14px; } .level { margin-right: 10px; } .poster { margin-left: 14px; } .board { padding: 7px; gap: 2px; } select { flex: 1; } }
+    @media (max-width: 520px) {
+      main { grid-template-columns: 1fr; max-width: 420px; padding: 20px 12px 32px; gap: 18px; }
+      .page-header { max-width: 420px; padding: 14px 12px 10px; }
+      h1 { margin-bottom: 12px; }
+      .header-controls { flex-wrap: nowrap; gap: 10px; }
+      .chapter-picker { flex: 1; min-width: 0; gap: 8px; }
+      .chapter-picker label { font-size: 14px; }
+      select { flex: 1; min-width: 0; width: 100%; padding-left: 10px; padding-right: 28px; font-size: 14px; }
+      .donation-links { flex-shrink: 0; }
+      .donation-label, .donation-text-desktop { display: none; }
+      .donation-text-mobile { display: inline; }
+      .donation-link { min-height: 36px; padding: 6px 9px; font-size: 12px; border-radius: 8px; }
+      .chapter-title { scroll-margin-top: 160px; }
+      h2 { font-size: 18px; }
+      h2 a { padding-left: 14px; }
+      .level { margin-right: 10px; }
+      .poster { margin-left: 14px; }
+      .board { padding: 7px; gap: 2px; }
+    }
     @media print { :root { background: white; } .header-controls { display: none; } main { width: auto; max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
   </style>
 </head>
@@ -69,7 +88,7 @@
       </div>
       <div class="donation-links" role="group" aria-label="Support this guide">
         <span class="donation-label">Finding these formations helpful?</span>
-        <a class="donation-link" href="https://ko-fi.com/k8624" target="_blank" rel="noopener noreferrer" aria-label="Buy me a coffee on Ko-fi (opens in a new tab)">Buy me a coffee ☕</a>
+        <a class="donation-link" href="https://ko-fi.com/k8624" target="_blank" rel="noopener noreferrer" aria-label="Buy me a coffee on Ko-fi (opens in a new tab)"><span class="donation-text-desktop">Buy me a coffee ☕</span><span class="donation-text-mobile">☕ Donate</span></a>
       </div>
     </div>
     <p id="chapter-status" class="sr-only" role="status" aria-live="polite"></p>
