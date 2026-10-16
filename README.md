@@ -5,9 +5,9 @@
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
 posters and exact 5×5 formations. The published site covers **5464 stages**
-(chapters 1–79, with unsupported chapters empty), grouped into **1955 formation cards** from **1724 selected
-Discord source posts** (1731 chapter-specific records). All **1991 reviewed
-formation records** are preserved; the public index contains 1988 source and
+(chapters 1–79, with unsupported chapters empty), grouped into **1959 formation cards** from **1723 selected
+Discord source posts** (1730 chapter-specific records). All **2011 reviewed
+formation records** are preserved; the public index contains 2008 source and
 supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -20,9 +20,20 @@ Chapters 1–9 contain **248 stages** from 86 visually reviewed records. Chapter
 
 October 12 feedback review adds Glorp’s confirmed **5-70 clear at level 112** and selects TextOffender’s **13-30 clear at level 229, dojo 33322**, with Boldclaw in the front-left occupied cell. The previous 13-30 source claim is preserved and still supplies 13-31–35. Original-image checks correct 23 records covering 65 stages, including Clucky mistaken for Bubbit at 16-80 and 17-1–5, repeated families, wrong butterfly tiers, and a misplaced deer. Each corrected record has an extraction revision and explicit cell corrections. Every selected board now passes a unique-family check; this catches transcription errors, not gameplay success. Historical chapter 30 availability and 27-80 reports already had fixes.
 
+October 16 selects **Casey's Lv.1048 formations for 51-11 through 51-80**
+from 20 original October 11–12 posts. Every board, exact form, glitter variant
+and level was visually reviewed. All 24 original chapter 51 Pika records are
+preserved, with explicit website replacement relationships; 51-1–10 and all
+other stage selections are unchanged. Casey's guide changes boards inside
+some regular blocks, so those captioned splits are kept instead of extending
+one board over unsupported stages. The 51-50/51-51 record retains a coverage
+review flag: its screenshot displays 51-51, while its explicit caption covers
+both stages and the following post starts at 51-52. Stage 51-51 relies on
+Casey's caption rather than a completion screenshot; its units and level are clear.
+
 For **chapters 1–10 only**, unreadable or unstated player levels are allowed:
 `tatari_level: null`, `tatari_level_source: "unknown"`, displayed as **Lv. Unknown**.
-The expansion includes 66 unknown-level stages. Above chapter 10, the same-source screenshot or caption must provide a numeric player level. Enemy levels and adjacent posts never supply a missing player level. Help requests and older forwarded originals do not establish a qualifying clear. A caption range endpoint matching the displayed stage is excluded as uncleared.
+The expansion includes 66 unknown-level stages. Above chapter 10, the same-source screenshot or caption must provide a numeric player level. Enemy levels and adjacent posts never supply a missing player level. Help requests and older forwarded originals do not establish a qualifying clear. Pika-style caption endpoints matching the displayed next stage are excluded as uncleared. Casey’s explicitly inclusive captions are preserved, with a coverage-review flag where the screenshot alone does not establish completion.
 
 The date audit excludes **258 older submissions**. On October 8, newer visually
 reviewed references restored all **861 previously hidden stages**. Most use
