@@ -5,9 +5,9 @@
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
 posters and exact 5×5 formations. The published site covers **5464 stages**
-(chapters 1–79, with unsupported chapters empty), grouped into **1959 formation cards** from **1723 selected
-Discord source posts** (1730 chapter-specific records). All **2011 reviewed
-formation records** are preserved; the public index contains 2008 source and
+(chapters 1–79, with unsupported chapters empty), grouped into **1993 formation cards** from **1739 selected
+Discord source posts** (1750 chapter-specific records). All **2123 reviewed
+formation records** are preserved; the public index contains 2116 source and
 supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -23,13 +23,24 @@ October 12 feedback review adds Glorp’s confirmed **5-70 clear at level 112** 
 October 16 selects **Casey's Lv.1048 formations for 51-11 through 51-80**
 from 20 original October 11–12 posts. Every board, exact form, glitter variant
 and level was visually reviewed. All 24 original chapter 51 Pika records are
-preserved, with explicit website replacement relationships; 51-1–10 and all
-other stage selections are unchanged. Casey's guide changes boards inside
+preserved, with explicit website replacement relationships; 51-1–10 are
+unchanged. Casey's guide changes boards inside
 some regular blocks, so those captioned splits are kept instead of extending
 one board over unsupported stages. The 51-50/51-51 record retains a coverage
 review flag: its screenshot displays 51-51, while its explicit caption covers
 both stages and the following post starts at 51-52. Stage 51-51 relies on
 Casey's caption rather than a completion screenshot; its units and level are clear.
+
+October 16 also selects **318 lower-level Casey stages across chapters 52–55**,
+from 109 visually reviewed posts (112 chapter-specific records). His observed
+levels are 1048–1059 in chapter 52, 1059–1099 in chapter 53, 1099–1116 in
+chapter 54 and 1116–1124 in chapter 55. Every replacement is lower than its
+previous 66pika reference, and all 93 prior Pika records remain preserved.
+**53-21 and 53-22 keep Pika** because no explicit Casey caption covers them.
+Inclusive caption ranges that exceed visible completion retain coverage-review
+notes; boards and levels are clear. No Casey chapter 56 or later reference was
+found at the thread’s present end. All other boards, levels and source selections
+remain unchanged. The shared 51-80/52-1–4 source now has chapter-qualified IDs.
 
 For **chapters 1–10 only**, unreadable or unstated player levels are allowed:
 `tatari_level: null`, `tatari_level_source: "unknown"`, displayed as **Lv. Unknown**.

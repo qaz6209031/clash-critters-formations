@@ -1,9 +1,19 @@
 # Chapter 55
 
-Covers 55-1 through 55-80 using 24 visually reviewed Discord submissions.
-All levels are explicitly typed in their source posts. Original screenshots
-and browser captures remain local; publication metadata is in
-`../data/source-index.json`.
+October 16, 2026: 27 visually reviewed Casey records supply 80 stages
+at supported player levels 1116–1124, each below the previous 66pika level.
+All 24 prior Pika submissions remain preserved with website replacement
+relationships. All 80 stages use Casey.
 
-Boards preserve exact catalog forms, glitter variants and empty cells.
-The page groups stages 1–4, 5–9 and each boss separately per decade.
+Exact 5×5 cells, empty positions, forms and glitter variants were visually
+matched to the catalog. Player levels come from the same source’s inventory
+image or explicit caption. Original and supporting dates must be after
+August 27, 2026 America/Los_Angeles.
+
+Casey’s inclusive caption ranges sometimes exceed what the single screenshot
+visibly documents as completed. Those records retain coverage-review notes;
+no extra stage is inferred from the displayed next stage. Bosses stay separate
+and shorter captioned formation changes remain separate inside regular blocks.
+
+Original screenshots and browser captures remain local; publication metadata
+and traceable Discord permalinks are in `../data/source-index.json`.

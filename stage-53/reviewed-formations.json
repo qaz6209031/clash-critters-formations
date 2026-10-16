@@ -50,10 +50,16 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 13 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 13,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559303933867073666",
+      "1559305716911575100"
+    ]
   },
   {
     "source_message_id": "1544574371354382386",
@@ -106,10 +112,15 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 13 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 13,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559306753496064102"
+    ]
   },
   {
     "source_message_id": "1544578043366871040",
@@ -162,10 +173,21 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Author explicitly states this 53-10 lineup can work until 53-20. One formation is retained across the intervening blocks, with boss cards separated."
+    "stage_assignment_basis": "Author explicitly states this 53-10 lineup can work until 53-20. One formation is retained across the intervening blocks, with boss cards separated.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559310037363593296",
+      "1559311242907226256",
+      "1559314409933766748",
+      "1559314451377823764",
+      "1559501575238455298",
+      "1559501611649343519",
+      "1559502474812063744"
+    ]
   },
   {
     "source_message_id": "1544614189275025438",
@@ -218,10 +240,18 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [
+      21,
+      22
+    ],
+    "selected_for_website": true,
+    "replaced_by_website_source_message_ids": [
+      "1559504071826870335"
+    ]
   },
   {
     "source_message_id": "1544615257555738644",
@@ -274,10 +304,15 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559535997962944562"
+    ]
   },
   {
     "source_message_id": "1544616397072769035",
@@ -330,9 +365,14 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559927723164704768"
+    ]
   },
   {
     "source_message_id": "1544617249053220867",
@@ -385,9 +425,15 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559927723164704768",
+      "1559935841378377760"
+    ]
   },
   {
     "source_message_id": "1544623538286100561",
@@ -440,10 +486,15 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559982239385649192"
+    ]
   },
   {
     "source_message_id": "1544624515391299635",
@@ -496,10 +547,15 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559983475090522223"
+    ]
   },
   {
     "source_message_id": "1544625448237932544",
@@ -552,10 +608,15 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559984111916023871"
+    ]
   },
   {
     "source_message_id": "1544626639340576859",
@@ -608,10 +669,15 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1559985435533508710"
+    ]
   },
   {
     "source_message_id": "1544628425803702312",
@@ -664,9 +730,14 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560000415054168137"
+    ]
   },
   {
     "source_message_id": "1544631435900493835",
@@ -719,10 +790,16 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560003672820424734",
+      "1560004116460077197"
+    ]
   },
   {
     "source_message_id": "1544691590189027418",
@@ -775,10 +852,15 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560005696215580783"
+    ]
   },
   {
     "source_message_id": "1544693238521139301",
@@ -831,9 +913,14 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560144580702245005"
+    ]
   },
   {
     "source_message_id": "1544701349076144278",
@@ -886,9 +973,15 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560144580702245005",
+      "1560147275097972779"
+    ]
   },
   {
     "source_message_id": "1544704214909849621",
@@ -941,10 +1034,15 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560148708622860418"
+    ]
   },
   {
     "source_message_id": "1544728811491434517",
@@ -997,9 +1095,14 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560151187653787659"
+    ]
   },
   {
     "source_message_id": "1544740158950215751",
@@ -1052,9 +1155,15 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560151187653787659",
+      "1560152569131565106"
+    ]
   },
   {
     "source_message_id": "1544742079337336863",
@@ -1107,10 +1216,15 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560154376901894164"
+    ]
   },
   {
     "source_message_id": "1544744861373042770",
@@ -1163,9 +1277,2011 @@
     ],
     "needs_review": false,
     "notes": "Screenshot deploys 14 units; empty cells preserved.",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
+    "selection_reason": "October 16, 2026: lower-level Casey references replace overlapping website stages. Original board, level, source and caption remain preserved; any unsupported replacement gaps retain their prior selection.",
     "deployed_count": 14,
     "level_from_original_post_clear_screenshot": false,
-    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate."
+    "stage_assignment_basis": "Source caption and reported clear, with the screenshot normally showing the next stage. A shared range endpoint is assigned to the following captioned formation; bosses remain separate.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1560155903204925518"
+    ]
+  },
+  {
+    "source_message_id": "1559303933867073666",
+    "screenshot_displayed_stage": "53-1",
+    "screenshot_enemy_level": 1396,
+    "tatari_level": 1059,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "pyrodaemon",
+        "armorjaw",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "seaswirl",
+        "flarevix",
+        "solaflora",
+        "clangnaga",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "stage_start": 1,
+    "stage_end": 2,
+    "caption_stage_numbers": [
+      1,
+      2
+    ],
+    "website_stage_numbers": [
+      1,
+      2
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1059 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Later stages in this inclusive caption rely on Casey's explicit range claim; the screenshot alone does not document every completion. Units and player level are clear.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544573518643994655"
+    ],
+    "tatari_level_quote": "Level 1059"
+  },
+  {
+    "source_message_id": "1559927723164704768",
+    "screenshot_displayed_stage": "53-31",
+    "screenshot_enemy_level": 1406,
+    "tatari_level": 1065,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "serrabloom"
+      ],
+      [
+        null,
+        null,
+        null,
+        "cheerspring",
+        "pyrodaemon"
+      ],
+      [
+        "voltverine",
+        "blitzmane",
+        "umbraveil:glitter",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        "nekowatt",
+        "charflutter",
+        "voltmare",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 30,
+    "stage_end": 33,
+    "caption_stage_numbers": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "website_stage_numbers": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Later stages in this inclusive caption rely on Casey's explicit range claim; the screenshot alone does not document every completion. Units and player level are clear.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544616397072769035",
+      "1544617249053220867"
+    ],
+    "tatari_level_quote": "Level 1065"
+  },
+  {
+    "source_message_id": "1559305716911575100",
+    "screenshot_displayed_stage": "53-5",
+    "screenshot_enemy_level": 1398,
+    "tatari_level": 1059,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "pyrodaemon",
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        "dreadclaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "silversear",
+        "solaflora",
+        "umbraveil:glitter",
+        "nekowatt",
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "stage_start": 3,
+    "stage_end": 4,
+    "caption_stage_numbers": [
+      3,
+      4
+    ],
+    "website_stage_numbers": [
+      3,
+      4
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1059 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544573518643994655"
+    ]
+  },
+  {
+    "source_message_id": "1559306753496064102",
+    "screenshot_displayed_stage": "53-10",
+    "screenshot_enemy_level": 1399,
+    "tatari_level": 1059,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        null,
+        "pyrodaemon",
+        "serrabloom",
+        "voltverine"
+      ],
+      [
+        "armorjaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "nekowatt"
+      ],
+      [
+        null,
+        "silversear",
+        "umbraveil:glitter",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "stage_start": 5,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "website_stage_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1059 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544574371354382386"
+    ]
+  },
+  {
+    "source_message_id": "1559310037363593296",
+    "screenshot_displayed_stage": "53-11",
+    "screenshot_enemy_level": 1400,
+    "tatari_level": 1059,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "blitzmane",
+        "dreadclaw",
+        "clangnaga",
+        null
+      ],
+      [
+        null,
+        "hyphoria",
+        "cheerspring",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "umbraveil:glitter",
+        "seaswirl",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "stage_start": 10,
+    "stage_end": 12,
+    "caption_stage_numbers": [
+      10,
+      11,
+      12
+    ],
+    "website_stage_numbers": [
+      10,
+      11,
+      12
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1059 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Later stages in this inclusive caption rely on Casey's explicit range claim; the screenshot alone does not document every completion. Units and player level are clear.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544578043366871040"
+    ],
+    "tatari_level_quote": "Level 1059"
+  },
+  {
+    "source_message_id": "1559311242907226256",
+    "screenshot_displayed_stage": "53-15",
+    "screenshot_enemy_level": 1401,
+    "tatari_level": 1059,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        null,
+        "rockwu",
+        null
+      ],
+      [
+        "armorjaw",
+        "hyphoria",
+        "cheerspring",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "umbraveil:glitter",
+        "frostique",
+        "clangnaga",
+        "silversear"
+      ],
+      [
+        null,
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "stage_start": 13,
+    "stage_end": 14,
+    "caption_stage_numbers": [
+      13,
+      14
+    ],
+    "website_stage_numbers": [
+      13,
+      14
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1059 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544578043366871040"
+    ]
+  },
+  {
+    "source_message_id": "1559314409933766748",
+    "screenshot_displayed_stage": "53-16",
+    "screenshot_enemy_level": 1401,
+    "tatari_level": 1059,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "voltverine",
+        "pearpair",
+        "serrabloom",
+        "armorjaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        "silversear",
+        "solaflora",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "stage_start": 15,
+    "stage_end": 15,
+    "caption_stage_numbers": [
+      15
+    ],
+    "website_stage_numbers": [
+      15
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1059 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544578043366871040"
+    ]
+  },
+  {
+    "source_message_id": "1559314451377823764",
+    "screenshot_displayed_stage": "53-17",
+    "screenshot_enemy_level": 1402,
+    "tatari_level": 1059,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        "pyrodaemon",
+        "serrabloom",
+        "armorjaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        null,
+        "solaflora",
+        "rockwu",
+        "silversear"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "stage_start": 16,
+    "stage_end": 16,
+    "caption_stage_numbers": [
+      16
+    ],
+    "website_stage_numbers": [
+      16
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1059 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544578043366871040"
+    ]
+  },
+  {
+    "source_message_id": "1559501575238455298",
+    "screenshot_displayed_stage": "53-18",
+    "screenshot_enemy_level": 1402,
+    "tatari_level": 1061,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        "rockwu",
+        "serrabloom",
+        "armorjaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        null,
+        "umbraveil:glitter",
+        "solaflora",
+        "silversear"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "stage_start": 17,
+    "stage_end": 18,
+    "caption_stage_numbers": [
+      17,
+      18
+    ],
+    "website_stage_numbers": [
+      17,
+      18
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1061 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Later stages in this inclusive caption rely on Casey's explicit range claim; the screenshot alone does not document every completion. Units and player level are clear.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544578043366871040"
+    ],
+    "tatari_level_quote": "Level 1061"
+  },
+  {
+    "source_message_id": "1559501611649343519",
+    "screenshot_displayed_stage": "53-20",
+    "screenshot_enemy_level": 1403,
+    "tatari_level": 1061,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        "hyphoria",
+        "serrabloom",
+        "armorjaw"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "rockwu",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "umbraveil:glitter",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "stage_start": 19,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      19
+    ],
+    "website_stage_numbers": [
+      19
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1061 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544578043366871040"
+    ]
+  },
+  {
+    "source_message_id": "1559502474812063744",
+    "screenshot_displayed_stage": "53-21",
+    "screenshot_enemy_level": 1403,
+    "tatari_level": 1061,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "pyrodaemon",
+        "serrabloom",
+        "blitzmane",
+        "voltverine"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "silversear",
+        null,
+        "umbraveil:glitter",
+        "solaflora",
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 20,
+    "stage_end": 20,
+    "caption_stage_numbers": [
+      20
+    ],
+    "website_stage_numbers": [
+      20
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1061 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544578043366871040"
+    ],
+    "tatari_level_quote": "Level 1061"
+  },
+  {
+    "source_message_id": "1559504071826870335",
+    "screenshot_displayed_stage": "53-25",
+    "screenshot_enemy_level": 1404,
+    "tatari_level": 1061,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "pyrodaemon",
+        "serrabloom",
+        "blitzmane",
+        "voltverine"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "rockwu"
+      ],
+      [
+        "silversear",
+        null,
+        "umbraveil:glitter",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 23,
+    "stage_end": 24,
+    "caption_stage_numbers": [
+      23,
+      24
+    ],
+    "website_stage_numbers": [
+      23,
+      24
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1061 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544614189275025438"
+    ]
+  },
+  {
+    "source_message_id": "1559535997962944562",
+    "screenshot_displayed_stage": "53-30",
+    "screenshot_enemy_level": 1406,
+    "tatari_level": 1061,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        "serrabloom",
+        "pyrodaemon",
+        "blitzmane",
+        "voltverine",
+        "armorjaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "solaflora",
+        null,
+        "umbraveil:glitter",
+        "rockwu",
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 25,
+    "stage_end": 29,
+    "caption_stage_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "website_stage_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1061 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544615257555738644"
+    ]
+  },
+  {
+    "source_message_id": "1559935841378377760",
+    "screenshot_displayed_stage": "53-35",
+    "screenshot_enemy_level": 1408,
+    "tatari_level": 1065,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "pyrodaemon"
+      ],
+      [
+        "voltverine",
+        "lickflicker",
+        "umbraveil:glitter",
+        "blitzmane",
+        "cheerspring"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "nekowatt",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora"
+      ]
+    ],
+    "stage_start": 34,
+    "stage_end": 34,
+    "caption_stage_numbers": [
+      34
+    ],
+    "website_stage_numbers": [
+      34
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544617249053220867"
+    ]
+  },
+  {
+    "source_message_id": "1559982239385649192",
+    "screenshot_displayed_stage": "53-40",
+    "screenshot_enemy_level": 1409,
+    "tatari_level": 1065,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "pyrodaemon",
+        "rockwu",
+        "dreadclaw",
+        "blitzmane"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "solaflora",
+        null,
+        "umbraveil:glitter",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 35,
+    "stage_end": 39,
+    "caption_stage_numbers": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "website_stage_numbers": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544623538286100561"
+    ]
+  },
+  {
+    "source_message_id": "1559983475090522223",
+    "screenshot_displayed_stage": "53-41",
+    "screenshot_enemy_level": 1410,
+    "tatari_level": 1065,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        "blitzmane",
+        "voltverine",
+        "umbraveil:glitter",
+        "serrabloom"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "rockwu"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "voltmare",
+        null,
+        null
+      ]
+    ],
+    "stage_start": 40,
+    "stage_end": 40,
+    "caption_stage_numbers": [
+      40
+    ],
+    "website_stage_numbers": [
+      40
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544624515391299635"
+    ],
+    "tatari_level_quote": "Level 1065"
+  },
+  {
+    "source_message_id": "1559984111916023871",
+    "screenshot_displayed_stage": "53-45",
+    "screenshot_enemy_level": 1411,
+    "tatari_level": 1065,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        "blitzmane",
+        "voltverine",
+        "pyrodaemon",
+        "serrabloom"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "rockwu"
+      ],
+      [
+        null,
+        "solaflora",
+        "umbraveil:glitter",
+        null,
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ]
+    ],
+    "stage_start": 41,
+    "stage_end": 44,
+    "caption_stage_numbers": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "website_stage_numbers": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544625448237932544"
+    ]
+  },
+  {
+    "source_message_id": "1559985435533508710",
+    "screenshot_displayed_stage": "53-50",
+    "screenshot_enemy_level": 1413,
+    "tatari_level": 1065,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        "rockwu",
+        "serrabloom",
+        "blitzmane",
+        null
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "zenscarab",
+        "umbraveil:glitter",
+        "solaflora",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "stage_start": 45,
+    "stage_end": 49,
+    "caption_stage_numbers": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "website_stage_numbers": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544626639340576859"
+    ]
+  },
+  {
+    "source_message_id": "1560000415054168137",
+    "screenshot_displayed_stage": "53-51",
+    "screenshot_enemy_level": 1413,
+    "tatari_level": 1065,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "serrabloom"
+      ],
+      [
+        null,
+        "voltverine",
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "cheerspring",
+        "silversear",
+        "chronerva"
+      ],
+      [
+        "solaflora",
+        "rockwu",
+        "umbraveil:glitter",
+        "hyphoria",
+        null
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 50,
+    "stage_end": 50,
+    "caption_stage_numbers": [
+      50
+    ],
+    "website_stage_numbers": [
+      50
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544628425803702312"
+    ],
+    "tatari_level_quote": "Level 1065"
+  },
+  {
+    "source_message_id": "1560003672820424734",
+    "screenshot_displayed_stage": "53-53",
+    "screenshot_enemy_level": 1414,
+    "tatari_level": 1065,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "voltverine",
+        "blitzmane",
+        "chronerva",
+        "serrabloom"
+      ],
+      [
+        null,
+        "charflutter",
+        "cheerspring",
+        "solaflora",
+        null
+      ],
+      [
+        "capobeetle",
+        "rockwu",
+        "umbraveil:glitter",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        null
+      ]
+    ],
+    "stage_start": 51,
+    "stage_end": 52,
+    "caption_stage_numbers": [
+      51,
+      52
+    ],
+    "website_stage_numbers": [
+      51,
+      52
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544631435900493835"
+    ]
+  },
+  {
+    "source_message_id": "1560004116460077197",
+    "screenshot_displayed_stage": "53-55",
+    "screenshot_enemy_level": 1414,
+    "tatari_level": 1065,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "voltverine",
+        "blitzmane",
+        "chronerva",
+        "serrabloom"
+      ],
+      [
+        null,
+        "rockwu",
+        "charflutter",
+        "cheerspring",
+        "pyrodaemon"
+      ],
+      [
+        "capobeetle",
+        null,
+        "hyphoria",
+        "solaflora",
+        null
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "silversear",
+        null
+      ]
+    ],
+    "stage_start": 53,
+    "stage_end": 54,
+    "caption_stage_numbers": [
+      53,
+      54
+    ],
+    "website_stage_numbers": [
+      53,
+      54
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544631435900493835"
+    ]
+  },
+  {
+    "source_message_id": "1560005696215580783",
+    "screenshot_displayed_stage": "53-60",
+    "screenshot_enemy_level": 1416,
+    "tatari_level": 1065,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "rockzilla",
+        "blitzmane",
+        "serrabloom",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "silversear",
+        "clangnaga",
+        "rockwu",
+        "solaflora",
+        "capobeetle"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "stage_start": 55,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "website_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1065 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544691590189027418"
+    ]
+  },
+  {
+    "source_message_id": "1560144580702245005",
+    "screenshot_displayed_stage": "53-61",
+    "screenshot_enemy_level": 1416,
+    "tatari_level": 1098,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        null,
+        "rockwu",
+        "armorjaw"
+      ],
+      [
+        "serrabloom",
+        null,
+        "umbraveil:glitter",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "voltmare",
+        "hyphoria",
+        null
+      ],
+      [
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        null,
+        "silversear",
+        null
+      ]
+    ],
+    "stage_start": 60,
+    "stage_end": 62,
+    "caption_stage_numbers": [
+      60,
+      61,
+      62
+    ],
+    "website_stage_numbers": [
+      60,
+      61,
+      62
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1098 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Later stages in this inclusive caption rely on Casey's explicit range claim; the screenshot alone does not document every completion. Units and player level are clear.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544693238521139301",
+      "1544701349076144278"
+    ],
+    "tatari_level_quote": "Level 1098"
+  },
+  {
+    "source_message_id": "1560147275097972779",
+    "screenshot_displayed_stage": "53-65",
+    "screenshot_enemy_level": 1418,
+    "tatari_level": 1098,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "voltverine",
+        "blitzmane",
+        "rockwu",
+        "armorjaw"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "umbraveil:glitter",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 63,
+    "stage_end": 64,
+    "caption_stage_numbers": [
+      63,
+      64
+    ],
+    "website_stage_numbers": [
+      63,
+      64
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1098 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544701349076144278"
+    ]
+  },
+  {
+    "source_message_id": "1560148708622860418",
+    "screenshot_displayed_stage": "53-70",
+    "screenshot_enemy_level": 1419,
+    "tatari_level": 1098,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "rockwu",
+        "serrabloom",
+        "voltverine"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "armorjaw"
+      ],
+      [
+        null,
+        "solaflora",
+        "umbraveil:glitter",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 65,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "website_stage_numbers": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1098 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544704214909849621"
+    ]
+  },
+  {
+    "source_message_id": "1560151187653787659",
+    "screenshot_displayed_stage": "53-71",
+    "screenshot_enemy_level": 1420,
+    "tatari_level": 1098,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        "serrabloom",
+        "voltverine",
+        null,
+        "armorjaw"
+      ],
+      [
+        "pyrodaemon",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "flarevix",
+        "solaflora",
+        "umbraveil:glitter",
+        "rockwu",
+        "silversear"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 70,
+    "stage_end": 72,
+    "caption_stage_numbers": [
+      70,
+      71,
+      72
+    ],
+    "website_stage_numbers": [
+      70,
+      71,
+      72
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1098 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Later stages in this inclusive caption rely on Casey's explicit range claim; the screenshot alone does not document every completion. Units and player level are clear.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544728811491434517",
+      "1544740158950215751"
+    ],
+    "tatari_level_quote": "Level 1098"
+  },
+  {
+    "source_message_id": "1560152569131565106",
+    "screenshot_displayed_stage": "53-75",
+    "screenshot_enemy_level": 1421,
+    "tatari_level": 1098,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        "serrabloom",
+        "voltverine",
+        "blitzmane",
+        "armorjaw"
+      ],
+      [
+        "pyrodaemon",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "flarevix",
+        "solaflora",
+        "umbraveil:glitter",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 73,
+    "stage_end": 74,
+    "caption_stage_numbers": [
+      73,
+      74
+    ],
+    "website_stage_numbers": [
+      73,
+      74
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1098 is readable on this source's own inventory cards.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544740158950215751"
+    ]
+  },
+  {
+    "source_message_id": "1560154376901894164",
+    "screenshot_displayed_stage": "53-80",
+    "screenshot_enemy_level": 1423,
+    "tatari_level": 1099,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        "armorjaw",
+        "lickflicker",
+        "pyrodaemon",
+        "capobeetle",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "flarevix",
+        "solaflora",
+        "umbraveil:glitter",
+        "silversear",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 75,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "website_stage_numbers": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1099 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544742079337336863"
+    ],
+    "tatari_level_quote": "Level 1099"
+  },
+  {
+    "source_message_id": "1560155903204925518",
+    "screenshot_displayed_stage": "54-1",
+    "screenshot_enemy_level": 1423,
+    "tatari_level": 1099,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        "voltverine",
+        "pyrodaemon",
+        "frostique",
+        "serrabloom",
+        "lickflicker"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        null,
+        "capypapa",
+        null,
+        "flarevix"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 80,
+    "stage_end": 80,
+    "caption_stage_numbers": [
+      80
+    ],
+    "website_stage_numbers": [
+      80
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author. Adapted-from references remain in the caption; no separate creator identity is inferred.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1099 is readable on this source's own inventory cards. The source caption also states the same level.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
+    "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
+    "replaces_website_source_message_ids": [
+      "1544744861373042770"
+    ],
+    "tatari_level_quote": "Level 1099"
   }
 ]
