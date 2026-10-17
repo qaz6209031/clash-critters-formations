@@ -1631,25 +1631,25 @@
         "blitzmane"
       ],
       [
-        null,
         "umbraveil:glitter",
         "cheerspring",
         "voltmare",
+        null,
         "zapantler"
       ],
       [
-        null,
         "armorjaw",
         "charflutter",
         "clangnaga",
+        null,
         "solaflora"
       ],
       [
         null,
-        null,
-        "silversear",
+        "azurion",
         "waveflutter",
-        "tideon"
+        "tideon",
+        null
       ]
     ],
     "stage_start": 10,
@@ -1667,13 +1667,94 @@
     "tatari_level_basis": "Player level 1048 is readable on this source's own inventory cards. The source caption also states the same level.",
     "selected_for_website": true,
     "needs_review": false,
-    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display.",
+    "notes": "All 25 cells, exact catalog forms and glitter variants were visually reviewed against the original screenshot. Empty cells are retained. The screenshot enemy level is stored separately from the player inventory level. Stage coverage follows Casey's explicit caption. No additional stages are inferred from the next-stage display. Rechecked October 17, 2026 after a user report. Corrected columns in rows 3–5 and changed the rear red/blue unit from Silversear to Azurion; extraction_corrections preserves all prior cells.",
     "stage_assignment_basis": "Casey's explicitly inclusive caption, restricted to this chapter; bosses and regular blocks remain separate. The screenshot commonly shows the stage after the first reported clear. Later stages in an inclusive range are author-reported rather than independently tested.",
     "selection_reason": "Owner requested Casey's formations where his supported level is lower than the current 66pika reference. Every selected stage was compared individually; older website records remain preserved.",
     "replaces_website_source_message_ids": [
       "1544264209825665074"
     ],
-    "tatari_level_quote": "Level 1048"
+    "tatari_level_quote": "Level 1048",
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-17",
+        "basis": "User reported 52-10; rechecked the current original Discord attachment and confirmed it is byte-identical to the saved source. Columns read against the photographed 5×5 floor: middle and rear units had been shifted right, and Azurion was misidentified as Silversear. Player level 1048, stage caption and source remain unchanged.",
+        "cells": [
+          {
+            "row": 3,
+            "column": 1,
+            "before": null,
+            "after": "umbraveil:glitter"
+          },
+          {
+            "row": 3,
+            "column": 2,
+            "before": "umbraveil:glitter",
+            "after": "cheerspring"
+          },
+          {
+            "row": 3,
+            "column": 3,
+            "before": "cheerspring",
+            "after": "voltmare"
+          },
+          {
+            "row": 3,
+            "column": 4,
+            "before": "voltmare",
+            "after": null
+          },
+          {
+            "row": 4,
+            "column": 1,
+            "before": null,
+            "after": "armorjaw"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "armorjaw",
+            "after": "charflutter"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "charflutter",
+            "after": "clangnaga"
+          },
+          {
+            "row": 4,
+            "column": 4,
+            "before": "clangnaga",
+            "after": null
+          },
+          {
+            "row": 5,
+            "column": 2,
+            "before": null,
+            "after": "azurion"
+          },
+          {
+            "row": 5,
+            "column": 3,
+            "before": "silversear",
+            "after": "waveflutter"
+          },
+          {
+            "row": 5,
+            "column": 4,
+            "before": "waveflutter",
+            "after": "tideon"
+          },
+          {
+            "row": 5,
+            "column": 5,
+            "before": "tideon",
+            "after": null
+          }
+        ]
+      }
+    ]
   },
   {
     "source_message_id": "1559159464337346640",

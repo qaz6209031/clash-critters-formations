@@ -51,6 +51,11 @@ are unchanged. Casey’s 50-64 post says the screenshot was taken late and
 displays 50-70, so it retains a reconstruction/coverage-review flag; its
 own inventory shows level 1032, while the original clear level is unverified.
 
+October 17 also corrects **52-10** against Casey’s original screenshot:
+units in rows 3–5 move to their photographed columns, and the rear red/blue
+unit is **Azurion**, replacing the mistaken Silversear. Level 1048 and source
+are unchanged; extraction revision 2 preserves the previous cell values.
+
 For **chapters 1–10 only**, unreadable or unstated player levels are allowed:
 `tatari_level: null`, `tatari_level_source: "unknown"`, displayed as **Lv. Unknown**.
 The expansion includes 66 unknown-level stages. Above chapter 10, the same-source screenshot or caption must provide a numeric player level. Enemy levels and adjacent posts never supply a missing player level. Help requests and older forwarded originals do not establish a qualifying clear. Pika-style caption endpoints matching the displayed next stage are excluded as uncleared. Casey’s explicitly inclusive captions are preserved, with a coverage-review flag where the screenshot alone does not establish completion.
