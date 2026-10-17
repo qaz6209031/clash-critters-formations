@@ -5,9 +5,9 @@
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
 posters and exact 5×5 formations. The published site covers **5464 stages**
-(chapters 1–79, with unsupported chapters empty), grouped into **1993 formation cards** from **1739 selected
-Discord source posts** (1750 chapter-specific records). All **2123 reviewed
-formation records** are preserved; the public index contains 2116 source and
+(chapters 1–79, with unsupported chapters empty), grouped into **2003 formation cards** from **1742 selected
+Discord source posts** (1753 chapter-specific records). All **2150 reviewed
+formation records** are preserved; the public index contains 2143 source and
 supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -42,6 +42,15 @@ notes; boards and levels are clear. No Casey chapter 56 or later reference was
 found at the thread’s present end. All other boards, levels and source selections
 remain unchanged. The shared 51-80/52-1–4 source now has chapter-qualified IDs.
 
+October 17 updates **chapter 50 only** with 27 visually reviewed Casey posts
+covering all **80 stages** in 32 cards. Levels are **1013 for 50-1–29**,
+**1030 for 50-30–42**, and **1032 for 50-43–80**, each below the previous
+nil reference. All 24 prior nil records remain preserved with website
+replacement relationships; all other chapter boards, levels and sources
+are unchanged. Casey’s 50-64 post says the screenshot was taken late and
+displays 50-70, so it retains a reconstruction/coverage-review flag; its
+own inventory shows level 1032, while the original clear level is unverified.
+
 For **chapters 1–10 only**, unreadable or unstated player levels are allowed:
 `tatari_level: null`, `tatari_level_source: "unknown"`, displayed as **Lv. Unknown**.
 The expansion includes 66 unknown-level stages. Above chapter 10, the same-source screenshot or caption must provide a numeric player level. Enemy levels and adjacent posts never supply a missing player level. Help requests and older forwarded originals do not establish a qualifying clear. Pika-style caption endpoints matching the displayed next stage are excluded as uncleared. Casey’s explicitly inclusive captions are preserved, with a coverage-review flag where the screenshot alone does not establish completion.
@@ -63,11 +72,11 @@ Stage labels and posters link to their original Discord messages, which require
 the viewer's own server access. A credited creator is distinct from the poster.
 
 Exact forms, glitter variants and positions determine whether cards can merge.
-Chapters 1–30, 32–39 and 51–79 keep 1–4, 5–9 and each boss separate.
+Chapters 1–30, 32–39 and 50–79 keep 1–4, 5–9 and each boss separate.
 A block may contain different cards when the source only supports shorter ranges.
 The early Pika guide changes at stage 6: where its formations differ, stage 5
 and stages 6–9 remain separate instead of asserting that one lineup clears the
-entire 5–9 block. Existing grouping for chapter 31 and 40–50 is preserved.
+entire 5–9 block. Existing grouping for chapter 31 and 40–49 is preserved.
 Ambiguous evidence retains review notes in the saved data and level tooltips.
 
 ## Preview and build

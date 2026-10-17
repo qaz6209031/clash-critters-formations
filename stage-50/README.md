@@ -1,41 +1,31 @@
 # Chapter 50
 
-Open `http://127.0.0.1:8765/#chapter-50` in the shared website.
-**50-1 through 50-80** are represented by 22 formation cards from 24 source
-messages. Identical forms, variants and positions are grouped for
-**50-30–50-34** and **50-60–50-64**; all original submissions remain separate
-records with their own message IDs and image evidence.
+October 17, 2026: all 80 stages now use 27 visually reviewed Casey posts,
+grouped into 32 formation cards. Each selected reference has a lower
+supported player level than the previous nil reference.
 
-Observed Tatari levels are 1056 for 50-1–50-4, 1110 for 50-5–50-39, and
-1121 for 50-40–50-80. These are source screenshot levels, not verified
-server-wide minimum clear levels. Each individual deployed unit's level was
-not separately readable. Clear outcomes are author-reported.
+- 50-1–50-29: Lv.1013 (previously Lv.1056–1110).
+- 50-30–50-42: Lv.1030 (previously Lv.1110–1121).
+- 50-43–50-80: Lv.1032 (previously Lv.1121).
 
-The 50-40 author says the original screenshot was missed. Its screenshot
-displays 50-43 and level 1121, so the card is labeled `recreated` and the
-record is in `needs_human_review`. Its original clear level is unverified.
-The other 23 sources are in `high_confidence`. Standard screenshots display
-the next stage; the 50-80 source displays 51-1.
+Every level is readable in that post’s own inventory screenshot or explicit
+caption. Original and supporting timestamps must be after August 27, 2026
+America/Los_Angeles; the selected posts are from October 9, 2026 (PDT). Exact forms,
+glitter variants and all 25 cells were visually matched to the catalog.
 
-`stage-50-lineups.json` preserves all 80 stage entries and 24 source records,
-including message IDs, permalinks, timestamps, captions, credited names,
-original image paths, levels, forms, tiers, variants and coordinates.
-`reviewed-formations.json` contains the manually reviewed boards.
-`evidence/images/` contains original screenshots; review sheets and
-`evidence/website-chapter-50.png` document the visual checks.
+Casey’s captions are inclusive. Bosses are shown separately, and shorter
+captioned changes within normal blocks remain separate. Stage 50-64 says
+“forgot to screenshot earlier” and its image displays 50-70: it retains a
+reconstruction/coverage-review flag with observed inventory level 1032. Its
+original clear level is unverified, and no extra stages are inferred. Other
+ranges extending beyond visible completion also keep coverage-review notes.
+Gameplay outcomes remain author-reported.
 
-All requested stages were found in the supplied thread, so no fallback
-Discord search was needed. Collection used existing account permissions via
-the read-only Discord website workflow. Posting display name is `nil`;
-account usernames were not verified. Saved originals preserve traceability
-when attachment URLs expire. Raw evidence remains outside the served root.
+All 24 prior nil records are preserved with website replacement relationships.
+Every other chapter’s board, level and selected source remains unchanged.
+Publication metadata and Discord permalinks are in `../data/source-index.json`.
+Original screenshots, browser snapshots and review evidence remain local.
 
-Rebuild all chapters with:
-
-```sh
-python3 /Users/kaichinh/ClashCrittersCollection/stage-47/build_site.py
-```
-
-The website is also available offline at `../stage-47/site/index.html`.
-Browser verification confirmed 80 chapter 50 stage labels, 22 grouped cards
-and all Tatari images loaded, without horizontal overflow or console warnings/errors.
+Build with `python3 stage-47/build_site.py` from the repository root, then
+serve `stage-47/site` over HTTP. The shared website opens on chapter 31;
+choose chapter 50 or use `#chapter-50`.
