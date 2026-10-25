@@ -2613,11 +2613,11 @@
         "solaflora"
       ],
       [
-        null,
         "azurion",
         "waveflutter",
         "tideon",
-        "silversear"
+        "silversear",
+        null
       ],
       [
         null,
@@ -2646,7 +2646,7 @@
     "tatari_level_basis": "Player level 1128 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
     "selected_for_website": true,
     "needs_review": true,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. Rechecked October 25 after a user report: corrected the four units in row 4 one column left; Azurion occupies column 1. Prior cells are preserved in extraction_corrections.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "tatari_level_quote": "Level 1128",
@@ -2654,6 +2654,45 @@
     "replaces_website_source_message_ids": [
       "1545396277527711775",
       "1545405804184731770"
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-25",
+        "basis": "User reported the empty left lane for 56-40 through 56-42. Rechecked the saved original Discord screenshot: row 4 begins with Azurion in column 1. Four rear units were transcribed one column too far right. Source caption, player level 1128, stage coverage, forms and other rows are unchanged.",
+        "cells": [
+          {
+            "row": 4,
+            "column": 1,
+            "before": null,
+            "after": "azurion"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "azurion",
+            "after": "waveflutter"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "waveflutter",
+            "after": "tideon"
+          },
+          {
+            "row": 4,
+            "column": 4,
+            "before": "tideon",
+            "after": "silversear"
+          },
+          {
+            "row": 4,
+            "column": 5,
+            "before": "silversear",
+            "after": null
+          }
+        ]
+      }
     ]
   },
   {

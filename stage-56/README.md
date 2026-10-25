@@ -22,3 +22,5 @@ Older boards, levels, timestamps and source IDs remain archived, with replacemen
 relationships; unsupported Casey stages keep their existing reference. Collection
 used only the authenticated Discord website, read-only. Public source metadata
 includes attribution, original timestamps, captions and message permalinks.
+
+Correction: 56-40–56-42 row 4 is Azurion, Waveflutter, Tideon, Silversear, empty, left to right. The prior transcription shifted these four units one column right. Extraction revision 2 preserves the previous cells and source information.
