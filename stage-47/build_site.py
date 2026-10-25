@@ -298,7 +298,7 @@ def build() -> None:
                                            list(range(decade + 5, decade + 10)), [decade + 10])]
         expected_blocks = [present for block in expected_blocks
                            if (present := [number for number in block if number in available])]
-        if 50 <= chapter <= 55:
+        if 50 <= chapter <= 63:
             # Casey changes boards within some regular blocks; preserve those captioned splits.
             assert all(len({stage_block(number) for number in group["numbers"]}) == 1
                        for group in chapter_groups), chapter
@@ -358,8 +358,9 @@ def build() -> None:
         "missing_replacement": "Hide the stage; preserve historical records in the archive.",
     }
     dataset = {
-        "schema_version": "1.13",
-        "collected_at": "2026-10-24",
+        "schema_version": "1.14",
+        "collected_at": "2026-10-25",
+        "chapter_56_63_update": "October 25: 196 original Casey image posts provide 201 chapter records, replacing 615 stages with individually lower player levels across chapters 56–63. Chapters 56–58 and 60–62 use Casey throughout; 59-46 through 59-49 retain prior references because Casey’s caption has a contradictory chapter endpoint, and 63-60 onward retain their previous selections because no newer Casey caption was found. All historical records and other chapters are preserved. Exact photographed tiers, 25-cell positions, the 14-unit 61-21–22 board, and costume notes are retained. Original/source timestamps and same-post numeric levels were checked. Inclusive ranges and late screenshots retain source review notes.",
         "chapter_24_28_update": "October 24: revamped chapters 24–28 require original and supporting posts after October 21, 2026 America/Los_Angeles. Only visually identified boards with a same-source numeric player level are published. Pre-update references remain archived and unsupported stages are empty. All other chapter selections are preserved.",
         "chapter_50_update": "October 17: chapter 50 only, as clarified by the owner. Twenty-seven visually reviewed Casey posts replace all 80 chapter 50 stages after individual comparisons. Player levels 1013, 1030 and 1032 are each lower than the previous nil references at 1056, 1110 or 1121. Every level comes from the same post’s image or explicit caption. All 24 prior nil records remain preserved, and every other chapter retains its stage boards, levels and selected sources. The 50-64 caption says the screenshot was taken late and displays 50-70; its own inventory level 1032 is preserved with a reconstruction/coverage-review flag and no inferred extra stages. Other inclusive ranges retain coverage-review notes where completion of every stage is not visible. Bosses remain separate, with shorter captioned formation changes preserved.",
         "chapter_51_update": "October 16: owner-requested Casey replacements for 51-11 through 51-80. Twenty original October 11–12 posts at level 1048 were visually reviewed. All 24 original Pika records remain preserved, with website replacement relationships; 51-1 through 51-10 and all other chapters are preserved. Casey's captions are inclusive, unlike Pika's usual next-stage endpoints. The 51-50/51-51 record retains a coverage-review flag because the screenshot shows 51-51; that stage relies on Casey's explicit two-stage caption and the next post starting at 51-52. Units and levels are visually clear. Gameplay outcomes remain author-reported.",

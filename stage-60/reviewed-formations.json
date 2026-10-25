@@ -60,8 +60,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       1,
       2,
@@ -69,11 +69,9 @@
       4,
       5
     ],
-    "website_stage_numbers": [
-      1,
-      2,
-      3,
-      4
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562845716320231464"
     ]
   },
   {
@@ -138,8 +136,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       5,
       6,
@@ -148,12 +146,9 @@
       9,
       10
     ],
-    "website_stage_numbers": [
-      5,
-      6,
-      7,
-      8,
-      9
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562893867534258186"
     ]
   },
   {
@@ -214,13 +209,14 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       10
     ],
-    "website_stage_numbers": [
-      10
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562895242758328401"
     ]
   },
   {
@@ -284,8 +280,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       11,
       12,
@@ -293,11 +289,9 @@
       14,
       15
     ],
-    "website_stage_numbers": [
-      11,
-      12,
-      13,
-      14
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562895242758328401"
     ]
   },
   {
@@ -362,8 +356,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       15,
       16,
@@ -372,12 +366,10 @@
       19,
       20
     ],
-    "website_stage_numbers": [
-      15,
-      16,
-      17,
-      18,
-      19
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562896596210032702",
+      "1562897575202394142"
     ]
   },
   {
@@ -438,13 +430,14 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       20
     ],
-    "website_stage_numbers": [
-      20
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562897992359346300"
     ]
   },
   {
@@ -508,8 +501,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       21,
       22,
@@ -517,11 +510,10 @@
       24,
       25
     ],
-    "website_stage_numbers": [
-      21,
-      22,
-      23,
-      24
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562897992359346300",
+      "1562899016612585603"
     ]
   },
   {
@@ -586,8 +578,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       25,
       26,
@@ -596,12 +588,9 @@
       29,
       30
     ],
-    "website_stage_numbers": [
-      25,
-      26,
-      27,
-      28,
-      29
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562899764008190062"
     ]
   },
   {
@@ -662,13 +651,14 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       30
     ],
-    "website_stage_numbers": [
-      30
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562901225694040135"
     ]
   },
   {
@@ -732,8 +722,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       31,
       32,
@@ -741,11 +731,10 @@
       34,
       35
     ],
-    "website_stage_numbers": [
-      31,
-      32,
-      33,
-      34
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562901225694040135",
+      "1562902215545458749"
     ]
   },
   {
@@ -810,8 +799,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       35,
       36,
@@ -820,12 +809,9 @@
       39,
       40
     ],
-    "website_stage_numbers": [
-      35,
-      36,
-      37,
-      38,
-      39
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562903049842991199"
     ]
   },
   {
@@ -886,13 +872,14 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       40
     ],
-    "website_stage_numbers": [
-      40
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562903524923146460"
     ]
   },
   {
@@ -956,8 +943,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       41,
       42,
@@ -965,11 +952,9 @@
       44,
       45
     ],
-    "website_stage_numbers": [
-      41,
-      42,
-      43,
-      44
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562904199740657826"
     ]
   },
   {
@@ -1034,8 +1019,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       45,
       46,
@@ -1044,12 +1029,9 @@
       49,
       50
     ],
-    "website_stage_numbers": [
-      45,
-      46,
-      47,
-      48,
-      49
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562905076098400367"
     ]
   },
   {
@@ -1110,13 +1092,14 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       50
     ],
-    "website_stage_numbers": [
-      50
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562905631319531520"
     ]
   },
   {
@@ -1180,8 +1163,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       51,
       52,
@@ -1189,11 +1172,10 @@
       54,
       55
     ],
-    "website_stage_numbers": [
-      51,
-      52,
-      53,
-      54
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562906203821056071",
+      "1562906683544568001"
     ]
   },
   {
@@ -1258,8 +1240,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       55,
       56,
@@ -1268,12 +1250,9 @@
       59,
       60
     ],
-    "website_stage_numbers": [
-      55,
-      56,
-      57,
-      58,
-      59
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562907906712670329"
     ]
   },
   {
@@ -1334,13 +1313,14 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       60
     ],
-    "website_stage_numbers": [
-      60
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562914357317472379"
     ]
   },
   {
@@ -1404,8 +1384,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       61,
       62,
@@ -1413,11 +1393,10 @@
       64,
       65
     ],
-    "website_stage_numbers": [
-      61,
-      62,
-      63,
-      64
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562914357317472379",
+      "1562915412109295737"
     ]
   },
   {
@@ -1482,8 +1461,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       65,
       66,
@@ -1492,12 +1471,9 @@
       69,
       70
     ],
-    "website_stage_numbers": [
-      65,
-      66,
-      67,
-      68,
-      69
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562916254724137021"
     ]
   },
   {
@@ -1558,13 +1534,14 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       70
     ],
-    "website_stage_numbers": [
-      70
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562917044255719495"
     ]
   },
   {
@@ -1628,8 +1605,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       71,
       72,
@@ -1637,11 +1614,10 @@
       74,
       75
     ],
-    "website_stage_numbers": [
-      71,
-      72,
-      73,
-      74
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562917044255719495",
+      "1562917876229341304"
     ]
   },
   {
@@ -1706,8 +1682,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
       75,
       76,
@@ -1716,12 +1692,9 @@
       79,
       80
     ],
-    "website_stage_numbers": [
-      75,
-      76,
-      77,
-      78,
-      79
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562919059215876166"
     ]
   },
   {
@@ -1782,13 +1755,1788 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "October 25 Casey update: overlapping supported stages replaced; historical board, level and source retained. Unsupported Casey stages keep their existing references.",
     "caption_stage_numbers_original": [
+      80
+    ],
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1562919923372527628"
+    ]
+  },
+  {
+    "source_message_id": "1562845716320231464",
+    "screenshot_displayed_stage": "60-1",
+    "screenshot_enemy_level": 1583,
+    "tatari_level": 1229,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        "armorjaw",
+        "lickflicker",
+        "orchitoria",
+        "blitzmane",
+        "pyrodaemon"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "flarevix",
+        "clangnaga",
+        "silversear"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 1,
+    "stage_end": 4,
+    "caption_stage_numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "tatari_level_quote": "Level 1229",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546811763054481408"
+    ]
+  },
+  {
+    "source_message_id": "1562893867534258186",
+    "screenshot_displayed_stage": "60-10",
+    "screenshot_enemy_level": 1586,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        "dreadclaw",
+        "pyrodaemon",
+        "flarevix",
+        "orchitoria",
+        "voltverine"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "frostique",
+        "silversear",
+        "umbraveil:glitter",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 5,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "website_stage_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546813201117618278"
+    ]
+  },
+  {
+    "source_message_id": "1562895242758328401",
+    "screenshot_displayed_stage": "60-11",
+    "screenshot_enemy_level": 1586,
+    "tatari_level": 1229,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        "armorjaw",
+        "blitzmane",
+        "dreadclaw",
+        "clangnaga",
+        null
+      ],
+      [
+        null,
+        "hyphoria",
+        "cheerspring",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "umbraveil:glitter",
+        "seaswirl",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "tideon",
+        "morphanessa",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 10,
+    "stage_end": 14,
+    "caption_stage_numbers": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "website_stage_numbers": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "tatari_level_quote": "Level 1229",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546815333019549757",
+      "1546817085085188126"
+    ]
+  },
+  {
+    "source_message_id": "1562896596210032702",
+    "screenshot_displayed_stage": "60-17",
+    "screenshot_enemy_level": 1588,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        "dreadclaw",
+        "voltverine",
+        "pearpair",
+        "orchitoria",
+        "armorjaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        "silversear",
+        "solaflora",
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 15,
+    "stage_end": 16,
+    "caption_stage_numbers": [
+      15,
+      16
+    ],
+    "website_stage_numbers": [
+      15,
+      16
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546819223433777162"
+    ]
+  },
+  {
+    "source_message_id": "1562897575202394142",
+    "screenshot_displayed_stage": "60-20",
+    "screenshot_enemy_level": 1589,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        "dreadclaw",
+        "blitzmane",
+        "rockwu",
+        "orchitoria",
+        "armorjaw"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        null,
+        "umbraveil:glitter",
+        "solaflora",
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 17,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      17,
+      18,
+      19
+    ],
+    "website_stage_numbers": [
+      17,
+      18,
+      19
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546819223433777162"
+    ]
+  },
+  {
+    "source_message_id": "1562897992359346300",
+    "screenshot_displayed_stage": "60-21",
+    "screenshot_enemy_level": 1590,
+    "tatari_level": 1229,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        "armorjaw",
+        "pyrodaemon",
+        "orchitoria",
+        "blitzmane",
+        "voltverine"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "silversear",
+        null,
+        "umbraveil:glitter",
+        "solaflora",
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 20,
+    "stage_end": 22,
+    "caption_stage_numbers": [
+      20,
+      21,
+      22
+    ],
+    "website_stage_numbers": [
+      20,
+      21,
+      22
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "tatari_level_quote": "Level 1229",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546819916882124850",
+      "1546820976095006771"
+    ]
+  },
+  {
+    "source_message_id": "1562899016612585603",
+    "screenshot_displayed_stage": "60-25",
+    "screenshot_enemy_level": 1591,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        "armorjaw",
+        "pyrodaemon",
+        "orchitoria",
+        "blitzmane",
+        "voltverine"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "rockwu"
+      ],
+      [
+        "silversear",
+        null,
+        "umbraveil:glitter",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 23,
+    "stage_end": 24,
+    "caption_stage_numbers": [
+      23,
+      24
+    ],
+    "website_stage_numbers": [
+      23,
+      24
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546820976095006771"
+    ]
+  },
+  {
+    "source_message_id": "1562899764008190062",
+    "screenshot_displayed_stage": "60-30",
+    "screenshot_enemy_level": 1593,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        "orchitoria",
+        "pyrodaemon",
+        "blitzmane",
+        "voltverine",
+        "armorjaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "silversear",
+        null,
+        "umbraveil:glitter",
+        "rockwu",
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 25,
+    "stage_end": 29,
+    "caption_stage_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "website_stage_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546822136008544296"
+    ]
+  },
+  {
+    "source_message_id": "1562901225694040135",
+    "screenshot_displayed_stage": "60-31",
+    "screenshot_enemy_level": 1593,
+    "tatari_level": 1229,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "orchitoria"
+      ],
+      [
+        null,
+        null,
+        null,
+        "cheerspring",
+        "pyrodaemon"
+      ],
+      [
+        "voltverine",
+        "blitzmane",
+        "umbraveil:glitter",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "voltmare",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 30,
+    "stage_end": 33,
+    "caption_stage_numbers": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "website_stage_numbers": [
+      30,
+      31,
+      32,
+      33
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "tatari_level_quote": "Level 1229",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546857232803823727",
+      "1546859209042169888"
+    ]
+  },
+  {
+    "source_message_id": "1562902215545458749",
+    "screenshot_displayed_stage": "60-35",
+    "screenshot_enemy_level": 1594,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "pyrodaemon"
+      ],
+      [
+        "voltverine",
+        "lickflicker",
+        "umbraveil:glitter",
+        "blitzmane",
+        "cheerspring"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "nekowatt",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        "solaflora"
+      ]
+    ],
+    "stage_start": 34,
+    "stage_end": 34,
+    "caption_stage_numbers": [
+      34
+    ],
+    "website_stage_numbers": [
+      34
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546859209042169888"
+    ]
+  },
+  {
+    "source_message_id": "1562903049842991199",
+    "screenshot_displayed_stage": "60-40",
+    "screenshot_enemy_level": 1596,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltverine",
+        "pyrodaemon",
+        "rockwu",
+        "dreadclaw",
+        "blitzmane"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "solaflora",
+        null,
+        "umbraveil:glitter",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 35,
+    "stage_end": 39,
+    "caption_stage_numbers": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "website_stage_numbers": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546860260222836736"
+    ]
+  },
+  {
+    "source_message_id": "1562903524923146460",
+    "screenshot_displayed_stage": "60-41",
+    "screenshot_enemy_level": 1596,
+    "tatari_level": 1229,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        "blitzmane",
+        "voltverine",
+        "umbraveil:glitter",
+        "orchitoria"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "rockwu"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        "voltmare",
+        null,
+        null
+      ]
+    ],
+    "stage_start": 40,
+    "stage_end": 40,
+    "caption_stage_numbers": [
+      40
+    ],
+    "website_stage_numbers": [
+      40
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "tatari_level_quote": "Level 1229",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546861331234164766"
+    ]
+  },
+  {
+    "source_message_id": "1562904199740657826",
+    "screenshot_displayed_stage": "60-45",
+    "screenshot_enemy_level": 1598,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        "blitzmane",
+        "voltverine",
+        "pyrodaemon",
+        "orchitoria"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "rockwu"
+      ],
+      [
+        null,
+        "solaflora",
+        "umbraveil:glitter",
+        null,
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ]
+    ],
+    "stage_start": 41,
+    "stage_end": 44,
+    "caption_stage_numbers": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "website_stage_numbers": [
+      41,
+      42,
+      43,
+      44
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546862194560335872"
+    ]
+  },
+  {
+    "source_message_id": "1562905076098400367",
+    "screenshot_displayed_stage": "60-50",
+    "screenshot_enemy_level": 1599,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockzilla",
+        "rockwu",
+        "orchitoria",
+        "blitzmane",
+        null
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "zenscarab",
+        "umbraveil:glitter",
+        "solaflora",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion"
+      ]
+    ],
+    "stage_start": 45,
+    "stage_end": 49,
+    "caption_stage_numbers": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "website_stage_numbers": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546864457676759160"
+    ]
+  },
+  {
+    "source_message_id": "1562905631319531520",
+    "screenshot_displayed_stage": "60-51",
+    "screenshot_enemy_level": 1600,
+    "tatari_level": 1229,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "orchitoria"
+      ],
+      [
+        null,
+        "voltverine",
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "cheerspring",
+        "silversear",
+        "chronerva"
+      ],
+      [
+        "solaflora",
+        "rockwu",
+        "umbraveil:glitter",
+        "hyphoria",
+        null
+      ],
+      [
+        "frostique",
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 50,
+    "stage_end": 50,
+    "caption_stage_numbers": [
+      50
+    ],
+    "website_stage_numbers": [
+      50
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "tatari_level_quote": "Level 1229",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546865560363470921"
+    ]
+  },
+  {
+    "source_message_id": "1562906203821056071",
+    "screenshot_displayed_stage": "60-53",
+    "screenshot_enemy_level": 1600,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "voltverine",
+        "blitzmane",
+        "chronerva",
+        "orchitoria"
+      ],
+      [
+        null,
+        "charflutter",
+        "cheerspring",
+        "solaflora",
+        null
+      ],
+      [
+        "donscarab",
+        "rockwu",
+        "umbraveil:glitter",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null,
+        null
+      ]
+    ],
+    "stage_start": 51,
+    "stage_end": 52,
+    "caption_stage_numbers": [
+      51,
+      52
+    ],
+    "website_stage_numbers": [
+      51,
+      52
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546866946967085056"
+    ]
+  },
+  {
+    "source_message_id": "1562906683544568001",
+    "screenshot_displayed_stage": "60-55",
+    "screenshot_enemy_level": 1601,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "voltverine",
+        "blitzmane",
+        "chronerva",
+        "orchitoria"
+      ],
+      [
+        null,
+        "rockwu",
+        "charflutter",
+        "cheerspring",
+        "pyrodaemon"
+      ],
+      [
+        "donscarab",
+        null,
+        "hyphoria",
+        "solaflora",
+        null
+      ],
+      [
+        "azurion",
+        "morphanessa",
+        "tideon",
+        "silversear",
+        null
+      ]
+    ],
+    "stage_start": 53,
+    "stage_end": 54,
+    "caption_stage_numbers": [
+      53,
+      54
+    ],
+    "website_stage_numbers": [
+      53,
+      54
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546866946967085056"
+    ]
+  },
+  {
+    "source_message_id": "1562907906712670329",
+    "screenshot_displayed_stage": "60-60",
+    "screenshot_enemy_level": 1603,
+    "tatari_level": 1229,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "rockzilla",
+        "blitzmane",
+        "orchitoria",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "silversear",
+        "clangnaga",
+        "rockwu",
+        "solaflora",
+        "donscarab"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion"
+      ]
+    ],
+    "stage_start": 55,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "website_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546868021761671218"
+    ]
+  },
+  {
+    "source_message_id": "1562914357317472379",
+    "screenshot_displayed_stage": "60-61",
+    "screenshot_enemy_level": 1603,
+    "tatari_level": 1232,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        null,
+        "rockwu",
+        "armorjaw"
+      ],
+      [
+        "orchitoria",
+        null,
+        "umbraveil:glitter",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "voltmare",
+        "hyphoria",
+        null
+      ],
+      [
+        "clangnaga",
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        null,
+        "silversear",
+        null
+      ]
+    ],
+    "stage_start": 60,
+    "stage_end": 62,
+    "caption_stage_numbers": [
+      60,
+      61,
+      62
+    ],
+    "website_stage_numbers": [
+      60,
+      61,
+      62
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1232 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "tatari_level_quote": "Level 1232",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546918492270497872",
+      "1546920024613326878"
+    ]
+  },
+  {
+    "source_message_id": "1562915412109295737",
+    "screenshot_displayed_stage": "60-65",
+    "screenshot_enemy_level": 1604,
+    "tatari_level": 1232,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "orchitoria",
+        "voltverine",
+        "blitzmane",
+        "rockwu",
+        "armorjaw"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "umbraveil:glitter",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ]
+    ],
+    "stage_start": 63,
+    "stage_end": 64,
+    "caption_stage_numbers": [
+      63,
+      64
+    ],
+    "website_stage_numbers": [
+      63,
+      64
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1232 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1546920024613326878"
+    ]
+  },
+  {
+    "source_message_id": "1562916254724137021",
+    "screenshot_displayed_stage": "60-70",
+    "screenshot_enemy_level": 1606,
+    "tatari_level": 1232,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "rockwu",
+        "orchitoria",
+        "voltverine"
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "armorjaw"
+      ],
+      [
+        null,
+        "solaflora",
+        "umbraveil:glitter",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 65,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "website_stage_numbers": [
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1232 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1547057453525504062"
+    ]
+  },
+  {
+    "source_message_id": "1562917044255719495",
+    "screenshot_displayed_stage": "60-71",
+    "screenshot_enemy_level": 1606,
+    "tatari_level": 1232,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        null,
+        "orchitoria",
+        "blitzmane",
+        null,
+        "armorjaw"
+      ],
+      [
+        "pyrodaemon",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "flarevix",
+        "solaflora",
+        "umbraveil:glitter",
+        "rockwu",
+        "silversear"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 70,
+    "stage_end": 72,
+    "caption_stage_numbers": [
+      70,
+      71,
+      72
+    ],
+    "website_stage_numbers": [
+      70,
+      71,
+      72
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "range_snapshot",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1232 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
+    "selected_for_website": true,
+    "needs_review": true,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "tatari_level_quote": "Level 1232",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1547063656208928839",
+      "1547070008021094472"
+    ]
+  },
+  {
+    "source_message_id": "1562917876229341304",
+    "screenshot_displayed_stage": "60-75",
+    "screenshot_enemy_level": 1608,
+    "tatari_level": 1232,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        null,
+        "orchitoria",
+        "voltverine",
+        "blitzmane",
+        "armorjaw"
+      ],
+      [
+        "pyrodaemon",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "flarevix",
+        "solaflora",
+        "umbraveil:glitter",
+        "silversear",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 73,
+    "stage_end": 74,
+    "caption_stage_numbers": [
+      73,
+      74
+    ],
+    "website_stage_numbers": [
+      73,
+      74
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1232 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1547070008021094472"
+    ]
+  },
+  {
+    "source_message_id": "1562919059215876166",
+    "screenshot_displayed_stage": "60-80",
+    "screenshot_enemy_level": 1609,
+    "tatari_level": 1232,
+    "tatari_level_source": "image",
+    "board": [
+      [
+        "armorjaw",
+        "lickflicker",
+        "pyrodaemon",
+        "donscarab",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "flarevix",
+        "solaflora",
+        "umbraveil:glitter",
+        "silversear",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 75,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "website_stage_numbers": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1232 is readable in this source's own screenshot inventory.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1547097798522966108"
+    ]
+  },
+  {
+    "source_message_id": "1562919923372527628",
+    "screenshot_displayed_stage": "61-1",
+    "screenshot_enemy_level": 1610,
+    "tatari_level": 1232,
+    "tatari_level_source": "message_text",
+    "board": [
+      [
+        "voltverine",
+        "pyrodaemon",
+        "frostique",
+        "orchitoria",
+        "lickflicker"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        null,
+        "capypapa",
+        null,
+        "flarevix"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "stage_start": 80,
+    "stage_end": 80,
+    "caption_stage_numbers": [
       80
     ],
     "website_stage_numbers": [
       80
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1232 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "tatari_level_quote": "Level 1232",
+    "superseded_for_website_by_message_ids": [],
+    "replaces_website_source_message_ids": [
+      "1547099378358165525"
     ]
   }
 ]

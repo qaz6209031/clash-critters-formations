@@ -5,9 +5,9 @@
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
 posters and exact 5×5 formations. The published site covers **5335 stages**
-(chapters 1–79, with unsupported chapters empty), grouped into **1951 formation cards** from **1702 selected
-Discord source posts** (1713 chapter-specific records). All **2236 reviewed
-formation records** are preserved; the public index contains 2228 source and
+(chapters 1–79, with unsupported chapters empty), grouped into **2006 formation cards** from **1714 selected
+Discord source posts** (1730 chapter-specific records). All **2437 reviewed
+formation records** are preserved; the public index contains 2424 source and
 supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -77,6 +77,23 @@ All **5064 stages outside chapters 24–28** retain their boards, levels and sou
 | 26 | 80/80 | None |
 | 27 | 80/80 | None |
 | 28 | 46/80 | 31–44, 51–54, 56–59, 61–62, 65–69, 71–74, 79 |
+
+October 25 adds **196 original Casey image posts** and **201 chapter-specific
+records** for chapters **56–63**. Exactly **615 stages** replace their previous
+reference, each at an individually lower supported player level. Chapters
+56–58 and 60–62 use Casey for all 80 stages; chapter 59 uses Casey for 76,
+and chapter 63 uses Casey for 1–59. **59-46–59-49** retain Pika because Casey’s
+caption says `59-45 to 49-49`; only its literal start 59-45 is used.
+**63-60 onward** retain their previous sources because Casey’s latest verified
+caption ends at 63-59. No unsupported range is inferred. All 4720 unreplaced
+stage boards, levels and sources are unchanged, including the October 21
+cutoff and refreshed chapter 24–28 records. Historical records remain archived.
+The photographed **61-21–61-22 board has 14/15 units**; the empty Tideon slot
+is preserved. Later screenshots show Blitzmane with a goggles costume, using
+the catalog’s standard Blitzmane model. Morphanessa and Rockong upgrades are
+stored at their photographed tiers. Explicit inclusive claims and late captures
+retain review notes. All screenshots, positions and same-source numeric player
+levels were visually reviewed. Original dates remain after August 27.
 
 For **chapters 1–10 only**, unreadable or unstated player levels are allowed:
 `tatari_level: null`, `tatari_level_source: "unknown"`, displayed as **Lv. Unknown**.
