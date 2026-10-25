@@ -10,6 +10,8 @@ Discord source posts** (1730 chapter-specific records). All **2437 reviewed
 formation records** are preserved; the public index contains 2424 source and
 supporting posts. Unsupported stages remain empty.
 
+October 25 Casey column audit compares all **417 selected original screenshots** (426 chapter-specific records) with their published boards. Nine additional sources had units shifted one column right, affecting **23 stages**: 56-30–31, 56-34, 56-43, 56-45–52, 56-73–74, 57-10–11, 59-70–74 and 63-30–31. These columns are corrected; extraction revision history preserves prior cells. The earlier 56-40–42 correction is retained. All unit forms, levels, timestamps, source IDs and stage coverage are unchanged, and the other 5312 stage records are unchanged.
+
 Only original posts **after August 27, 2026** qualify for publication, using
 America/Los_Angeles time: August 28 at midnight is `2026-08-28T07:00:00Z`.
 The same cutoff applies to separate board sources and supporting evidence.

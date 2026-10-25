@@ -2264,25 +2264,25 @@
         "serrabloom"
       ],
       [
-        null,
         "voltverine",
         "charflutter",
         "hyphoria",
+        null,
         "solaflora"
       ],
       [
-        null,
         "silversear",
         "rockwu",
         "umbraveil:glitter",
+        null,
         null
       ],
       [
         null,
-        null,
         "tideon",
         "waveflutter",
-        "azurion"
+        "azurion",
+        null
       ]
     ],
     "stage_start": 30,
@@ -2302,7 +2302,7 @@
     "tatari_level_basis": "Player level 1128 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
     "selected_for_website": true,
     "needs_review": true,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. October 25 column audit: corrected misplaced horizontal cells against the original screenshot; prior cells are retained in extraction_corrections.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "tatari_level_quote": "Level 1128",
@@ -2310,6 +2310,87 @@
     "replaces_website_source_message_ids": [
       "1545388922895335504",
       "1545390778916929607"
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-25",
+        "basis": "User reported empty left lanes in Casey formations, including 56-30. Compared every selected Casey original screenshot with the current board. These cells were transcribed one column too far right; corrected using the original floor columns and unit shadows. Unit identities, forms, player level, source, timestamps and caption coverage are unchanged.",
+        "cells": [
+          {
+            "row": 3,
+            "column": 1,
+            "before": null,
+            "after": "voltverine"
+          },
+          {
+            "row": 3,
+            "column": 2,
+            "before": "voltverine",
+            "after": "charflutter"
+          },
+          {
+            "row": 3,
+            "column": 3,
+            "before": "charflutter",
+            "after": "hyphoria"
+          },
+          {
+            "row": 3,
+            "column": 4,
+            "before": "hyphoria",
+            "after": null
+          },
+          {
+            "row": 4,
+            "column": 1,
+            "before": null,
+            "after": "silversear"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "silversear",
+            "after": "rockwu"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "rockwu",
+            "after": "umbraveil:glitter"
+          },
+          {
+            "row": 4,
+            "column": 4,
+            "before": "umbraveil:glitter",
+            "after": null
+          },
+          {
+            "row": 5,
+            "column": 2,
+            "before": null,
+            "after": "tideon"
+          },
+          {
+            "row": 5,
+            "column": 3,
+            "before": "tideon",
+            "after": "waveflutter"
+          },
+          {
+            "row": 5,
+            "column": 4,
+            "before": "waveflutter",
+            "after": "azurion"
+          },
+          {
+            "row": 5,
+            "column": 5,
+            "before": "azurion",
+            "after": null
+          }
+        ]
+      }
     ]
   },
   {
@@ -2476,8 +2557,8 @@
         null,
         "tideon",
         "waveflutter",
-        null,
-        "azurion"
+        "azurion",
+        null
       ],
       [
         null,
@@ -2502,12 +2583,33 @@
     "tatari_level_basis": "Player level 1128 is readable in this source's own screenshot inventory.",
     "selected_for_website": true,
     "needs_review": false,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. October 25 column audit: corrected misplaced horizontal cells against the original screenshot; prior cells are retained in extraction_corrections.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1545390778916929607"
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-25",
+        "basis": "User reported empty left lanes in Casey formations, including 56-30. Compared every selected Casey original screenshot with the current board. These cells were transcribed one column too far right; corrected using the original floor columns and unit shadows. Unit identities, forms, player level, source, timestamps and caption coverage are unchanged.",
+        "cells": [
+          {
+            "row": 4,
+            "column": 4,
+            "before": null,
+            "after": "azurion"
+          },
+          {
+            "row": 4,
+            "column": 5,
+            "before": "azurion",
+            "after": null
+          }
+        ]
+      }
     ]
   },
   {
@@ -2724,11 +2826,11 @@
         "zapantler"
       ],
       [
-        null,
         "azurion",
         "waveflutter",
         "tideon",
-        "solaflora"
+        "solaflora",
+        null
       ],
       [
         null,
@@ -2753,12 +2855,51 @@
     "tatari_level_basis": "Player level 1128 is readable in this source's own screenshot inventory.",
     "selected_for_website": true,
     "needs_review": false,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. October 25 column audit: corrected misplaced horizontal cells against the original screenshot; prior cells are retained in extraction_corrections.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1545405804184731770"
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-25",
+        "basis": "User reported empty left lanes in Casey formations, including 56-30. Compared every selected Casey original screenshot with the current board. These cells were transcribed one column too far right; corrected using the original floor columns and unit shadows. Unit identities, forms, player level, source, timestamps and caption coverage are unchanged.",
+        "cells": [
+          {
+            "row": 4,
+            "column": 1,
+            "before": null,
+            "after": "azurion"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "azurion",
+            "after": "waveflutter"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "waveflutter",
+            "after": "tideon"
+          },
+          {
+            "row": 4,
+            "column": 4,
+            "before": "tideon",
+            "after": "solaflora"
+          },
+          {
+            "row": 4,
+            "column": 5,
+            "before": "solaflora",
+            "after": null
+          }
+        ]
+      }
     ]
   },
   {
@@ -2856,10 +2997,10 @@
         "solaflora"
       ],
       [
-        null,
         "azurion",
         "waveflutter",
         "tideon",
+        null,
         null
       ],
       [
@@ -2893,12 +3034,45 @@
     "tatari_level_basis": "Player level 1128 is readable in this source's own screenshot inventory.",
     "selected_for_website": true,
     "needs_review": true,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. October 25 column audit: corrected misplaced horizontal cells against the original screenshot; prior cells are retained in extraction_corrections.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1545408880169717860"
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-25",
+        "basis": "User reported empty left lanes in Casey formations, including 56-30. Compared every selected Casey original screenshot with the current board. These cells were transcribed one column too far right; corrected using the original floor columns and unit shadows. Unit identities, forms, player level, source, timestamps and caption coverage are unchanged.",
+        "cells": [
+          {
+            "row": 4,
+            "column": 1,
+            "before": null,
+            "after": "azurion"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "azurion",
+            "after": "waveflutter"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "waveflutter",
+            "after": "tideon"
+          },
+          {
+            "row": 4,
+            "column": 4,
+            "before": "tideon",
+            "after": null
+          }
+        ]
+      }
     ]
   },
   {
@@ -2916,32 +3090,32 @@
         null
       ],
       [
-        null,
         "clangnaga",
         "hyphoria",
+        null,
         "blitzmane",
         "voltverine"
       ],
       [
         null,
-        null,
         "charflutter",
         "umbraveil:glitter",
-        "cheerspring"
+        "cheerspring",
+        null
       ],
       [
-        null,
         "solaflora",
         "silversear",
         "voltmare",
-        "rockwu"
+        "rockwu",
+        null
       ],
       [
         null,
-        null,
         "azurion",
         "waveflutter",
-        "tideon"
+        "tideon",
+        null
       ]
     ],
     "stage_start": 50,
@@ -2963,7 +3137,7 @@
     "tatari_level_basis": "Player level 1142 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
     "selected_for_website": true,
     "needs_review": true,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. October 25 column audit: corrected misplaced horizontal cells against the original screenshot; prior cells are retained in extraction_corrections.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "tatari_level_quote": "Level 1142",
@@ -2971,6 +3145,111 @@
     "replaces_website_source_message_ids": [
       "1545411550771286036",
       "1545412793468198993"
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-25",
+        "basis": "User reported empty left lanes in Casey formations, including 56-30. Compared every selected Casey original screenshot with the current board. These cells were transcribed one column too far right; corrected using the original floor columns and unit shadows. Unit identities, forms, player level, source, timestamps and caption coverage are unchanged.",
+        "cells": [
+          {
+            "row": 2,
+            "column": 1,
+            "before": null,
+            "after": "clangnaga"
+          },
+          {
+            "row": 2,
+            "column": 2,
+            "before": "clangnaga",
+            "after": "hyphoria"
+          },
+          {
+            "row": 2,
+            "column": 3,
+            "before": "hyphoria",
+            "after": null
+          },
+          {
+            "row": 3,
+            "column": 2,
+            "before": null,
+            "after": "charflutter"
+          },
+          {
+            "row": 3,
+            "column": 3,
+            "before": "charflutter",
+            "after": "umbraveil:glitter"
+          },
+          {
+            "row": 3,
+            "column": 4,
+            "before": "umbraveil:glitter",
+            "after": "cheerspring"
+          },
+          {
+            "row": 3,
+            "column": 5,
+            "before": "cheerspring",
+            "after": null
+          },
+          {
+            "row": 4,
+            "column": 1,
+            "before": null,
+            "after": "solaflora"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "solaflora",
+            "after": "silversear"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "silversear",
+            "after": "voltmare"
+          },
+          {
+            "row": 4,
+            "column": 4,
+            "before": "voltmare",
+            "after": "rockwu"
+          },
+          {
+            "row": 4,
+            "column": 5,
+            "before": "rockwu",
+            "after": null
+          },
+          {
+            "row": 5,
+            "column": 2,
+            "before": null,
+            "after": "azurion"
+          },
+          {
+            "row": 5,
+            "column": 3,
+            "before": "azurion",
+            "after": "waveflutter"
+          },
+          {
+            "row": 5,
+            "column": 4,
+            "before": "waveflutter",
+            "after": "tideon"
+          },
+          {
+            "row": 5,
+            "column": 5,
+            "before": "tideon",
+            "after": null
+          }
+        ]
+      }
     ]
   },
   {
@@ -3686,10 +3965,10 @@
         "solaflora"
       ],
       [
-        null,
         "azurion",
         "waveflutter",
         "tideon",
+        null,
         null
       ],
       [
@@ -3717,12 +3996,45 @@
     "tatari_level_basis": "Player level 1159 is readable in this source's own screenshot inventory.",
     "selected_for_website": true,
     "needs_review": false,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. October 25 column audit: corrected misplaced horizontal cells against the original screenshot; prior cells are retained in extraction_corrections.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1545648722745233480"
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-25",
+        "basis": "User reported empty left lanes in Casey formations, including 56-30. Compared every selected Casey original screenshot with the current board. These cells were transcribed one column too far right; corrected using the original floor columns and unit shadows. Unit identities, forms, player level, source, timestamps and caption coverage are unchanged.",
+        "cells": [
+          {
+            "row": 4,
+            "column": 1,
+            "before": null,
+            "after": "azurion"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "azurion",
+            "after": "waveflutter"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "waveflutter",
+            "after": "tideon"
+          },
+          {
+            "row": 4,
+            "column": 4,
+            "before": "tideon",
+            "after": null
+          }
+        ]
+      }
     ]
   },
   {

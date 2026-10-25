@@ -2443,25 +2443,25 @@
         "orchitoria"
       ],
       [
-        null,
         "voltverine",
         "charflutter",
         "hyphoria",
+        null,
         "solaflora"
       ],
       [
-        null,
         "silversear",
         "rockong",
         "umbraveil:glitter",
+        null,
         null
       ],
       [
         null,
-        null,
         "tideon",
         "morphanessa",
-        "azurion"
+        "azurion",
+        null
       ]
     ],
     "deployed_count": 15,
@@ -2482,7 +2482,7 @@
     "tatari_level_basis": "Player level 1265 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
     "selected_for_website": true,
     "needs_review": true,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. Blitzmane is wearing a goggles costume; underlying unit and tier match Blitzmane, displayed using the catalog’s standard model.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. Blitzmane is wearing a goggles costume; underlying unit and tier match Blitzmane, displayed using the catalog’s standard model. October 25 column audit: corrected misplaced horizontal cells against the original screenshot; prior cells are retained in extraction_corrections.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "tatari_level_quote": "Level 1265",
@@ -2490,6 +2490,87 @@
     "replaces_website_source_message_ids": [
       "1548219303558512701",
       "1548221642101100544"
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-25",
+        "basis": "User reported empty left lanes in Casey formations, including 56-30. Compared every selected Casey original screenshot with the current board. These cells were transcribed one column too far right; corrected using the original floor columns and unit shadows. Unit identities, forms, player level, source, timestamps and caption coverage are unchanged.",
+        "cells": [
+          {
+            "row": 3,
+            "column": 1,
+            "before": null,
+            "after": "voltverine"
+          },
+          {
+            "row": 3,
+            "column": 2,
+            "before": "voltverine",
+            "after": "charflutter"
+          },
+          {
+            "row": 3,
+            "column": 3,
+            "before": "charflutter",
+            "after": "hyphoria"
+          },
+          {
+            "row": 3,
+            "column": 4,
+            "before": "hyphoria",
+            "after": null
+          },
+          {
+            "row": 4,
+            "column": 1,
+            "before": null,
+            "after": "silversear"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "silversear",
+            "after": "rockong"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "rockong",
+            "after": "umbraveil:glitter"
+          },
+          {
+            "row": 4,
+            "column": 4,
+            "before": "umbraveil:glitter",
+            "after": null
+          },
+          {
+            "row": 5,
+            "column": 2,
+            "before": null,
+            "after": "tideon"
+          },
+          {
+            "row": 5,
+            "column": 3,
+            "before": "tideon",
+            "after": "morphanessa"
+          },
+          {
+            "row": 5,
+            "column": 4,
+            "before": "morphanessa",
+            "after": "azurion"
+          },
+          {
+            "row": 5,
+            "column": 5,
+            "before": "azurion",
+            "after": null
+          }
+        ]
+      }
     ]
   },
   {

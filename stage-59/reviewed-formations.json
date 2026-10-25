@@ -2841,24 +2841,24 @@
       ],
       [
         null,
-        null,
         "cheerspring",
         "hyphoria",
-        "charflutter"
+        "charflutter",
+        null
       ],
       [
-        null,
         "silversear",
         "frostique",
         "umbraveil:glitter",
-        "clangnaga"
+        "clangnaga",
+        null
       ],
       [
-        null,
         "azurion",
         "morphanessa",
         "tideon",
-        "solaflora"
+        "solaflora",
+        null
       ],
       [
         null,
@@ -2891,7 +2891,7 @@
     "tatari_level_basis": "Player level 1229 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
     "selected_for_website": true,
     "needs_review": true,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. October 25 column audit: corrected misplaced horizontal cells against the original screenshot; prior cells are retained in extraction_corrections.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "tatari_level_quote": "Level 1229",
@@ -2899,6 +2899,99 @@
     "replaces_website_source_message_ids": [
       "1546746310340644984",
       "1546746889204932628"
+    ],
+    "extraction_revision": 2,
+    "extraction_corrections": [
+      {
+        "reviewed_at": "2026-10-25",
+        "basis": "User reported empty left lanes in Casey formations, including 56-30. Compared every selected Casey original screenshot with the current board. These cells were transcribed one column too far right; corrected using the original floor columns and unit shadows. Unit identities, forms, player level, source, timestamps and caption coverage are unchanged.",
+        "cells": [
+          {
+            "row": 2,
+            "column": 2,
+            "before": null,
+            "after": "cheerspring"
+          },
+          {
+            "row": 2,
+            "column": 3,
+            "before": "cheerspring",
+            "after": "hyphoria"
+          },
+          {
+            "row": 2,
+            "column": 4,
+            "before": "hyphoria",
+            "after": "charflutter"
+          },
+          {
+            "row": 2,
+            "column": 5,
+            "before": "charflutter",
+            "after": null
+          },
+          {
+            "row": 3,
+            "column": 1,
+            "before": null,
+            "after": "silversear"
+          },
+          {
+            "row": 3,
+            "column": 2,
+            "before": "silversear",
+            "after": "frostique"
+          },
+          {
+            "row": 3,
+            "column": 3,
+            "before": "frostique",
+            "after": "umbraveil:glitter"
+          },
+          {
+            "row": 3,
+            "column": 4,
+            "before": "umbraveil:glitter",
+            "after": "clangnaga"
+          },
+          {
+            "row": 3,
+            "column": 5,
+            "before": "clangnaga",
+            "after": null
+          },
+          {
+            "row": 4,
+            "column": 1,
+            "before": null,
+            "after": "azurion"
+          },
+          {
+            "row": 4,
+            "column": 2,
+            "before": "azurion",
+            "after": "morphanessa"
+          },
+          {
+            "row": 4,
+            "column": 3,
+            "before": "morphanessa",
+            "after": "tideon"
+          },
+          {
+            "row": 4,
+            "column": 4,
+            "before": "tideon",
+            "after": "solaflora"
+          },
+          {
+            "row": 4,
+            "column": 5,
+            "before": "solaflora",
+            "after": null
+          }
+        ]
+      }
     ]
   },
   {
