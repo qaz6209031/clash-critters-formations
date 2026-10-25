@@ -14,6 +14,12 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 # After August 27 in the owner's America/Los_Angeles time zone (PDT).
 PUBLICATION_CUTOFF = datetime(2026, 8, 28, 7, tzinfo=timezone.utc)
+# The October 21 update changed enemy formations in these chapters.
+# The owner requires references posted after October 21 in Los Angeles.
+CHAPTER_PUBLICATION_CUTOFFS = {
+    chapter: datetime(2026, 10, 22, 7, tzinfo=timezone.utc)
+    for chapter in range(24, 29)
+}
 CATALOG_ROOT = ROOT.parent / "2026-10-05"
 CATALOG = json.loads((CATALOG_ROOT / "tatari-reference.json").read_text())
 FORMS = {form["form_id"]: form for form in CATALOG["forms"]}
@@ -114,13 +120,14 @@ def stage_block(number: int) -> int:
     return number if offset == 0 else decade * 10 + (1 if offset <= 4 else 5)
 
 
-def source_date_eligible(source: dict) -> bool:
+def source_date_eligible(source: dict, chapter: int | None = None) -> bool:
     """Missing or ambiguous timestamps never qualify for publication."""
     try:
         posted_at = datetime.fromisoformat(source["posted_at"].replace("Z", "+00:00"))
     except (KeyError, AttributeError, TypeError, ValueError):
         return False
-    return posted_at.tzinfo is not None and posted_at >= PUBLICATION_CUTOFF
+    cutoff = CHAPTER_PUBLICATION_CUTOFFS.get(chapter, PUBLICATION_CUTOFF)
+    return posted_at.tzinfo is not None and posted_at >= cutoff
 
 
 def build() -> None:
@@ -135,7 +142,7 @@ def build() -> None:
         reference_ids = list(dict.fromkeys([
             source["id"], board_source["id"], *reviewed.get("supporting_message_ids", [])]))
         excluded_reference_ids = [message_id for message_id in reference_ids
-                                  if not source_date_eligible(SOURCES[message_id])]
+                                  if not source_date_eligible(SOURCES[message_id], reviewed["chapter"])]
         selected = reviewed.get("selected_for_website", True) and not excluded_reference_ids
         chapter = reviewed["chapter"]
         start, end = reviewed["stage_start"], reviewed["stage_end"]
@@ -222,7 +229,9 @@ def build() -> None:
             "selected_for_website": selected,
             "source_date_eligible": not excluded_reference_ids,
             "excluded_reference_message_ids": excluded_reference_ids,
-            "publication_exclusion_reason": ("Source or supporting evidence was posted on/before August 27, 2026, or has no verified timestamp."
+            "publication_exclusion_reason": (("Source or supporting evidence was posted on/before October 21, 2026, or has no verified timestamp."
+                                               if chapter in CHAPTER_PUBLICATION_CUTOFFS else
+                                               "Source or supporting evidence was posted on/before August 27, 2026, or has no verified timestamp.")
                                               if excluded_reference_ids else None),
             "selection_reason": reviewed.get("selection_reason"),
             "needs_review": needs_review,
@@ -337,12 +346,21 @@ def build() -> None:
         "posted_at_minimum_inclusive": PUBLICATION_CUTOFF.isoformat().replace("+00:00", "Z"),
         "timestamp_basis": "Original message posting time, not edit time or collection time.",
         "supporting_evidence_must_qualify": True,
+        "chapter_overrides": {
+            str(chapter): {
+                "posted_after_date": "2026-10-21",
+                "posted_at_minimum_inclusive": cutoff.isoformat().replace("+00:00", "Z"),
+                "reason": "Enemy formations changed in the October 21 update.",
+            }
+            for chapter, cutoff in CHAPTER_PUBLICATION_CUTOFFS.items()
+        },
         "missing_timestamp": "Exclude from publication.",
         "missing_replacement": "Hide the stage; preserve historical records in the archive.",
     }
     dataset = {
-        "schema_version": "1.12",
-        "collected_at": "2026-10-17",
+        "schema_version": "1.13",
+        "collected_at": "2026-10-24",
+        "chapter_24_28_update": "October 24: revamped chapters 24–28 require original and supporting posts after October 21, 2026 America/Los_Angeles. Only visually identified boards with a same-source numeric player level are published. Pre-update references remain archived and unsupported stages are empty. All other chapter selections are preserved.",
         "chapter_50_update": "October 17: chapter 50 only, as clarified by the owner. Twenty-seven visually reviewed Casey posts replace all 80 chapter 50 stages after individual comparisons. Player levels 1013, 1030 and 1032 are each lower than the previous nil references at 1056, 1110 or 1121. Every level comes from the same post’s image or explicit caption. All 24 prior nil records remain preserved, and every other chapter retains its stage boards, levels and selected sources. The 50-64 caption says the screenshot was taken late and displays 50-70; its own inventory level 1032 is preserved with a reconstruction/coverage-review flag and no inferred extra stages. Other inclusive ranges retain coverage-review notes where completion of every stage is not visible. Bosses remain separate, with shorter captioned formation changes preserved.",
         "chapter_51_update": "October 16: owner-requested Casey replacements for 51-11 through 51-80. Twenty original October 11–12 posts at level 1048 were visually reviewed. All 24 original Pika records remain preserved, with website replacement relationships; 51-1 through 51-10 and all other chapters are preserved. Casey's captions are inclusive, unlike Pika's usual next-stage endpoints. The 51-50/51-51 record retains a coverage-review flag because the screenshot shows 51-51; that stage relies on Casey's explicit two-stage caption and the next post starting at 51-52. Units and levels are visually clear. Gameplay outcomes remain author-reported.",
         "chapter_52_55_update": "October 16: 109 visually reviewed Casey posts supply 112 chapter-specific records and replace 318 stages in chapters 52–55 after individual comparisons against the previous 66pika levels. Casey levels are 1048–1059 in chapter 52, 1059–1099 in chapter 53, 1099–1116 in chapter 54 and 1116–1124 in chapter 55. Every level is readable in its own screenshot or caption. Original Pika records are preserved with website replacement relationships. No explicit Casey caption covers 53-21 or 53-22, so those two stages retain their previous Pika reference. Inclusive ranges that extend beyond visible completion retain coverage-review flags. All other stage boards, levels and sources are preserved. Casey's latest collected post is 55-80; no chapter 56 or later Casey reference was found at the thread's present end.",

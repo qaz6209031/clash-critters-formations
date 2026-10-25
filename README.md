@@ -4,10 +4,10 @@
 [GitHub repository](https://github.com/qaz6209031/clash-critters-formations)
 
 A simple Main Stage reference showing stage ranges, observed Tatari levels,
-posters and exact 5×5 formations. The published site covers **5464 stages**
-(chapters 1–79, with unsupported chapters empty), grouped into **2003 formation cards** from **1742 selected
-Discord source posts** (1753 chapter-specific records). All **2150 reviewed
-formation records** are preserved; the public index contains 2143 source and
+posters and exact 5×5 formations. The published site covers **5335 stages**
+(chapters 1–79, with unsupported chapters empty), grouped into **1951 formation cards** from **1702 selected
+Discord source posts** (1713 chapter-specific records). All **2236 reviewed
+formation records** are preserved; the public index contains 2228 source and
 supporting posts. Unsupported stages remain empty.
 
 Only original posts **after August 27, 2026** qualify for publication, using
@@ -56,6 +56,28 @@ units in rows 3–5 move to their photographed columns, and the rear red/blue
 unit is **Azurion**, replacing the mistaken Silversear. Level 1048 and source
 are unchanged; extraction revision 2 preserves the previous cell values.
 
+
+October 24 refresh applies a stricter cutoff to **chapters 24–28** because the
+October 21 update changed their enemy formations. Original **and supporting**
+posts must be after October 21 in America/Los_Angeles, beginning
+`2026-10-22T07:00:00Z`. The build enforces this separately from the August 27
+cutoff used by other chapters. **271 stages** use **86 newly reviewed records**;
+**129 stages remain empty** where no qualifying formation could be verified.
+Each published source has a numeric player level in its own image or caption.
+The five Ryz references covering 19 chapter 25 stages use Glitter Tideon,
+confirmed by the owner and matched to the catalog artwork. Most rejected
+candidates omit the player level.
+Older references remain archived, with explicit website replacement links.
+All **5064 stages outside chapters 24–28** retain their boards, levels and sources.
+
+| Chapter | Current stages | Missing stages |
+| --- | ---: | --- |
+| 24 | 23/80 | 21–29, 31–59, 61–69, 71–80 |
+| 25 | 42/80 | 1–29, 51–59 |
+| 26 | 80/80 | None |
+| 27 | 80/80 | None |
+| 28 | 46/80 | 31–44, 51–54, 56–59, 61–62, 65–69, 71–74, 79 |
+
 For **chapters 1–10 only**, unreadable or unstated player levels are allowed:
 `tatari_level: null`, `tatari_level_source: "unknown"`, displayed as **Lv. Unknown**.
 The expansion includes 66 unknown-level stages. Above chapter 10, the same-source screenshot or caption must provide a numeric player level. Enemy levels and adjacent posts never supply a missing player level. Help requests and older forwarded originals do not establish a qualifying clear. Pika-style caption endpoints matching the displayed next stage are excluded as uncleared. Casey’s explicitly inclusive captions are preserved, with a coverage-review flag where the screenshot alone does not establish completion.
@@ -65,7 +87,7 @@ reviewed references restored all **861 previously hidden stages**. Most use
 Vrondius’s September guide; individual gaps use Vanhhh, jacobdumbnut and
 ZERO_SUGAR. **27-80 now uses jacobdumbnut’s September 8 level-525 post.**
 Casey’s September level-579 posts replace the older 31-5–31-9 reference.
-All chapters 20–59 now have complete coverage. Earlier submissions remain
+Chapters 20–59 had complete coverage before the October 21 update; the current chapter 24–28 coverage is listed below. Earlier submissions remain
 archived with `selected_for_website: false` and their exclusion reason.
 
 The page opens on **chapter 31** unless its URL names a valid chapter.

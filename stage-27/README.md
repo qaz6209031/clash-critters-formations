@@ -1,21 +1,20 @@
 # Chapter 27 formations
 
-All 80 stages are published from 28 selected chapter records in 33 cards.
-Observed or explicitly stated Tatari levels: 517–546.
+October 24 refresh: **80/80 stages** from **19 visually reviewed records**.
+Original and supporting messages must be posted after **October 21, 2026** in
+America/Los_Angeles (`2026-10-22T07:00:00Z` minimum). The October 21 game
+update changed enemy formations in chapters 24–28. Every published level
+comes from its own source screenshot or caption. Levels: 511, 534, 545, 546.
 
-The October 8 update replaces previously hidden older references with original
-posts after August 27, 2026 in America/Los_Angeles. Existing eligible formations
-are retained. The root README describes the shared publication policy and gaps.
+Missing qualifying references: **None**.
+Missing or ambiguous stages remain empty; older pre-update records are archived.
+Coverage includes only explicitly reported clears. Inclusive caption endpoints
+that exceed visible completion retain review notes. Exact forms, variants and
+all 25 positions were visually checked against the planner catalog. The site
+keeps regular 1–4 and 5–9 blocks and each boss separate, with shorter verified
+splits preserved. Posting display names and original message links remain visible.
 
-Exact forms, Glitter variants, positions and empty cells were visually reviewed
-against the supplied planner. Only caption-supported stages are selected;
-`caption_stage_numbers` preserves gaps and `website_stage_numbers` preserves the
-selected subset. Regular 1–4 and 5–9 blocks and bosses stay separate, with
-further splits when verified formations change within a block.
-
-The site shows the posting display name and links to the original Discord
-message. Creator credits are stored separately. Older and unselected references
-remain archived. Original screenshots and browser captures remain local; the
-public source index preserves captions, posting dates and permalinks.
-
-Rebuild with `python3 stage-47/build_site.py` from the repository root.
+Collection used only the authenticated Discord website in read-only mode.
+Original screenshots and full search evidence remain local. The public source
+index retains relevant captions, original posting times, authors and permalinks.
+Other chapters and default chapter 31 are preserved.
