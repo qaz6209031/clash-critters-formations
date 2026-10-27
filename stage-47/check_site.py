@@ -40,7 +40,7 @@ if not NODE_AVAILABLE:
 CARD_ID_RE = re.compile(r'<article class="stage" id="(stage-(\d+)-(\d+))"')
 SCRIPT_RE = re.compile(r"<script([^>]*)>(.*?)</script>", re.DOTALL)
 CANONICAL_RE = re.compile(r'<link rel="canonical" href="([^"]+)">')
-H1_RE = re.compile(r"<h1>(.*?)</h1>", re.DOTALL)
+H1_RE = re.compile(r"<h1\b([^>]*)>(.*?)</h1>", re.DOTALL)
 TITLE_RE = re.compile(r"<title>(.*?)</title>", re.DOTALL)
 DESCRIPTION_RE = re.compile(r'<meta name="description" content="([^"]*)">')
 HREFLANG_RE = re.compile(r'<link rel="alternate" hreflang="([a-z-]+)" href="([^"]+)">')
@@ -77,6 +77,12 @@ def check_page(path: Path) -> None:
         if removed in text:
             fail(f"{rel}: removed share feature still present: {removed}")
 
+    for removed in ('stage-search-form', 'stage-search-input', 'stage-search-status',
+                    'search-btn', 'stage_search', 'e.g. 31-45', 'ví dụ: 31-45',
+                    '?stage=', 'SearchAction', 'pendingStageSearch', 'parseStageQuery'):
+        if removed in text:
+            fail(f"{rel}: removed search feature still present: {removed}")
+
     if '<meta name="viewport" content="width=device-width, initial-scale=1">' not in text:
         fail(f"{rel}: missing mobile viewport meta tag")
     for attrs in re.findall(r'<img\b([^>]+)>', text):
@@ -90,6 +96,15 @@ def check_page(path: Path) -> None:
     h1s = H1_RE.findall(text)
     if len(h1s) != 1:
         fail(f"{rel}: expected exactly one <h1>, found {len(h1s)}")
+
+    is_chapter = "chapter" in rel.parts
+    if len(h1s) == 1:
+        classes = re.search(r'class=[\"\']([^\"\']*)[\"\']', h1s[0][0])
+        hidden = classes is not None and "sr-only" in classes.group(1).split()
+        if is_chapter and not hidden:
+            fail(f"{rel}: chapter h1 must have class sr-only")
+        elif not is_chapter and hidden:
+            fail(f"{rel}: home/privacy h1 must remain visible")
 
     titles = TITLE_RE.findall(text)
     if len(titles) != 1 or not titles[0].strip():

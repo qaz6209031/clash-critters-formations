@@ -163,11 +163,6 @@ STRINGS = {
         "prev_chapter": "← Previous chapter",
         "next_chapter": "Next chapter →",
         "empty_chapter_message": "No verified formations available for this chapter yet.",
-        "search_label": "Jump to stage",
-        "search_placeholder": "e.g. 31-45",
-        "search_button": "Go",
-        "search_invalid": "Enter a chapter and stage, like 31-45.",
-        "search_not_found": "No verified formation for stage {chapter}-{stage} yet.",
         "donation_label": "Finding these formations helpful?",
         "donation_desktop": "Buy me a coffee ☕",
         "donation_mobile": "☕ Donate",
@@ -243,11 +238,6 @@ STRINGS = {
         "prev_chapter": "← Chương trước",
         "next_chapter": "Chương sau →",
         "empty_chapter_message": "Chưa có đội hình nào được xác minh cho chương này.",
-        "search_label": "Đi đến màn",
-        "search_placeholder": "ví dụ: 31-45",
-        "search_button": "Đi",
-        "search_invalid": "Nhập chương và màn, ví dụ 31-45.",
-        "search_not_found": "Chưa có đội hình nào được xác minh cho màn {chapter}-{stage}.",
         "donation_label": "Thấy các đội hình này hữu ích?",
         "donation_desktop": "Mời tôi một ly cà phê ☕",
         "donation_mobile": "☕ Ủng hộ",
@@ -367,11 +357,6 @@ def website_jsonld(lang: str) -> str:
         "name": STRINGS[lang]["site_title"],
         "url": url,
         "inLanguage": "en-US" if lang == "en" else "vi-VN",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": {"@type": "EntryPoint", "urlTemplate": f"{url}?stage={{search_term_string}}"},
-            "query-input": "required name=search_term_string",
-        },
     }
     return jsonld_script(data)
 
@@ -433,13 +418,11 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "LANG_SWITCH_NAV": lang_switch_nav,
         "CHAPTER_LABEL_TEXT": html.escape(S["chapter_label"]),
         "CHAPTER_OPTIONS": chapter_options(lang, chapter),
-        "SEARCH_LABEL_TEXT": html.escape(S["search_label"]),
-        "SEARCH_PLACEHOLDER_TEXT": html.escape(S["search_placeholder"], quote=True),
-        "SEARCH_BUTTON_TEXT": html.escape(S["search_button"]),
         "DONATION_LABEL_TEXT": html.escape(S["donation_label"]),
         "DONATION_ARIA_TEXT": html.escape(S["donation_aria"], quote=True),
         "DONATION_DESKTOP_TEXT": html.escape(S["donation_desktop"]),
         "DONATION_MOBILE_TEXT": html.escape(S["donation_mobile"]),
+        "H1_ATTRIBUTES": ' class="sr-only"' if page_type == "chapter" else "",
         "H1_TEXT": html.escape(h1),
         "MAIN_CONTENT": main_content,
         "FOOTER_UNOFFICIAL_TEXT": html.escape(S["footer_unofficial"]),
@@ -451,13 +434,8 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "JS_CONFIG_JSON": json.dumps({
             "lang": lang,
             "langPrefix": lang_prefix(lang),
-            "siteUrl": SITE_URL,
             "pageType": page_type,
             "chapter": chapter,
-            "strings": {
-                "searchInvalid": S["search_invalid"],
-                "searchNotFound": S["search_not_found"],
-            },
         }, ensure_ascii=False).replace("</", "<\\/"),
     }
     page = template
@@ -493,7 +471,7 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
     source = group["source"]
     board_aria = html.escape(S["board_aria"].format(stage=stage), quote=True)
     return (
-        f'<article class="stage" id="{card_id}" data-chapter="{chapter}" data-stages="{group["stage_numbers_attr"]}" '
+        f'<article class="stage" id="{card_id}" data-chapter="{chapter}" '
         f'data-formation-id="{group["formation_id"]}" data-source-message-ids="{group["source_ids_attr"]}" '
         f'data-posted-at="{html.escape(group["posted_at_min"], quote=True)}">'
         f'<h2 class="stage-title"><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" '
@@ -545,8 +523,7 @@ def render_chapter_main(lang: str, chapter_number: int, cards_html: list[str]) -
         body = f'<div class="cards-grid" id="chapter-cards">{"".join(cards_html)}</div>'
     else:
         body = f'<p class="empty-chapter">{html.escape(S["empty_chapter_message"])}</p>'
-    not_found = '<p id="stage-not-found" class="stage-not-found" hidden></p>'
-    return pagination + body + not_found
+    return pagination + body
 
 
 def render_privacy_main(lang: str) -> str:
@@ -775,7 +752,6 @@ def build() -> None:
         chapter = group["chapter"]
         group["stage_label"] = stage_label(group["numbers"], chapter)
         group["card_id"] = f"stage-{chapter}-{min(group['numbers'])}"
-        group["stage_numbers_attr"] = ",".join(f"{chapter}-{n}" for n in sorted(set(group["numbers"])))
         cell_sprites = []
         for r, row in enumerate(group["board"], 1):
             for c, key in enumerate(row, 1):
