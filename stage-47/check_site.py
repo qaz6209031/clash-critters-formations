@@ -101,13 +101,18 @@ def check_page(path: Path) -> None:
         fail(f"{rel}: expected exactly one <h1>, found {len(h1s)}")
 
     is_chapter = "chapter" in rel.parts
+    is_home = rel in (Path("index.html"), Path("vi/index.html"))
+    if 'class="intro"' in text:
+        fail(f"{rel}: removed intro section still present")
+    if is_home and "fan-made reference" in text:
+        fail(f"{rel}: removed home intro text still present")
     if len(h1s) == 1:
         classes = re.search(r'class=[\"\']([^\"\']*)[\"\']', h1s[0][0])
         hidden = classes is not None and "sr-only" in classes.group(1).split()
-        if is_chapter and not hidden:
-            fail(f"{rel}: chapter h1 must have class sr-only")
-        elif not is_chapter and hidden:
-            fail(f"{rel}: home/privacy h1 must remain visible")
+        if (is_chapter or is_home) and not hidden:
+            fail(f"{rel}: home/chapter h1 must have class sr-only")
+        elif not (is_chapter or is_home) and hidden:
+            fail(f"{rel}: privacy h1 must remain visible")
 
     titles = TITLE_RE.findall(text)
     if len(titles) != 1 or not titles[0].strip():

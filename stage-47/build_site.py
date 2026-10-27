@@ -147,10 +147,6 @@ STRINGS = {
         "home_title": "Clash of Critters Formations by Chapter | Critter Formations",
         "home_description": "Browse Clash of Critters Main Stage formations by chapter, with Tatari levels and links to the original player posts.",
         "home_h1": "Clash of Critters Formations",
-        "home_intro": [
-            "Critter Formations is a fan-made reference for Clash of Critters' Main Stage, collecting 5×5 critter lineups that players have posted in the game's Discord after clearing each stage.",
-            "Levels shown are the poster's own reported Tatari level at the time of their clear — not a required minimum. Every card links back to the original Discord post so you can verify the source yourself.",
-        ],
         "home_chapters_heading": "Chapters",
         "chapter_count": "{cards} cards · {stages} stages",
         "chapter_count_empty": "No formations yet",
@@ -219,10 +215,6 @@ STRINGS = {
         "home_title": "Đội Hình Chiến Thú Hỗn Chiến Theo Chương | Critter Formations",
         "home_description": "Xem đội hình Main Stage của Chiến Thú Hỗn Chiến (Clash of Critters) theo từng chương, kèm cấp Tatari và liên kết đến bài đăng gốc của người chơi.",
         "home_h1": "Đội Hình Chiến Thú Hỗn Chiến",
-        "home_intro": [
-            "Critter Formations là trang tổng hợp không chính thức dành cho Main Stage của Chiến Thú Hỗn Chiến (Clash of Critters), thu thập các đội hình 5×5 mà người chơi đã đăng trên Discord của game sau khi vượt qua từng màn.",
-            "Cấp độ hiển thị là cấp Tatari do người đăng tự báo cáo tại thời điểm họ vượt màn — không phải mức tối thiểu bắt buộc. Mỗi thẻ đều có liên kết trực tiếp đến bài đăng Discord gốc để bạn có thể tự kiểm chứng.",
-        ],
         "home_chapters_heading": "Các chương",
         "chapter_count": "{cards} đội hình · {stages} màn",
         "chapter_count_empty": "Chưa có đội hình",
@@ -416,7 +408,7 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "DONATION_ARIA_TEXT": html.escape(S["donation_aria"], quote=True),
         "DONATION_DESKTOP_TEXT": html.escape(S["donation_desktop"]),
         "DONATION_MOBILE_TEXT": html.escape(S["donation_mobile"]),
-        "H1_ATTRIBUTES": ' class="sr-only"' if page_type == "chapter" else "",
+        "H1_ATTRIBUTES": ' class="sr-only"' if page_type in ("chapter", "home") else "",
         "H1_TEXT": html.escape(h1),
         "MAIN_CONTENT": main_content,
         "FOOTER_UNOFFICIAL_TEXT": html.escape(S["footer_unofficial"]),
@@ -478,7 +470,6 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
 
 def render_home_main(lang: str, chapter_stats: dict) -> str:
     S = STRINGS[lang]
-    intro = "".join(f"<p>{html.escape(p)}</p>" for p in S["home_intro"])
     items = []
     for c in CHAPTERS:
         n = c["chapter"]
@@ -491,8 +482,7 @@ def render_home_main(lang: str, chapter_stats: dict) -> str:
             f'<span class="chapter-name">{html.escape(S["chapter_option_label"].format(n=n))}</span>'
             f'<span class="chapter-count">{html.escape(count_text)}</span></a></li>')
     heading = html.escape(S["home_chapters_heading"])
-    return (f'<section class="intro">{intro}</section>'
-            f'<h2 class="section-heading">{heading}</h2>'
+    return (f'<h2 class="section-heading">{heading}</h2>'
             f'<ul class="chapter-grid" aria-label="{heading}">{"".join(items)}</ul>')
 
 
