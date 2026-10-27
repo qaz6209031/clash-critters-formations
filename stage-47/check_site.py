@@ -77,6 +77,12 @@ def check_page(path: Path) -> None:
         if removed in text:
             fail(f"{rel}: removed share feature still present: {removed}")
 
+    if '<meta name="viewport" content="width=device-width, initial-scale=1">' not in text:
+        fail(f"{rel}: missing mobile viewport meta tag")
+    for attrs in re.findall(r'<img\b([^>]+)>', text):
+        if not ('width="' in attrs and 'height="' in attrs):
+            fail(f"{rel}: image missing explicit dimensions")
+
     canonicals = CANONICAL_RE.findall(text)
     if len(canonicals) != 1:
         fail(f"{rel}: expected exactly one canonical link, found {len(canonicals)}")
