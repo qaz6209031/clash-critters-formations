@@ -168,10 +168,6 @@ STRINGS = {
         "search_button": "Go",
         "search_invalid": "Enter a chapter and stage, like 31-45.",
         "search_not_found": "No verified formation for stage {chapter}-{stage} yet.",
-        "share_group_aria": "Share this chapter",
-        "share_button": "Share",
-        "copy_button": "Copy link",
-        "toast_copied": "Link copied",
         "donation_label": "Finding these formations helpful?",
         "donation_desktop": "Buy me a coffee ☕",
         "donation_mobile": "☕ Donate",
@@ -181,7 +177,6 @@ STRINGS = {
         "row_col": "row {row}, column {column}",
         "empty_cell": "Empty · row {row}, column {column}",
         "board_aria": "Stages {stage}: 5 by 5 formation, top row is the front",
-        "card_share_aria": "Copy link to stage {stage}",
         "footer_unofficial": "Unofficial Fan-Created Work, not affiliated with or endorsed by Farlight.",
         "footer_trademark": "Clash of Critters is a trademark of its respective owners.",
         "footer_privacy_label": "Privacy",
@@ -253,10 +248,6 @@ STRINGS = {
         "search_button": "Đi",
         "search_invalid": "Nhập chương và màn, ví dụ 31-45.",
         "search_not_found": "Chưa có đội hình nào được xác minh cho màn {chapter}-{stage}.",
-        "share_group_aria": "Chia sẻ chương này",
-        "share_button": "Chia sẻ",
-        "copy_button": "Sao chép liên kết",
-        "toast_copied": "Đã sao chép liên kết",
         "donation_label": "Thấy các đội hình này hữu ích?",
         "donation_desktop": "Mời tôi một ly cà phê ☕",
         "donation_mobile": "☕ Ủng hộ",
@@ -266,7 +257,6 @@ STRINGS = {
         "row_col": "hàng {row}, cột {column}",
         "empty_cell": "Trống · hàng {row}, cột {column}",
         "board_aria": "Các màn {stage}: đội hình 5x5, hàng trên cùng là hàng đầu",
-        "card_share_aria": "Sao chép liên kết đến màn {stage}",
         "footer_unofficial": "Nội dung do người hâm mộ tạo (không chính thức), không liên kết hoặc được Farlight xác nhận.",
         "footer_trademark": "Clash of Critters là nhãn hiệu thuộc về chủ sở hữu tương ứng.",
         "footer_privacy_label": "Quyền riêng tư",
@@ -416,19 +406,12 @@ def chapter_options(lang: str, selected: int | None = None) -> str:
         for c in CHAPTERS)
 
 
-def chapter_tools_html(lang: str) -> str:
-    S = STRINGS[lang]
-    return (f'<div class="chapter-tools" role="group" aria-label="{html.escape(S["share_group_aria"], quote=True)}">'
-            f'<button type="button" id="chapter-share-btn" class="tool-btn">{html.escape(S["share_button"])}</button>'
-            f'<button type="button" id="chapter-copy-btn" class="tool-btn">{html.escape(S["copy_button"])}</button></div>')
-
-
 _TEMPLATE_MARKER = re.compile(r"<!--\s*[A-Z][A-Z_]*\s*-->")
 
 
 def render_shell(template: str, lang: str, page_type: str, *, title: str, description: str, canonical_path: str,
                   h1: str, main_content: str, og_image_path: str, og_image_alt: str, jsonld_scripts: list[str],
-                  chapter: int | None = None, robots_noindex: bool = False, chapter_tools: str = "") -> str:
+                  chapter: int | None = None, robots_noindex: bool = False) -> str:
     S = STRINGS[lang]
     other_lang = "vi" if lang == "en" else "en"
     lang_switch_nav = "\n        ".join(
@@ -453,7 +436,6 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "SEARCH_LABEL_TEXT": html.escape(S["search_label"]),
         "SEARCH_PLACEHOLDER_TEXT": html.escape(S["search_placeholder"], quote=True),
         "SEARCH_BUTTON_TEXT": html.escape(S["search_button"]),
-        "CHAPTER_TOOLS": chapter_tools,
         "DONATION_LABEL_TEXT": html.escape(S["donation_label"]),
         "DONATION_ARIA_TEXT": html.escape(S["donation_aria"], quote=True),
         "DONATION_DESKTOP_TEXT": html.escape(S["donation_desktop"]),
@@ -475,7 +457,6 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
             "strings": {
                 "searchInvalid": S["search_invalid"],
                 "searchNotFound": S["search_not_found"],
-                "toastCopied": S["toast_copied"],
             },
         }, ensure_ascii=False).replace("</", "<\\/"),
     }
@@ -511,7 +492,6 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
     card_id = group["card_id"]
     source = group["source"]
     board_aria = html.escape(S["board_aria"].format(stage=stage), quote=True)
-    share_aria = html.escape(S["card_share_aria"].format(stage=stage), quote=True)
     return (
         f'<article class="stage" id="{card_id}" data-chapter="{chapter}" data-stages="{group["stage_numbers_attr"]}" '
         f'data-formation-id="{group["formation_id"]}" data-source-message-ids="{group["source_ids_attr"]}" '
@@ -519,7 +499,7 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
         f'<h2 class="stage-title"><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" '
         f'title="{html.escape(S["discord_link_title"], quote=True)}">{stage}</a>'
         f'<span class="level" title="{group["level_title"]}" aria-label="{group["level_title"]}">{group["level_text"]}</span>'
-        f'<button type="button" class="card-share" data-share-id="{card_id}" aria-label="{share_aria}">\U0001f517</button></h2>'
+        f'</h2>'
         f'<p class="poster">{S["posted_by"]} {group["poster_links"]}</p>'
         f'<div class="board" role="group" aria-label="{board_aria}">{"".join(cells_html)}</div></article>')
 
@@ -973,7 +953,6 @@ def build() -> None:
                 h1=strings["chapter_h1"].format(n=number), main_content=main_content,
                 og_image_path=f"og/chapter-{number}.png", og_image_alt=strings["og_alt_chapter"].format(n=number),
                 jsonld_scripts=jsonld_scripts, robots_noindex=not stats["cards"],
-                chapter_tools=chapter_tools_html(lang),
             )
             chapter_dir = ((site / "chapter" / str(number)) if lang == "en" else
                            (site / "vi" / "chapter" / str(number)))
