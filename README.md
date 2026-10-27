@@ -109,13 +109,16 @@ Casey’s September level-579 posts replace the older 31-5–31-9 reference.
 Chapters 20–59 had complete coverage before the October 21 update; the current chapter 24–28 coverage is listed below. Earlier submissions remain
 archived with `selected_for_website: false` and their exclusion reason.
 
-The page opens on **chapter 31** unless its URL names a valid chapter.
-Choose a chapter at the top to show only its formations. The selector stays
-available while scrolling, supports chapter links such as `#chapter-40`, and
-works on phones. Only the selected chapter's cards and artwork are downloaded. Level badges
-show the level numbers (or Unknown in chapters 1–10), with the posting display name immediately below.
-Stage labels and posters link to their original Discord messages, which require
-the viewer's own server access. A credited creator is distinct from the poster.
+Each chapter is now a static, crawlable page at `/chapter/<number>/` (and
+`/vi/chapter/<number>/` in Vietnamese), so only that chapter's cards and
+artwork are downloaded. The home page (`/`) is a chapter index with
+card/stage counts; the old `#chapter-40`-style links on the home page still
+work and redirect to the chapter page via JavaScript. A header search box
+accepts inputs like `31-45` and jumps straight to that stage's card. Level
+badges show the level numbers (or Unknown in chapters 1–10), with the posting
+display name immediately below. Stage labels and posters link to their
+original Discord messages, which require the viewer's own server access. A
+credited creator is distinct from the poster.
 
 Exact forms, glitter variants and positions determine whether cards can merge.
 Chapters 1–30, 32–39 and 50–79 keep 1–4, 5–9 and each boss separate.
@@ -127,26 +130,31 @@ Ambiguous evidence retains review notes in the saved data and level tooltips.
 
 ## Preview and build
 
-Python 3 is the only build requirement; no packages need to be installed.
+Building requires Python 3 and [Pillow](https://pypi.org/project/Pillow/)
+(used to generate the static Open Graph preview images).
 
 ```sh
+python3 -m pip install --user pillow
 python3 stage-47/build_site.py
+python3 stage-47/check_site.py   # validates the generated site; exits non-zero on failure
 python3 -m http.server 8765 --bind 127.0.0.1 --directory stage-47/site
 ```
 
-Open `http://127.0.0.1:8765/`. Choose a chapter or use a link such as
-`#chapter-31`, `#chapter-40` or `#chapter-69`. The page fetches
-`chapters/<number>.html` and `sprites/<id>.png` when a chapter is chosen, so it
+Open `http://127.0.0.1:8765/`, or jump straight to a chapter such as
+`http://127.0.0.1:8765/chapter/31/` (Vietnamese: `/vi/chapter/31/`). Every
+chapter page is a fully static file under `sprites/<id>.png` for artwork, so it
 must be served over HTTP; opening `index.html` directly from disk does not load
-formations. All paths are relative, so GitHub Pages project paths work without a
-base-URL setting.
+sprites. All asset URLs are root-absolute (`/sprites/...`, `/favicon-tatari.png`),
+so the site expects to be served from the domain root rather than a GitHub
+Pages project subpath.
 
 ## GitHub Pages
 
-The `Deploy GitHub Pages` workflow rebuilds and publishes `stage-47/site`
-on every push to `main`, and can also run manually. In the repository's
-**Settings → Pages**, the publishing source is **GitHub Actions**.
-The workflow follows the [GitHub Pages deployment documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
+The `Deploy GitHub Pages` workflow installs Pillow, rebuilds and validates
+`stage-47/site`, then publishes it on every push to `main` (and can also run
+manually). In the repository's **Settings → Pages**, the publishing source is
+**GitHub Actions**. The workflow follows the
+[GitHub Pages deployment documentation](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages).
 
 To update formations, edit the appropriate chapter's `reviewed-formations.json`
 and add source metadata to `data/source-index.json`, then build, commit and push.
@@ -161,9 +169,14 @@ The chapter selector is populated automatically.
 
 - `stage-1` through `stage-79`: reviewed formations and chapter notes.
 - `stage-47/build_site.py`: static site and structured-data generator.
-- `stage-47/page-template.html`: website layout and styles.
-- `stage-47/site`: generated website — `index.html`, one card fragment per
-  chapter in `chapters/` and the used artwork in `sprites/`.
+- `stage-47/page-template.html`: shared website layout, styles and client script
+  (filled in with per-page text and i18n strings from `build_site.py`).
+- `stage-47/check_site.py`: stdlib-only post-build validator (page counts, card
+  anchor ids, sitemap coverage, JSON-LD validity, inline-script syntax, etc.).
+- `stage-47/site`: generated website — `index.html` (chapter index),
+  `chapter/<number>/index.html` per chapter, the Vietnamese mirror under `vi/`,
+  `privacy.html`, `sitemap.xml`, `robots.txt`, generated Open Graph previews in
+  `og/`, and the used artwork in `sprites/`.
 - `data/source-index.json`: publication metadata containing captions,
   timestamps, posting display names and message permalinks. New entries retain
   the relevant stage/level caption excerpt. It excludes attachment
