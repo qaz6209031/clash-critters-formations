@@ -61,11 +61,6 @@
     .donation-text-mobile { display: none; }
     .donation-link { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 9px 12px; border: 1px solid #b9c8aa; border-radius: 10px; background: #fff; color: #486342; font-size: 14px; font-weight: 650; text-decoration: none; white-space: nowrap; }
     .donation-link:hover { background: #edf2e6; border-color: #477c38; }
-    .chapter-pagination { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: 0 0 16px; }
-    .chapter-pagination a, .chapter-pagination span { padding: 8px 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 650; }
-    .chapter-pagination a { background: #fff; border: 1px solid #b9c8aa; color: #486342; }
-    .chapter-pagination a:hover { background: #edf2e6; border-color: #477c38; }
-    .chapter-pagination .disabled { color: #a9b79d; }
     main { flex: 1; max-width: 1440px; margin: 0 auto; padding: 10px 24px 48px; width: 100%; }
     .intro { max-width: 760px; line-height: 1.6; }
     .intro p { margin: 0 0 14px; }
@@ -111,10 +106,9 @@
       }
       .site-footer nav { display: flex; flex-wrap: wrap; gap: 4px 12px; }
       .poster { display: flex; align-items: center; flex-wrap: wrap; column-gap: 4px; }
-      .chapter-pagination a { display: flex; align-items: center; justify-content: center; min-height: 44px; min-width: 44px; }
     }
-    @media (min-width: 851px) { .page-header, main, .chapter-pagination, .site-footer { width: 90%; } h2.stage-title { font-size: clamp(18px, 1.35vw, 23.4px); } .level, .poster { font-size: 12.6px; } }
-    @media (max-width: 850px) { .cards-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 750px; gap: 18px; } .chapter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .page-header, main, .chapter-pagination, .site-footer { max-width: 750px; } }
+    @media (min-width: 851px) { .page-header, main, .site-footer { width: 90%; } h2.stage-title { font-size: clamp(18px, 1.35vw, 23.4px); } .level, .poster { font-size: 12.6px; } }
+    @media (max-width: 850px) { .cards-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 750px; gap: 18px; } .chapter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .page-header, main, .site-footer { max-width: 750px; } }
     @media (max-width: 520px) {
       .cards-grid { grid-template-columns: 1fr; max-width: 420px; gap: 18px; }
       .chapter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
@@ -128,8 +122,6 @@
       .donation-label, .donation-text-desktop { display: none; }
       .donation-text-mobile { display: inline; }
       .donation-link { min-height: 44px; padding: 9px; font-size: 12px; border-radius: 8px; }
-      .chapter-pagination { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); gap: 8px; width: 100%; }
-      .chapter-pagination a, .chapter-pagination span { padding: 8px; text-align: center; }
       .site-footer { width: 100%; padding-left: 12px; padding-right: 12px; }
       h2.stage-title { font-size: 18px; }
       h2.stage-title a { padding-left: 14px; }
@@ -137,7 +129,7 @@
       .poster { margin-left: 14px; }
       .board { padding: 7px; gap: 2px; }
     }
-    @media print { :root { background: white; } .header-controls, .chapter-pagination, .site-footer { display: none; } main { width: auto; max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
+    @media print { :root { background: white; } .header-controls, .site-footer { display: none; } main { width: auto; max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
   </style>
 </head>
 <body>
@@ -163,7 +155,7 @@
   </header>
   <main id="formations" aria-label="Stage formations">
     <h1 class="sr-only">Chapter 1 Formations</h1>
-    <nav class="chapter-pagination" aria-label="Chapter navigation"><span class="disabled">← Previous chapter</span><span>Chapter 1</span><a href="/chapter/2/">Next chapter →</a></nav><p class="empty-chapter">No verified formations available for this chapter yet.</p>
+    <p class="empty-chapter">No verified formations available for this chapter yet.</p>
   </main>
   <footer class="site-footer">
     <p>Unofficial Fan-Created Work, not affiliated with or endorsed by Farlight.</p>

@@ -159,9 +159,6 @@ STRINGS = {
         "chapter_level_clause": ", observed Tatari levels {lo}–{hi}",
         "chapter_description_empty": "No verified formations are available yet for Chapter {n} (stages {n}-1–{n}-80).",
         "chapter_h1": "Chapter {n} Formations",
-        "chapter_nav_aria": "Chapter navigation",
-        "prev_chapter": "← Previous chapter",
-        "next_chapter": "Next chapter →",
         "empty_chapter_message": "No verified formations available for this chapter yet.",
         "donation_label": "Finding these formations helpful?",
         "donation_desktop": "Buy me a coffee ☕",
@@ -234,9 +231,6 @@ STRINGS = {
         "chapter_level_clause": ", cấp Tatari quan sát được {lo}–{hi}",
         "chapter_description_empty": "Chưa có đội hình nào được xác minh cho Chương {n} (màn {n}-1–{n}-80).",
         "chapter_h1": "Đội hình Chương {n}",
-        "chapter_nav_aria": "Điều hướng chương",
-        "prev_chapter": "← Chương trước",
-        "next_chapter": "Chương sau →",
         "empty_chapter_message": "Chưa có đội hình nào được xác minh cho chương này.",
         "donation_label": "Thấy các đội hình này hữu ích?",
         "donation_desktop": "Mời tôi một ly cà phê ☕",
@@ -502,28 +496,13 @@ def render_home_main(lang: str, chapter_stats: dict) -> str:
             f'<ul class="chapter-grid" aria-label="{heading}">{"".join(items)}</ul>')
 
 
-def render_chapter_main(lang: str, chapter_number: int, cards_html: list[str]) -> str:
+def render_chapter_main(lang: str, cards_html: list[str]) -> str:
     S = STRINGS[lang]
-    numbers = [c["chapter"] for c in CHAPTERS]
-    idx = numbers.index(chapter_number)
-    prev_n = numbers[idx - 1] if idx > 0 else None
-    next_n = numbers[idx + 1] if idx < len(numbers) - 1 else None
-
-    def nav_link(n, label):
-        if n is None:
-            return f'<span class="disabled">{html.escape(label)}</span>'
-        return f'<a href="{page_path(lang, "chapter", n)}">{html.escape(label)}</a>'
-
-    pagination = (
-        f'<nav class="chapter-pagination" aria-label="{html.escape(S["chapter_nav_aria"], quote=True)}">'
-        f'{nav_link(prev_n, S["prev_chapter"])}'
-        f'<span>{html.escape(S["chapter_option_label"].format(n=chapter_number))}</span>'
-        f'{nav_link(next_n, S["next_chapter"])}</nav>')
     if cards_html:
         body = f'<div class="cards-grid" id="chapter-cards">{"".join(cards_html)}</div>'
     else:
         body = f'<p class="empty-chapter">{html.escape(S["empty_chapter_message"])}</p>'
-    return pagination + body
+    return body
 
 
 def render_privacy_main(lang: str) -> str:
@@ -911,7 +890,7 @@ def build() -> None:
         for lang in LANGS:
             strings = STRINGS[lang]
             cards_html = [render_card(group, lang, index == 0) for index, group in enumerate(group_list)]
-            main_content = render_chapter_main(lang, number, cards_html)
+            main_content = render_chapter_main(lang, cards_html)
             title = strings["chapter_title"].format(n=number)
             if stats["cards"]:
                 level_clause = (strings["chapter_level_clause"].format(lo=stats["level_min"], hi=stats["level_max"])

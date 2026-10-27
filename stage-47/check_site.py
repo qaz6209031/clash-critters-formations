@@ -72,6 +72,9 @@ def check_page(path: Path) -> None:
     text = path.read_text()
     rel = path.relative_to(SITE)
 
+    if "chapter-pagination" in text:
+        fail(f"{rel}: removed chapter pagination still present")
+
     for removed in ('chapter-share-btn', 'chapter-copy-btn', 'card-share',
                     'toastCopied', 'navigator.share', "gaEvent('share'"):
         if removed in text:
