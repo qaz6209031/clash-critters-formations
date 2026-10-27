@@ -72,6 +72,11 @@ def check_page(path: Path) -> None:
     text = path.read_text()
     rel = path.relative_to(SITE)
 
+    for removed in ('chapter-share-btn', 'chapter-copy-btn', 'card-share',
+                    'toastCopied', 'navigator.share', "gaEvent('share'"):
+        if removed in text:
+            fail(f"{rel}: removed share feature still present: {removed}")
+
     canonicals = CANONICAL_RE.findall(text)
     if len(canonicals) != 1:
         fail(f"{rel}: expected exactly one canonical link, found {len(canonicals)}")

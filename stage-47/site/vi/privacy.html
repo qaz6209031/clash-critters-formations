@@ -58,14 +58,13 @@
     select:focus-visible, input:focus-visible, button:focus-visible, a:focus-visible { outline: 3px solid #477c38; outline-offset: 3px; }
     .stage-search { display: flex; align-items: center; gap: 8px; }
     .stage-search input { width: 140px; }
-    .tool-btn, .search-btn { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 9px 14px; border: 1px solid #b9c8aa; border-radius: 10px; background: #fff; color: #486342; font-size: 14px; font-weight: 650; cursor: pointer; }
-    .tool-btn:hover, .search-btn:hover { background: #edf2e6; border-color: #477c38; }
+    .search-btn { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 9px 14px; border: 1px solid #b9c8aa; border-radius: 10px; background: #fff; color: #486342; font-size: 14px; font-weight: 650; cursor: pointer; }
+    .search-btn:hover { background: #edf2e6; border-color: #477c38; }
     .donation-links { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
     .donation-label { font-size: 13px; color: #536b49; }
     .donation-text-mobile { display: none; }
     .donation-link { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 9px 12px; border: 1px solid #b9c8aa; border-radius: 10px; background: #fff; color: #486342; font-size: 14px; font-weight: 650; text-decoration: none; white-space: nowrap; }
     .donation-link:hover { background: #edf2e6; border-color: #477c38; }
-    .chapter-tools { display: flex; gap: 8px; }
     .chapter-pagination { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin: 0 0 16px; }
     .chapter-pagination a, .chapter-pagination span { padding: 8px 12px; border-radius: 8px; text-decoration: none; font-size: 14px; font-weight: 650; }
     .chapter-pagination a { background: #fff; border: 1px solid #b9c8aa; color: #486342; }
@@ -94,8 +93,6 @@
     h2.stage-title a:hover { color: #477c38; }
     h2.stage-title a:focus-visible { outline: 3px solid #477c38; outline-offset: -4px; border-radius: 10px; }
     .level { flex-shrink: 0; padding: 5px 8px; margin: 0 8px 0 0; border-radius: 8px; background: #edf2e6; color: #486342; font-size: 12px; font-weight: 650; line-height: 1.25; letter-spacing: 0; text-align: center; white-space: nowrap; }
-    .card-share { flex-shrink: 0; margin: 0 12px 0 0; padding: 4px 7px; border: 1px solid #d8e0cc; border-radius: 8px; background: #fff; font-size: 13px; line-height: 1; cursor: pointer; }
-    .card-share:hover { border-color: #477c38; background: #edf2e6; }
     .poster { margin: -2px 18px 12px; color: #687762; font-size: 12px; line-height: 1.4; overflow-wrap: anywhere; }
     .poster a { color: inherit; text-decoration: none; }
     .poster a:hover { color: #477c38; text-decoration: underline; }
@@ -111,8 +108,6 @@
     .site-footer p { margin: 0 0 6px; }
     .site-footer nav a { text-decoration: none; margin-right: 4px; }
     .site-footer nav a:hover { color: #477c38; text-decoration: underline; }
-    .toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(10px); padding: 10px 18px; border-radius: 10px; background: #243b2b; color: #fff; font-size: 14px; opacity: 0; transition: opacity .18s ease, transform .18s ease; pointer-events: none; z-index: 5; }
-    .toast.visible { opacity: 1; transform: translateX(-50%) translateY(0); }
     @media (min-width: 851px) { .page-header, main, .chapter-pagination, .site-footer { width: 90%; } h2.stage-title { font-size: clamp(18px, 1.35vw, 23.4px); } .level, .poster { font-size: 12.6px; } }
     @media (max-width: 850px) { .cards-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 750px; gap: 18px; } .chapter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .page-header, main, .chapter-pagination, .site-footer { max-width: 750px; } }
     @media (max-width: 520px) {
@@ -135,7 +130,7 @@
       .poster { margin-left: 14px; }
       .board { padding: 7px; gap: 2px; }
     }
-    @media print { :root { background: white; } .header-controls, .chapter-tools, .chapter-pagination, .site-footer { display: none; } main { width: auto; max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
+    @media print { :root { background: white; } .header-controls, .chapter-pagination, .site-footer { display: none; } main { width: auto; max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
   </style>
 </head>
 <body>
@@ -157,7 +152,6 @@
         <input type="text" id="stage-search-input" placeholder="ví dụ: 31-45" autocomplete="off">
         <button type="submit" class="search-btn">Đi</button>
       </form>
-      
       <div class="donation-links" role="group" aria-label="Support this guide">
         <span class="donation-label">Thấy các đội hình này hữu ích?</span>
         <a class="donation-link" href="https://www.paypal.com/donate/?business=9B232DHXN8ME4&amp;item_name=Critter%20Formations&amp;currency_code=USD" target="_blank" rel="noopener noreferrer" aria-label="Mời một ly cà phê qua PayPal (mở tab mới)"><span class="donation-text-desktop">Mời tôi một ly cà phê ☕</span><span class="donation-text-mobile">☕ Ủng hộ</span></a>
@@ -179,8 +173,7 @@
       <a href="/privacy.html">EN</a>
     </nav>
   </footer>
-  <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <script>window.SITE_CONFIG = {"lang": "vi", "langPrefix": "/vi", "siteUrl": "https://critterformations.com", "pageType": "privacy", "chapter": null, "strings": {"searchInvalid": "Nhập chương và màn, ví dụ 31-45.", "searchNotFound": "Chưa có đội hình nào được xác minh cho màn {chapter}-{stage}.", "toastCopied": "Đã sao chép liên kết"}};</script>
+  <script>window.SITE_CONFIG = {"lang": "vi", "langPrefix": "/vi", "siteUrl": "https://critterformations.com", "pageType": "privacy", "chapter": null, "strings": {"searchInvalid": "Nhập chương và màn, ví dụ 31-45.", "searchNotFound": "Chưa có đội hình nào được xác minh cho màn {chapter}-{stage}."}};</script>
   <script>
     (function () {
       var CFG = window.SITE_CONFIG;
@@ -188,37 +181,12 @@
       var searchForm = document.getElementById('stage-search-form');
       var searchInput = document.getElementById('stage-search-input');
       var searchStatus = document.getElementById('stage-search-status');
-      var toast = document.getElementById('toast');
-      var toastTimer = null;
 
       function gaEvent(name, params) {
         if (typeof gtag === 'function') {
           gtag('event', name, Object.assign({ transport_type: 'beacon' }, params || {}));
         }
       }
-
-      function showToast(message) {
-        toast.textContent = message;
-        toast.classList.add('visible');
-        if (toastTimer) clearTimeout(toastTimer);
-        toastTimer = setTimeout(function () { toast.classList.remove('visible'); }, 2200);
-      }
-
-      function copyText(text) {
-        if (navigator.clipboard && navigator.clipboard.writeText) {
-          return navigator.clipboard.writeText(text);
-        }
-        var helper = document.createElement('textarea');
-        helper.value = text;
-        helper.style.position = 'fixed';
-        helper.style.opacity = '0';
-        document.body.appendChild(helper);
-        helper.select();
-        try { document.execCommand('copy'); } finally { document.body.removeChild(helper); }
-        return Promise.resolve();
-      }
-
-      function absoluteUrl(path) { return CFG.siteUrl + path; }
 
       chapterSelect.addEventListener('change', function () {
         window.location.href = CFG.langPrefix + '/chapter/' + chapterSelect.value + '/';
@@ -319,39 +287,6 @@
             language: CFG.lang,
           });
           return;
-        }
-        var shareBtn = event.target.closest('#chapter-share-btn');
-        if (shareBtn) {
-          var chapterUrl = absoluteUrl(CFG.langPrefix + '/chapter/' + CFG.chapter + '/');
-          if (navigator.share) {
-            navigator.share({ title: document.title, url: chapterUrl }).then(function () {
-              gaEvent('share', { method: 'web_share', content_type: 'chapter', item_id: 'chapter-' + CFG.chapter, language: CFG.lang });
-            }).catch(function () {});
-          } else {
-            copyText(chapterUrl).then(function () {
-              showToast(CFG.strings.toastCopied);
-              gaEvent('share', { method: 'copy_link', content_type: 'chapter', item_id: 'chapter-' + CFG.chapter, language: CFG.lang });
-            });
-          }
-          return;
-        }
-        var copyBtn = event.target.closest('#chapter-copy-btn');
-        if (copyBtn) {
-          var chapterUrl2 = absoluteUrl(CFG.langPrefix + '/chapter/' + CFG.chapter + '/');
-          copyText(chapterUrl2).then(function () {
-            showToast(CFG.strings.toastCopied);
-            gaEvent('share', { method: 'copy_link', content_type: 'chapter', item_id: 'chapter-' + CFG.chapter, language: CFG.lang });
-          });
-          return;
-        }
-        var cardShare = event.target.closest('.card-share');
-        if (cardShare) {
-          var stageId = cardShare.getAttribute('data-share-id');
-          var stageUrl = absoluteUrl(CFG.langPrefix + '/chapter/' + CFG.chapter + '/#' + stageId);
-          copyText(stageUrl).then(function () {
-            showToast(CFG.strings.toastCopied);
-            gaEvent('share', { method: 'copy_link', content_type: 'card', item_id: stageId, language: CFG.lang });
-          });
         }
       });
     })();
