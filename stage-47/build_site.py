@@ -147,10 +147,6 @@ STRINGS = {
         "home_title": "Clash of Critters Formations by Chapter | Critter Formations",
         "home_description": "Browse Clash of Critters Main Stage formations by chapter, with Tatari levels and links to the original player posts.",
         "home_h1": "Clash of Critters Formations",
-        "home_intro": [
-            "Critter Formations is a fan-made reference for Clash of Critters' Main Stage, collecting 5×5 critter lineups that players have posted in the game's Discord after clearing each stage.",
-            "Levels shown are the poster's own reported Tatari level at the time of their clear — not a required minimum. Every card links back to the original Discord post so you can verify the source yourself.",
-        ],
         "home_chapters_heading": "Chapters",
         "chapter_count": "{cards} cards · {stages} stages",
         "chapter_count_empty": "No formations yet",
@@ -159,15 +155,7 @@ STRINGS = {
         "chapter_level_clause": ", observed Tatari levels {lo}–{hi}",
         "chapter_description_empty": "No verified formations are available yet for Chapter {n} (stages {n}-1–{n}-80).",
         "chapter_h1": "Chapter {n} Formations",
-        "chapter_nav_aria": "Chapter navigation",
-        "prev_chapter": "← Previous chapter",
-        "next_chapter": "Next chapter →",
         "empty_chapter_message": "No verified formations available for this chapter yet.",
-        "search_label": "Jump to stage",
-        "search_placeholder": "e.g. 31-45",
-        "search_button": "Go",
-        "search_invalid": "Enter a chapter and stage, like 31-45.",
-        "search_not_found": "No verified formation for stage {chapter}-{stage} yet.",
         "donation_label": "Finding these formations helpful?",
         "donation_desktop": "Buy me a coffee ☕",
         "donation_mobile": "☕ Donate",
@@ -227,10 +215,6 @@ STRINGS = {
         "home_title": "Đội Hình Chiến Thú Hỗn Chiến Theo Chương | Critter Formations",
         "home_description": "Xem đội hình Main Stage của Chiến Thú Hỗn Chiến (Clash of Critters) theo từng chương, kèm cấp Tatari và liên kết đến bài đăng gốc của người chơi.",
         "home_h1": "Đội Hình Chiến Thú Hỗn Chiến",
-        "home_intro": [
-            "Critter Formations là trang tổng hợp không chính thức dành cho Main Stage của Chiến Thú Hỗn Chiến (Clash of Critters), thu thập các đội hình 5×5 mà người chơi đã đăng trên Discord của game sau khi vượt qua từng màn.",
-            "Cấp độ hiển thị là cấp Tatari do người đăng tự báo cáo tại thời điểm họ vượt màn — không phải mức tối thiểu bắt buộc. Mỗi thẻ đều có liên kết trực tiếp đến bài đăng Discord gốc để bạn có thể tự kiểm chứng.",
-        ],
         "home_chapters_heading": "Các chương",
         "chapter_count": "{cards} đội hình · {stages} màn",
         "chapter_count_empty": "Chưa có đội hình",
@@ -239,15 +223,7 @@ STRINGS = {
         "chapter_level_clause": ", cấp Tatari quan sát được {lo}–{hi}",
         "chapter_description_empty": "Chưa có đội hình nào được xác minh cho Chương {n} (màn {n}-1–{n}-80).",
         "chapter_h1": "Đội hình Chương {n}",
-        "chapter_nav_aria": "Điều hướng chương",
-        "prev_chapter": "← Chương trước",
-        "next_chapter": "Chương sau →",
         "empty_chapter_message": "Chưa có đội hình nào được xác minh cho chương này.",
-        "search_label": "Đi đến màn",
-        "search_placeholder": "ví dụ: 31-45",
-        "search_button": "Đi",
-        "search_invalid": "Nhập chương và màn, ví dụ 31-45.",
-        "search_not_found": "Chưa có đội hình nào được xác minh cho màn {chapter}-{stage}.",
         "donation_label": "Thấy các đội hình này hữu ích?",
         "donation_desktop": "Mời tôi một ly cà phê ☕",
         "donation_mobile": "☕ Ủng hộ",
@@ -367,11 +343,6 @@ def website_jsonld(lang: str) -> str:
         "name": STRINGS[lang]["site_title"],
         "url": url,
         "inLanguage": "en-US" if lang == "en" else "vi-VN",
-        "potentialAction": {
-            "@type": "SearchAction",
-            "target": {"@type": "EntryPoint", "urlTemplate": f"{url}?stage={{search_term_string}}"},
-            "query-input": "required name=search_term_string",
-        },
     }
     return jsonld_script(data)
 
@@ -433,13 +404,11 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "LANG_SWITCH_NAV": lang_switch_nav,
         "CHAPTER_LABEL_TEXT": html.escape(S["chapter_label"]),
         "CHAPTER_OPTIONS": chapter_options(lang, chapter),
-        "SEARCH_LABEL_TEXT": html.escape(S["search_label"]),
-        "SEARCH_PLACEHOLDER_TEXT": html.escape(S["search_placeholder"], quote=True),
-        "SEARCH_BUTTON_TEXT": html.escape(S["search_button"]),
         "DONATION_LABEL_TEXT": html.escape(S["donation_label"]),
         "DONATION_ARIA_TEXT": html.escape(S["donation_aria"], quote=True),
         "DONATION_DESKTOP_TEXT": html.escape(S["donation_desktop"]),
         "DONATION_MOBILE_TEXT": html.escape(S["donation_mobile"]),
+        "H1_ATTRIBUTES": ' class="sr-only"' if page_type in ("chapter", "home") else "",
         "H1_TEXT": html.escape(h1),
         "MAIN_CONTENT": main_content,
         "FOOTER_UNOFFICIAL_TEXT": html.escape(S["footer_unofficial"]),
@@ -451,13 +420,8 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "JS_CONFIG_JSON": json.dumps({
             "lang": lang,
             "langPrefix": lang_prefix(lang),
-            "siteUrl": SITE_URL,
             "pageType": page_type,
             "chapter": chapter,
-            "strings": {
-                "searchInvalid": S["search_invalid"],
-                "searchNotFound": S["search_not_found"],
-            },
         }, ensure_ascii=False).replace("</", "<\\/"),
     }
     page = template
@@ -493,7 +457,7 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
     source = group["source"]
     board_aria = html.escape(S["board_aria"].format(stage=stage), quote=True)
     return (
-        f'<article class="stage" id="{card_id}" data-chapter="{chapter}" data-stages="{group["stage_numbers_attr"]}" '
+        f'<article class="stage" id="{card_id}" data-chapter="{chapter}" '
         f'data-formation-id="{group["formation_id"]}" data-source-message-ids="{group["source_ids_attr"]}" '
         f'data-posted-at="{html.escape(group["posted_at_min"], quote=True)}">'
         f'<h2 class="stage-title"><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" '
@@ -506,7 +470,6 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
 
 def render_home_main(lang: str, chapter_stats: dict) -> str:
     S = STRINGS[lang]
-    intro = "".join(f"<p>{html.escape(p)}</p>" for p in S["home_intro"])
     items = []
     for c in CHAPTERS:
         n = c["chapter"]
@@ -519,34 +482,17 @@ def render_home_main(lang: str, chapter_stats: dict) -> str:
             f'<span class="chapter-name">{html.escape(S["chapter_option_label"].format(n=n))}</span>'
             f'<span class="chapter-count">{html.escape(count_text)}</span></a></li>')
     heading = html.escape(S["home_chapters_heading"])
-    return (f'<section class="intro">{intro}</section>'
-            f'<h2 class="section-heading">{heading}</h2>'
+    return (f'<h2 class="section-heading">{heading}</h2>'
             f'<ul class="chapter-grid" aria-label="{heading}">{"".join(items)}</ul>')
 
 
-def render_chapter_main(lang: str, chapter_number: int, cards_html: list[str]) -> str:
+def render_chapter_main(lang: str, cards_html: list[str]) -> str:
     S = STRINGS[lang]
-    numbers = [c["chapter"] for c in CHAPTERS]
-    idx = numbers.index(chapter_number)
-    prev_n = numbers[idx - 1] if idx > 0 else None
-    next_n = numbers[idx + 1] if idx < len(numbers) - 1 else None
-
-    def nav_link(n, label):
-        if n is None:
-            return f'<span class="disabled">{html.escape(label)}</span>'
-        return f'<a href="{page_path(lang, "chapter", n)}">{html.escape(label)}</a>'
-
-    pagination = (
-        f'<nav class="chapter-pagination" aria-label="{html.escape(S["chapter_nav_aria"], quote=True)}">'
-        f'{nav_link(prev_n, S["prev_chapter"])}'
-        f'<span>{html.escape(S["chapter_option_label"].format(n=chapter_number))}</span>'
-        f'{nav_link(next_n, S["next_chapter"])}</nav>')
     if cards_html:
         body = f'<div class="cards-grid" id="chapter-cards">{"".join(cards_html)}</div>'
     else:
         body = f'<p class="empty-chapter">{html.escape(S["empty_chapter_message"])}</p>'
-    not_found = '<p id="stage-not-found" class="stage-not-found" hidden></p>'
-    return pagination + body + not_found
+    return body
 
 
 def render_privacy_main(lang: str) -> str:
@@ -775,7 +721,6 @@ def build() -> None:
         chapter = group["chapter"]
         group["stage_label"] = stage_label(group["numbers"], chapter)
         group["card_id"] = f"stage-{chapter}-{min(group['numbers'])}"
-        group["stage_numbers_attr"] = ",".join(f"{chapter}-{n}" for n in sorted(set(group["numbers"])))
         cell_sprites = []
         for r, row in enumerate(group["board"], 1):
             for c, key in enumerate(row, 1):
@@ -935,7 +880,7 @@ def build() -> None:
         for lang in LANGS:
             strings = STRINGS[lang]
             cards_html = [render_card(group, lang, index == 0) for index, group in enumerate(group_list)]
-            main_content = render_chapter_main(lang, number, cards_html)
+            main_content = render_chapter_main(lang, cards_html)
             title = strings["chapter_title"].format(n=number)
             if stats["cards"]:
                 level_clause = (strings["chapter_level_clause"].format(lo=stats["level_min"], hi=stats["level_max"])

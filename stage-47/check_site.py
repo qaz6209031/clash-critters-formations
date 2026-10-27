@@ -40,7 +40,7 @@ if not NODE_AVAILABLE:
 CARD_ID_RE = re.compile(r'<article class="stage" id="(stage-(\d+)-(\d+))"')
 SCRIPT_RE = re.compile(r"<script([^>]*)>(.*?)</script>", re.DOTALL)
 CANONICAL_RE = re.compile(r'<link rel="canonical" href="([^"]+)">')
-H1_RE = re.compile(r"<h1>(.*?)</h1>", re.DOTALL)
+H1_RE = re.compile(r"<h1\b([^>]*)>(.*?)</h1>", re.DOTALL)
 TITLE_RE = re.compile(r"<title>(.*?)</title>", re.DOTALL)
 DESCRIPTION_RE = re.compile(r'<meta name="description" content="([^"]*)">')
 HREFLANG_RE = re.compile(r'<link rel="alternate" hreflang="([a-z-]+)" href="([^"]+)">')
@@ -72,10 +72,19 @@ def check_page(path: Path) -> None:
     text = path.read_text()
     rel = path.relative_to(SITE)
 
+    if "chapter-pagination" in text:
+        fail(f"{rel}: removed chapter pagination still present")
+
     for removed in ('chapter-share-btn', 'chapter-copy-btn', 'card-share',
                     'toastCopied', 'navigator.share', "gaEvent('share'"):
         if removed in text:
             fail(f"{rel}: removed share feature still present: {removed}")
+
+    for removed in ('stage-search-form', 'stage-search-input', 'stage-search-status',
+                    'search-btn', 'stage_search', 'e.g. 31-45', 'ví dụ: 31-45',
+                    '?stage=', 'SearchAction', 'pendingStageSearch', 'parseStageQuery'):
+        if removed in text:
+            fail(f"{rel}: removed search feature still present: {removed}")
 
     if '<meta name="viewport" content="width=device-width, initial-scale=1">' not in text:
         fail(f"{rel}: missing mobile viewport meta tag")
@@ -90,6 +99,20 @@ def check_page(path: Path) -> None:
     h1s = H1_RE.findall(text)
     if len(h1s) != 1:
         fail(f"{rel}: expected exactly one <h1>, found {len(h1s)}")
+
+    is_chapter = "chapter" in rel.parts
+    is_home = rel in (Path("index.html"), Path("vi/index.html"))
+    if 'class="intro"' in text:
+        fail(f"{rel}: removed intro section still present")
+    if is_home and "fan-made reference" in text:
+        fail(f"{rel}: removed home intro text still present")
+    if len(h1s) == 1:
+        classes = re.search(r'class=[\"\']([^\"\']*)[\"\']', h1s[0][0])
+        hidden = classes is not None and "sr-only" in classes.group(1).split()
+        if (is_chapter or is_home) and not hidden:
+            fail(f"{rel}: home/chapter h1 must have class sr-only")
+        elif not (is_chapter or is_home) and hidden:
+            fail(f"{rel}: privacy h1 must remain visible")
 
     titles = TITLE_RE.findall(text)
     if len(titles) != 1 or not titles[0].strip():
