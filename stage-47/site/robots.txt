@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /chapters/
+Sitemap: https://critterformations.com/sitemap.xml

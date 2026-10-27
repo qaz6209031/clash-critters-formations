@@ -1,8 +1,10 @@
 # Stage 44–50 formations
 
 Serve `site` over HTTP (for example `python3 -m http.server --directory site`)
-and open it in a browser; chapters load on demand, so opening the file directly
-does not work. It shows stage names/ranges,
+and open it in a browser; chapter pages reference `/sprites/<id>.png` with a
+root-absolute path, so opening the file directly from disk does not load
+artwork. Each chapter is its own static page at `chapter/<number>/` (and a
+Vietnamese mirror at `vi/chapter/<number>/`), listing stage names/ranges,
 observed Tatari levels and 5×5 formations. Exact forms, variants and cell
 positions determine which stages share a card. Hover over a Tatari for its
 name and tier; click the stage label for the Discord reference.
@@ -87,8 +89,12 @@ is referenced to the user-provided horde planner catalog in the JSON.
 
 ## Run or rebuild
 
+Building requires Pillow (`python3 -m pip install --user pillow`) for the
+generated Open Graph preview images.
+
 ```sh
 python3 /Users/kaichinh/ClashCrittersCollection/stage-47/build_site.py
+python3 /Users/kaichinh/ClashCrittersCollection/stage-47/check_site.py
 ```
 
 For an HTTP preview, serve only the finished site folder:
@@ -97,8 +103,8 @@ For an HTTP preview, serve only the finished site folder:
 python3 -m http.server 8765 --bind 127.0.0.1 --directory /Users/kaichinh/ClashCrittersCollection/stage-47/site
 ```
 
-Visit `http://127.0.0.1:8765/`, or use `/#chapter-44`, `/#chapter-45`, `/#chapter-46`, `/#chapter-47`,
-`/#chapter-48`, `/#chapter-49` or `/#chapter-50` to jump to a chapter.
+Visit `http://127.0.0.1:8765/`, or go straight to a chapter such as
+`/chapter/44/`, `/chapter/50/` or the Vietnamese mirror `/vi/chapter/44/`.
 Keep raw evidence outside the served root.
 The grouped stage/formation data can later feed a Next.js presentation layer.
 
