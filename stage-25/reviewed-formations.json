@@ -3908,5 +3908,962 @@
       "1547702428760014928",
       "1547703727429787658"
     ]
+  },
+  {
+    "source_message_id": "1566681415490474114",
+    "stage_start": 1,
+    "stage_end": 2,
+    "caption_stage_numbers": [
+      1,
+      2
+    ],
+    "website_stage_numbers": [
+      1,
+      2
+    ],
+    "screenshot_displayed_stage": "25-1",
+    "screenshot_enemy_level": null,
+    "tatari_level": 477,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "range_snapshot",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        null,
+        "blitzmane",
+        "capobeetle",
+        null
+      ],
+      [
+        null,
+        "pandaroot",
+        "sparkdoe",
+        "trippet",
+        "maskfry"
+      ],
+      [
+        null,
+        "silversear",
+        "cheerlet",
+        "solaflora",
+        "frostique"
+      ],
+      [
+        "frugagon",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. The screenshot shows stage 25-1 before battle; stages follow the author’s caption. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1566684247111245904",
+    "stage_start": 3,
+    "stage_end": 4,
+    "caption_stage_numbers": [
+      3,
+      4
+    ],
+    "website_stage_numbers": [
+      3,
+      4
+    ],
+    "screenshot_displayed_stage": "25-5",
+    "screenshot_enemy_level": null,
+    "tatari_level": 477,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "capobeetle",
+        null
+      ],
+      [
+        "serrabloom",
+        "pandaroot",
+        "blitzmane",
+        "dreadclaw",
+        "maskfry"
+      ],
+      [
+        "silversear",
+        "trippet",
+        "cheerlet",
+        "frugagon",
+        "frostique"
+      ],
+      [
+        "solaflora",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1566685619256565780",
+    "stage_start": 5,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "website_stage_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "screenshot_displayed_stage": "25-10",
+    "screenshot_enemy_level": null,
+    "tatari_level": 477,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        "gemsnail",
+        null,
+        "zaplet",
+        "voltling",
+        null
+      ],
+      [
+        "zenscarab",
+        "capypapa",
+        "sparkdoe",
+        "cheerlet",
+        "silversear"
+      ],
+      [
+        "solaflora",
+        "frostique",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1566687628651143179",
+    "stage_start": 10,
+    "stage_end": 12,
+    "caption_stage_numbers": [
+      10,
+      11,
+      12
+    ],
+    "website_stage_numbers": [
+      10,
+      11,
+      12
+    ],
+    "screenshot_displayed_stage": "25-13",
+    "screenshot_enemy_level": null,
+    "tatari_level": 477,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        "dreadclaw"
+      ],
+      [
+        null,
+        "cobbledon",
+        "pandaroot",
+        "rockwu",
+        null
+      ],
+      [
+        "silversear",
+        "zenscarab",
+        "cheerlet",
+        "trippet",
+        "frostique"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1566688824204070983",
+    "stage_start": 13,
+    "stage_end": 13,
+    "caption_stage_numbers": [
+      13
+    ],
+    "website_stage_numbers": [
+      13
+    ],
+    "screenshot_displayed_stage": "25-14",
+    "screenshot_enemy_level": null,
+    "tatari_level": 477,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "dreadclaw",
+        null
+      ],
+      [
+        null,
+        "cobbledon",
+        "blitzmane",
+        "rockwu",
+        "swaystroll"
+      ],
+      [
+        "silversear",
+        "zenscarab",
+        "cheerlet",
+        "trippet",
+        "frostique"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1566699533008769094",
+    "stage_start": 14,
+    "stage_end": 14,
+    "caption_stage_numbers": [
+      14
+    ],
+    "website_stage_numbers": [
+      14
+    ],
+    "screenshot_displayed_stage": "25-15",
+    "screenshot_enemy_level": null,
+    "tatari_level": 480,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "swaystroll"
+      ],
+      [
+        null,
+        "cobbledon",
+        "blitzmane",
+        "rockwu",
+        "frostique"
+      ],
+      [
+        "silversear",
+        "zenscarab",
+        "trippet",
+        "cheerlet",
+        "firefox"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "solaflora",
+        "capypapa"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1566701571390177321",
+    "stage_start": 15,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "website_stage_numbers": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "screenshot_displayed_stage": "25-20",
+    "screenshot_enemy_level": null,
+    "tatari_level": 480,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pyroprawn",
+        "blitzmane",
+        null,
+        "silversear",
+        "rockwu"
+      ],
+      [
+        "frugagon",
+        "cheerlet",
+        "trippet",
+        "frostique",
+        "zenscarab"
+      ],
+      [
+        "solaflora",
+        "sparkdoe",
+        "azurion",
+        "waveflutter",
+        "tideon"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1566704263021727886",
+    "stage_start": 20,
+    "stage_end": 23,
+    "caption_stage_numbers": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "website_stage_numbers": [
+      20,
+      21,
+      22,
+      23
+    ],
+    "screenshot_displayed_stage": "25-24",
+    "screenshot_enemy_level": null,
+    "tatari_level": 480,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        "hippiehog",
+        "trippet",
+        "cheerlet",
+        "frostique"
+      ],
+      [
+        "zenscarab",
+        "solaflora",
+        "sparkdoe",
+        "zaplet",
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "boltskipper",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1566707587175415858",
+    "stage_start": 25,
+    "stage_end": 25,
+    "caption_stage_numbers": [
+      25
+    ],
+    "website_stage_numbers": [
+      25
+    ],
+    "screenshot_displayed_stage": "25-25",
+    "screenshot_enemy_level": null,
+    "tatari_level": 480,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "range_snapshot",
+    "board": [
+      [
+        "gemsnail",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pyrohound",
+        "firecoil",
+        "blitzmane",
+        "sealoon",
+        "frostique"
+      ],
+      [
+        "zenscarab",
+        "solaflora",
+        "trippet",
+        "cheerlet",
+        "silversear"
+      ],
+      [
+        "rockwu",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. The screenshot shows stage 25-25 before battle; stages follow the author’s caption. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1566708728445669418",
+    "stage_start": 26,
+    "stage_end": 29,
+    "caption_stage_numbers": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "website_stage_numbers": [
+      26,
+      27,
+      28,
+      29
+    ],
+    "screenshot_displayed_stage": "25-30",
+    "screenshot_enemy_level": null,
+    "tatari_level": 480,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "dreadclaw",
+        "swaystroll",
+        "cobbledon",
+        "capobeetle"
+      ],
+      [
+        "silversear",
+        "frostique",
+        "trippet",
+        "cheerlet",
+        "serrabloom"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "rockwu",
+        "frugagon"
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567341770038054963",
+    "stage_start": 50,
+    "stage_end": 54,
+    "caption_stage_numbers": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "website_stage_numbers": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "screenshot_displayed_stage": "25-55",
+    "screenshot_enemy_level": null,
+    "tatari_level": 490,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "firefox",
+        "silversear",
+        "rockwu",
+        "serrabloom",
+        "swaystroll"
+      ],
+      [
+        "sealoon",
+        "cheerspring",
+        "trippet",
+        "solaflora",
+        null
+      ],
+      [
+        "capypapa",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "zenscarab",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567486081446973480",
+    "stage_start": 55,
+    "stage_end": 57,
+    "caption_stage_numbers": [
+      55,
+      56,
+      57
+    ],
+    "website_stage_numbers": [
+      55,
+      56,
+      57
+    ],
+    "screenshot_displayed_stage": "25-58",
+    "screenshot_enemy_level": null,
+    "tatari_level": 493,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "capypapa",
+        "pyroprawn",
+        "frugagon",
+        "blitzmane",
+        "serrabloom"
+      ],
+      [
+        "zaplet",
+        "silversear",
+        "solaflora",
+        "cheerspring",
+        "trippet"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567486887000805486",
+    "stage_start": 58,
+    "stage_end": 58,
+    "caption_stage_numbers": [
+      58
+    ],
+    "website_stage_numbers": [
+      58
+    ],
+    "screenshot_displayed_stage": "25-59",
+    "screenshot_enemy_level": null,
+    "tatari_level": 493,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "capypapa",
+        "pyrohound",
+        "frugagon",
+        "blitzmane",
+        "serrabloom"
+      ],
+      [
+        "rockwu",
+        "silversear",
+        "solaflora",
+        "cheerspring",
+        "trippet"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567487221949399134",
+    "stage_start": 59,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      59
+    ],
+    "website_stage_numbers": [
+      59
+    ],
+    "screenshot_displayed_stage": "25-60",
+    "screenshot_enemy_level": null,
+    "tatari_level": 493,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "capypapa",
+        "zaplet",
+        "frugagon",
+        "blitzmane",
+        "serrabloom"
+      ],
+      [
+        "rockwu",
+        "silversear",
+        "trippet",
+        "cheerspring",
+        "solaflora"
+      ],
+      [
+        "frostique",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "firefox"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
   }
 ]
