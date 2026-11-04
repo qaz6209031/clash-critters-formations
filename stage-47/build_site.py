@@ -722,7 +722,7 @@ def build() -> None:
                                            list(range(decade + 5, decade + 10)), [decade + 10])]
         expected_blocks = [present for block in expected_blocks
                            if (present := [number for number in block if number in available])]
-        if 50 <= chapter <= 63:
+        if 50 <= chapter <= 71:
             # Casey changes boards within some regular blocks; preserve those captioned splits.
             assert all(len({stage_block(number) for number in group["numbers"]}) == 1
                        for group in chapter_groups), chapter
