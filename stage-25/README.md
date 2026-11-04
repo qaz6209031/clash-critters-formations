@@ -1,12 +1,12 @@
 # Chapter 25 formations
 
-October 24 refresh: **42/80 stages** from **13 visually reviewed records**.
+November 4 refresh: **79/80 stages** from **27 visually reviewed records**.
 Original and supporting messages must be posted after **October 21, 2026** in
 America/Los_Angeles (`2026-10-22T07:00:00Z` minimum). The October 21 game
 update changed enemy formations in chapters 24–28. Every published level
 comes from its own source screenshot or caption. Levels: 506, 509, 521, 545, 555.
 
-Missing qualifying references: **25-1–25-29, 25-51–25-59**.
+Missing qualifying references: **25-24**.
 Missing or ambiguous stages remain empty; older pre-update records are archived.
 Coverage includes only explicitly reported clears. Inclusive caption endpoints
 that exceed visible completion retain review notes. Exact forms, variants and
