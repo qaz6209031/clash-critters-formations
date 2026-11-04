@@ -1806,5 +1806,289 @@
     "website_stage_numbers": [
       80
     ]
+  },
+  {
+    "source_message_id": "1567624270971011144",
+    "stage_start": 21,
+    "stage_end": 24,
+    "caption_stage_numbers": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "website_stage_numbers": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "screenshot_displayed_stage": "74-25",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1654,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "stoodbeak",
+        null,
+        "blitzmane",
+        "orchitoria:glitter",
+        "voltverine"
+      ],
+      [
+        "cribking",
+        null,
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "frostique",
+        null,
+        "voltmare",
+        "rockong",
+        "dharmadder:glitter"
+      ],
+      [
+        "solaflora",
+        "newflamander",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 74-25; caption stages follow the author's caption. Dharmadder appears with a cosmetic jester hat.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567610370426937444",
+    "stage_start": 15,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "website_stage_numbers": [
+      19
+    ],
+    "screenshot_displayed_stage": "74-20",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1654,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "cribking",
+        "blitzmane",
+        null,
+        "orchitoria:glitter",
+        null
+      ],
+      [
+        "dharmadder:glitter",
+        "cheerspring",
+        "rockong",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "voltmare",
+        "hyphoria",
+        "hypnostrix",
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "morphanessa",
+        "newflamander"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "solaflora"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 74-20; caption stages follow the author's caption. Dharmadder appears with a cosmetic jester hat.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567608570906808452",
+    "stage_start": 11,
+    "stage_end": 14,
+    "caption_stage_numbers": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "website_stage_numbers": [
+      11,
+      12,
+      13,
+      14
+    ],
+    "screenshot_displayed_stage": "74-17",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1654,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "cribking",
+        "blitzmane",
+        null,
+        "orchitoria:glitter",
+        null
+      ],
+      [
+        "sonarbat",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "dharmadder:glitter",
+        "voltmare",
+        "frostique",
+        "rockong",
+        "silversear"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "morphanessa",
+        "newflamander"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 74-17; caption stages follow the author's caption. Dharmadder appears with a cosmetic jester hat.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567504928803655893",
+    "stage_start": 61,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "website_stage_numbers": [
+      64
+    ],
+    "screenshot_displayed_stage": "74-70",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1921,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "orchitoria",
+        "rockong:glitter",
+        "stormlion",
+        "terraton",
+        "cribking"
+      ],
+      [
+        "silversear",
+        "cheerstella",
+        "hyphoria",
+        "chrysolaria",
+        "sealord"
+      ],
+      [
+        "heliabloom",
+        "boltallion:glitter",
+        "morphanessa",
+        "tideon",
+        "frostluna"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 74-70; caption stages follow the author's caption.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
   }
 ]
