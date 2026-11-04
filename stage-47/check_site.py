@@ -102,6 +102,13 @@ def check_page(path: Path) -> None:
 
     is_chapter = "chapter" in rel.parts
     is_home = rel in (Path("index.html"), Path("vi/index.html"))
+    if is_chapter:
+        chapter_n = int(rel.parts[rel.parts.index("chapter") + 1])
+        next_links = re.findall(r'<a class="next-stage-link" href="([^"]+)"', text)
+        prefix = "/vi" if rel.parts[0] == "vi" else ""
+        expected = [f"{prefix}/chapter/{chapter_n + 1}/"] if (SITE / "chapter" / str(chapter_n + 1)).exists() else []
+        if next_links != expected:
+            fail(f"{rel}: expected next-stage link {expected}, found {next_links}")
     if 'class="intro"' in text:
         fail(f"{rel}: removed intro section still present")
     if is_home and "fan-made reference" in text:
