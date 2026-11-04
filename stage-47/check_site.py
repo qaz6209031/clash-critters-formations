@@ -200,8 +200,8 @@ def main() -> None:
             total_cards[lang] += len(card_ids)
 
     for lang in LANGS:
-        if total_cards[lang] != 2047:
-            fail(f"{lang} chapter pages: expected 2047 total cards, found {total_cards[lang]}")
+        if total_cards[lang] != 2104:
+            fail(f"{lang} chapter pages: expected 2104 total cards, found {total_cards[lang]}")
 
     for page in pages_to_check:
         check_page(page)
