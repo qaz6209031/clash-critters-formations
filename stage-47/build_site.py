@@ -156,6 +156,8 @@ STRINGS = {
         "chapter_description_empty": "No verified formations are available yet for Chapter {n} (stages {n}-1–{n}-80).",
         "chapter_h1": "Chapter {n} Formations",
         "empty_chapter_message": "No verified formations available for this chapter yet.",
+        "next_stage_button": "Next: Stage {n}-1 →",
+        "next_stage_aria": "Go to Chapter {n}, starting at stage {n}-1",
         "donation_label": "Finding these formations helpful?",
         "donation_desktop": "Buy me a coffee ☕",
         "donation_mobile": "☕ Donate",
@@ -224,6 +226,8 @@ STRINGS = {
         "chapter_description_empty": "Chưa có đội hình nào được xác minh cho Chương {n} (màn {n}-1–{n}-80).",
         "chapter_h1": "Đội hình Chương {n}",
         "empty_chapter_message": "Chưa có đội hình nào được xác minh cho chương này.",
+        "next_stage_button": "Tiếp theo: Màn {n}-1 →",
+        "next_stage_aria": "Đi đến Chương {n}, bắt đầu từ màn {n}-1",
         "donation_label": "Thấy các đội hình này hữu ích?",
         "donation_desktop": "Mời tôi một ly cà phê ☕",
         "donation_mobile": "☕ Ủng hộ",
@@ -486,12 +490,21 @@ def render_home_main(lang: str, chapter_stats: dict) -> str:
             f'<ul class="chapter-grid" aria-label="{heading}">{"".join(items)}</ul>')
 
 
-def render_chapter_main(lang: str, cards_html: list[str]) -> str:
+def render_chapter_main(lang: str, chapter_number: int, cards_html: list[str]) -> str:
     S = STRINGS[lang]
     if cards_html:
         body = f'<div class="cards-grid" id="chapter-cards">{"".join(cards_html)}</div>'
     else:
         body = f'<p class="empty-chapter">{html.escape(S["empty_chapter_message"])}</p>'
+    numbers = [c["chapter"] for c in CHAPTERS]
+    idx = numbers.index(chapter_number)
+    if idx < len(numbers) - 1:
+        next_n = numbers[idx + 1]
+        body += (
+            f'<div class="next-stage"><a class="next-stage-link" href="{page_path(lang, "chapter", next_n)}" '
+            f'data-next-chapter="{next_n}" '
+            f'aria-label="{html.escape(S["next_stage_aria"].format(n=next_n), quote=True)}">'
+            f'{html.escape(S["next_stage_button"].format(n=next_n))}</a></div>')
     return body
 
 
@@ -880,7 +893,7 @@ def build() -> None:
         for lang in LANGS:
             strings = STRINGS[lang]
             cards_html = [render_card(group, lang, index == 0) for index, group in enumerate(group_list)]
-            main_content = render_chapter_main(lang, cards_html)
+            main_content = render_chapter_main(lang, number, cards_html)
             title = strings["chapter_title"].format(n=number)
             if stats["cards"]:
                 level_clause = (strings["chapter_level_clause"].format(lo=stats["level_min"], hi=stats["level_max"])
