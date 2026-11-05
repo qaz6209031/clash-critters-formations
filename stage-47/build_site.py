@@ -16,7 +16,15 @@ from PIL import Image, ImageDraw, ImageFont
 
 ROOT = Path(__file__).resolve().parent
 SITE_URL = "https://critterformations.com"
-LANGS = ("en", "vi")
+LANGS = ("en", "zh-hant", "ko", "vi")
+# Per-language URL prefix, HTML/hreflang codes, Open Graph and JSON-LD locales, and the
+# native name shown in the language switcher (always in that language's own script).
+LANG_INFO = {
+    "en": {"prefix": "", "code": "en", "og_locale": "en_US", "jsonld": "en-US", "native": "EN"},
+    "zh-hant": {"prefix": "/zh-hant", "code": "zh-Hant", "og_locale": "zh_TW", "jsonld": "zh-Hant", "native": "繁體中文"},
+    "ko": {"prefix": "/ko", "code": "ko", "og_locale": "ko_KR", "jsonld": "ko-KR", "native": "한국어"},
+    "vi": {"prefix": "/vi", "code": "vi", "og_locale": "vi_VN", "jsonld": "vi-VN", "native": "Tiếng Việt"},
+}
 # After August 27 in the owner's America/Los_Angeles time zone (PDT).
 PUBLICATION_CUTOFF = datetime(2026, 8, 28, 7, tzinfo=timezone.utc)
 # The October 21 update changed enemy formations in these chapters.
@@ -139,8 +147,6 @@ def source_date_eligible(source: dict, chapter: int | None = None) -> bool:
 
 STRINGS = {
     "en": {
-        "lang_name_en": "EN",
-        "lang_name_vi": "Tiếng Việt",
         "site_title": "Critter Formations",
         "chapter_label": "Chapter",
         "chapter_option_label": "Chapter {n}",
@@ -178,8 +184,8 @@ STRINGS = {
         "privacy_h1": "Privacy Policy",
         "privacy_sections": [
             ("Overview",
-             "<p>Critter Formations is a static website with no accounts, forms, or server-side code of its own. "
-             "This page explains what limited data is collected when you visit.</p>"),
+             "<p>Critter Formations is a static website with no accounts and no server-side code of its own. "
+             "This page explains what limited data is collected when you visit or send feedback.</p>"),
             ("Hosting (GitHub Pages)",
              '<p>This site is hosted on GitHub Pages. GitHub may log visitor IP addresses and request data for '
              'security purposes. See GitHub’s <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" '
@@ -198,19 +204,165 @@ STRINGS = {
             ("Discord links",
              "<p>Card titles and poster names link to the original Discord posts used as sources. Visiting those "
              "links is subject to Discord’s own privacy practices.</p>"),
-            ("No accounts, no forms, no data sold",
-             "<p>This site does not require an account, does not include any forms, does not sell data, and does "
-             "not itself store any personal data.</p>"),
+            ("Feedback (Supabase)",
+             '<p>The feedback form sends your star rating, message, optional email address, the page you were on '
+             'and the site language to a database hosted by <a href="https://supabase.com/privacy" target="_blank" '
+             'rel="noopener noreferrer">Supabase</a>. Feedback is only used to improve this site; it is never '
+             'published or sold. Leave the email field empty if you don’t need a reply.</p>'),
+            ("No accounts, no data sold",
+             "<p>This site does not require an account and does not sell data. Apart from feedback you choose to "
+             "send, it does not store any personal data.</p>"),
             ("Contact",
              '<p>Questions about this policy can be filed as a '
              '<a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">'
              'GitHub issue</a>.</p>'),
-            ("Effective date", "<p>October 27, 2026.</p>"),
+            ("Effective date", "<p>November 4, 2026.</p>"),
+        ],
+    },
+    "zh-hant": {
+        "site_title": "Critter Formations",
+        "chapter_label": "章節",
+        "chapter_option_label": "第 {n} 章",
+        "home_title": "塔塔冒險隊 各章節陣容攻略 | Critter Formations",
+        "home_description": "依章節瀏覽塔塔冒險隊（Clash of Critters）主線關卡陣容，附 Tatari 等級與玩家原始貼文連結。",
+        "home_h1": "塔塔冒險隊 陣容",
+        "home_chapters_heading": "章節",
+        "chapter_count": "{cards} 張卡片 · {stages} 關",
+        "chapter_count_empty": "尚無陣容",
+        "chapter_title": "塔塔冒險隊 第 {n} 章陣容（關卡 {n}-1–{n}-80）| Critter Formations",
+        "chapter_description": "第 {n} 章（關卡 {n}-1–{n}-80）共 {cards} 張已驗證的陣容卡片，涵蓋 {stages} 個關卡{level_clause}，附 Tatari 等級與 Discord 原始貼文連結。",
+        "chapter_level_clause": "，觀察到的 Tatari 等級 {lo}–{hi}",
+        "chapter_description_empty": "第 {n} 章（關卡 {n}-1–{n}-80）目前尚無已驗證的陣容。",
+        "chapter_h1": "第 {n} 章陣容",
+        "empty_chapter_message": "這個章節目前尚無已驗證的陣容。",
+        "next_stage_button": "下一關：{n}-1 →",
+        "next_stage_aria": "前往第 {n} 章，從關卡 {n}-1 開始",
+        "donation_label": "覺得這些陣容有幫助嗎？",
+        "donation_desktop": "請我喝杯咖啡 ☕",
+        "donation_mobile": "☕ 贊助",
+        "donation_aria": "透過 PayPal 請我喝杯咖啡（在新分頁開啟）",
+        "posted_by": "發布者",
+        "discord_link_title": "開啟 Discord 原始貼文",
+        "row_col": "第 {row} 列，第 {column} 欄",
+        "empty_cell": "空格 · 第 {row} 列，第 {column} 欄",
+        "board_aria": "關卡 {stage}：5×5 陣容，最上排為前排",
+        "footer_unofficial": "非官方粉絲自製內容，與 Farlight 無關，亦未獲 Farlight 認可。",
+        "footer_trademark": "Clash of Critters（塔塔冒險隊）為其各自所有者的商標。",
+        "footer_privacy_label": "隱私權政策",
+        "breadcrumb_home": "首頁",
+        "og_alt_home": "Critter Formations：依章節整理的塔塔冒險隊陣容",
+        "og_alt_chapter": "塔塔冒險隊第 {n} 章陣容預覽",
+        "privacy_title": "隱私權政策 | Critter Formations",
+        "privacy_description": "Critter Formations 如何處理訪客資料：GitHub Pages 託管、Google Analytics 4 與 PayPal 贊助。",
+        "privacy_h1": "隱私權政策",
+        "privacy_sections": [
+            ("概述",
+             "<p>Critter Formations 是一個靜態網站，沒有帳號，也沒有自己的伺服器端程式。"
+             "本頁說明您造訪網站或送出意見回饋時，會收集哪些有限的資料。</p>"),
+            ("託管（GitHub Pages）",
+             '<p>本網站託管於 GitHub Pages。GitHub 可能基於安全目的記錄訪客的 IP 位址與請求資料。請參閱 GitHub 的'
+             '<a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" '
+             'target="_blank" rel="noopener noreferrer">一般隱私權聲明</a>。</p>'),
+            ("分析（Google Analytics 4）",
+             '<p>本網站使用 Google Analytics 4 了解流量並改善內容。GA4 會設定 <code>_ga</code> 等 Cookie，'
+             '並收集使用資料，包括瀏覽的頁面、大致位置及裝置／瀏覽器資訊。請參閱 Google 的'
+             '<a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">'
+             '合作夥伴網站政策</a>。您可以使用 <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" '
+             'rel="noopener noreferrer">Google Analytics 停用瀏覽器外掛程式</a>選擇退出。</p>'),
+            ("贊助（PayPal）",
+             '<p>贊助按鈕會連到 PayPal，由 PayPal 依其'
+             '<a href="https://www.paypal.com/myaccount/privacy/privacyStatementFull" target="_blank" rel="noopener noreferrer">'
+             '隱私權政策</a>處理付款。本網站不會看到您的信用卡或付款資訊。</p>'),
+            ("Discord 連結",
+             "<p>卡片標題與發布者名稱會連到作為資料來源的 Discord 原始貼文。造訪這些連結時，"
+             "適用 Discord 自己的隱私權規範。</p>"),
+            ("意見回饋（Supabase）",
+             '<p>意見回饋表單會將您的星等評分、留言、選填的電子郵件、您所在的頁面與網站語言，傳送到由 '
+             '<a href="https://supabase.com/privacy" target="_blank" rel="noopener noreferrer">Supabase</a> '
+             '託管的資料庫。這些回饋只用於改善本網站，絕不會公開或販售。如果不需要回覆，請將電子郵件欄位留空。</p>'),
+            ("無帳號、不販售資料",
+             "<p>本網站不需要帳號，也不販售資料。除了您主動送出的意見回饋之外，本網站不儲存任何個人資料。</p>"),
+            ("聯絡方式",
+             '<p>對本政策有任何疑問，歡迎提交 '
+             '<a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">'
+             'GitHub issue</a>。</p>'),
+            ("生效日期", "<p>2026 年 11 月 4 日。</p>"),
+        ],
+    },
+    "ko": {
+        "site_title": "Critter Formations",
+        "chapter_label": "챕터",
+        "chapter_option_label": "챕터 {n}",
+        "home_title": "뚜까펫: 서바이벌 챕터별 진형 공략 | Critter Formations",
+        "home_description": "뚜까펫: 서바이벌(Clash of Critters) 메인 스테이지 진형을 챕터별로 확인하세요. Tatari 레벨과 원본 플레이어 게시물 링크를 함께 제공합니다.",
+        "home_h1": "뚜까펫: 서바이벌 진형",
+        "home_chapters_heading": "챕터",
+        "chapter_count": "카드 {cards}개 · 스테이지 {stages}개",
+        "chapter_count_empty": "아직 진형 없음",
+        "chapter_title": "뚜까펫: 서바이벌 챕터 {n} 진형 (스테이지 {n}-1–{n}-80) | Critter Formations",
+        "chapter_description": "챕터 {n}(스테이지 {n}-1–{n}-80)의 스테이지 {stages}개를 다루는 검증된 진형 카드 {cards}개{level_clause}. Tatari 레벨과 원본 Discord 게시물 링크를 함께 제공합니다.",
+        "chapter_level_clause": ", 확인된 Tatari 레벨 {lo}–{hi}",
+        "chapter_description_empty": "챕터 {n}(스테이지 {n}-1–{n}-80)에는 아직 검증된 진형이 없습니다.",
+        "chapter_h1": "챕터 {n} 진형",
+        "empty_chapter_message": "이 챕터에는 아직 검증된 진형이 없습니다.",
+        "next_stage_button": "다음: 스테이지 {n}-1 →",
+        "next_stage_aria": "챕터 {n}의 스테이지 {n}-1로 이동",
+        "donation_label": "진형 정보가 도움이 되셨나요?",
+        "donation_desktop": "커피 한 잔 후원하기 ☕",
+        "donation_mobile": "☕ 후원",
+        "donation_aria": "PayPal로 커피 한 잔 후원하기 (새 탭에서 열림)",
+        "posted_by": "작성자",
+        "discord_link_title": "원본 Discord 게시물 열기",
+        "row_col": "{row}행 {column}열",
+        "empty_cell": "빈 칸 · {row}행 {column}열",
+        "board_aria": "스테이지 {stage}: 5×5 진형, 맨 윗줄이 전열",
+        "footer_unofficial": "비공식 팬 제작물이며, Farlight와 제휴하거나 Farlight의 승인을 받지 않았습니다.",
+        "footer_trademark": "Clash of Critters(뚜까펫: 서바이벌)는 해당 소유자의 상표입니다.",
+        "footer_privacy_label": "개인정보 처리방침",
+        "breadcrumb_home": "홈",
+        "og_alt_home": "Critter Formations: 챕터별 뚜까펫: 서바이벌 진형",
+        "og_alt_chapter": "뚜까펫: 서바이벌 챕터 {n} 진형 미리보기",
+        "privacy_title": "개인정보 처리방침 | Critter Formations",
+        "privacy_description": "Critter Formations의 방문자 데이터 처리 방식: GitHub Pages 호스팅, Google Analytics 4, PayPal 후원.",
+        "privacy_h1": "개인정보 처리방침",
+        "privacy_sections": [
+            ("개요",
+             "<p>Critter Formations는 계정과 자체 서버 측 코드가 없는 정적 웹사이트입니다. "
+             "이 페이지는 사이트 방문 또는 피드백 전송 시 수집되는 제한적인 데이터에 대해 설명합니다.</p>"),
+            ("호스팅 (GitHub Pages)",
+             '<p>이 사이트는 GitHub Pages에서 호스팅됩니다. GitHub는 보안 목적으로 방문자의 IP 주소와 요청 데이터를 '
+             '기록할 수 있습니다. GitHub의 <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" '
+             'target="_blank" rel="noopener noreferrer">일반 개인정보 보호정책</a>을 참고하세요.</p>'),
+            ("분석 (Google Analytics 4)",
+             '<p>이 사이트는 트래픽을 파악하고 콘텐츠를 개선하기 위해 Google Analytics 4를 사용합니다. GA4는 '
+             '<code>_ga</code> 등의 쿠키를 설정하고, 조회한 페이지, 대략적인 위치, 기기/브라우저 정보 등의 사용 데이터를 '
+             '수집합니다. Google의 <a href="https://policies.google.com/technologies/partner-sites" target="_blank" '
+             'rel="noopener noreferrer">파트너 사이트 정책</a>을 참고하세요. '
+             '<a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">Google 애널리틱스 '
+             '차단 브라우저 부가기능</a>으로 수집을 거부할 수 있습니다.</p>'),
+            ("후원 (PayPal)",
+             '<p>후원 버튼은 PayPal로 연결되며, 결제는 PayPal의 '
+             '<a href="https://www.paypal.com/myaccount/privacy/privacyStatementFull" target="_blank" rel="noopener noreferrer">'
+             '개인정보 보호정책</a>에 따라 처리됩니다. 이 사이트는 카드 정보나 결제 정보를 절대 볼 수 없습니다.</p>'),
+            ("Discord 링크",
+             "<p>카드 제목과 작성자 이름은 출처로 사용된 원본 Discord 게시물로 연결됩니다. 해당 링크 방문에는 "
+             "Discord 자체의 개인정보 보호 정책이 적용됩니다.</p>"),
+            ("피드백 (Supabase)",
+             '<p>피드백 양식은 별점, 메시지, 선택 입력한 이메일 주소, 현재 페이지와 사이트 언어를 '
+             '<a href="https://supabase.com/privacy" target="_blank" rel="noopener noreferrer">Supabase</a>에서 '
+             '호스팅하는 데이터베이스로 전송합니다. 피드백은 사이트 개선에만 사용되며 공개되거나 판매되지 않습니다. '
+             '답변이 필요 없다면 이메일 칸은 비워 두세요.</p>'),
+            ("계정 없음, 데이터 판매 없음",
+             "<p>이 사이트는 계정이 필요 없고 데이터를 판매하지 않습니다. 직접 보내 주신 피드백 외에는 어떠한 "
+             "개인정보도 저장하지 않습니다.</p>"),
+            ("문의",
+             '<p>이 정책에 관한 문의는 '
+             '<a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">'
+             'GitHub issue</a>로 남겨 주세요.</p>'),
+            ("시행일", "<p>2026년 11월 4일.</p>"),
         ],
     },
     "vi": {
-        "lang_name_en": "EN",
-        "lang_name_vi": "Tiếng Việt",
         "site_title": "Critter Formations",
         "chapter_label": "Chương",
         "chapter_option_label": "Chương {n}",
@@ -248,8 +400,8 @@ STRINGS = {
         "privacy_h1": "Chính Sách Quyền Riêng Tư",
         "privacy_sections": [
             ("Tổng quan",
-             "<p>Critter Formations là một trang web tĩnh, không có tài khoản, không có biểu mẫu và không có mã "
-             "phía máy chủ riêng. Trang này giải thích dữ liệu hạn chế nào được thu thập khi bạn truy cập.</p>"),
+             "<p>Critter Formations là một trang web tĩnh, không có tài khoản và không có mã phía máy chủ riêng. "
+             "Trang này giải thích dữ liệu hạn chế nào được thu thập khi bạn truy cập hoặc gửi góp ý.</p>"),
             ("Lưu trữ (GitHub Pages)",
              '<p>Trang này được lưu trữ trên GitHub Pages. GitHub có thể ghi lại địa chỉ IP của khách truy cập và '
              'dữ liệu yêu cầu vì mục đích an ninh. Xem <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" '
@@ -268,21 +420,148 @@ STRINGS = {
             ("Liên kết Discord",
              "<p>Tên màn và tên người đăng liên kết đến bài đăng Discord gốc được dùng làm nguồn. Việc truy cập "
              "các liên kết đó tuân theo chính sách quyền riêng tư riêng của Discord.</p>"),
-            ("Không tài khoản, không biểu mẫu, không bán dữ liệu",
-             "<p>Trang này không yêu cầu tài khoản, không có biểu mẫu, không bán dữ liệu, và không tự lưu trữ bất "
-             "kỳ dữ liệu cá nhân nào.</p>"),
+            ("Góp ý (Supabase)",
+             '<p>Biểu mẫu góp ý gửi số sao đánh giá, nội dung, email (không bắt buộc), trang bạn đang xem và ngôn ngữ '
+             'của trang đến cơ sở dữ liệu do <a href="https://supabase.com/privacy" target="_blank" '
+             'rel="noopener noreferrer">Supabase</a> lưu trữ. Góp ý chỉ được dùng để cải thiện trang này, không bao '
+             'giờ được công khai hay bán. Hãy để trống ô email nếu bạn không cần phản hồi.</p>'),
+            ("Không tài khoản, không bán dữ liệu",
+             "<p>Trang này không yêu cầu tài khoản và không bán dữ liệu. Ngoài góp ý do bạn tự gửi, trang không lưu "
+             "trữ bất kỳ dữ liệu cá nhân nào.</p>"),
             ("Liên hệ",
              '<p>Thắc mắc về chính sách này có thể gửi qua '
              '<a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">'
              'GitHub issue</a>.</p>'),
-            ("Ngày có hiệu lực", "<p>27 tháng 10, 2026.</p>"),
+            ("Ngày có hiệu lực", "<p>4 tháng 11, 2026.</p>"),
         ],
     },
 }
 
 
+# Feedback form copy, merged into STRINGS below. Error keys match the codes returned by
+# the critter-feedback Edge Function (supabase/functions/critter-feedback/index.ts).
+FEEDBACK_ENDPOINT = "https://njzrhztlmvhcpjglnuut.supabase.co/functions/v1/critter-feedback"
+FEEDBACK_STRINGS = {
+    "en": {
+        "lang_label": "Language",
+        "feedback_heading": "Share your feedback",
+        "feedback_intro": "Spotted a wrong or outdated formation, or have an idea for the site? Let me know.",
+        "feedback_rating_question": "How helpful is this site?",
+        "feedback_optional": "(optional)",
+        "feedback_rating_labels": ["Not helpful", "Slightly helpful", "Helpful", "Very helpful", "Extremely helpful"],
+        "feedback_star_one": "{n} star",
+        "feedback_star_many": "{n} stars",
+        "feedback_message_label": "Message",
+        "feedback_message_placeholder": "e.g. The 50-12 formation no longer works after the update",
+        "feedback_email_label": "Email",
+        "feedback_email_hint": "(optional, only if you'd like a reply)",
+        "feedback_send": "Send feedback",
+        "feedback_sending": "Sending…",
+        "feedback_thanks_heading": "Thanks for your feedback!",
+        "feedback_thanks_text": "I read every message.",
+        "feedback_send_more": "Send more feedback",
+        "feedback_errors": {
+            "empty": "Please add a rating or a message.",
+            "invalid_email": "Please enter a valid email address.",
+            "invalid_rating": "Rating must be between 1 and 5 stars.",
+            "message_too_long": "Message must be 2,000 characters or fewer.",
+            "rate_limited": "Too many submissions. Please wait a minute and try again.",
+            "server": "Could not send feedback. Please try again later.",
+        },
+    },
+    "zh-hant": {
+        "lang_label": "語言",
+        "feedback_heading": "意見回饋",
+        "feedback_intro": "發現陣容有錯或已過時，或對網站有任何建議嗎？歡迎告訴我。",
+        "feedback_rating_question": "這個網站對你有幫助嗎？",
+        "feedback_optional": "（選填）",
+        "feedback_rating_labels": ["沒有幫助", "有一點幫助", "有幫助", "很有幫助", "非常有幫助"],
+        "feedback_star_one": "{n} 顆星",
+        "feedback_star_many": "{n} 顆星",
+        "feedback_message_label": "留言",
+        "feedback_message_placeholder": "例如：50-12 的陣容在更新後已經打不過了",
+        "feedback_email_label": "電子郵件",
+        "feedback_email_hint": "（選填，需要回覆時再填）",
+        "feedback_send": "送出回饋",
+        "feedback_sending": "傳送中…",
+        "feedback_thanks_heading": "感謝你的回饋！",
+        "feedback_thanks_text": "每一則留言我都會看。",
+        "feedback_send_more": "再送一則回饋",
+        "feedback_errors": {
+            "empty": "請給個評分或留下訊息。",
+            "invalid_email": "請輸入有效的電子郵件地址。",
+            "invalid_rating": "評分必須介於 1 到 5 顆星。",
+            "message_too_long": "留言不能超過 2,000 個字元。",
+            "rate_limited": "送出次數太多了，請稍等一分鐘再試。",
+            "server": "無法送出回饋，請稍後再試。",
+        },
+    },
+    "ko": {
+        "lang_label": "언어",
+        "feedback_heading": "피드백 보내기",
+        "feedback_intro": "잘못되었거나 오래된 진형을 발견했거나 사이트에 대한 아이디어가 있으신가요? 알려 주세요.",
+        "feedback_rating_question": "이 사이트가 얼마나 도움이 되었나요?",
+        "feedback_optional": "(선택)",
+        "feedback_rating_labels": ["도움 안 됨", "조금 도움 됨", "도움 됨", "많이 도움 됨", "매우 도움 됨"],
+        "feedback_star_one": "별 {n}개",
+        "feedback_star_many": "별 {n}개",
+        "feedback_message_label": "메시지",
+        "feedback_message_placeholder": "예: 업데이트 후 50-12 진형이 더 이상 통하지 않아요",
+        "feedback_email_label": "이메일",
+        "feedback_email_hint": "(선택, 답변을 원하실 때만)",
+        "feedback_send": "피드백 보내기",
+        "feedback_sending": "보내는 중…",
+        "feedback_thanks_heading": "피드백 감사합니다!",
+        "feedback_thanks_text": "보내 주신 메시지는 모두 읽고 있어요.",
+        "feedback_send_more": "피드백 더 보내기",
+        "feedback_errors": {
+            "empty": "별점이나 메시지를 남겨 주세요.",
+            "invalid_email": "올바른 이메일 주소를 입력해 주세요.",
+            "invalid_rating": "별점은 1~5개 사이여야 합니다.",
+            "message_too_long": "메시지는 2,000자 이하로 입력해 주세요.",
+            "rate_limited": "너무 많이 보내셨어요. 1분 후에 다시 시도해 주세요.",
+            "server": "피드백을 보내지 못했습니다. 잠시 후 다시 시도해 주세요.",
+        },
+    },
+    "vi": {
+        "lang_label": "Ngôn ngữ",
+        "feedback_heading": "Gửi góp ý",
+        "feedback_intro": "Bạn thấy đội hình nào sai hoặc đã lỗi thời, hay có ý tưởng cho trang web? Hãy cho mình biết.",
+        "feedback_rating_question": "Trang web này hữu ích với bạn đến đâu?",
+        "feedback_optional": "(không bắt buộc)",
+        "feedback_rating_labels": ["Không hữu ích", "Hơi hữu ích", "Hữu ích", "Rất hữu ích", "Cực kỳ hữu ích"],
+        "feedback_star_one": "{n} sao",
+        "feedback_star_many": "{n} sao",
+        "feedback_message_label": "Nội dung",
+        "feedback_message_placeholder": "Ví dụ: Đội hình 50-12 không còn dùng được sau bản cập nhật",
+        "feedback_email_label": "Email",
+        "feedback_email_hint": "(không bắt buộc, chỉ khi bạn muốn được phản hồi)",
+        "feedback_send": "Gửi góp ý",
+        "feedback_sending": "Đang gửi…",
+        "feedback_thanks_heading": "Cảm ơn góp ý của bạn!",
+        "feedback_thanks_text": "Mình đọc mọi tin nhắn.",
+        "feedback_send_more": "Gửi thêm góp ý",
+        "feedback_errors": {
+            "empty": "Vui lòng chọn số sao hoặc nhập nội dung.",
+            "invalid_email": "Vui lòng nhập địa chỉ email hợp lệ.",
+            "invalid_rating": "Số sao phải từ 1 đến 5.",
+            "message_too_long": "Nội dung không được vượt quá 2.000 ký tự.",
+            "rate_limited": "Bạn gửi quá nhiều lần. Vui lòng đợi một phút rồi thử lại.",
+            "server": "Không gửi được góp ý. Vui lòng thử lại sau.",
+        },
+    },
+}
+for _lang, _extra in FEEDBACK_STRINGS.items():
+    STRINGS[_lang].update(_extra)
+
+
 def lang_prefix(lang: str) -> str:
-    return "" if lang == "en" else "/vi"
+    return LANG_INFO[lang]["prefix"]
+
+
+def lang_dir(site: Path, lang: str) -> Path:
+    prefix = lang_prefix(lang)
+    return site / prefix.lstrip("/") if prefix else site
 
 
 def page_path(lang: str, page_type: str, chapter: int | None = None) -> str:
@@ -297,7 +576,7 @@ def page_path(lang: str, page_type: str, chapter: int | None = None) -> str:
 
 
 def hreflang_links(page_type: str, chapter: int | None = None) -> str:
-    links = [f'<link rel="alternate" hreflang="{lang}" href="{SITE_URL + page_path(lang, page_type, chapter)}">'
+    links = [f'<link rel="alternate" hreflang="{LANG_INFO[lang]["code"]}" href="{SITE_URL + page_path(lang, page_type, chapter)}">'
              for lang in LANGS]
     links.append(f'<link rel="alternate" hreflang="x-default" href="{SITE_URL + page_path("en", page_type, chapter)}">')
     return "\n  ".join(links)
@@ -307,8 +586,8 @@ def og_meta(lang: str, page_type: str, title: str, description: str, image_path:
             chapter: int | None = None) -> str:
     url = SITE_URL + page_path(lang, page_type, chapter)
     image_url = f"{SITE_URL}/{image_path}"
-    locale = "en_US" if lang == "en" else "vi_VN"
-    alt_locale = "vi_VN" if lang == "en" else "en_US"
+    alternates = [f'<meta property="og:locale:alternate" content="{LANG_INFO[other]["og_locale"]}">'
+                  for other in LANGS if other != lang]
     return "\n  ".join([
         '<meta property="og:type" content="website">',
         f'<meta property="og:site_name" content="{html.escape(STRINGS[lang]["site_title"], quote=True)}">',
@@ -319,8 +598,8 @@ def og_meta(lang: str, page_type: str, title: str, description: str, image_path:
         '<meta property="og:image:width" content="1200">',
         '<meta property="og:image:height" content="630">',
         f'<meta property="og:image:alt" content="{html.escape(image_alt, quote=True)}">',
-        f'<meta property="og:locale" content="{locale}">',
-        f'<meta property="og:locale:alternate" content="{alt_locale}">',
+        f'<meta property="og:locale" content="{LANG_INFO[lang]["og_locale"]}">',
+        *alternates,
     ])
 
 
@@ -346,7 +625,7 @@ def website_jsonld(lang: str) -> str:
         "@type": "WebSite",
         "name": STRINGS[lang]["site_title"],
         "url": url,
-        "inLanguage": "en-US" if lang == "en" else "vi-VN",
+        "inLanguage": LANG_INFO[lang]["jsonld"],
     }
     return jsonld_script(data)
 
@@ -388,13 +667,18 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
                   h1: str, main_content: str, og_image_path: str, og_image_alt: str, jsonld_scripts: list[str],
                   chapter: int | None = None, robots_noindex: bool = False) -> str:
     S = STRINGS[lang]
-    other_lang = "vi" if lang == "en" else "en"
-    lang_switch_nav = "\n        ".join(
-        f'<a href="{page_path(l, page_type, chapter)}"' + (' aria-current="page"' if l == lang else '')
-        + f'>{html.escape(S["lang_name_" + l])}</a>'
+    lang_options = "".join(
+        f'<option value="{page_path(l, page_type, chapter)}" data-lang="{l}" lang="{LANG_INFO[l]["code"]}"'
+        + (' selected' if l == lang else '')
+        + f'>{html.escape(LANG_INFO[l]["native"])}</option>'
         for l in LANGS)
+    show_feedback = page_type in ("home", "chapter")
+    footer_lang_links = "\n      ".join(
+        f'<a href="{page_path(l, page_type, chapter)}" hreflang="{LANG_INFO[l]["code"]}" lang="{LANG_INFO[l]["code"]}">'
+        f'{html.escape(LANG_INFO[l]["native"])}</a>'
+        for l in LANGS if l != lang)
     mapping = {
-        "HTML_LANG": lang,
+        "HTML_LANG": LANG_INFO[lang]["code"],
         "DESCRIPTION": html.escape(description, quote=True),
         "TITLE": html.escape(title),
         "CANONICAL_URL": SITE_URL + canonical_path,
@@ -405,7 +689,8 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "JSONLD_SCRIPTS": "\n  ".join(jsonld_scripts),
         "HOME_HREF": page_path(lang, "home"),
         "SITE_TITLE_TEXT": html.escape(S["site_title"]),
-        "LANG_SWITCH_NAV": lang_switch_nav,
+        "LANG_LABEL_TEXT": html.escape(S["lang_label"]),
+        "LANG_OPTIONS": lang_options,
         "CHAPTER_LABEL_TEXT": html.escape(S["chapter_label"]),
         "CHAPTER_OPTIONS": chapter_options(lang, chapter),
         "DONATION_LABEL_TEXT": html.escape(S["donation_label"]),
@@ -415,17 +700,24 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "H1_ATTRIBUTES": ' class="sr-only"' if page_type in ("chapter", "home") else "",
         "H1_TEXT": html.escape(h1),
         "MAIN_CONTENT": main_content,
+        "FEEDBACK_SECTION": render_feedback_section(lang) if show_feedback else "",
         "FOOTER_UNOFFICIAL_TEXT": html.escape(S["footer_unofficial"]),
         "FOOTER_TRADEMARK_TEXT": html.escape(S["footer_trademark"]),
         "FOOTER_PRIVACY_HREF": page_path(lang, "privacy"),
         "FOOTER_PRIVACY_LABEL_TEXT": html.escape(S["footer_privacy_label"]),
-        "FOOTER_LANG_HREF": page_path(other_lang, page_type, chapter),
-        "FOOTER_LANG_LABEL_TEXT": html.escape(S["lang_name_" + other_lang]),
+        "FOOTER_LANG_LINKS": footer_lang_links,
         "JS_CONFIG_JSON": json.dumps({
             "lang": lang,
             "langPrefix": lang_prefix(lang),
             "pageType": page_type,
             "chapter": chapter,
+            "feedback": {
+                "endpoint": FEEDBACK_ENDPOINT,
+                "ratingLabels": S["feedback_rating_labels"],
+                "send": S["feedback_send"],
+                "sending": S["feedback_sending"],
+                "errors": S["feedback_errors"],
+            } if show_feedback else None,
         }, ensure_ascii=False).replace("</", "<\\/"),
     }
     page = template
@@ -435,6 +727,47 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         page = page.replace(token, value)
     assert not _TEMPLATE_MARKER.search(page), "Unfilled template marker remains"
     return page
+
+
+STAR_PATH = ("M11.48 3.499a.562.562 0 011.04 0l2.125 5.111a.563.563 0 00.475.345l5.518.442c.499.04.701.663.321.988"
+             "l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.385a.562.562 0 01-.84.61l-4.725-2.885a.563.563 0 00-.586 0"
+             "L6.982 20.54a.562.562 0 01-.84-.61l1.285-5.386a.562.562 0 00-.182-.557l-4.204-3.602a.563.563 0 01.321-.988"
+             "l5.518-.442a.563.563 0 00.475-.345L11.48 3.5z")
+
+
+def render_feedback_section(lang: str) -> str:
+    S = STRINGS[lang]
+    e = html.escape
+    stars = "".join(
+        f'<button type="button" class="star" aria-pressed="false" '
+        f'aria-label="{e((S["feedback_star_many"] if n > 1 else S["feedback_star_one"]).format(n=n), quote=True)}">'
+        f'<svg aria-hidden="true" viewBox="0 0 24 24"><path d="{STAR_PATH}"/></svg></button>'
+        for n in range(1, 6))
+    optional = f'<span class="hint">{e(S["feedback_optional"])}</span>'
+    return (
+        '<section class="feedback" aria-labelledby="feedback-heading">'
+        f'<h2 id="feedback-heading">{e(S["feedback_heading"])}</h2>'
+        f'<p class="feedback-intro">{e(S["feedback_intro"])}</p>'
+        '<form id="feedback-form" novalidate>'
+        f'<fieldset class="feedback-field"><legend>{e(S["feedback_rating_question"])} {optional}</legend>'
+        f'<div class="stars">{stars}<span class="star-label" aria-hidden="true"></span></div></fieldset>'
+        f'<div class="feedback-field"><label for="feedback-message">{e(S["feedback_message_label"])} {optional}</label>'
+        f'<textarea id="feedback-message" name="message" rows="4" maxlength="2000" '
+        f'placeholder="{e(S["feedback_message_placeholder"], quote=True)}"></textarea></div>'
+        f'<div class="feedback-field"><label for="feedback-email">{e(S["feedback_email_label"])} '
+        f'<span class="hint">{e(S["feedback_email_hint"])}</span></label>'
+        '<input id="feedback-email" name="email" type="email" maxlength="320" autocomplete="email" '
+        'inputmode="email" placeholder="you@example.com"></div>'
+        # Honeypot: hidden from people, catches bots that fill every field.
+        '<input class="hp" type="text" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">'
+        '<p class="feedback-error" role="alert" hidden></p>'
+        f'<button type="submit" class="feedback-submit">{e(S["feedback_send"])}</button>'
+        '</form>'
+        '<div class="feedback-thanks" id="feedback-thanks" role="status" hidden>'
+        f'<p class="feedback-thanks-heading">{e(S["feedback_thanks_heading"])}</p>'
+        f'<p>{e(S["feedback_thanks_text"])}</p>'
+        f'<button type="button" class="feedback-again">{e(S["feedback_send_more"])}</button>'
+        '</div></section>')
 
 
 def render_card(group: dict, lang: str, is_first: bool) -> str:
@@ -851,11 +1184,12 @@ def build() -> None:
     # Chapter pages are static (crawlable without JS); each chapter's sprites are separate
     # files so visitors download only what a chapter's cards reference.
     shutil.rmtree(site / "chapters", ignore_errors=True)
-    for generated in ("sprites", "chapter", "vi", "og"):
+    for generated in ("sprites", "chapter", "og", *(lang_prefix(l).lstrip("/") for l in LANGS if lang_prefix(l))):
         shutil.rmtree(site / generated, ignore_errors=True)
     (site / "sprites").mkdir(parents=True)
     (site / "chapter").mkdir(parents=True)
-    (site / "vi" / "chapter").mkdir(parents=True)
+    for lang in LANGS:
+        (lang_dir(site, lang) / "chapter").mkdir(parents=True, exist_ok=True)
     (site / "og").mkdir(parents=True)
     for sprite_id, path in sprites.items():
         shutil.copyfile(path, site / "sprites" / f"{sprite_id}.png")
@@ -883,7 +1217,7 @@ def build() -> None:
             og_image_path="og/home.png", og_image_alt=strings["og_alt_home"],
             jsonld_scripts=[website_jsonld(lang)],
         )
-        home_file = site / "index.html" if lang == "en" else site / "vi" / "index.html"
+        home_file = lang_dir(site, lang) / "index.html"
         home_file.write_text(page)
 
     for chapter in CHAPTERS:
@@ -912,8 +1246,7 @@ def build() -> None:
                 og_image_path=f"og/chapter-{number}.png", og_image_alt=strings["og_alt_chapter"].format(n=number),
                 jsonld_scripts=jsonld_scripts, robots_noindex=not stats["cards"],
             )
-            chapter_dir = ((site / "chapter" / str(number)) if lang == "en" else
-                           (site / "vi" / "chapter" / str(number)))
+            chapter_dir = lang_dir(site, lang) / "chapter" / str(number)
             chapter_dir.mkdir(parents=True, exist_ok=True)
             (chapter_dir / "index.html").write_text(page)
 
@@ -926,13 +1259,13 @@ def build() -> None:
             canonical_path=page_path(lang, "privacy"), h1=strings["privacy_h1"], main_content=main_content,
             og_image_path="og/home.png", og_image_alt=strings["og_alt_home"], jsonld_scripts=[],
         )
-        privacy_file = site / "privacy.html" if lang == "en" else site / "vi" / "privacy.html"
+        privacy_file = lang_dir(site, lang) / "privacy.html"
         privacy_file.write_text(page)
 
     collected_at = dataset["collected_at"]
 
     def hreflang_sitemap_links(page_type: str, chapter_number: int | None) -> str:
-        links = [f'\n    <xhtml:link rel="alternate" hreflang="{lang}" '
+        links = [f'\n    <xhtml:link rel="alternate" hreflang="{LANG_INFO[lang]["code"]}" '
                  f'href="{SITE_URL + page_path(lang, page_type, chapter_number)}"/>' for lang in LANGS]
         links.append(f'\n    <xhtml:link rel="alternate" hreflang="x-default" '
                      f'href="{SITE_URL + page_path("en", page_type, chapter_number)}"/>')

@@ -141,7 +141,8 @@ python3 -m http.server 8765 --bind 127.0.0.1 --directory stage-47/site
 ```
 
 Open `http://127.0.0.1:8765/`, or jump straight to a chapter such as
-`http://127.0.0.1:8765/chapter/31/` (Vietnamese: `/vi/chapter/31/`). Every
+`http://127.0.0.1:8765/chapter/31/` (Traditional Chinese: `/zh-hant/chapter/31/`,
+Korean: `/ko/chapter/31/`, Vietnamese: `/vi/chapter/31/`). Every
 chapter page is a fully static file under `sprites/<id>.png` for artwork, so it
 must be served over HTTP; opening `index.html` directly from disk does not load
 sprites. All asset URLs are root-absolute (`/sprites/...`, `/favicon-tatari.png`),
@@ -164,6 +165,39 @@ chapter bounds, supported grouping and each reviewed deployed count
 recorded in generated `unavailable_stages`; no missing formation is invented.
 Expanding to another chapter also requires adding it to `CHAPTERS` in the builder.
 The chapter selector is populated automatically.
+
+## Languages
+
+The site is built in English (`/`), Traditional Chinese (`/zh-hant/`), Korean (`/ko/`)
+and Vietnamese (`/vi/`). Languages are configured in `LANGS` / `LANG_INFO` in
+`stage-47/build_site.py`, with UI copy in `STRINGS` and `FEEDBACK_STRINGS`;
+`check_site.py` fails if any language is missing a key that English has. Titles use the
+game's store name in each region (뚜까펫: 서바이벌, 塔塔冒險隊, Chiến Thú Hỗn Chiến).
+A new language also needs allowlist entries in `.gitignore` for its `site/<prefix>/` pages.
+
+## Feedback
+
+Home and chapter pages have a feedback form (1–5 stars and/or a message, optional
+email, plus a hidden `website` honeypot field). The site is static, so the form posts to
+the `critter-feedback` Supabase Edge Function
+(`supabase/functions/critter-feedback/index.ts`) instead of the database. The function
+only accepts requests from the site's origins (plus `127.0.0.1:8047` / `localhost:8047`
+for local preview), rate-limits each IP to 5 submissions per minute (in memory, per
+instance), validates the input, and inserts into `public.critter_feedback` with the
+service-role key. The table has RLS enabled and no policies, so the public keys can't
+read or write it. View submissions in the Supabase dashboard's Table Editor.
+
+The table lives in the shared `maptogpx` project (ref `njzrhztlmvhcpjglnuut`), whose
+migration history belongs to the GoogleMapRouteToGPX repo. **Don't run `supabase db push`
+from this repo**; apply schema changes directly, and redeploy the function after editing it:
+
+```sh
+supabase db query --linked --project-ref njzrhztlmvhcpjglnuut -f supabase/sql/critter_feedback.sql
+supabase functions deploy critter-feedback --project-ref njzrhztlmvhcpjglnuut --no-verify-jwt --use-api
+```
+
+Validation limits in the function mirror the table's `check` constraints; keep them in sync.
+Error codes returned by the function map to translated messages in `FEEDBACK_STRINGS`.
 
 ## Files and source evidence
 
