@@ -17,6 +17,8 @@
   <link rel="canonical" href="https://critterformations.com/vi/privacy.html">
   
   <link rel="alternate" hreflang="en" href="https://critterformations.com/privacy.html">
+  <link rel="alternate" hreflang="zh-Hant" href="https://critterformations.com/zh-hant/privacy.html">
+  <link rel="alternate" hreflang="ko" href="https://critterformations.com/ko/privacy.html">
   <link rel="alternate" hreflang="vi" href="https://critterformations.com/vi/privacy.html">
   <link rel="alternate" hreflang="x-default" href="https://critterformations.com/privacy.html">
   <meta property="og:type" content="website">
@@ -30,6 +32,8 @@
   <meta property="og:image:alt" content="Critter Formations: đội hình Clash of Critters theo chương">
   <meta property="og:locale" content="vi_VN">
   <meta property="og:locale:alternate" content="en_US">
+  <meta property="og:locale:alternate" content="zh_TW">
+  <meta property="og:locale:alternate" content="ko_KR">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="Chính Sách Quyền Riêng Tư | Critter Formations">
   <meta name="twitter:description" content="Cách Critter Formations xử lý dữ liệu khách truy cập: lưu trữ trên GitHub Pages, Google Analytics 4, và quyên góp qua PayPal.">
@@ -46,15 +50,14 @@
     .page-header { max-width: 1440px; margin: 0 auto; padding: 16px 24px 16px; background: #f5f7f0; width: 100%; }
     .header-top { flex-wrap: wrap; display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 10px; }
     .site-title { font-size: 16px; font-weight: 750; text-decoration: none; letter-spacing: -.2px; }
-    .lang-switch { display: flex; gap: 6px; font-size: 13px; }
-    .lang-switch a { text-decoration: none; padding: 4px 8px; border-radius: 7px; color: #536b49; }
-    .lang-switch a[aria-current="page"] { background: #edf2e6; color: #243b2b; font-weight: 650; }
-    .lang-switch a:hover { color: #477c38; }
+    .lang-picker { position: relative; display: flex; align-items: center; flex-shrink: 0; }
+    .lang-picker svg { position: absolute; left: 10px; width: 16px; height: 16px; color: #536b49; pointer-events: none; }
+    .lang-picker select { min-width: 0; min-height: 38px; padding: 6px 30px 6px 32px; font-size: 14px; border-radius: 9px; color: #243b2b; }
     .header-controls { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
     .chapter-picker { display: flex; align-items: center; gap: 12px; min-width: 0; }
     .chapter-picker label { font-size: 15px; font-weight: 650; }
     select { min-height: 44px; padding: 9px 12px; font: inherit; color: inherit; border: 1px solid #b9c8aa; border-radius: 10px; background: #fff; }
-    select { min-width: 170px; padding-right: 36px; }
+    .chapter-picker select { min-width: 170px; padding-right: 36px; }
     select:focus-visible, a:focus-visible { outline: 3px solid #477c38; outline-offset: 3px; }
     .donation-links { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
     .donation-label { font-size: 13px; color: #536b49; }
@@ -91,6 +94,32 @@
     .cell:nth-child(even) { background: #e0eac7; }
     .cell img { aspect-ratio: 1; display: block; width: 100%; height: 100%; object-fit: contain; user-select: none; }
     .occupied:hover { background: #f4f7e6; }
+    .feedback { max-width: 640px; margin: 48px auto 0; padding: 22px 24px 24px; border: 1px solid #d8e0cc; border-radius: 15px; background: #fff; }
+    .feedback h2 { font-size: 20px; font-weight: 700; letter-spacing: -.3px; margin: 0 0 6px; }
+    .feedback-intro { margin: 0 0 18px; color: #536b49; font-size: 14.5px; line-height: 1.5; }
+    .feedback-field { margin: 0 0 18px; padding: 0; border: 0; min-width: 0; }
+    .feedback-field > label, .feedback-field > legend { display: block; margin: 0 0 8px; padding: 0; font-size: 14.5px; font-weight: 650; }
+    .feedback .hint { font-weight: 400; color: #687762; }
+    .stars { display: flex; align-items: center; flex-wrap: wrap; gap: 2px; }
+    .star { display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; padding: 0; border: 0; border-radius: 8px; background: none; cursor: pointer; }
+    .star svg { width: 30px; height: 30px; fill: #fff; stroke: #a9b79d; stroke-width: 1.5; stroke-linejoin: round; transition: fill .12s, stroke .12s; }
+    .star.is-on svg { fill: #e2a93b; stroke: #c98d1c; }
+    .star:focus-visible { outline: 3px solid #477c38; outline-offset: 0; }
+    .star-label { margin-left: 8px; font-size: 14px; font-weight: 650; color: #536b49; }
+    .feedback textarea, .feedback input[type="email"] { display: block; width: 100%; min-height: 44px; padding: 10px 12px; font: inherit; font-size: 16px; color: inherit; border: 1px solid #b9c8aa; border-radius: 10px; background: #fff; }
+    .feedback textarea { resize: vertical; min-height: 104px; line-height: 1.5; }
+    .feedback textarea:focus-visible, .feedback input:focus-visible, .feedback button:focus-visible { outline: 3px solid #477c38; outline-offset: 2px; }
+    .feedback .hp { display: none; }
+    .feedback-error { margin: 0 0 14px; padding: 10px 12px; border: 1px solid #d9a3a3; border-radius: 10px; background: #fbf0f0; color: #8a2f2f; font-size: 14.5px; }
+    .feedback-submit, .feedback-again { display: inline-flex; align-items: center; justify-content: center; min-height: 48px; padding: 12px 24px; border-radius: 12px; font: inherit; font-size: 16px; font-weight: 700; cursor: pointer; }
+    .feedback-submit { width: 100%; border: 1px solid #477c38; background: #477c38; color: #fff; }
+    .feedback-submit:hover { background: #3a6a2d; border-color: #3a6a2d; }
+    .feedback-submit:disabled { cursor: wait; opacity: .75; }
+    .feedback-again { border: 1px solid #b9c8aa; background: #fff; color: #486342; }
+    .feedback-again:hover { background: #edf2e6; border-color: #477c38; }
+    .feedback-thanks { text-align: center; padding: 10px 0 4px; }
+    .feedback-thanks-heading { margin: 0 0 4px; font-size: 18px; font-weight: 700; }
+    .feedback-thanks p { margin: 0 0 16px; color: #536b49; }
     .privacy-content { max-width: 760px; line-height: 1.6; }
     .privacy-content h2 { font-size: 18px; margin: 22px 0 8px; }
     .privacy-content p { margin: 0 0 12px; }
@@ -101,12 +130,13 @@
     .table-scroll { max-width: 100%; overflow-x: auto; }
     .privacy-content { overflow-wrap: anywhere; }
     @media (pointer: coarse), (max-width: 850px) {
-      .site-title, .lang-switch a, .site-footer nav a, .poster a {
+      .site-title, .site-footer nav a, .poster a {
         display: inline-flex; align-items: center; justify-content: center;
         min-height: 44px; min-width: 44px;
       }
       .site-footer nav { display: flex; flex-wrap: wrap; gap: 4px 12px; }
       .poster { display: flex; align-items: center; flex-wrap: wrap; column-gap: 4px; }
+      .lang-picker select { min-height: 44px; font-size: 16px; }
     }
     @media (min-width: 851px) { .page-header, main, .site-footer { width: 90%; } h2.stage-title { font-size: clamp(18px, 1.35vw, 23.4px); } .level, .poster { font-size: 12.6px; } }
     @media (max-width: 850px) { .cards-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); max-width: 750px; gap: 18px; } .chapter-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } .page-header, main, .site-footer { max-width: 750px; } }
@@ -118,7 +148,8 @@
       .header-controls { gap: 10px; }
       .chapter-picker { flex: 1; gap: 8px; }
       .chapter-picker label { font-size: 14px; }
-      select { flex: 1; min-width: 0; width: 100%; padding-left: 10px; padding-right: 28px; font-size: 16px; }
+      .chapter-picker select { flex: 1; min-width: 0; width: 100%; padding-left: 10px; padding-right: 28px; font-size: 16px; }
+      .header-top { flex-wrap: nowrap; margin-bottom: 8px; }
       .donation-links { flex-shrink: 0; }
       .donation-label, .donation-text-desktop { display: none; }
       .donation-text-mobile { display: inline; }
@@ -129,20 +160,22 @@
       .level { margin-right: 6px; }
       .poster { margin-left: 14px; }
       .board { padding: 7px; gap: 2px; }
+      .feedback { margin-top: 36px; padding: 18px 16px 20px; }
       .next-stage { margin-top: 24px; }
       .next-stage-link { width: 100%; max-width: 420px; }
     }
-    @media print { :root { background: white; } .header-controls, .next-stage, .site-footer { display: none; } main { width: auto; max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
+    @media print { :root { background: white; } .header-controls, .lang-picker, .next-stage, .feedback, .site-footer { display: none; } main { width: auto; max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
   </style>
 </head>
 <body>
   <header class="page-header">
     <div class="header-top">
       <a class="site-title" href="/vi/">Critter Formations</a>
-      <nav class="lang-switch" aria-label="Language">
-        <a href="/privacy.html">EN</a>
-        <a href="/vi/privacy.html" aria-current="page">Tiếng Việt</a>
-      </nav>
+      <div class="lang-picker">
+        <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg>
+        <label for="lang-select" class="sr-only">Ngôn ngữ</label>
+        <select id="lang-select"><option value="/privacy.html" data-lang="en" lang="en">EN</option><option value="/zh-hant/privacy.html" data-lang="zh-hant" lang="zh-Hant">繁體中文</option><option value="/ko/privacy.html" data-lang="ko" lang="ko">한국어</option><option value="/vi/privacy.html" data-lang="vi" lang="vi" selected>Tiếng Việt</option></select>
+      </div>
     </div>
     <div class="header-controls">
       <div class="chapter-picker">
@@ -158,7 +191,8 @@
   </header>
   <main id="formations" aria-label="Stage formations">
     <h1>Chính Sách Quyền Riêng Tư</h1>
-    <div class="privacy-content"><section><h2>Tổng quan</h2><p>Critter Formations là một trang web tĩnh, không có tài khoản, không có biểu mẫu và không có mã phía máy chủ riêng. Trang này giải thích dữ liệu hạn chế nào được thu thập khi bạn truy cập.</p></section><section><h2>Lưu trữ (GitHub Pages)</h2><p>Trang này được lưu trữ trên GitHub Pages. GitHub có thể ghi lại địa chỉ IP của khách truy cập và dữ liệu yêu cầu vì mục đích an ninh. Xem <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">Tuyên bố Quyền riêng tư chung của GitHub</a>.</p></section><section><h2>Phân tích (Google Analytics 4)</h2><p>Trang này sử dụng Google Analytics 4 để hiểu lưu lượng truy cập và cải thiện nội dung. GA4 đặt cookie như <code>_ga</code> và thu thập dữ liệu sử dụng bao gồm số trang đã xem, vị trí gần đúng và thông tin thiết bị/trình duyệt. Xem <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">chính sách của Google về trang đối tác</a>. Bạn có thể từ chối bằng <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">Tiện ích từ chối Google Analytics</a>.</p></section><section><h2>Quyên góp (PayPal)</h2><p>Nút quyên góp liên kết đến PayPal, xử lý thanh toán theo <a href="https://www.paypal.com/myaccount/privacy/privacyStatementFull" target="_blank" rel="noopener noreferrer">chính sách quyền riêng tư</a> riêng của họ. Trang này không bao giờ thấy thông tin thẻ hoặc thanh toán của bạn.</p></section><section><h2>Liên kết Discord</h2><p>Tên màn và tên người đăng liên kết đến bài đăng Discord gốc được dùng làm nguồn. Việc truy cập các liên kết đó tuân theo chính sách quyền riêng tư riêng của Discord.</p></section><section><h2>Không tài khoản, không biểu mẫu, không bán dữ liệu</h2><p>Trang này không yêu cầu tài khoản, không có biểu mẫu, không bán dữ liệu, và không tự lưu trữ bất kỳ dữ liệu cá nhân nào.</p></section><section><h2>Liên hệ</h2><p>Thắc mắc về chính sách này có thể gửi qua <a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">GitHub issue</a>.</p></section><section><h2>Ngày có hiệu lực</h2><p>27 tháng 10, 2026.</p></section></div>
+    <div class="privacy-content"><section><h2>Tổng quan</h2><p>Critter Formations là một trang web tĩnh, không có tài khoản và không có mã phía máy chủ riêng. Trang này giải thích dữ liệu hạn chế nào được thu thập khi bạn truy cập hoặc gửi góp ý.</p></section><section><h2>Lưu trữ (GitHub Pages)</h2><p>Trang này được lưu trữ trên GitHub Pages. GitHub có thể ghi lại địa chỉ IP của khách truy cập và dữ liệu yêu cầu vì mục đích an ninh. Xem <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer">Tuyên bố Quyền riêng tư chung của GitHub</a>.</p></section><section><h2>Phân tích (Google Analytics 4)</h2><p>Trang này sử dụng Google Analytics 4 để hiểu lưu lượng truy cập và cải thiện nội dung. GA4 đặt cookie như <code>_ga</code> và thu thập dữ liệu sử dụng bao gồm số trang đã xem, vị trí gần đúng và thông tin thiết bị/trình duyệt. Xem <a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">chính sách của Google về trang đối tác</a>. Bạn có thể từ chối bằng <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">Tiện ích từ chối Google Analytics</a>.</p></section><section><h2>Quyên góp (PayPal)</h2><p>Nút quyên góp liên kết đến PayPal, xử lý thanh toán theo <a href="https://www.paypal.com/myaccount/privacy/privacyStatementFull" target="_blank" rel="noopener noreferrer">chính sách quyền riêng tư</a> riêng của họ. Trang này không bao giờ thấy thông tin thẻ hoặc thanh toán của bạn.</p></section><section><h2>Liên kết Discord</h2><p>Tên màn và tên người đăng liên kết đến bài đăng Discord gốc được dùng làm nguồn. Việc truy cập các liên kết đó tuân theo chính sách quyền riêng tư riêng của Discord.</p></section><section><h2>Góp ý (Supabase)</h2><p>Biểu mẫu góp ý gửi số sao đánh giá, nội dung, email (không bắt buộc), trang bạn đang xem và ngôn ngữ của trang đến cơ sở dữ liệu do <a href="https://supabase.com/privacy" target="_blank" rel="noopener noreferrer">Supabase</a> lưu trữ. Góp ý chỉ được dùng để cải thiện trang này, không bao giờ được công khai hay bán. Hãy để trống ô email nếu bạn không cần phản hồi.</p></section><section><h2>Không tài khoản, không bán dữ liệu</h2><p>Trang này không yêu cầu tài khoản và không bán dữ liệu. Ngoài góp ý do bạn tự gửi, trang không lưu trữ bất kỳ dữ liệu cá nhân nào.</p></section><section><h2>Liên hệ</h2><p>Thắc mắc về chính sách này có thể gửi qua <a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">GitHub issue</a>.</p></section><section><h2>Ngày có hiệu lực</h2><p>4 tháng 11, 2026.</p></section></div>
+    
   </main>
   <footer class="site-footer">
     <p>Nội dung do người hâm mộ tạo (không chính thức), không liên kết hoặc được Farlight xác nhận.</p>
@@ -166,10 +200,12 @@
     <nav aria-label="Footer">
       <a href="/vi/privacy.html">Quyền riêng tư</a>
       <a href="https://github.com/qaz6209031/clash-critters-formations" target="_blank" rel="noopener noreferrer">GitHub</a>
-      <a href="/privacy.html">EN</a>
+      <a href="/privacy.html" hreflang="en" lang="en">EN</a>
+      <a href="/zh-hant/privacy.html" hreflang="zh-Hant" lang="zh-Hant">繁體中文</a>
+      <a href="/ko/privacy.html" hreflang="ko" lang="ko">한국어</a>
     </nav>
   </footer>
-  <script>window.SITE_CONFIG = {"lang": "vi", "langPrefix": "/vi", "pageType": "privacy", "chapter": null};</script>
+  <script>window.SITE_CONFIG = {"lang": "vi", "langPrefix": "/vi", "pageType": "privacy", "chapter": null, "feedback": null};</script>
   <script>
     (function () {
       var CFG = window.SITE_CONFIG;
@@ -179,6 +215,90 @@
         if (typeof gtag === 'function') {
           gtag('event', name, Object.assign({ transport_type: 'beacon' }, params || {}));
         }
+      }
+
+      var langSelect = document.getElementById('lang-select');
+      langSelect.addEventListener('change', function () {
+        var option = langSelect.options[langSelect.selectedIndex];
+        gaEvent('language_switch', { from: CFG.lang, to: option.getAttribute('data-lang') });
+        window.location.href = langSelect.value + window.location.hash;
+      });
+
+      var feedback = document.getElementById('feedback-form');
+      if (feedback && CFG.feedback) {
+        var FB = CFG.feedback;
+        var stars = Array.prototype.slice.call(feedback.querySelectorAll('.star'));
+        var starLabel = feedback.querySelector('.star-label');
+        var errorBox = feedback.querySelector('.feedback-error');
+        var submitBtn = feedback.querySelector('.feedback-submit');
+        var thanks = document.getElementById('feedback-thanks');
+        var rating = null;
+
+        function paintStars(shown) {
+          stars.forEach(function (star, i) {
+            star.classList.toggle('is-on', shown !== null && i < shown);
+            star.setAttribute('aria-pressed', rating === i + 1 ? 'true' : 'false');
+          });
+          starLabel.textContent = shown !== null ? FB.ratingLabels[shown - 1] : '';
+        }
+        stars.forEach(function (star, i) {
+          star.addEventListener('click', function () {
+            rating = rating === i + 1 ? null : i + 1;
+            paintStars(rating);
+          });
+          star.addEventListener('mouseenter', function () { paintStars(i + 1); });
+        });
+        feedback.querySelector('.stars').addEventListener('mouseleave', function () { paintStars(rating); });
+
+        function showError(message) {
+          errorBox.textContent = message;
+          errorBox.hidden = !message;
+        }
+
+        feedback.addEventListener('submit', function (event) {
+          event.preventDefault();
+          if (submitBtn.disabled) return;
+          var message = feedback.elements.message.value.trim();
+          var email = feedback.elements.email.value.trim();
+          if (rating === null && !message) { showError(FB.errors.empty); return; }
+          if (email && !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) { showError(FB.errors.invalid_email); return; }
+          showError('');
+          submitBtn.disabled = true;
+          submitBtn.textContent = FB.sending;
+          fetch(FB.endpoint, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              rating: rating, message: message, email: email,
+              website: feedback.elements.website.value,
+              page: window.location.pathname, lang: CFG.lang,
+            }),
+          }).then(function (res) {
+            return res.json().catch(function () { return {}; }).then(function (data) {
+              if (!res.ok) throw new Error(data.error || 'server');
+            });
+          }).then(function () {
+            gaEvent('feedback_submit', { language: CFG.lang, page_type: CFG.pageType, has_rating: rating !== null });
+            feedback.hidden = true;
+            thanks.hidden = false;
+            thanks.querySelector('.feedback-again').focus();
+          }).catch(function (error) {
+            showError(FB.errors[error.message] || FB.errors.server);
+          }).then(function () {
+            submitBtn.disabled = false;
+            submitBtn.textContent = FB.send;
+          });
+        });
+
+        thanks.querySelector('.feedback-again').addEventListener('click', function () {
+          feedback.reset();
+          rating = null;
+          paintStars(null);
+          showError('');
+          thanks.hidden = true;
+          feedback.hidden = false;
+          stars[0].focus();
+        });
       }
 
       chapterSelect.addEventListener('change', function () {

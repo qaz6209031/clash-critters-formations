@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent
 SITE = ROOT / "site"
 
 sys.path.insert(0, str(ROOT))
-from build_site import CHAPTERS, LANGS, SITE_URL  # noqa: E402
+from build_site import CHAPTERS, LANG_INFO, LANGS, SITE_URL, STRINGS, lang_dir  # noqa: E402
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -43,7 +43,7 @@ CANONICAL_RE = re.compile(r'<link rel="canonical" href="([^"]+)">')
 H1_RE = re.compile(r"<h1\b([^>]*)>(.*?)</h1>", re.DOTALL)
 TITLE_RE = re.compile(r"<title>(.*?)</title>", re.DOTALL)
 DESCRIPTION_RE = re.compile(r'<meta name="description" content="([^"]*)">')
-HREFLANG_RE = re.compile(r'<link rel="alternate" hreflang="([a-z-]+)" href="([^"]+)">')
+HREFLANG_RE = re.compile(r'<link rel="alternate" hreflang="([A-Za-z-]+)" href="([^"]+)">')
 JSONLD_RE = re.compile(r'<script type="application/ld\+json">(.*?)</script>', re.DOTALL)
 OG_IMAGE_RE = re.compile(r'<meta property="og:image" content="([^"]+)">')
 
@@ -100,12 +100,33 @@ def check_page(path: Path) -> None:
     if len(h1s) != 1:
         fail(f"{rel}: expected exactly one <h1>, found {len(h1s)}")
 
+    page_lang = next((l for l in LANGS if LANG_INFO[l]["prefix"] and rel.parts[0] == LANG_INFO[l]["prefix"].lstrip("/")),
+                     "en")
+    prefix = LANG_INFO[page_lang]["prefix"]
     is_chapter = "chapter" in rel.parts
-    is_home = rel in (Path("index.html"), Path("vi/index.html"))
+    is_home = rel == lang_dir(Path("."), page_lang) / "index.html"
+    if f'<html lang="{LANG_INFO[page_lang]["code"]}">' not in text:
+        fail(f"{rel}: expected <html lang=\"{LANG_INFO[page_lang]['code']}\">")
+    switch = re.search(r'<select id="lang-select">(.*?)</select>', text, re.DOTALL)
+    options = re.findall(r'<option value="([^"]+)" data-lang="([^"]+)"[^>]*?( selected)?>', switch.group(1)) if switch else []
+    if [lang for _, lang, _ in options] != list(LANGS):
+        fail(f"{rel}: language dropdown should list {list(LANGS)}, found {[lang for _, lang, _ in options]}")
+    if [lang for _, lang, sel in options if sel] != [page_lang]:
+        fail(f"{rel}: language dropdown should select {page_lang}")
+    for href, lang, _ in options:
+        target = SITE / href.lstrip("/") / "index.html" if href.endswith("/") else SITE / href.lstrip("/")
+        if not target.exists():
+            fail(f"{rel}: language dropdown links to missing page {href}")
+    if "lang-switch" in text:
+        fail(f"{rel}: old language link row still present")
+    has_feedback = 'id="feedback-form"' in text
+    if (is_chapter or is_home) != has_feedback:
+        fail(f"{rel}: feedback form should appear on home and chapter pages only")
+    if has_feedback and 'name="website"' not in text:
+        fail(f"{rel}: feedback form missing honeypot field")
     if is_chapter:
         chapter_n = int(rel.parts[rel.parts.index("chapter") + 1])
         next_links = re.findall(r'<a class="next-stage-link" href="([^"]+)"', text)
-        prefix = "/vi" if rel.parts[0] == "vi" else ""
         expected = [f"{prefix}/chapter/{chapter_n + 1}/"] if (SITE / "chapter" / str(chapter_n + 1)).exists() else []
         if next_links != expected:
             fail(f"{rel}: expected next-stage link {expected}, found {next_links}")
@@ -130,8 +151,9 @@ def check_page(path: Path) -> None:
         fail(f"{rel}: expected exactly one non-empty meta description, found {len(descriptions)}")
 
     hreflangs = {lang for lang, _ in HREFLANG_RE.findall(text)}
-    if hreflangs != {"en", "vi", "x-default"}:
-        fail(f"{rel}: expected hreflang en/vi/x-default, found {sorted(hreflangs)}")
+    expected_hreflangs = {LANG_INFO[l]["code"] for l in LANGS} | {"x-default"}
+    if hreflangs != expected_hreflangs:
+        fail(f"{rel}: expected hreflang {sorted(expected_hreflangs)}, found {sorted(hreflangs)}")
 
     for match in JSONLD_RE.findall(text):
         try:
@@ -166,9 +188,16 @@ def main() -> None:
     if (SITE / "chapters").exists():
         fail("stale stage-47/site/chapters/ directory found; it should no longer be generated")
 
+    english_keys = set(STRINGS["en"])
+    for lang in LANGS:
+        if set(STRINGS[lang]) != english_keys:
+            fail(f"STRINGS[{lang!r}] keys differ from English: "
+                 f"missing {sorted(english_keys - set(STRINGS[lang]))}, extra {sorted(set(STRINGS[lang]) - english_keys)}")
+        if len(STRINGS[lang]["privacy_sections"]) != len(STRINGS["en"]["privacy_sections"]):
+            fail(f"STRINGS[{lang!r}]: privacy_sections count differs from English")
+
     pages_to_check: list[Path] = []
-    for page in (SITE / "index.html", SITE / "vi" / "index.html",
-                 SITE / "privacy.html", SITE / "vi" / "privacy.html"):
+    for page in [lang_dir(SITE, lang) / name for lang in LANGS for name in ("index.html", "privacy.html")]:
         if page.exists():
             pages_to_check.append(page)
         else:
@@ -177,8 +206,7 @@ def main() -> None:
     chapter_numbers = sorted(c["chapter"] for c in CHAPTERS)
     total_cards = {lang: 0 for lang in LANGS}
     for lang in LANGS:
-        lang_dir = SITE if lang == "en" else SITE / "vi"
-        chapter_dir = lang_dir / "chapter"
+        chapter_dir = lang_dir(SITE, lang) / "chapter"
         found = (sorted(int(p.name) for p in chapter_dir.iterdir() if p.is_dir())
                  if chapter_dir.exists() else [])
         if found != chapter_numbers:
