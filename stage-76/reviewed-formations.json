@@ -1,1 +1,564 @@
-[]
+[
+  {
+    "source_message_id": "1567590435952656436",
+    "stage_start": 61,
+    "stage_end": 65,
+    "caption_stage_numbers": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "website_stage_numbers": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "screenshot_displayed_stage": "76-65",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1921,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pyrodaemon",
+        "cribking",
+        "magnedart",
+        "stormlion",
+        "orchitoria"
+      ],
+      [
+        "phantifox:glitter",
+        "chrysolaria",
+        "hyphoria",
+        "cheerstella",
+        "terraton"
+      ],
+      [
+        "pyroviathan",
+        "tideon",
+        "morphanessa",
+        "newflamander",
+        "boltallion:glitter"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 76-65; caption stages follow the author's caption.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567588152821161994",
+    "stage_start": 58,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      58,
+      59
+    ],
+    "website_stage_numbers": [
+      58,
+      59
+    ],
+    "screenshot_displayed_stage": "76-60",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1921,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "pyrodaemon",
+        "rockong:glitter",
+        "cribking",
+        "stormlion",
+        "meteorax"
+      ],
+      [
+        "orchitoria",
+        "chrysolaria",
+        "hyphoria",
+        "cheerstella",
+        null
+      ],
+      [
+        "terraton",
+        "newflamander",
+        "morphanessa",
+        "tideon",
+        "magnedart"
+      ],
+      [
+        null,
+        null,
+        "boltallion:glitter",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 76-60; caption stages follow the author's caption.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567588045228605612",
+    "stage_start": 55,
+    "stage_end": 57,
+    "caption_stage_numbers": [
+      55,
+      56,
+      57
+    ],
+    "website_stage_numbers": [
+      55,
+      56,
+      57
+    ],
+    "screenshot_displayed_stage": "76-58",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1921,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "rockong:glitter",
+        "pyrodaemon",
+        "stormlion",
+        "cribking",
+        "meteorax"
+      ],
+      [
+        "terraton",
+        "chrysolaria",
+        "hyphoria",
+        "cheerstella",
+        null
+      ],
+      [
+        "clangnaga",
+        "newflamander",
+        "morphanessa",
+        "tideon",
+        "magnedart"
+      ],
+      [
+        null,
+        null,
+        "boltallion:glitter",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 76-58; caption stages follow the author's caption.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567583982420230335",
+    "stage_start": 50,
+    "stage_end": 54,
+    "caption_stage_numbers": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "website_stage_numbers": [
+      50,
+      51,
+      52,
+      53,
+      54
+    ],
+    "screenshot_displayed_stage": "76-51",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1921,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "terraton",
+        "orchitoria",
+        "meteorax",
+        "pyrodaemon",
+        "stormlion"
+      ],
+      [
+        "rockong:glitter",
+        "chrysolaria",
+        "hyphoria",
+        "cheerstella",
+        null
+      ],
+      [
+        "heliabloom",
+        "tideon",
+        "morphanessa",
+        "newflamander",
+        "magnedart"
+      ],
+      [
+        null,
+        null,
+        "clangnaga",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 76-51; caption stages follow the author's caption.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567576858214666290",
+    "stage_start": 35,
+    "stage_end": 39,
+    "caption_stage_numbers": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "website_stage_numbers": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "screenshot_displayed_stage": "76-40",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1921,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "pyrodaemon"
+      ],
+      [
+        "voltreaver:glitter",
+        "cribking",
+        "rockong:glitter",
+        "orchitoria",
+        "silversear"
+      ],
+      [
+        null,
+        "cheerstella",
+        "hyphoria",
+        "chrysolaria",
+        "frostluna"
+      ],
+      [
+        "boltallion:glitter",
+        "tideon",
+        "morphanessa",
+        "newflamander",
+        "phantifox:glitter"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 76-40; caption stages follow the author's caption.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567573864807006418",
+    "stage_start": 31,
+    "stage_end": 34,
+    "caption_stage_numbers": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "website_stage_numbers": [
+      31,
+      32,
+      33,
+      34
+    ],
+    "screenshot_displayed_stage": "76-35",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1921,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "chomperwraith:glitter",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "donscarab",
+        "ignitoad",
+        "cribking",
+        null,
+        "orchitoria"
+      ],
+      [
+        "pandagrand",
+        "cheerstella",
+        "frostluna",
+        "chrysolaria",
+        "heliabloom"
+      ],
+      [
+        "frugantuan",
+        "phantifox:glitter",
+        "morphanessa",
+        "newflamander",
+        "hypnostrix"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 76-35; caption stages follow the author's caption.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567573823434399764",
+    "stage_start": 30,
+    "stage_end": 30,
+    "caption_stage_numbers": [
+      30
+    ],
+    "website_stage_numbers": [
+      30
+    ],
+    "screenshot_displayed_stage": "76-31",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1921,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "orchitoria",
+        "pyrodaemon",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "chrysolaria",
+        "cribking",
+        null,
+        null
+      ],
+      [
+        "hypnostrix",
+        "tideon",
+        "morphanessa",
+        "ignitoad",
+        "rockong:glitter"
+      ],
+      [
+        null,
+        "hyphoria",
+        "frostluna",
+        "cheerstella",
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        null,
+        "pandagrand",
+        "heliabloom"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 76-31; caption stages follow the author's caption.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567561309271232674",
+    "stage_start": 1,
+    "stage_end": 4,
+    "caption_stage_numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "screenshot_displayed_stage": "76-5",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1921,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read in this original screenshot inventory.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "orchitoria",
+        "frostluna",
+        "umbraveil",
+        "terracrawler",
+        "pyrodaemon"
+      ],
+      [
+        "rockong:glitter",
+        "chrysolaria",
+        "hyphoria",
+        "cheerstella",
+        "phantifox:glitter"
+      ],
+      [
+        null,
+        null,
+        "boltallion:glitter",
+        "heliabloom",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "newflamander",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms, Glitter variants and 25 grid positions against planner catalog. The screenshot shows next stage 76-5; caption stages follow the author's caption. Same screenshot also supports 75-80.",
+    "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "Newest original reference for previously missing stages.",
+    "source_image_number": 1,
+    "replaces_website_source_message_ids": []
+  }
+]
