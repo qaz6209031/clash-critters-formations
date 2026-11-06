@@ -2133,11 +2133,11 @@
         null
       ],
       [
+        null,
         "thornwisp",
         "blitzmane",
         "armorjaw",
-        "orchitoria",
-        null
+        "orchitoria"
       ],
       [
         "clangnaga",
@@ -2185,7 +2185,7 @@
     "tatari_level_basis": "Player level 1254 is readable in this source's own screenshot inventory.",
     "selected_for_website": true,
     "needs_review": false,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Blitzmane is wearing a goggles costume; underlying unit and tier match Blitzmane, displayed using the catalog’s standard model.",
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Blitzmane is wearing a goggles costume; underlying unit and tier match Blitzmane, displayed using the catalog’s standard model. Back row (Thornwisp, Blitzmane, Armorjaw, Orchitoria) corrected 2026-11-05 to columns 2-5 per the original screenshot.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "superseded_for_website_by_message_ids": [],
