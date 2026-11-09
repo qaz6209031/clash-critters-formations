@@ -2209,18 +2209,18 @@
     "tatari_level_source": "message_text",
     "board": [
       [
-        null,
         "voltverine",
         "blitzmane",
         "orchitoria",
-        "pyrodaemon"
+        "pyrodaemon",
+        null
       ],
       [
         null,
-        null,
         "cheerspring",
         "hyphoria",
-        "charflutter"
+        "charflutter",
+        null
       ],
       [
         "solaflora",
@@ -2263,8 +2263,8 @@
     "level_from_original_post_clear_screenshot": true,
     "tatari_level_basis": "Player level 1265 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
     "selected_for_website": true,
-    "needs_review": true,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. Blitzmane is wearing a goggles costume; underlying unit and tier match Blitzmane, displayed using the catalog’s standard model.",
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. Blitzmane is wearing a goggles costume; underlying unit and tier match Blitzmane, displayed using the catalog’s standard model. Back two occupied rows (Voltverine/Blitzmane/Orchitoria/Pyrodaemon and Cheerspring/Hyphoria/Charflutter) corrected 2026-11-08 to columns 1-4 and 2-4 per the original screenshot.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
     "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
     "tatari_level_quote": "Level 1265",
