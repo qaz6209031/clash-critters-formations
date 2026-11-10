@@ -71,6 +71,8 @@ update changed the 33-20 enemy board; a November 2 clear confirms the new board 
 The same review replaces the next most reported stages with lower-level references:
 **12-6–12-7** (Ballincat43, level 203), **23-60–23-65** (tim370514, level 444, two
 post-update clears) and **24-20** (tim370514, level 456). Replaced records remain archived.
+**Chapter 23** was then refreshed in full: it now follows the October 21 cutoff like chapters
+24–28, and all 80 stages use tim370514's November 7–8 clears at levels 434–444.
 
 October 24 refresh applies a stricter cutoff to **chapters 24–28** because the
 October 21 update changed their enemy formations. Original **and supporting**

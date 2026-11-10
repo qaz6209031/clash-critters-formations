@@ -1,11 +1,14 @@
 # Chapter 23 formations
 
-All 80 stages are published from 23 selected chapter records in 36 cards.
-Observed or explicitly stated Tatari levels: 426–449.
+All 80 stages are published from 20 selected chapter records in 33 cards.
+Observed or explicitly stated Tatari levels: 434–444.
 
-November 10 feedback fix: **23-60–23-62** and **23-63–23-65** now use tim370514's
-post-update level-444 clears. Stage reports said the previous level-449 board
-(posted September 6, before the October 21 update) failed 23-60, 23-64 and 23-65.
+November 10 refresh: the October 21 game update changed chapter 23 enemy boards
+(stage reports said the September boards failed). Chapter 23 now uses the same
+October 22 local-time cutoff as chapters 24–28. All 80 stages use tim370514's
+November 7–8 clears from "Stage F2P from chapter 7-40 onwards" at levels 434–444.
+23-80 comes from the author's "23-80 to 24-2" post, whose screenshot shows 24-3.
+The 44 earlier records remain archived with replacement links.
 
 The October 8 update replaces previously hidden older references with original
 posts after August 27, 2026 in America/Los_Angeles. Existing eligible formations
