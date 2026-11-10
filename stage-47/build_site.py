@@ -10,6 +10,7 @@ import re
 import shutil
 from collections import Counter
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFont
@@ -31,7 +32,7 @@ PUBLICATION_CUTOFF = datetime(2026, 8, 28, 7, tzinfo=timezone.utc)
 # The owner requires references posted after October 21 in Los Angeles.
 CHAPTER_PUBLICATION_CUTOFFS = {
     chapter: datetime(2026, 10, 22, 7, tzinfo=timezone.utc)
-    for chapter in range(24, 29)
+    for chapter in range(23, 29)
 }
 CATALOG_ROOT = ROOT.parent / "2026-10-05"
 CATALOG = json.loads((CATALOG_ROOT / "tatari-reference.json").read_text())
@@ -608,6 +609,31 @@ REPORT_STRINGS = {
 for _lang, _extra in REPORT_STRINGS.items():
     STRINGS[_lang].update(_extra)
 
+# Posted date shown under the level on each card. Dates use the same
+# America/Los_Angeles day as the publication cutoffs.
+POSTED_DATE_STRINGS = {
+    "en": {"posted_on": "Posted {date}"},
+    "zh-hant": {"posted_on": "發布於 {date}"},
+    "ko": {"posted_on": "{date} 게시"},
+    "vi": {"posted_on": "Đăng ngày {date}"},
+}
+for _lang, _extra in POSTED_DATE_STRINGS.items():
+    STRINGS[_lang].update(_extra)
+
+POSTED_DATE_ZONE = ZoneInfo("America/Los_Angeles")
+MONTH_ABBR = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+
+
+def format_posted_date(timestamp: str, lang: str) -> str:
+    local = datetime.fromisoformat(timestamp.replace("Z", "+00:00")).astimezone(POSTED_DATE_ZONE)
+    if lang == "zh-hant":
+        return f"{local.year}/{local.month}/{local.day}"
+    if lang == "ko":
+        return f"{local.year}. {local.month}. {local.day}."
+    if lang == "vi":
+        return f"{local.day}/{local.month}/{local.year}"
+    return f"{MONTH_ABBR[local.month - 1]} {local.day}, {local.year}"
+
 
 def lang_prefix(lang: str) -> str:
     return LANG_INFO[lang]["prefix"]
@@ -857,6 +883,8 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
     card_id = group["card_id"]
     source = group["source"]
     board_aria = html.escape(S["board_aria"].format(stage=stage), quote=True)
+    posted_date = format_posted_date(group["posted_at_min"], lang)
+    posted_label = S["posted_on"].format(date=posted_date)
     return (
         f'<article class="stage" id="{card_id}" data-chapter="{chapter}" '
         f'data-formation-id="{group["formation_id"]}" data-source-message-ids="{group["source_ids_attr"]}" '
@@ -864,7 +892,10 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
         f'data-posted-at="{html.escape(group["posted_at_min"], quote=True)}">'
         f'<h2 class="stage-title"><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" '
         f'title="{html.escape(S["discord_link_title"], quote=True)}">{stage}</a>'
+        f'<span class="card-meta">'
         f'<span class="level" title="{group["level_title"]}" aria-label="{group["level_title"]}">{group["level_text"]}</span>'
+        f'<time class="posted" datetime="{html.escape(group["posted_at_min"], quote=True)}" title="{html.escape(posted_label, quote=True)}">'
+        f'{html.escape(posted_date)}</time></span>'
         f'</h2>'
         f'<p class="poster">{S["posted_by"]} {group["poster_links"]}</p>'
         f'<div class="board" role="group" aria-label="{board_aria}">{"".join(cells_html)}</div>'
@@ -1187,6 +1218,7 @@ def build() -> None:
         "collected_at": "2026-10-25",
         "chapter_56_63_update": "October 25: 196 original Casey image posts provide 201 chapter records, replacing 615 stages with individually lower player levels across chapters 56–63. Chapters 56–58 and 60–62 use Casey throughout; 59-46 through 59-49 retain prior references because Casey’s caption has a contradictory chapter endpoint, and 63-60 onward retain their previous selections because no newer Casey caption was found. All historical records and other chapters are preserved. Exact photographed tiers, 25-cell positions, the 14-unit 61-21–22 board, and costume notes are retained. Original/source timestamps and same-post numeric levels were checked. Inclusive ranges and late screenshots retain source review notes.",
         "chapter_24_28_update": "October 24: revamped chapters 24–28 require original and supporting posts after October 21, 2026 America/Los_Angeles. Only visually identified boards with a same-source numeric player level are published. Pre-update references remain archived and unsupported stages are empty. All other chapter selections are preserved.",
+        "chapter_23_update": "November 10: chapter 23 follows the same October 21 cutoff after stage reports showed pre-update boards failing; all 80 stages use tim370514's November 7–8 clears.",
         "chapter_50_update": "October 17: chapter 50 only, as clarified by the owner. Twenty-seven visually reviewed Casey posts replace all 80 chapter 50 stages after individual comparisons. Player levels 1013, 1030 and 1032 are each lower than the previous nil references at 1056, 1110 or 1121. Every level comes from the same post’s image or explicit caption. All 24 prior nil records remain preserved, and every other chapter retains its stage boards, levels and selected sources. The 50-64 caption says the screenshot was taken late and displays 50-70; its own inventory level 1032 is preserved with a reconstruction/coverage-review flag and no inferred extra stages. Other inclusive ranges retain coverage-review notes where completion of every stage is not visible. Bosses remain separate, with shorter captioned formation changes preserved.",
         "chapter_51_update": "October 16: owner-requested Casey replacements for 51-11 through 51-80. Twenty original October 11–12 posts at level 1048 were visually reviewed. All 24 original Pika records remain preserved, with website replacement relationships; 51-1 through 51-10 and all other chapters are preserved. Casey's captions are inclusive, unlike Pika's usual next-stage endpoints. The 51-50/51-51 record retains a coverage-review flag because the screenshot shows 51-51; that stage relies on Casey's explicit two-stage caption and the next post starting at 51-52. Units and levels are visually clear. Gameplay outcomes remain author-reported.",
         "chapter_52_55_update": "October 16: 109 visually reviewed Casey posts supply 112 chapter-specific records and replace 318 stages in chapters 52–55 after individual comparisons against the previous 66pika levels. Casey levels are 1048–1059 in chapter 52, 1059–1099 in chapter 53, 1099–1116 in chapter 54 and 1116–1124 in chapter 55. Every level is readable in its own screenshot or caption. Original Pika records are preserved with website replacement relationships. No explicit Casey caption covers 53-21 or 53-22, so those two stages retain their previous Pika reference. Inclusive ranges that extend beyond visible completion retain coverage-review flags. All other stage boards, levels and sources are preserved. Casey's latest collected post is 55-80; no chapter 56 or later Casey reference was found at the thread's present end.",
