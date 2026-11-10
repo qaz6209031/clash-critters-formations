@@ -2422,12 +2422,158 @@
     "needs_review": false,
     "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
     "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
-    "selected_for_website": true,
-    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "selected_for_website": false,
+    "selection_reason": "November 10, 2026: replaced after \"Can't pass this stage?\" reports on 23-60, 23-61, 23-62, 23-63, 23-64, 23-65. Original board, level and source remain archived.",
     "website_stage_numbers": [
       60,
       61,
       62,
+      63,
+      64,
+      65
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1568872795944001606",
+      "1568906626600017992"
+    ]
+  },
+  {
+    "source_message_id": "1568872795944001606",
+    "stage_start": 60,
+    "stage_end": 62,
+    "caption_stage_numbers": [
+      60,
+      61,
+      62
+    ],
+    "screenshot_displayed_stage": "23-63",
+    "screenshot_enemy_level": 617,
+    "tatari_level": 444,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 444",
+    "tatari_level_basis": "Level explicitly typed in this source post and visible on the inventory cards.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "lickflicker",
+        "gibber",
+        "serrabloom",
+        "zappur",
+        "boldclaw"
+      ],
+      [
+        "kitjitsu",
+        "charflutter",
+        "rockwu",
+        "cheerspring",
+        "sparkdoe"
+      ],
+      [
+        "azurion",
+        "frostique",
+        "waveflutter",
+        "tideon",
+        "voltmare"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 23-63 screenshot. Zappur wears a goggles costume; the catalog's standard model is shown. Rows 0 and 4 are empty (bottom-row gap matches other boards from this author).",
+    "stage_assignment_basis": "Only stages explicitly listed in the author's caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 10, 2026: three stage reports said the previous level-449 board (posted before the October 21 update) fails 23-60–23-65. Lower-level (444) post-update clear.",
+    "replaces_website_source_message_ids": [
+      "1546262413815324814"
+    ],
+    "website_stage_numbers": [
+      60,
+      61,
+      62
+    ]
+  },
+  {
+    "source_message_id": "1568906626600017992",
+    "stage_start": 63,
+    "stage_end": 65,
+    "caption_stage_numbers": [
+      63,
+      64,
+      65
+    ],
+    "screenshot_displayed_stage": "23-66",
+    "screenshot_enemy_level": 618,
+    "tatari_level": 444,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 444",
+    "tatari_level_basis": "Level explicitly typed in this source post and visible on the inventory cards.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "lickflicker",
+        "pyrohound",
+        "serrabloom",
+        "zappur",
+        "voltling"
+      ],
+      [
+        "kitjitsu",
+        "charflutter",
+        "rockhog",
+        "cheerspring",
+        "zapooch"
+      ],
+      [
+        "azurion",
+        "rockwu",
+        "waveflutter",
+        "sparkdoe",
+        "tideon"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 23-66 screenshot; the author's later of two 23-63 to 23-65 posts. Zappur wears a goggles costume; the catalog's standard model is shown. Rows 0 and 4 are empty.",
+    "stage_assignment_basis": "Only stages explicitly listed in the author's caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 10, 2026: three stage reports said the previous level-449 board (posted before the October 21 update) fails 23-60–23-65. Lower-level (444) post-update clear.",
+    "replaces_website_source_message_ids": [
+      "1546262413815324814"
+    ],
+    "website_stage_numbers": [
       63,
       64,
       65

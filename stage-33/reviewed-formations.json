@@ -320,8 +320,76 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
-    "level_from_original_post_clear_screenshot": false
+    "selection_reason": "November 10, 2026: replaced after five stage reports and two feedback messages that this board fails 33-20. The 33-20 enemy board changed after the October 21 update. Original board, level and source remain archived.",
+    "level_from_original_post_clear_screenshot": false,
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1553140952208642129"
+    ]
+  },
+  {
+    "source_message_id": "1553140952208642129",
+    "stage_start": 20,
+    "stage_end": 20,
+    "caption_stage_numbers": [
+      20
+    ],
+    "screenshot_displayed_stage": "33-20",
+    "screenshot_enemy_level": 869,
+    "tatari_level": 668,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 668",
+    "tatari_level_basis": "Level explicitly typed in this source post and visible on the inventory cards.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Jacob",
+    "credit_basis": "Creator credited in the source caption (jacobdumbnut); distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        null,
+        "nekowatt",
+        "synthhog",
+        null
+      ],
+      [
+        null,
+        "hellhound",
+        "clangnaga",
+        "zapantler",
+        null
+      ],
+      [
+        "serrabloom",
+        "charflutter",
+        "cheerspring",
+        "hyphoria",
+        "solaflora"
+      ],
+      [
+        null,
+        "silversear",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Pre-battle 33-20 screenshot. The 33-20 enemy board changed after the October 21 update; a November 2, 2026 post (Knight Who Says \"Yis\", message 1566920792841916458, copied from jacobdumbnut, no level stated) shows this identical board clearing the updated 33-20.",
+    "stage_assignment_basis": "Only the stage explicitly listed in the author's caption.",
+    "selected_for_website": true,
+    "selection_reason": "November 10, 2026: stage reports said the previous level-704 board (with Clucky) fails 33-20. Lower-level (668) reference without Clucky, confirmed against the post-update enemy board.",
+    "replaces_website_source_message_ids": [
+      "1545052915536764929"
+    ]
   },
   {
     "source_message_id": "1545052979743170660",

@@ -278,11 +278,86 @@
     "needs_review": false,
     "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "November 10, 2026: replaced after \"Can't pass this stage?\" reports on 12-6, 12-7. Original board, level and source remain archived.",
     "caption_stage_numbers_original": [
       6,
       7
+    ],
+    "website_stage_numbers": [
+      6,
+      7
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1563626676686954576"
+    ]
+  },
+  {
+    "source_message_id": "1563626676686954576",
+    "stage_start": 6,
+    "stage_end": 10,
+    "caption_stage_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "screenshot_displayed_stage": "12-10",
+    "screenshot_enemy_level": 306,
+    "tatari_level": 203,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 203",
+    "tatari_level_basis": "Level explicitly typed in this source post and visible on the inventory cards.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "clawzor",
+        "firecoil",
+        "cobbledon",
+        "voltling"
+      ],
+      [
+        "sparkdoe",
+        "cheerlet",
+        "azurion",
+        "turtuff",
+        "synthhog"
+      ],
+      [
+        "rockfu",
+        "frostique",
+        "frugagon",
+        "humbleetle",
+        "boltskipper"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Pre-battle 12-10 screenshot; the caption claims 12-6 through 12-10. Rows 0 and 1 are empty.",
+    "stage_assignment_basis": "Only stages explicitly listed in the author's caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 10, 2026: four stage reports said the previous level-225 board fails 12-6/12-7. Lower-level (203) reference posted after the October 21 update.",
+    "replaces_website_source_message_ids": [
+      "1551263890732482770"
     ],
     "website_stage_numbers": [
       6,

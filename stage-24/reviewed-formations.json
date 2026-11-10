@@ -3647,11 +3647,83 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "November 10, 2026: replaced after \"Can't pass this stage?\" reports on 24-20. Original board, level and source remain archived.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1547106646441066497"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1568979445950451833"
+    ]
+  },
+  {
+    "source_message_id": "1568979445950451833",
+    "stage_start": 20,
+    "stage_end": 22,
+    "caption_stage_numbers": [
+      20,
+      21,
+      22
+    ],
+    "screenshot_displayed_stage": "24-23",
+    "screenshot_enemy_level": 630,
+    "tatari_level": 456,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 456",
+    "tatari_level_basis": "Level explicitly typed in this source post and visible on the inventory cards.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; the visible posting author is preserved.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "polarpaw",
+        "zappur",
+        "serrabloom",
+        null
+      ],
+      [
+        "zapooch",
+        "cheerspring",
+        "synthhog",
+        "solaflora",
+        "charflutter"
+      ],
+      [
+        "voltmare",
+        "tideon",
+        "waveflutter",
+        "rockwu",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 24-23 screenshot. Zappur wears a goggles costume; the catalog's standard model is shown. Row 0 is empty.",
+    "stage_assignment_basis": "Only stages explicitly listed in the author's caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 10, 2026: three stage reports said the previous level-512 board fails 24-20. Lower-level (456) post-update clear; only 24-20 is reassigned.",
+    "replaces_website_source_message_ids": [
+      "1563235185896726662"
+    ],
+    "website_stage_numbers": [
+      20
     ]
   },
   {
