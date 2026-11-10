@@ -65,6 +65,13 @@ and **32-71–32-74** with Vrondius's level-668 board (credit Layios). Site feed
 the October 21 update also changed **chapter 21** enemy boards, but only 21-5 has been
 re-verified; chapter 32 enemies are unchanged. Replaced records remain archived.
 
+November 10 review of the first day of "Can't pass this stage?" reports replaces **33-20**,
+the most reported stage, with Vrondius's level-668 board (credit Jacob). The October 21
+update changed the 33-20 enemy board; a November 2 clear confirms the new board works.
+The same review replaces the next most reported stages with lower-level references:
+**12-6–12-7** (Ballincat43, level 203), **23-60–23-65** (tim370514, level 444, two
+post-update clears) and **24-20** (tim370514, level 456). Replaced records remain archived.
+
 October 24 refresh applies a stricter cutoff to **chapters 24–28** because the
 October 21 update changed their enemy formations. Original **and supporting**
 posts must be after October 21 in America/Los_Angeles, beginning

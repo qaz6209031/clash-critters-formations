@@ -234,8 +234,8 @@ def main() -> None:
                     fail(f"{page.relative_to(SITE)}: {card_id} data-stages should start at its first stage")
 
     for lang in LANGS:
-        if total_cards[lang] != 2129:
-            fail(f"{lang} chapter pages: expected 2129 total cards, found {total_cards[lang]}")
+        if total_cards[lang] != 2130:
+            fail(f"{lang} chapter pages: expected 2130 total cards, found {total_cards[lang]}")
 
     for page in pages_to_check:
         check_page(page)

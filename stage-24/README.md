@@ -1,5 +1,8 @@
 # Chapter 24 formations
 
+November 10 feedback fix: **24-20** now uses tim370514's level-456 clear (posted
+November 8). Three stage reports said the previous level-512 board failed 24-20.
+
 November 4 refresh: **80/80 stages** from **37 visually reviewed records**.
 Original and supporting messages must be posted after **October 21, 2026** in
 America/Los_Angeles (`2026-10-22T07:00:00Z` minimum). The October 21 game

@@ -2,7 +2,12 @@
 
 All 80 stages, 21 selected Discord submissions, and 24 website cards.
 Cards follow 1–4, 5–9, and a separate multiple-of-10 boss in every decade.
-Observed or explicitly posted Tatari levels: 685–717.
+Observed or explicitly posted Tatari levels: 668–717.
+
+November 10 feedback fix: **33-20** now uses Vrondius's level-668 board (credit
+Jacob). Five stage reports and two feedback messages said the previous level-704
+board (with Clucky) failed. The October 21 update changed the 33-20 enemy board; a
+November 2 post shows this same board clearing the updated stage.
 
 Collected read-only through the authenticated Discord website on 2026-10-07.
 The selection prioritizes one supported formation per requested block; the user
