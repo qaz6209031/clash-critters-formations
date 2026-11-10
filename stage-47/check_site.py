@@ -226,6 +226,12 @@ def main() -> None:
                 if int(chapter_str) != number:
                     fail(f"{page.relative_to(SITE)}: card id {card_id} chapter mismatch")
             total_cards[lang] += len(card_ids)
+            if text.count('class="report-btn"') != len(card_ids):
+                fail(f"{page.relative_to(SITE)}: every card needs one \"can't pass\" report button")
+            for card_id, card_chapter, first_stage, stages_attr in re.findall(
+                    r'<article class="stage" id="(stage-(\d+)-(\d+))"[^>]*?data-stages="([\d,]+)"', text):
+                if stages_attr.split(",")[0] != first_stage:
+                    fail(f"{page.relative_to(SITE)}: {card_id} data-stages should start at its first stage")
 
     for lang in LANGS:
         if total_cards[lang] != 2129:

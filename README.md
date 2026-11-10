@@ -59,6 +59,12 @@ unit is **Azurion**, replacing the mistaken Silversear. Level 1048 and source
 are unchanged; extraction revision 2 preserves the previous cell values.
 
 
+November 9 feedback review replaces **21-5** with izedcream's post-update level-406 clear
+and **32-71–32-74** with Vrondius's level-668 board (credit Layios). Site feedback reported
+21-5 as outdated and the previous 32-71–32-74 board failing. Screenshot comparison shows
+the October 21 update also changed **chapter 21** enemy boards, but only 21-5 has been
+re-verified; chapter 32 enemies are unchanged. Replaced records remain archived.
+
 October 24 refresh applies a stricter cutoff to **chapters 24–28** because the
 October 21 update changed their enemy formations. Original **and supporting**
 posts must be after October 21 in America/Los_Angeles, beginning
@@ -198,6 +204,23 @@ supabase functions deploy critter-feedback --project-ref njzrhztlmvhcpjglnuut --
 
 Validation limits in the function mirror the table's `check` constraints; keep them in sync.
 Error codes returned by the function map to translated messages in `FEEDBACK_STRINGS`.
+
+Each formation card on chapter pages also has a **“Can’t pass this stage?”** button. It opens
+a small confirm form. Cards covering several stages also ask which stage, with a “not sure”
+default, so the stage is optional. It posts to the same function with
+`kind: "stage_report"`, which validates the chapter, optional stage and formation ID and
+inserts into `public.critter_stage_reports` (same RLS setup). A browser can report each
+formation once; this is remembered in `localStorage` (`cf-reported-formations`). Copy lives
+in `REPORT_STRINGS`. To find formations that need rechecking:
+
+```sh
+supabase db query --linked --project-ref njzrhztlmvhcpjglnuut -f supabase/sql/critter_stage_reports.sql  # schema
+```
+
+```sql
+select chapter, formation_id, count(*) reports, array_agg(distinct stage) stages
+from critter_stage_reports group by 1, 2 order by reports desc;
+```
 
 ## Files and source evidence
 

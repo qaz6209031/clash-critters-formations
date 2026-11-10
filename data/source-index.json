@@ -32585,5 +32585,29 @@
     "source_thread": "Discord lineup post",
     "attachments": [],
     "local_image_path": null
+  },
+  {
+    "id": "1563973746862325882",
+    "text": "21-5\nlvl 406 33433",
+    "display_name": "izedcream",
+    "posted_at": "2026-10-25T17:53:18.479Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560098754164432919/1563973746862325882",
+    "permalink_method": "Original message ID and timestamp read from authenticated Discord website DOM; thread ID from the attachment URL.",
+    "source_thread": "F2P Journey (18-40+)",
+    "channel_id": "1560098754164432919",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1553083152132481034",
+    "text": "32-71 32-72 32-73 32-74 lvl 668. Dojos 44444. Credit to Layios",
+    "display_name": "Vrondius",
+    "posted_at": "2026-09-25T16:37:58.358Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537610539503583342/1553083152132481034",
+    "permalink_method": "Original message ID and timestamp read from authenticated Discord website DOM; thread ID from the attachment URL.",
+    "source_thread": "Continuing F2P Journey Ch 11+",
+    "channel_id": "1537610539503583342",
+    "attachments": [],
+    "local_image_path": null
   }
 ]

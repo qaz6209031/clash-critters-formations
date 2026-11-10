@@ -1,7 +1,11 @@
 # Chapter 21 formations
 
 All 80 stages are published from 43 selected chapter records in 51 cards.
-Observed or explicitly stated Tatari levels: 363–364.
+Observed or explicitly stated Tatari levels: 363–406.
+
+November 9 feedback fix: **21-5** now uses izedcream's October 25 level-406 clear.
+The chapter 21 enemy boards changed in the October 21 update; the other chapter 21
+stages still use pre-update references and have not been re-verified.
 
 The October 8 update replaces previously hidden older references with original
 posts after August 27, 2026 in America/Los_Angeles. Existing eligible formations

@@ -1450,8 +1450,10 @@
     "website_stage_numbers": [
       2,
       3,
-      4,
-      5
+      4
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1563973746862325882"
     ]
   },
   {
@@ -4144,6 +4146,70 @@
     "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
     "website_stage_numbers": [
       80
+    ]
+  },
+  {
+    "source_message_id": "1563973746862325882",
+    "stage_start": 5,
+    "stage_end": 5,
+    "caption_stage_numbers": [
+      5
+    ],
+    "screenshot_displayed_stage": "21-6",
+    "screenshot_enemy_level": 544,
+    "tatari_level": 406,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 406",
+    "tatari_level_basis": "Level explicitly typed in this source post and visible on the deployed inventory cards.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "rockshell",
+        "ospisces",
+        "pyrohound",
+        "cobbledon"
+      ],
+      [
+        "frugagon",
+        "cheerlet",
+        "trippet",
+        "charflutter",
+        "rockwu"
+      ],
+      [
+        null,
+        "humbleetle",
+        "waveflutter",
+        "snapshade",
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        "azurion",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Azurion wears a cowboy-hat costume. The screenshot's 21-6 enemy board matches other post-October 21 posts and differs from the August references, so chapter 21 enemies changed in the October 21 update.",
+    "stage_assignment_basis": "Only the explicitly captioned clear; displayed next stage retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 9, 2026: user feedback reported 21-5 as outdated after the October 21 update. Lowest-level post-update reference found (tim370514's level-427 post also covers 21-5).",
+    "replaces_website_source_message_ids": [
+      "1544109171153051738"
     ]
   }
 ]
