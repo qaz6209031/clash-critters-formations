@@ -1,15 +1,20 @@
 // Receives feedback from the static critterformations.com pages and stores it in
-// public.critter_feedback. The site is static (GitHub Pages), so this function plays the
+// public.critter_feedback. Requests with kind "stage_report" come from the "Can't pass this
+// stage?" button on formation cards and go to public.critter_stage_reports. The site is static (GitHub Pages), so this function plays the
 // role of a server-side /api/feedback route: the browser never talks to the database, and
 // the service-role key only exists here.
 //
 // Deploy: supabase functions deploy critter-feedback --project-ref njzrhztlmvhcpjglnuut --no-verify-jwt --use-api
-// Limits mirror the check constraints in supabase/sql/critter_feedback.sql; keep them in sync.
-// Error codes are mapped to translated messages by the form (FEEDBACK_STRINGS in stage-47/build_site.py).
+// Limits mirror the check constraints in supabase/sql/critter_feedback.sql and
+// critter_stage_reports.sql; keep them in sync.
+// Error codes are mapped to translated messages by the forms (FEEDBACK_STRINGS and
+// REPORT_STRINGS in stage-47/build_site.py).
 
 const MAX_MESSAGE_LENGTH = 2000;
 const MAX_EMAIL_LENGTH = 320;
 const MAX_PAGE_LENGTH = 200;
+const STAGE_REGEX = /^(\d{1,2})-(\d{1,2})$/;
+const FORMATION_ID_REGEX = /^\d{5,25}(:chapter-\d{1,2})?$/;
 const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const LANGS = new Set(["en", "zh-hant", "ko", "vi"]);
 const DEFAULT_ORIGINS =
@@ -53,7 +58,7 @@ function optionalString(value: unknown): string | null {
   return typeof value === "string" && value.trim() ? value.trim() : null;
 }
 
-async function saveFeedback(row: Record<string, unknown>): Promise<void> {
+async function insertRow(table: string, row: Record<string, unknown>): Promise<void> {
   const supabaseUrl = Deno.env.get("SUPABASE_URL");
   const serviceKey = Deno.env.get("SUPABASE_SERVICE_ROLE_KEY");
   if (!supabaseUrl || !serviceKey) throw new Error("SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY not set");
@@ -64,12 +69,47 @@ async function saveFeedback(row: Record<string, unknown>): Promise<void> {
   };
   // Legacy service-role keys are JWTs and also go in Authorization; sb_secret_ keys do not.
   if (serviceKey.startsWith("eyJ")) headers.Authorization = `Bearer ${serviceKey}`;
-  const res = await fetch(`${supabaseUrl}/rest/v1/critter_feedback`, {
+  const res = await fetch(`${supabaseUrl}/rest/v1/${table}`, {
     method: "POST",
     headers,
     body: JSON.stringify(row),
   });
   if (!res.ok) throw new Error(`Supabase insert failed: ${res.status} ${await res.text()}`);
+}
+
+async function saveStageReport(
+  body: Record<string, unknown>,
+  page: string | null,
+  lang: string | null,
+  origin: string,
+): Promise<Response> {
+  const chapter = body.chapter;
+  if (!Number.isInteger(chapter) || (chapter as number) < 1 || (chapter as number) > 80) {
+    return json({ error: "bad_request" }, 400, origin);
+  }
+  // The stage is optional: multi-stage cards let the player answer "not sure".
+  const stage = body.stage === null || body.stage === undefined ? null : body.stage;
+  if (stage !== null) {
+    const stageMatch = typeof stage === "string" ? STAGE_REGEX.exec(stage) : null;
+    if (
+      !stageMatch || Number(stageMatch[1]) !== chapter ||
+      Number(stageMatch[2]) < 1 || Number(stageMatch[2]) > 80
+    ) {
+      return json({ error: "bad_request" }, 400, origin);
+    }
+  }
+  const formationId = typeof body.formation_id === "string" ? body.formation_id : "";
+  if (!FORMATION_ID_REGEX.test(formationId)) return json({ error: "bad_request" }, 400, origin);
+
+  try {
+    await insertRow("critter_stage_reports", {
+      chapter, stage, formation_id: formationId, page, lang,
+    });
+  } catch (e) {
+    console.error("Failed to save stage report", e);
+    return json({ error: "server" }, 500, origin);
+  }
+  return json({ ok: true }, 200, origin);
 }
 
 Deno.serve(async (req) => {
@@ -98,6 +138,12 @@ Deno.serve(async (req) => {
   // Honeypot: real visitors never see or fill the "website" field.
   if (body.website) return json({ ok: true }, 200, origin);
 
+  const rawPage = optionalString(body.page);
+  const page = rawPage && rawPage.startsWith("/") ? rawPage.slice(0, MAX_PAGE_LENGTH) : null;
+  const lang = typeof body.lang === "string" && LANGS.has(body.lang) ? body.lang : null;
+
+  if (body.kind === "stage_report") return saveStageReport(body, page, lang, origin);
+
   const rating = body.rating === null || body.rating === undefined ? null : body.rating;
   if (rating !== null && !(Number.isInteger(rating) && (rating as number) >= 1 && (rating as number) <= 5)) {
     return json({ error: "invalid_rating" }, 400, origin);
@@ -113,12 +159,8 @@ Deno.serve(async (req) => {
 
   if (rating === null && !message) return json({ error: "empty" }, 400, origin);
 
-  const rawPage = optionalString(body.page);
-  const page = rawPage && rawPage.startsWith("/") ? rawPage.slice(0, MAX_PAGE_LENGTH) : null;
-  const lang = typeof body.lang === "string" && LANGS.has(body.lang) ? body.lang : null;
-
   try {
-    await saveFeedback({ rating, message, email, page, lang });
+    await insertRow("critter_feedback", { rating, message, email, page, lang });
   } catch (e) {
     console.error("Failed to save feedback", e);
     return json({ error: "server" }, 500, origin);

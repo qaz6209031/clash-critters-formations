@@ -1094,8 +1094,12 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
-    "level_from_original_post_clear_screenshot": false
+    "selection_reason": "November 9, 2026: replaced by a lower-level reference after user feedback that this board failed 32-71–32-74 until Clucky was swapped for a different grass unit. Original board, level and source remain archived.",
+    "level_from_original_post_clear_screenshot": false,
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1553083152132481034"
+    ]
   },
   {
     "source_message_id": "1544709941367935016",
@@ -1204,5 +1208,72 @@
     "notes": "",
     "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
     "level_from_original_post_clear_screenshot": false
+  },
+  {
+    "source_message_id": "1553083152132481034",
+    "stage_start": 71,
+    "stage_end": 74,
+    "caption_stage_numbers": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "screenshot_displayed_stage": "32-71",
+    "screenshot_enemy_level": 859,
+    "tatari_level": 668,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 668",
+    "tatari_level_basis": "Level explicitly typed in this source post and visible on the inventory cards.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Creator credited in the source caption; distinct from the posting author.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        null,
+        "blitzmane",
+        "serrabloom",
+        "dreadclaw"
+      ],
+      [
+        null,
+        "pearpair",
+        "zapantler",
+        "charflutter",
+        "ospisces"
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "sonarbat",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Pre-battle 32-71 screenshot; the 32-71 enemy board is unchanged in November posts, so the October 21 update did not affect it. The rear row is empty in the photographed board.",
+    "stage_assignment_basis": "Only the stages explicitly listed in the author's caption; screenshot stage is preserved separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 9, 2026: user feedback reported the previous level-684 board failing 32-71–32-74. Lower-level (668) reference without Clucky.",
+    "replaces_website_source_message_ids": [
+      "1544709891489398915"
+    ]
   }
 ]

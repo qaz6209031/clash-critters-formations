@@ -208,7 +208,10 @@ STRINGS = {
              '<p>The feedback form sends your star rating, message, optional email address, the page you were on '
              'and the site language to a database hosted by <a href="https://supabase.com/privacy" target="_blank" '
              'rel="noopener noreferrer">Supabase</a>. Feedback is only used to improve this site; it is never '
-             'published or sold. Leave the email field empty if you don’t need a reply.</p>'),
+             'published or sold. Leave the email field empty if you don’t need a reply.</p>'
+             "<p>The “Can’t pass this stage?” button on each formation sends the formation, the stage if you pick "
+             "one, the page and the site language to the same database. Reports are only used to find formations "
+             "that need rechecking.</p>"),
             ("No accounts, no data sold",
              "<p>This site does not require an account and does not sell data. Apart from feedback you choose to "
              "send, it does not store any personal data.</p>"),
@@ -279,7 +282,9 @@ STRINGS = {
             ("意見回饋（Supabase）",
              '<p>意見回饋表單會將您的星等評分、留言、選填的電子郵件、您所在的頁面與網站語言，傳送到由 '
              '<a href="https://supabase.com/privacy" target="_blank" rel="noopener noreferrer">Supabase</a> '
-             '託管的資料庫。這些回饋只用於改善本網站，絕不會公開或販售。如果不需要回覆，請將電子郵件欄位留空。</p>'),
+             '託管的資料庫。這些回饋只用於改善本網站，絕不會公開或販售。如果不需要回覆，請將電子郵件欄位留空。</p>'
+             "<p>每個陣容下方的「打不過這關？」按鈕，會把陣容、您選擇的關卡（若有選），連同所在頁面與網站語言，"
+             "傳送到同一個資料庫。這些回報只用來找出需要重新檢查的陣容。</p>"),
             ("無帳號、不販售資料",
              "<p>本網站不需要帳號，也不販售資料。除了您主動送出的意見回饋之外，本網站不儲存任何個人資料。</p>"),
             ("聯絡方式",
@@ -351,7 +356,10 @@ STRINGS = {
              '<p>피드백 양식은 별점, 메시지, 선택 입력한 이메일 주소, 현재 페이지와 사이트 언어를 '
              '<a href="https://supabase.com/privacy" target="_blank" rel="noopener noreferrer">Supabase</a>에서 '
              '호스팅하는 데이터베이스로 전송합니다. 피드백은 사이트 개선에만 사용되며 공개되거나 판매되지 않습니다. '
-             '답변이 필요 없다면 이메일 칸은 비워 두세요.</p>'),
+             '답변이 필요 없다면 이메일 칸은 비워 두세요.</p>'
+             "<p>각 진형 아래의 「이 스테이지를 못 깨셨나요?」 버튼은 진형과 선택한 스테이지(선택한 경우)를 "
+             "현재 페이지 및 사이트 언어와 함께 같은 데이터베이스로 전송합니다. 이 제보는 다시 확인이 필요한 진형을 "
+             "찾는 데에만 사용됩니다.</p>"),
             ("계정 없음, 데이터 판매 없음",
              "<p>이 사이트는 계정이 필요 없고 데이터를 판매하지 않습니다. 직접 보내 주신 피드백 외에는 어떠한 "
              "개인정보도 저장하지 않습니다.</p>"),
@@ -424,7 +432,10 @@ STRINGS = {
              '<p>Biểu mẫu góp ý gửi số sao đánh giá, nội dung, email (không bắt buộc), trang bạn đang xem và ngôn ngữ '
              'của trang đến cơ sở dữ liệu do <a href="https://supabase.com/privacy" target="_blank" '
              'rel="noopener noreferrer">Supabase</a> lưu trữ. Góp ý chỉ được dùng để cải thiện trang này, không bao '
-             'giờ được công khai hay bán. Hãy để trống ô email nếu bạn không cần phản hồi.</p>'),
+             'giờ được công khai hay bán. Hãy để trống ô email nếu bạn không cần phản hồi.</p>'
+             "<p>Nút “Không qua được màn này?” dưới mỗi đội hình gửi đội hình, màn chơi bạn chọn (nếu có), "
+             "cùng trang đang xem và ngôn ngữ, đến cùng cơ sở dữ liệu đó. Các báo cáo "
+             "chỉ được dùng để tìm đội hình cần kiểm tra lại.</p>"),
             ("Không tài khoản, không bán dữ liệu",
              "<p>Trang này không yêu cầu tài khoản và không bán dữ liệu. Ngoài góp ý do bạn tự gửi, trang không lưu "
              "trữ bất kỳ dữ liệu cá nhân nào.</p>"),
@@ -552,6 +563,49 @@ FEEDBACK_STRINGS = {
     },
 }
 for _lang, _extra in FEEDBACK_STRINGS.items():
+    STRINGS[_lang].update(_extra)
+
+# "Can't pass this stage?" report copy, merged into STRINGS. Reports go to the same
+# critter-feedback Edge Function with kind "stage_report"; error keys match its codes.
+REPORT_STRINGS = {
+    "en": {
+        "report_button": "Can’t pass this stage?",
+        "report_done": "Reported",
+        "report_stage_label": "Which stage?",
+        "report_stage_choose": "Not sure",
+        "report_submit": "Report",
+        "report_cancel": "Cancel",
+        "report_thanks": "Thanks! This formation will be rechecked.",
+    },
+    "zh-hant": {
+        "report_button": "打不過這關？",
+        "report_done": "已回報",
+        "report_stage_label": "哪一關？",
+        "report_stage_choose": "不確定",
+        "report_submit": "回報",
+        "report_cancel": "取消",
+        "report_thanks": "謝謝！我會重新檢查這個陣容。",
+    },
+    "ko": {
+        "report_button": "이 스테이지를 못 깨셨나요?",
+        "report_done": "제보 완료",
+        "report_stage_label": "어느 스테이지인가요?",
+        "report_stage_choose": "잘 모르겠어요",
+        "report_submit": "제보하기",
+        "report_cancel": "취소",
+        "report_thanks": "감사합니다! 이 진형을 다시 확인할게요.",
+    },
+    "vi": {
+        "report_button": "Không qua được màn này?",
+        "report_done": "Đã báo cáo",
+        "report_stage_label": "Màn nào?",
+        "report_stage_choose": "Không rõ",
+        "report_submit": "Báo cáo",
+        "report_cancel": "Hủy",
+        "report_thanks": "Cảm ơn bạn! Đội hình này sẽ được kiểm tra lại.",
+    },
+}
+for _lang, _extra in REPORT_STRINGS.items():
     STRINGS[_lang].update(_extra)
 
 
@@ -718,6 +772,12 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
                 "sending": S["feedback_sending"],
                 "errors": S["feedback_errors"],
             } if show_feedback else None,
+            "report": {
+                "endpoint": FEEDBACK_ENDPOINT,
+                "strings": {key: S[key] for key in REPORT_STRINGS["en"]},
+                "errors": {key: S["feedback_errors"][key] for key in ("rate_limited", "server")},
+                "optional": S["feedback_optional"],
+            } if page_type == "chapter" else None,
         }, ensure_ascii=False).replace("</", "<\\/"),
     }
     page = template
@@ -770,6 +830,10 @@ def render_feedback_section(lang: str) -> str:
         '</div></section>')
 
 
+REPORT_FLAG_SVG = ('<svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" '
+                   'stroke-linecap="round" stroke-linejoin="round"><path d="M5 21V4M5 4h11l-2 4 2 4H5"/></svg>')
+
+
 def render_card(group: dict, lang: str, is_first: bool) -> str:
     S = STRINGS[lang]
     chapter = group["chapter"]
@@ -796,13 +860,16 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
     return (
         f'<article class="stage" id="{card_id}" data-chapter="{chapter}" '
         f'data-formation-id="{group["formation_id"]}" data-source-message-ids="{group["source_ids_attr"]}" '
+        f'data-stages="{",".join(str(n) for n in sorted(set(group["numbers"])))}" '
         f'data-posted-at="{html.escape(group["posted_at_min"], quote=True)}">'
         f'<h2 class="stage-title"><a href="{source["source_message_url"]}" target="_blank" rel="noopener noreferrer" '
         f'title="{html.escape(S["discord_link_title"], quote=True)}">{stage}</a>'
         f'<span class="level" title="{group["level_title"]}" aria-label="{group["level_title"]}">{group["level_text"]}</span>'
         f'</h2>'
         f'<p class="poster">{S["posted_by"]} {group["poster_links"]}</p>'
-        f'<div class="board" role="group" aria-label="{board_aria}">{"".join(cells_html)}</div></article>')
+        f'<div class="board" role="group" aria-label="{board_aria}">{"".join(cells_html)}</div>'
+        f'<div class="report"><button type="button" class="report-btn" aria-expanded="false">'
+        f'{REPORT_FLAG_SVG}<span>{html.escape(S["report_button"])}</span></button></div></article>')
 
 
 def render_home_main(lang: str, chapter_stats: dict) -> str:
