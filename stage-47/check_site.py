@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent
 SITE = ROOT / "site"
 
 sys.path.insert(0, str(ROOT))
-from build_site import CHAPTERS, LANG_INFO, LANGS, SITE_URL, STRINGS, lang_dir  # noqa: E402
+from build_site import CHAPTERS, DOJO_ELEMENTS, LANG_INFO, LANGS, SITE_URL, STRINGS, lang_dir  # noqa: E402
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -104,6 +104,7 @@ def check_page(path: Path) -> None:
                      "en")
     prefix = LANG_INFO[page_lang]["prefix"]
     is_chapter = "chapter" in rel.parts
+    is_dojo = "dojo" in rel.parts
     is_home = rel == lang_dir(Path("."), page_lang) / "index.html"
     if f'<html lang="{LANG_INFO[page_lang]["code"]}">' not in text:
         fail(f"{rel}: expected <html lang=\"{LANG_INFO[page_lang]['code']}\">")
@@ -120,8 +121,10 @@ def check_page(path: Path) -> None:
     if "lang-switch" in text:
         fail(f"{rel}: old language link row still present")
     has_feedback = 'id="feedback-form"' in text
-    if (is_chapter or is_home) != has_feedback:
-        fail(f"{rel}: feedback form should appear on home and chapter pages only")
+    if (is_chapter or is_home or is_dojo) != has_feedback:
+        fail(f"{rel}: feedback form should appear on home, chapter and dojo pages only")
+    if 'class="dojo-nav-link"' not in text:
+        fail(f"{rel}: header Dojo link missing")
     if has_feedback and 'name="website"' not in text:
         fail(f"{rel}: feedback form missing honeypot field")
     if is_chapter:
@@ -232,6 +235,44 @@ def main() -> None:
                     r'<article class="stage" id="(stage-(\d+)-(\d+))"[^>]*?data-stages="([\d,]+)"', text):
                 if stages_attr.split(",")[0] != first_stage:
                     fail(f"{page.relative_to(SITE)}: {card_id} data-stages should start at its first stage")
+
+    dojo_cards = {lang: 0 for lang in LANGS}
+    for lang in LANGS:
+        index = lang_dir(SITE, lang) / "dojo" / "index.html"
+        if not index.exists():
+            fail(f"missing dojo index: {index.relative_to(SITE)}")
+        else:
+            pages_to_check.append(index)
+        home_text = (lang_dir(SITE, lang) / "index.html").read_text()
+        for element in DOJO_ELEMENTS:
+            page = lang_dir(SITE, lang) / "dojo" / element / "index.html"
+            if not page.exists():
+                fail(f"missing dojo page: {page.relative_to(SITE)}")
+                continue
+            pages_to_check.append(page)
+            text = page.read_text()
+            if f'href="{LANG_INFO[lang]["prefix"]}/dojo/{element}/"' not in home_text:
+                fail(f"{lang}: home page missing link to {element} dojo")
+            ids = re.findall(r'<article class="stage dojo-card" id="(dojo-([a-z]+)-(\d)-(\d+))"', text)
+            if len({i for i, *_ in ids}) != len(ids):
+                fail(f"{page.relative_to(SITE)}: duplicate dojo card ids")
+            if any(e != element for _, e, _, _ in ids):
+                fail(f"{page.relative_to(SITE)}: dojo card from another element")
+            stages = set()
+            for floor, attr in re.findall(r'data-dojo="[a-z]+" data-floor="(\d)"[^>]*?data-stages="([\d,]+)"', text):
+                for n in attr.split(","):
+                    if (floor, n) in stages:
+                        fail(f"{page.relative_to(SITE)}: dojo stage {floor}-{n} appears twice")
+                    stages.add((floor, n))
+            if len(stages) != 70:
+                fail(f"{page.relative_to(SITE)}: expected 70 dojo stages, found {len(stages)}")
+            if text.count('class="cell') != len(ids) * 12:
+                fail(f"{page.relative_to(SITE)}: every dojo board needs 12 cells")
+            if 'class="report-btn"' in text:
+                fail(f"{page.relative_to(SITE)}: dojo cards should not have chapter report buttons")
+            dojo_cards[lang] += len(ids)
+    if len(set(dojo_cards.values())) != 1:
+        fail(f"dojo card counts differ between languages: {dojo_cards}")
 
     for lang in LANGS:
         if total_cards[lang] != 2127:
