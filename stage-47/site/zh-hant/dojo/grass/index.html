@@ -222,6 +222,10 @@
       .next-stage { margin-top: 24px; }
       .next-stage-link { width: 100%; max-width: 420px; }
     }
+    @media (max-width: 400px) {
+      .chapter-picker label { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+      .dojo-nav-link { padding: 9px 8px; }
+    }
     @media print { :root { background: white; } .header-controls, .lang-picker, .next-stage, .feedback, .report, .site-footer { display: none; } main { width: auto; max-width: none; padding: 0; gap: 12px; } .stage { break-inside: avoid; } }
   </style>
 </head>
