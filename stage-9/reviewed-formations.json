@@ -127,8 +127,11 @@
     "needs_review": false,
     "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player level is not readable in this screenshot or stated in its message caption. Accepted for chapters 1–10 under the owner’s explicit unknown-level exception.",
     "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
-    "selected_for_website": true,
-    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+    "selected_for_website": false,
+    "selection_reason": "November 12, 2026: replaced after 5+ \"Can't pass this stage?\" reports by a lower-level clear (source 1547556984436293682). Original board, level and source remain archived.",
+    "replaced_by_website_source_message_ids": [
+      "1547556984436293682"
+    ]
   },
   {
     "source_message_id": "1547579455369646140",
@@ -1307,5 +1310,76 @@
     "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
     "selected_for_website": true,
     "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1547556984436293682",
+    "stage_start": 3,
+    "stage_end": 5,
+    "caption_stage_numbers": [
+      3,
+      4,
+      5
+    ],
+    "website_stage_numbers": [
+      3,
+      4,
+      5
+    ],
+    "screenshot_displayed_stage": "9-3",
+    "screenshot_enemy_level": null,
+    "tatari_level": 171,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lv 171",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "cobbledon",
+        "pyrohound",
+        "boldclaw",
+        "stalkerix",
+        "electroar"
+      ],
+      [
+        "frugatoad",
+        "azurion",
+        "frostpaw",
+        "cheerlet",
+        "rockfu"
+      ],
+      [
+        "rockhog",
+        null,
+        "bubbit",
+        "sealoon",
+        "sparkdoe"
+      ],
+      [
+        "cluckeroo",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Pre-battle 9-3 setup screenshot (cropped); the level is stated in the caption only. Row 0 is empty.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 12, 2026: the previous card drew 5+ \"Can't pass this stage?\" reports; replaced with this lower-level (Lv.171) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1557681419642339359"
+    ]
   }
 ]

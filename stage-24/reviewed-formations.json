@@ -3786,11 +3786,14 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "November 12, 2026: replaced after 5+ \"Can't pass this stage?\" reports by a lower-level clear (source 1569326002281119884). Original board, level and source remain archived.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1547108430937071686"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1569326002281119884"
     ]
   },
   {
@@ -5496,5 +5499,73 @@
     "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1569326002281119884",
+    "stage_start": 30,
+    "stage_end": 31,
+    "caption_stage_numbers": [
+      30,
+      31
+    ],
+    "website_stage_numbers": [
+      30
+    ],
+    "screenshot_displayed_stage": "24-32",
+    "screenshot_enemy_level": null,
+    "tatari_level": 459,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 459",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "lickflicker",
+        "gibber",
+        "snoozebo",
+        "clawzor",
+        "zappur"
+      ],
+      [
+        "charflutter",
+        null,
+        "rockwu",
+        "cheerspring",
+        "humbleetle"
+      ],
+      [
+        "scorchwing",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "sparkdoe"
+      ],
+      [
+        null,
+        null,
+        "rattlecoil",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 24-32 screenshot; inventory cards also read Lvl 459. Row 0 is empty (calibrated against the previous 24-30 board). Zappur wears a goggles costume; the catalog standard model is shown.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 12, 2026: the previous card drew 5+ \"Can't pass this stage?\" reports; replaced with this lower-level (Lv.459) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1563244604495630507"
+    ]
   }
 ]

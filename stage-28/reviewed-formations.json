@@ -4693,11 +4693,83 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "November 12, 2026: replaced after 5+ \"Can't pass this stage?\" reports by a lower-level clear (source 1568921008767762514). Original board, level and source remain archived.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1551615464642314321"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1568921008767762514"
+    ]
+  },
+  {
+    "source_message_id": "1568921008767762514",
+    "stage_start": 70,
+    "stage_end": 72,
+    "caption_stage_numbers": [
+      70,
+      71,
+      72
+    ],
+    "website_stage_numbers": [
+      70
+    ],
+    "screenshot_displayed_stage": "28-73",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "rockshell",
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "dreadclaw",
+        "rockwu",
+        null,
+        "rockzilla"
+      ],
+      [
+        null,
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        "serrabloom"
+      ],
+      [
+        "sparkdoe",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "rattlecoil"
+      ],
+      [
+        null,
+        null,
+        "zenscarab",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 28-73 screenshot; all five rows are used. Blitzmane wears a goggles costume, Cheerspring a bow and Azurion a top hat; catalog standard models are shown. Only 28-70 is published from this post; 28-71 and 28-72 keep their existing cards.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 12, 2026: the previous card drew 5+ \"Can't pass this stage?\" reports; replaced with this lower-level (Lv.551) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1563589810868985886"
     ]
   }
 ]
