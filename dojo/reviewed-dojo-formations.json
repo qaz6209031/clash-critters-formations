@@ -1,0 +1,5544 @@
+[
+  {
+    "element": "water",
+    "floor": 1,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1553345729383104522",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1553345729383104522/1553345729383104522",
+    "source_thread_id": "1553345729383104522",
+    "source_thread": "Koi's Water Dojo 1",
+    "display_name": "KoiCafeX",
+    "posted_at": "2026-09-26T10:01:21.653Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "1-5",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "skinklet",
+        "boldclaw",
+        "waddledo"
+      ],
+      [
+        "maskfry",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "capypapa"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 2,
+    "website_stage_numbers": [
+      1,
+      2
+    ],
+    "source_message_id": "1552290644230144010",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552290644230144010/1552290644230144010",
+    "source_thread_id": "1552290644230144010",
+    "source_thread": "Water Dojo 2-1 to 2-10 Resolved With Cat T2 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T12:08:49.750Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "2-2",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cribbler",
+        "skinklet",
+        "swaystroll"
+      ],
+      [
+        "maskfry",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "frostpaw"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 2,
+    "website_stage_numbers": [
+      3,
+      4
+    ],
+    "source_message_id": "1552290644230144010",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552290644230144010/1552290644230144010",
+    "source_thread_id": "1552290644230144010",
+    "source_thread": "Water Dojo 2-1 to 2-10 Resolved With Cat T2 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T12:08:49.750Z",
+    "image_index": 1,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "2-4",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cribbler",
+        "skinklet",
+        "swaystroll"
+      ],
+      [
+        "maskfry",
+        null,
+        null
+      ],
+      [
+        "frostpaw",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 2,
+    "website_stage_numbers": [
+      5,
+      6,
+      7
+    ],
+    "source_message_id": "1552290644230144010",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552290644230144010/1552290644230144010",
+    "source_thread_id": "1552290644230144010",
+    "source_thread": "Water Dojo 2-1 to 2-10 Resolved With Cat T2 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T12:08:49.750Z",
+    "image_index": 2,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "2-6",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "swaystroll",
+        "skinklet"
+      ],
+      [
+        null,
+        "cribbler",
+        null
+      ],
+      [
+        null,
+        null,
+        "frostpaw"
+      ],
+      [
+        "maskfry",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 2,
+    "website_stage_numbers": [
+      8
+    ],
+    "source_message_id": "1552290644230144010",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552290644230144010/1552290644230144010",
+    "source_thread_id": "1552290644230144010",
+    "source_thread": "Water Dojo 2-1 to 2-10 Resolved With Cat T2 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T12:08:49.750Z",
+    "image_index": 3,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "skinklet",
+        "swaystroll",
+        null
+      ],
+      [
+        null,
+        "cribbler",
+        "maskfry"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "frostpaw",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 2,
+    "website_stage_numbers": [
+      9,
+      10
+    ],
+    "source_message_id": "1552290644230144010",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552290644230144010/1552290644230144010",
+    "source_thread_id": "1552290644230144010",
+    "source_thread": "Water Dojo 2-1 to 2-10 Resolved With Cat T2 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T12:08:49.750Z",
+    "image_index": 4,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "2-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cribbler",
+        "skinklet",
+        "swaystroll"
+      ],
+      [
+        "maskfry",
+        null,
+        null
+      ],
+      [
+        null,
+        "frostpaw",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 3,
+    "website_stage_numbers": [
+      1
+    ],
+    "source_message_id": "1552306444915712050",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552306444915712050/1552306444915712050",
+    "source_thread_id": "1552306444915712050",
+    "source_thread": "Water Dojo 3-1 to 3-10 Resolved With Cat T3 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T13:11:36.927Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-2",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "swaystroll",
+        "boldclaw",
+        "skinklet"
+      ],
+      [
+        null,
+        "maskfry",
+        null
+      ],
+      [
+        null,
+        null,
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 3,
+    "website_stage_numbers": [
+      2
+    ],
+    "source_message_id": "1552306444915712050",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552306444915712050/1552306444915712050",
+    "source_thread_id": "1552306444915712050",
+    "source_thread": "Water Dojo 3-1 to 3-10 Resolved With Cat T3 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T13:11:36.927Z",
+    "image_index": 1,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-3",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "swaystroll",
+        null
+      ],
+      [
+        null,
+        "capypapa",
+        "maskfry"
+      ],
+      [
+        "skinklet",
+        "frostique",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 3,
+    "website_stage_numbers": [
+      3,
+      4
+    ],
+    "source_message_id": "1552306444915712050",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552306444915712050/1552306444915712050",
+    "source_thread_id": "1552306444915712050",
+    "source_thread": "Water Dojo 3-1 to 3-10 Resolved With Cat T3 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T13:11:36.927Z",
+    "image_index": 2,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "3-4",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "swaystroll",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "skinklet",
+        "frostique",
+        "maskfry"
+      ],
+      [
+        null,
+        "capypapa",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 3,
+    "website_stage_numbers": [
+      5
+    ],
+    "source_message_id": "1552306444915712050",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552306444915712050/1552306444915712050",
+    "source_thread_id": "1552306444915712050",
+    "source_thread": "Water Dojo 3-1 to 3-10 Resolved With Cat T3 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T13:11:36.927Z",
+    "image_index": 3,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-6",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "skinklet",
+        null,
+        null
+      ],
+      [
+        null,
+        "frostique",
+        "swaystroll"
+      ],
+      [
+        null,
+        null,
+        "boldclaw"
+      ],
+      [
+        "maskfry",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 3,
+    "website_stage_numbers": [
+      6
+    ],
+    "source_message_id": "1552306444915712050",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552306444915712050/1552306444915712050",
+    "source_thread_id": "1552306444915712050",
+    "source_thread": "Water Dojo 3-1 to 3-10 Resolved With Cat T3 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T13:11:36.927Z",
+    "image_index": 4,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "skinklet",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "swaystroll"
+      ],
+      [
+        null,
+        null,
+        "boldclaw"
+      ],
+      [
+        "maskfry",
+        "frostique",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 3,
+    "website_stage_numbers": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1552306444915712050",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552306444915712050/1552306444915712050",
+    "source_thread_id": "1552306444915712050",
+    "source_thread": "Water Dojo 3-1 to 3-10 Resolved With Cat T3 / Penguin T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-23T13:11:36.927Z",
+    "image_index": 5,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-8",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "skinklet",
+        "swaystroll"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "boldclaw"
+      ],
+      [
+        null,
+        "frostique",
+        "maskfry"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 4,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1551881602014122016",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1551881602014122016/1551881602014122016",
+    "source_thread_id": "1551881602014122016",
+    "source_thread": "One formation Water dojo 4",
+    "display_name": "Kibuqo",
+    "posted_at": "2026-09-22T09:03:26.486Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "4-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "clawzor",
+        "polarpaw"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "waveflutter",
+        "tideon"
+      ]
+    ],
+    "notes": "Author: one formation cleared the whole floor.",
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 5,
+    "website_stage_numbers": [
+      1
+    ],
+    "source_message_id": "1562615774680453130",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562615774680453130",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-21T23:57:12.681Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "5-2",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "skinkoon",
+        null,
+        "swaystroll"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "frostique"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 5,
+    "website_stage_numbers": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1562615774680453130",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562615774680453130",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-21T23:57:12.681Z",
+    "image_index": 1,
+    "capture_type": "crop",
+    "screenshot_displayed_stage": "crop",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "dreadclaw",
+        "swaystroll"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "seaswirl",
+        "waveflutter",
+        "frostique"
+      ]
+    ],
+    "notes": "Cropped lineup; rows assumed rear-aligned.",
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 6,
+    "website_stage_numbers": [
+      1,
+      2
+    ],
+    "source_message_id": "1562622707030556723",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562622707030556723",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-22T00:24:45.482Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "6-6",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "cribking",
+        "swaystroll"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "seaswirl",
+        "waveflutter",
+        "frostique"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 6,
+    "website_stage_numbers": [
+      3,
+      4
+    ],
+    "source_message_id": "1562622707030556723",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562622707030556723",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-22T00:24:45.482Z",
+    "image_index": 1,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "6-6",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "cribking",
+        "swaystroll",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "waveflutter",
+        "seaswirl"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 6,
+    "website_stage_numbers": [
+      5,
+      6,
+      7
+    ],
+    "source_message_id": "1562622707030556723",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562622707030556723",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-22T00:24:45.482Z",
+    "image_index": 2,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-8",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "cribking",
+        "swaystroll",
+        null
+      ],
+      [
+        "seaswirl",
+        null,
+        null
+      ],
+      [
+        "aquariel",
+        "frostique",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 6,
+    "website_stage_numbers": [
+      8
+    ],
+    "source_message_id": "1562622707030556723",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562622707030556723",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-22T00:24:45.482Z",
+    "image_index": 3,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "cribking",
+        "armorjaw"
+      ],
+      [
+        null,
+        "capypapa",
+        "frostique"
+      ],
+      [
+        null,
+        "aquariel",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 6,
+    "website_stage_numbers": [
+      9,
+      10
+    ],
+    "source_message_id": "1562622707030556723",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562622707030556723",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-22T00:24:45.482Z",
+    "image_index": 4,
+    "capture_type": "crop",
+    "screenshot_displayed_stage": "crop",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "cribking",
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "waveflutter",
+        "seaswirl"
+      ],
+      [
+        "capypapa",
+        null,
+        null
+      ]
+    ],
+    "notes": "Cropped lineup; rows assumed rear-aligned.",
+    "selected_for_website": true
+  },
+  {
+    "element": "water",
+    "floor": 7,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1568796305499627592",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1568796305499627592/1568796305499627592",
+    "source_thread_id": "1568796305499627592",
+    "source_thread": "Water dojo 7 with T4 crab, butterfly and dolphin",
+    "display_name": "OhWellOMG",
+    "posted_at": "2026-11-08T01:16:26.057Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "7-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "cribking",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "frostique",
+        "morphanessa",
+        "seaswirl"
+      ],
+      [
+        null,
+        "irisia",
+        null
+      ]
+    ],
+    "notes": "Author: retry 7-10 if the first attempt fails.",
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 1,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1553347691503812678",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1553347691503812678/1553347691503812678",
+    "source_thread_id": "1553347691503812678",
+    "source_thread": "Koi's Fire Dojo 1",
+    "display_name": "KoiCafeX",
+    "posted_at": "2026-09-26T10:09:09.459Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "1-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "poakie",
+        null,
+        "ashlarva"
+      ],
+      [
+        null,
+        "tindercub",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "embertail",
+        "scorchwing"
+      ]
+    ],
+    "notes": "Author: Puffbelly can replace Poakie.",
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 2,
+    "website_stage_numbers": [
+      1,
+      2,
+      3
+    ],
+    "source_message_id": "1548479598851923978",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548479598851923978/1548479598851923978",
+    "source_thread_id": "1548479598851923978",
+    "source_thread": "Fire dojo 2 clear",
+    "display_name": "Dragonn137",
+    "posted_at": "2026-09-12T23:45:05.726Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-4",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "sizzribb",
+        null,
+        null
+      ],
+      [
+        "tindercub",
+        null,
+        "pyroprawn"
+      ],
+      [
+        null,
+        null,
+        "azurion"
+      ],
+      [
+        null,
+        "firefox",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 2,
+    "website_stage_numbers": [
+      4
+    ],
+    "source_message_id": "1548479778045300918",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548479598851923978/1548479778045300918",
+    "source_thread_id": "1548479598851923978",
+    "source_thread": "Fire dojo 2 clear",
+    "display_name": "Dragonn137",
+    "posted_at": "2026-09-12T23:45:48.449Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-5",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "sizzribb",
+        null,
+        null
+      ],
+      [
+        "tindercub",
+        null,
+        "pyroprawn"
+      ],
+      [
+        null,
+        null,
+        "azurion"
+      ],
+      [
+        null,
+        "firefox",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 2,
+    "website_stage_numbers": [
+      5
+    ],
+    "source_message_id": "1548479875684499596",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548479598851923978/1548479875684499596",
+    "source_thread_id": "1548479598851923978",
+    "source_thread": "Fire dojo 2 clear",
+    "display_name": "Dragonn137",
+    "posted_at": "2026-09-12T23:46:11.728Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-6",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "tindercub",
+        "sizzribb",
+        null
+      ],
+      [
+        null,
+        "pyroprawn",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        null
+      ],
+      [
+        null,
+        "firefox",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 2,
+    "website_stage_numbers": [
+      6,
+      7
+    ],
+    "source_message_id": "1548480283383169124",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548479598851923978/1548480283383169124",
+    "source_thread_id": "1548479598851923978",
+    "source_thread": "Fire dojo 2 clear",
+    "display_name": "Dragonn137",
+    "posted_at": "2026-09-12T23:47:48.931Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-8",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "sizzribb",
+        null,
+        "pyropup"
+      ],
+      [
+        null,
+        null,
+        "firefox"
+      ],
+      [
+        null,
+        null,
+        "pyroprawn"
+      ],
+      [
+        null,
+        null,
+        "azurion"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 2,
+    "website_stage_numbers": [
+      8
+    ],
+    "source_message_id": "1548480342602813570",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548479598851923978/1548480342602813570",
+    "source_thread_id": "1548479598851923978",
+    "source_thread": "Fire dojo 2 clear",
+    "display_name": "Dragonn137",
+    "posted_at": "2026-09-12T23:48:03.050Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "sizzribb",
+        null,
+        "pyropup"
+      ],
+      [
+        null,
+        null,
+        "firefox"
+      ],
+      [
+        null,
+        null,
+        "pyroprawn"
+      ],
+      [
+        null,
+        null,
+        "azurion"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 2,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1548480417294979172",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548479598851923978/1548480417294979172",
+    "source_thread_id": "1548479598851923978",
+    "source_thread": "Fire dojo 2 clear",
+    "display_name": "Dragonn137",
+    "posted_at": "2026-09-12T23:48:20.858Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "2-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "sizzribb",
+        null,
+        "pyropup"
+      ],
+      [
+        null,
+        null,
+        "firefox"
+      ],
+      [
+        null,
+        null,
+        "pyroprawn"
+      ],
+      [
+        null,
+        null,
+        "azurion"
+      ]
+    ],
+    "notes": "Same screenshot file as the 2-8 post.",
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 2,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1548480519069499457",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548479598851923978/1548480519069499457",
+    "source_thread_id": "1548479598851923978",
+    "source_thread": "Fire dojo 2 clear",
+    "display_name": "Dragonn137",
+    "posted_at": "2026-09-12T23:48:45.123Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "2-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "sizzribb",
+        null,
+        "pyropup"
+      ],
+      [
+        "azurion",
+        "tindercub",
+        null
+      ],
+      [
+        "pyroprawn",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 3,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "source_message_id": "1555914325749792768",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1555914325749792768/1555914325749792768",
+    "source_thread_id": "1555914325749792768",
+    "source_thread": "Fire Dojo 3-1 to 3-10 (NO T2 TIGER)",
+    "display_name": "AdAstra",
+    "posted_at": "2026-10-03T12:08:02.749Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "firecoil",
+        "pyrohound",
+        "tindercub"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "firefox"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Author: swap Firefox and Azurion if you lack damage.",
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 3,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1555914561595506698",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1555914325749792768/1555914561595506698",
+    "source_thread_id": "1555914325749792768",
+    "source_thread": "Fire Dojo 3-1 to 3-10 (NO T2 TIGER)",
+    "display_name": "AdAstra",
+    "posted_at": "2026-10-03T12:08:58.979Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "3-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "firecoil",
+        "pyrohound",
+        null
+      ],
+      [
+        null,
+        null,
+        "tindercub"
+      ],
+      [
+        null,
+        null,
+        "firefox"
+      ],
+      [
+        null,
+        null,
+        "azurion"
+      ]
+    ],
+    "notes": "Author: keep Azurion and Firefox in the third column.",
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 4,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1562860441032466463",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1562860441032466463/1562860441032466463",
+    "source_thread_id": "1562860441032466463",
+    "source_thread": "Fire Dojo 4-1 to 4-10",
+    "display_name": "AdAstra",
+    "posted_at": "2026-10-22T16:09:25.685Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "4-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "hellhound",
+        "charflutter",
+        null
+      ],
+      [
+        "firefox",
+        "azurion",
+        "kitjitsu"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      1
+    ],
+    "source_message_id": "1560590975770951680",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560590975770951680",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T09:51:23.002Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-1",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "pyrohound",
+        null
+      ],
+      [
+        null,
+        "taiglow",
+        null
+      ],
+      [
+        "hothog",
+        "flarevix",
+        "pyroclobster"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Author: may need a few tries.",
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      2
+    ],
+    "source_message_id": "1560591210689732618",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560591210689732618",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T09:52:19.011Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-2",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "taiglow",
+        null,
+        "pyrohound"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "hothog",
+        "flarevix",
+        "pyroclobster"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      3
+    ],
+    "source_message_id": "1560591265026805830",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560591265026805830",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T09:52:31.966Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-3",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "pyrohound",
+        "charflutter",
+        "taiglow"
+      ],
+      [
+        null,
+        "hothog",
+        null
+      ],
+      [
+        null,
+        "pyroclobster",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      4
+    ],
+    "source_message_id": "1560591332395974759",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560591332395974759",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T09:52:48.028Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-4",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "sizzribb",
+        "charflutter",
+        "taiglow"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "azurion",
+        null,
+        "pyroclobster"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      5
+    ],
+    "source_message_id": "1560591367556567110",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560591367556567110",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T09:52:56.411Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-5",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "sizzribb",
+        "charflutter",
+        "taiglow"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "flarevix",
+        null,
+        "pyroclobster"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      6
+    ],
+    "source_message_id": "1560591420648194069",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560591420648194069",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T09:53:09.069Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-6",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "sizzribb",
+        "charflutter",
+        "taiglow"
+      ],
+      [
+        null,
+        "hothog",
+        null
+      ],
+      [
+        null,
+        "pyroclobster",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Caption says same as 5-3, but the screenshot shows Sizzribb instead of Pyrohound.",
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      7
+    ],
+    "source_message_id": "1560591455976951818",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560591455976951818",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T09:53:17.492Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "5-8",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "charflutter",
+        null
+      ],
+      [
+        "taiglow",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "flarevix"
+      ],
+      [
+        null,
+        "azurion",
+        "pyroclobster"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      8
+    ],
+    "source_message_id": "1560591477191475292",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560591477191475292",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T09:53:22.550Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "5-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        null,
+        "taiglow"
+      ],
+      [
+        "flarevix",
+        null,
+        null
+      ],
+      [
+        "pyroclobster",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1560592482914406461",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560592482914406461",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T09:57:22.333Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "5-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "charflutter",
+        null,
+        "taiglow"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "pyroclobster",
+        "hothog",
+        "flarevix"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 5,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1560600808859508867",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1560590975770951680/1560600808859508867",
+    "source_thread_id": "1560590975770951680",
+    "source_thread": "Asuhara's Lineup - Fire Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-16T10:30:27.393Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "pyrohound",
+        "charflutter",
+        "taiglow"
+      ],
+      [
+        null,
+        "hothog",
+        null
+      ],
+      [
+        null,
+        "pyroclobster",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 6,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "source_message_id": "1562625030897270858",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562625030897270858",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-22T00:33:59.535Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "lickflicker",
+        "pyrodaemon",
+        null
+      ],
+      [
+        "charflutter",
+        null,
+        null
+      ],
+      [
+        "azurion",
+        null,
+        null
+      ],
+      [
+        "pyroclobster",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 6,
+    "website_stage_numbers": [
+      7,
+      8,
+      9
+    ],
+    "source_message_id": "1562625030897270858",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562625030897270858",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-22T00:33:59.535Z",
+    "image_index": 1,
+    "capture_type": "crop",
+    "screenshot_displayed_stage": "crop",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "lickflicker",
+        "pyrodaemon",
+        null
+      ],
+      [
+        "charflutter",
+        null,
+        null
+      ],
+      [
+        "pyroclobster",
+        null,
+        null
+      ],
+      [
+        "flarevix",
+        null,
+        null
+      ]
+    ],
+    "notes": "Cropped lineup showing all four player rows.",
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 6,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1562625030897270858",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1562625030897270858",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-10-22T00:33:59.535Z",
+    "image_index": 2,
+    "capture_type": "crop",
+    "screenshot_displayed_stage": "crop",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "pyrodaemon",
+        "lickflicker"
+      ],
+      [
+        null,
+        null,
+        "charflutter"
+      ],
+      [
+        "pyroclobster",
+        "flarevix",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Same crop frame as the 6-7 to 6-9 image. Author: multiple retries.",
+    "selected_for_website": true
+  },
+  {
+    "element": "fire",
+    "floor": 7,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1569509769956425858",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1569509769956425858/1569509769956425858",
+    "source_thread_id": "1569509769956425858",
+    "source_thread": "Fire Dojo 7",
+    "display_name": "nymph",
+    "posted_at": "2026-11-10T00:31:29.239Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "7-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        "charflutter"
+      ],
+      [
+        null,
+        "pyrodaemon",
+        null
+      ],
+      [
+        null,
+        "kitjitsu",
+        "azurion"
+      ],
+      [
+        "phantifox",
+        null,
+        null
+      ]
+    ],
+    "notes": "Units use base-form appearances; forms follow the tier labels. Author: no changes for 7-1 to 7-10.",
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 1,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1553349587442470963",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1553349587442470963/1553349587442470963",
+    "source_thread_id": "1553349587442470963",
+    "source_thread": "Koi's Grass Dojo 1",
+    "display_name": "KoiCafeX",
+    "posted_at": "2026-09-26T10:16:41.486Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "1-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "manteeny",
+        "pearpair"
+      ],
+      [
+        "cactobud",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "frugatoad",
+        "cluckeroo"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 2,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1563807310621450270",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1520828173019779222/1563807310621450270",
+    "source_thread_id": "1520828173019779222",
+    "source_thread": "Asuhara's Lineup - Grass Dojo (Chapter 2)",
+    "display_name": "Ballincat43",
+    "posted_at": "2026-10-25T06:51:56.987Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-1",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "pearpair",
+        "stalkerix",
+        "jarachnid"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "frugagon",
+        "cluckeroo"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 3,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1553777293199937587",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1553777293199937587/1553777293199937587",
+    "source_thread_id": "1553777293199937587",
+    "source_thread": "Koi's Grass Dojo 3",
+    "display_name": "KoiCafeX",
+    "posted_at": "2026-09-27T14:36:14.485Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "3-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "pearpair",
+        "stalkerix",
+        null
+      ],
+      [
+        "snapshade",
+        null,
+        null
+      ],
+      [
+        "cluckeroo",
+        null,
+        null
+      ],
+      [
+        "frugagon",
+        null,
+        null
+      ]
+    ],
+    "notes": "Phone photo of the screen. Author: 3-1 move Frugagon to the middle of the last row; 3-4 swap Cluckeroo for the owl; 3-10 move Pearpair to the right of Stalkerix.",
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 4,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1545604437521727552",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537748217641443339/1545604437521727552",
+    "source_thread_id": "1537748217641443339",
+    "source_thread": "All dojo 4 (and some more) solved",
+    "display_name": "MrFevifa",
+    "posted_at": "2026-09-05T01:20:13.847Z",
+    "image_index": 0,
+    "capture_type": "crop",
+    "screenshot_displayed_stage": "crop",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "terracrawler",
+        "frugagon",
+        "serrabloom"
+      ],
+      [
+        null,
+        null,
+        "pandarrior"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        null
+      ]
+    ],
+    "notes": "Cropped lineup; rows read from the visible tiles.",
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 5,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "source_message_id": "1564996942495490190",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1564996738165506249/1564996942495490190",
+    "source_thread_id": "1564996738165506249",
+    "source_thread": "Grass Dojo Stage 5 (All Cleared)",
+    "display_name": "King Ruona",
+    "posted_at": "2026-10-28T13:39:07.328Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "5-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "frugagon",
+        "serrabloom",
+        null
+      ],
+      [
+        "pearpair",
+        null,
+        "solaflora"
+      ],
+      [
+        "pandarrior",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 5,
+    "website_stage_numbers": [
+      7,
+      8
+    ],
+    "source_message_id": "1564997135907295373",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1564996738165506249/1564997135907295373",
+    "source_thread_id": "1564996738165506249",
+    "source_thread": "Grass Dojo Stage 5 (All Cleared)",
+    "display_name": "King Ruona",
+    "posted_at": "2026-10-28T13:39:53.441Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "5-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "pearpair",
+        null
+      ],
+      [
+        null,
+        null,
+        "hyphoria"
+      ],
+      [
+        "pandarrior",
+        null,
+        "solaflora"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 5,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1564997464136745010",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1564996738165506249/1564997464136745010",
+    "source_thread_id": "1564996738165506249",
+    "source_thread": "Grass Dojo Stage 5 (All Cleared)",
+    "display_name": "King Ruona",
+    "posted_at": "2026-10-28T13:41:11.697Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "5-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "serrabloom",
+        "pearpair"
+      ],
+      [
+        null,
+        "chronerva",
+        "solaflora"
+      ],
+      [
+        null,
+        "cluckeroo",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 5,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1556650858987520031",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1556650673628651520/1556650858987520031",
+    "source_thread_id": "1556650673628651520",
+    "source_thread": "Layios Grass dojo 5-1 to 5-10",
+    "display_name": "Layios",
+    "posted_at": "2026-10-05T12:54:45.957Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "pearpair",
+        "snapshade",
+        "serrabloom"
+      ],
+      [
+        null,
+        "pandarrior",
+        null
+      ],
+      [
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "notes": "Layios used this for 5-7 to 5-10.",
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 6,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "source_message_id": "1557220200523243560",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1557220200523243560/1557220200523243560",
+    "source_thread_id": "1557220200523243560",
+    "source_thread": "grass dojo 6-1 to 6-10",
+    "display_name": "Spu",
+    "posted_at": "2026-10-07T02:37:07.557Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "orchitoria",
+        "pearpair"
+      ],
+      [
+        null,
+        "hyphoria",
+        null
+      ],
+      [
+        "thornwisp",
+        null,
+        "solaflora"
+      ]
+    ],
+    "notes": "Units use base-form appearances; forms follow the tier labels.",
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 6,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1557220519013519440",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1557220200523243560/1557220519013519440",
+    "source_thread_id": "1557220200523243560",
+    "source_thread": "grass dojo 6-1 to 6-10",
+    "display_name": "Spu",
+    "posted_at": "2026-10-07T02:38:23.491Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "orchitoria",
+        "pearpair"
+      ],
+      [
+        null,
+        "hyphoria",
+        null
+      ],
+      [
+        null,
+        "chronerva",
+        "solaflora"
+      ]
+    ],
+    "notes": "Units use base-form appearances; forms follow the tier labels.",
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 6,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1557220571308367895",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1557220200523243560/1557220571308367895",
+    "source_thread_id": "1557220200523243560",
+    "source_thread": "grass dojo 6-1 to 6-10",
+    "display_name": "Spu",
+    "posted_at": "2026-10-07T02:38:35.959Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "6-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "orchitoria",
+        null
+      ],
+      [
+        null,
+        "thornwisp",
+        "hyphoria"
+      ],
+      [
+        null,
+        "chronerva",
+        "solaflora"
+      ]
+    ],
+    "notes": "Units use base-form appearances; forms follow the tier labels.",
+    "selected_for_website": true
+  },
+  {
+    "element": "grass",
+    "floor": 7,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1556848407774109706",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1556848407774109706/1556848407774109706",
+    "source_thread_id": "1556848407774109706",
+    "source_thread": "Koi's Grass Dojo 7",
+    "display_name": "KoiCafeX",
+    "posted_at": "2026-10-06T01:59:45.258Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "7-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "orchitoria",
+        null
+      ],
+      [
+        "chomperwraith",
+        "hyphoria",
+        null
+      ],
+      [
+        "pandagrand",
+        null,
+        "frugagon"
+      ]
+    ],
+    "notes": "Author: one lineup for all stages. Chomperwraith overlaps Pandagrand in the screenshot.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 1,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "source_message_id": "1553354999629881365",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1553354999629881365/1553354999629881365",
+    "source_thread_id": "1553354999629881365",
+    "source_thread": "Koi's Rock Dojo 1",
+    "display_name": "KoiCafeX",
+    "posted_at": "2026-09-26T10:38:11.852Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "1-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "lulupo",
+        null,
+        "snoozebo"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "punchimp",
+        "taptail",
+        "rockhog"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 1,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1553354999629881365",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1553354999629881365/1553354999629881365",
+    "source_thread_id": "1553354999629881365",
+    "source_thread": "Koi's Rock Dojo 1",
+    "display_name": "KoiCafeX",
+    "posted_at": "2026-09-26T10:38:11.852Z",
+    "image_index": 1,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "1-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "punchimp",
+        "snoozebo",
+        "joeyo"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "taptail",
+        null,
+        "rockhog"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 2,
+    "website_stage_numbers": [
+      1,
+      2
+    ],
+    "source_message_id": "1552605785786155108",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552605785786155108/1552605785786155108",
+    "source_thread_id": "1552605785786155108",
+    "source_thread": "Rock Dojo 2-1 to 2-10 Resolved With Rock Lizard T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-24T09:01:05.352Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-2",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "snoozebo",
+        "cobbledon",
+        null
+      ],
+      [
+        null,
+        null,
+        "gopher"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "shardsnail",
+        null,
+        "rockhog"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 2,
+    "website_stage_numbers": [
+      3,
+      4,
+      5
+    ],
+    "source_message_id": "1552605785786155108",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552605785786155108/1552605785786155108",
+    "source_thread_id": "1552605785786155108",
+    "source_thread": "Rock Dojo 2-1 to 2-10 Resolved With Rock Lizard T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-24T09:01:05.352Z",
+    "image_index": 1,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-4",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "snoozebo",
+        "cobbledon",
+        null
+      ],
+      [
+        null,
+        "gopher",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "shardsnail",
+        null,
+        "rockhog"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 2,
+    "website_stage_numbers": [
+      6
+    ],
+    "source_message_id": "1552605785786155108",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552605785786155108/1552605785786155108",
+    "source_thread_id": "1552605785786155108",
+    "source_thread": "Rock Dojo 2-1 to 2-10 Resolved With Rock Lizard T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-24T09:01:05.352Z",
+    "image_index": 2,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "snoozebo",
+        "cobbledon",
+        null
+      ],
+      [
+        "gopher",
+        null,
+        null
+      ],
+      [
+        "shardsnail",
+        null,
+        "rockhog"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 2,
+    "website_stage_numbers": [
+      7
+    ],
+    "source_message_id": "1552605785786155108",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552605785786155108/1552605785786155108",
+    "source_thread_id": "1552605785786155108",
+    "source_thread": "Rock Dojo 2-1 to 2-10 Resolved With Rock Lizard T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-24T09:01:05.352Z",
+    "image_index": 3,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-8",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "drilleroo",
+        "snoozebo",
+        "cobbledon"
+      ],
+      [
+        "rockhog",
+        null,
+        null
+      ],
+      [
+        "shardsnail",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 2,
+    "website_stage_numbers": [
+      8
+    ],
+    "source_message_id": "1552605785786155108",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552605785786155108/1552605785786155108",
+    "source_thread_id": "1552605785786155108",
+    "source_thread": "Rock Dojo 2-1 to 2-10 Resolved With Rock Lizard T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-24T09:01:05.352Z",
+    "image_index": 4,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cobbledon",
+        null,
+        "snoozebo"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "rockhog",
+        null,
+        "gopher"
+      ],
+      [
+        null,
+        "shardsnail",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 2,
+    "website_stage_numbers": [
+      9,
+      10
+    ],
+    "source_message_id": "1552605785786155108",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1552605785786155108/1552605785786155108",
+    "source_thread_id": "1552605785786155108",
+    "source_thread": "Rock Dojo 2-1 to 2-10 Resolved With Rock Lizard T2 Only",
+    "display_name": "Krystal",
+    "posted_at": "2026-09-24T09:01:05.352Z",
+    "image_index": 5,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cobbledon",
+        "snoozebo",
+        null
+      ],
+      [
+        "gopher",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "rockhog",
+        null,
+        "shardsnail"
+      ]
+    ],
+    "notes": "Author: for 2-10, move the middle unit one tile to the right.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 3,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "source_message_id": "1551975141355814992",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548827971458957333/1551975141355814992",
+    "source_thread_id": "1548827971458957333",
+    "source_thread": "Chapter 9 onwards",
+    "display_name": "chiaki",
+    "posted_at": "2026-09-22T15:15:08.003Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-6",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "cobbledon",
+        "turtuff"
+      ],
+      [
+        null,
+        null,
+        "rockwu"
+      ],
+      [
+        null,
+        null,
+        "rattlecoil"
+      ],
+      [
+        null,
+        null,
+        "humbleetle"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 3,
+    "website_stage_numbers": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1551978120717012992",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548827971458957333/1551978120717012992",
+    "source_thread_id": "1548827971458957333",
+    "source_thread": "Chapter 9 onwards",
+    "display_name": "chiaki",
+    "posted_at": "2026-09-22T15:26:58.338Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockwu",
+        "cobbledon",
+        null
+      ],
+      [
+        "turtuff",
+        null,
+        null
+      ],
+      [
+        "humbleetle",
+        null,
+        null
+      ],
+      [
+        "rattlecoil",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 4,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "source_message_id": "1567502820083769434",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1567502820083769434/1567502820083769434",
+    "source_thread_id": "1567502820083769434",
+    "source_thread": "Rock Dojo 4-1 to 4-10",
+    "display_name": "AdAstra",
+    "posted_at": "2026-11-04T11:36:35.102Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "4-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockshell",
+        "cobbledon",
+        null
+      ],
+      [
+        null,
+        "rizzler",
+        "rockwu"
+      ],
+      [
+        null,
+        "zenscarab",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 4,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1567502869249265776",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1567502820083769434/1567502869249265776",
+    "source_thread_id": "1567502820083769434",
+    "source_thread": "Rock Dojo 4-1 to 4-10",
+    "display_name": "AdAstra",
+    "posted_at": "2026-11-04T11:36:46.824Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "4-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockwu",
+        "cobbledon",
+        null
+      ],
+      [
+        "rockshell",
+        null,
+        null
+      ],
+      [
+        "rizzler",
+        null,
+        null
+      ],
+      [
+        "zenscarab",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 5,
+    "website_stage_numbers": [
+      1,
+      2
+    ],
+    "source_message_id": "1568069624661287042",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1568069624661287042/1568069624661287042",
+    "source_thread_id": "1568069624661287042",
+    "source_thread": "Asuhara's Lineup - Rock Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-11-06T01:08:51.844Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-1",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockzilla",
+        "rockshell"
+      ],
+      [
+        "snoozebo",
+        null,
+        "rockwu"
+      ],
+      [
+        "zenscarab",
+        null,
+        null
+      ]
+    ],
+    "notes": "Author: may need a few tries.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 5,
+    "website_stage_numbers": [
+      3
+    ],
+    "source_message_id": "1568071670684582030",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1568069624661287042/1568071670684582030",
+    "source_thread_id": "1568069624661287042",
+    "source_thread": "Asuhara's Lineup - Rock Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-11-06T01:16:59.654Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-3",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "borelord",
+        "rockzilla",
+        "rockwu"
+      ],
+      [
+        null,
+        "zenscarab",
+        "rockshell"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 5,
+    "website_stage_numbers": [
+      4,
+      5,
+      6
+    ],
+    "source_message_id": "1568071736493211668",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1568069624661287042/1568071736493211668",
+    "source_thread_id": "1568069624661287042",
+    "source_thread": "Asuhara's Lineup - Rock Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-11-06T01:17:15.344Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-4",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        "rockzilla",
+        "borelord"
+      ],
+      [
+        "rockshell",
+        "zenscarab",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 5,
+    "website_stage_numbers": [
+      7
+    ],
+    "source_message_id": "1568072091666743458",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1568069624661287042/1568072091666743458",
+    "source_thread_id": "1568069624661287042",
+    "source_thread": "Asuhara's Lineup - Rock Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-11-06T01:18:40.024Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "rockzilla",
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        null
+      ],
+      [
+        null,
+        "rockshell",
+        null
+      ],
+      [
+        "clangnaga",
+        "zenscarab",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 5,
+    "website_stage_numbers": [
+      8
+    ],
+    "source_message_id": "1568072109316640768",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1568069624661287042/1568072109316640768",
+    "source_thread_id": "1568069624661287042",
+    "source_thread": "Asuhara's Lineup - Rock Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-11-06T01:18:44.232Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-8",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        "rockzilla",
+        "borelord"
+      ],
+      [
+        null,
+        null,
+        "rockshell"
+      ],
+      [
+        "zenscarab",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 5,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1568072126466887773",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1568069624661287042/1568072126466887773",
+    "source_thread_id": "1568069624661287042",
+    "source_thread": "Asuhara's Lineup - Rock Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-11-06T01:18:48.321Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockzilla",
+        "borelord"
+      ],
+      [
+        null,
+        "rockwu",
+        null
+      ],
+      [
+        "zenscarab",
+        "rockshell",
+        null
+      ]
+    ],
+    "notes": "Rockshell is drawn between the third and fourth rows; recorded in the fourth row beside Zenscarab.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 5,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1568072151481712731",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1568069624661287042/1568072151481712731",
+    "source_thread_id": "1568069624661287042",
+    "source_thread": "Asuhara's Lineup - Rock Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-11-06T01:18:54.285Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "borelord",
+        "rockwu",
+        "rockzilla"
+      ],
+      [
+        null,
+        "rockshell",
+        null
+      ],
+      [
+        null,
+        null,
+        "zenscarab"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      1
+    ],
+    "source_message_id": "1545691125141082132",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691125141082132",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:04:41.786Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-2",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockzilla",
+        null,
+        "rockong"
+      ],
+      [
+        null,
+        null,
+        "rockshell"
+      ],
+      [
+        null,
+        null,
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "zenscarab"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      2
+    ],
+    "source_message_id": "1545691173564186624",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691173564186624",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:04:53.331Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-3",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockzilla",
+        null,
+        "rockong"
+      ],
+      [
+        null,
+        "rockshell",
+        null
+      ],
+      [
+        null,
+        null,
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "zenscarab"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      3
+    ],
+    "source_message_id": "1545691219047481354",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691219047481354",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:05:04.175Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-4",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockzilla",
+        null,
+        "rockong"
+      ],
+      [
+        null,
+        null,
+        "rockshell"
+      ],
+      [
+        null,
+        null,
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "zenscarab"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      4
+    ],
+    "source_message_id": "1545691253423743008",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691253423743008",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:05:12.371Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-5",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockong",
+        null,
+        "rockzilla"
+      ],
+      [
+        null,
+        "rockshell",
+        null
+      ],
+      [
+        "clangnaga",
+        null,
+        null
+      ],
+      [
+        "zenscarab",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      5
+    ],
+    "source_message_id": "1545691321241706548",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691321241706548",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:05:28.540Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-6",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockong",
+        null,
+        "rockzilla"
+      ],
+      [
+        null,
+        null,
+        "rockshell"
+      ],
+      [
+        null,
+        null,
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "zenscarab"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      6
+    ],
+    "source_message_id": "1545691362983149589",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691362983149589",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:05:38.492Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockong",
+        "rockzilla",
+        null
+      ],
+      [
+        null,
+        null,
+        "rockshell"
+      ],
+      [
+        "clangnaga",
+        null,
+        null
+      ],
+      [
+        "zenscarab",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      7
+    ],
+    "source_message_id": "1545691392196481036",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691392196481036",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:05:45.457Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-8",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockong",
+        "rockzilla",
+        null
+      ],
+      [
+        null,
+        null,
+        "rockshell"
+      ],
+      [
+        "clangnaga",
+        null,
+        null
+      ],
+      [
+        "zenscarab",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      8
+    ],
+    "source_message_id": "1545691421636435988",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691421636435988",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:05:52.476Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockzilla",
+        "rockong",
+        null
+      ],
+      [
+        null,
+        "rockshell",
+        null
+      ],
+      [
+        null,
+        "clangnaga",
+        null
+      ],
+      [
+        "zenscarab",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1545691448182317189",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691448182317189",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:05:58.805Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockshell",
+        "rockzilla"
+      ],
+      [
+        null,
+        "rockong",
+        null
+      ],
+      [
+        "snoozebo",
+        "clangnaga",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 6,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1545691472815456336",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1545691472815456336",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-09-05T07:06:04.678Z",
+    "image_index": 0,
+    "capture_type": "crop",
+    "screenshot_displayed_stage": "crop",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockzilla",
+        "snoozebo",
+        "rockong"
+      ],
+      [
+        null,
+        null,
+        "rockshell"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "clangnaga"
+      ]
+    ],
+    "notes": "Cropped battle image; absolute rows and columns are inferred from tile spacing.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 7,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "source_message_id": "1567076191523840091",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1567076191523840091",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-11-03T07:21:18.927Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "7-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "meteorax",
+        null,
+        "rockong"
+      ],
+      [
+        null,
+        null,
+        "terraton"
+      ],
+      [
+        null,
+        null,
+        "bastogard"
+      ],
+      [
+        null,
+        null,
+        "clangnaga"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 7,
+    "website_stage_numbers": [
+      9,
+      10
+    ],
+    "source_message_id": "1567076367458111589",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1545690953598115952/1567076367458111589",
+    "source_thread_id": "1545690953598115952",
+    "source_thread": "rock dojo 6 & 7[full guide]",
+    "display_name": "bruno",
+    "posted_at": "2026-11-03T07:22:00.873Z",
+    "image_index": 0,
+    "capture_type": "crop",
+    "screenshot_displayed_stage": "crop",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockong",
+        null,
+        "meteorax"
+      ],
+      [
+        "terraton",
+        null,
+        null
+      ],
+      [
+        "bastogard",
+        null,
+        null
+      ],
+      [
+        "clangnaga",
+        null,
+        null
+      ]
+    ],
+    "notes": "Cropped battle image; absolute rows and columns are inferred from tile spacing.",
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 1,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1556658910847434762",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1556658910847434762/1556658910847434762",
+    "source_thread_id": "1556658910847434762",
+    "source_thread": "Lightning Dojo 1-1, 1-2, 1-3, 1-4, 1-5, 1-6, 1-7, 1-8, 1-9, 1-10",
+    "display_name": "sandoe",
+    "posted_at": "2026-10-05T13:26:45.670Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "1-1",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "zapooch",
+        "cheerling",
+        "zappur"
+      ],
+      [
+        "voltfawn",
+        null,
+        "zapuni"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 2,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "source_message_id": "1528386936530665572",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1528386936530665572/1528386936530665572",
+    "source_thread_id": "1528386936530665572",
+    "source_thread": "Lightning dojo 2-1 to 2-10 Reference",
+    "display_name": "~Nic",
+    "posted_at": "2026-07-19T13:04:01.725Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "electroar",
+        "voltling"
+      ],
+      [
+        null,
+        "cheerlet",
+        null
+      ],
+      [
+        null,
+        "sparkdoe",
+        "surgehoof"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "No post-August 27 full reference was found for this floor; this is the newest complete older post.",
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 2,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1528387220623327252",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1528386936530665572/1528387220623327252",
+    "source_thread_id": "1528386936530665572",
+    "source_thread": "Lightning dojo 2-1 to 2-10 Reference",
+    "display_name": "~Nic",
+    "posted_at": "2026-07-19T13:05:09.458Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "electroar",
+        "voltling"
+      ],
+      [
+        "sparkdoe",
+        "cheerlet",
+        null
+      ],
+      [
+        null,
+        null,
+        "surgehoof"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "No post-August 27 full reference was found for this floor; this is the newest complete older post. Author: took a few retries.",
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 2,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1528387361547747388",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1528386936530665572/1528387361547747388",
+    "source_thread_id": "1528386936530665572",
+    "source_thread": "Lightning dojo 2-1 to 2-10 Reference",
+    "display_name": "~Nic",
+    "posted_at": "2026-07-19T13:05:43.057Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "2-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "electroar",
+        "voltling"
+      ],
+      [
+        null,
+        "cheerlet",
+        null
+      ],
+      [
+        null,
+        "sparkdoe",
+        "surgehoof"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "No post-August 27 full reference was found for this floor; this is the newest complete older post. Same screenshot file as the 2-1 to 2-8 post.",
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 3,
+    "website_stage_numbers": [
+      1
+    ],
+    "source_message_id": "1551228370384322560",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548827971458957333/1551228370384322560",
+    "source_thread_id": "1548827971458957333",
+    "source_thread": "Chapter 9 onwards",
+    "display_name": "chiaki",
+    "posted_at": "2026-09-20T13:47:43.929Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-2",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "blitzmane",
+        null
+      ],
+      [
+        "synthhog",
+        "cheerlet",
+        "sparkdoe"
+      ],
+      [
+        null,
+        "boltskipper",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 3,
+    "website_stage_numbers": [
+      2
+    ],
+    "source_message_id": "1551228630351224913",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548827971458957333/1551228630351224913",
+    "source_thread_id": "1548827971458957333",
+    "source_thread": "Chapter 9 onwards",
+    "display_name": "chiaki",
+    "posted_at": "2026-09-20T13:48:45.910Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-3",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cheerlet",
+        "blitzmane",
+        "voltling"
+      ],
+      [
+        null,
+        null,
+        "synthhog"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "sparkdoe",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 3,
+    "website_stage_numbers": [
+      3,
+      4
+    ],
+    "source_message_id": "1551230166087372952",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548827971458957333/1551230166087372952",
+    "source_thread_id": "1548827971458957333",
+    "source_thread": "Chapter 9 onwards",
+    "display_name": "chiaki",
+    "posted_at": "2026-09-20T13:54:52.058Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-5",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cheerlet",
+        "blitzmane",
+        "voltling"
+      ],
+      [
+        null,
+        null,
+        "synthhog"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "sparkdoe",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 3,
+    "website_stage_numbers": [
+      5,
+      6
+    ],
+    "source_message_id": "1551230569390678016",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548827971458957333/1551230569390678016",
+    "source_thread_id": "1548827971458957333",
+    "source_thread": "Chapter 9 onwards",
+    "display_name": "chiaki",
+    "posted_at": "2026-09-20T13:56:28.213Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "zapooch",
+        "blitzmane",
+        "voltling"
+      ],
+      [
+        null,
+        null,
+        "synthhog"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "sparkdoe",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 3,
+    "website_stage_numbers": [
+      7,
+      8,
+      9
+    ],
+    "source_message_id": "1551232819731238934",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1548827971458957333/1551232819731238934",
+    "source_thread_id": "1548827971458957333",
+    "source_thread": "Chapter 9 onwards",
+    "display_name": "chiaki",
+    "posted_at": "2026-09-20T14:05:24.736Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "3-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "voltling"
+      ],
+      [
+        null,
+        "cheerlet",
+        "zapooch"
+      ],
+      [
+        null,
+        "sparkdoe",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Author: 3-9 took two attempts.",
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 3,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1551077174671577088",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1551077174671577088/1551077174671577088",
+    "source_thread_id": "1551077174671577088",
+    "source_thread": "Lightning Dojo 3-10",
+    "display_name": "SunDebris5678",
+    "posted_at": "2026-09-20T03:46:56.062Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "3-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        "cheerlet"
+      ],
+      [
+        null,
+        "sparkdoe",
+        "blitzmane"
+      ],
+      [
+        null,
+        "surgehoof",
+        null
+      ],
+      [
+        "nimbuzzy",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 4,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1562257159750950963",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1550735968816988280/1562257159750950963",
+    "source_thread_id": "1550735968816988280",
+    "source_thread": "Layios Lightning dojo 4-1 to 4-10",
+    "display_name": "itcan",
+    "posted_at": "2026-10-21T00:12:12.219Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "4-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "blitzmane",
+        null,
+        "nekowatt"
+      ],
+      [
+        "nimbuzzy",
+        "cheerspring",
+        null
+      ],
+      [
+        "zapantler",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Author: cleared 4-1 to 4-10 with no changes.",
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 5,
+    "website_stage_numbers": [
+      1
+    ],
+    "source_message_id": "1562827412155138198",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1562827412155138198/1562827412155138198",
+    "source_thread_id": "1562827412155138198",
+    "source_thread": "Asuhara's Lineup - Lightning Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-22T13:58:10.987Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-1",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "nekowatt",
+        "cheerspring",
+        "toucanzam"
+      ],
+      [
+        "zapantler",
+        null,
+        "nimbuzzy"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Author: may need a few tries.",
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 5,
+    "website_stage_numbers": [
+      2,
+      3
+    ],
+    "source_message_id": "1562827619853017272",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1562827412155138198/1562827619853017272",
+    "source_thread_id": "1562827412155138198",
+    "source_thread": "Asuhara's Lineup - Lightning Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-22T13:59:00.506Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-2",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "voltling",
+        "cheerspring",
+        "nekowatt"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "zapantler",
+        null,
+        "voltmare"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 5,
+    "website_stage_numbers": [
+      4
+    ],
+    "source_message_id": "1562827674848722994",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1562827412155138198/1562827674848722994",
+    "source_thread_id": "1562827412155138198",
+    "source_thread": "Asuhara's Lineup - Lightning Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-22T13:59:13.618Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-4",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cheerspring",
+        "zapooch",
+        "stormlion"
+      ],
+      [
+        null,
+        "nimbuzzy",
+        "voltmare"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 5,
+    "website_stage_numbers": [
+      5,
+      6
+    ],
+    "source_message_id": "1562827727914930389",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1562827412155138198/1562827727914930389",
+    "source_thread_id": "1562827412155138198",
+    "source_thread": "Asuhara's Lineup - Lightning Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-22T13:59:26.270Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-5",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cheerspring",
+        "zapooch",
+        "stormlion"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "nimbuzzy",
+        "voltmare"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 5,
+    "website_stage_numbers": [
+      7,
+      8
+    ],
+    "source_message_id": "1562827866671022100",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1562827412155138198/1562827866671022100",
+    "source_thread_id": "1562827412155138198",
+    "source_thread": "Asuhara's Lineup - Lightning Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-22T13:59:59.352Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "zapooch",
+        "cheerspring",
+        "stormlion"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "zapantler",
+        "voltmare"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 5,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1562827886686113925",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1562827412155138198/1562827886686113925",
+    "source_thread_id": "1562827412155138198",
+    "source_thread": "Asuhara's Lineup - Lightning Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-22T14:00:04.124Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cheerspring",
+        "stormlion",
+        "toucanzam"
+      ],
+      [
+        "voltmare",
+        null,
+        "zapantler"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 5,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1562827902700232735",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1562827412155138198/1562827902700232735",
+    "source_thread_id": "1562827412155138198",
+    "source_thread": "Asuhara's Lineup - Lightning Dojo (Chapter 5)",
+    "display_name": "ThisIsAsuhara",
+    "posted_at": "2026-10-22T14:00:07.942Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "5-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "toucanzam",
+        "cheerspring",
+        "stormlion"
+      ],
+      [
+        "sonarbat",
+        "nimbuzzy",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      1
+    ],
+    "source_message_id": "1548318257746940086",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318257746940086",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:03:59.009Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-2",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "stormlion",
+        null,
+        "toucanzam"
+      ],
+      [
+        null,
+        "cheerspring",
+        null
+      ],
+      [
+        "zapantler",
+        null,
+        null
+      ],
+      [
+        "voltmare",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      2
+    ],
+    "source_message_id": "1548318299102777354",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318299102777354",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:04:08.869Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-3",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cheerspring",
+        null,
+        "stormlion"
+      ],
+      [
+        null,
+        "sonarbat",
+        null
+      ],
+      [
+        null,
+        null,
+        "voltmare"
+      ],
+      [
+        null,
+        "zapantler",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      3
+    ],
+    "source_message_id": "1548318359282778153",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318359282778153",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:04:23.217Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-4",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cheerspring",
+        null,
+        "stormlion"
+      ],
+      [
+        null,
+        "sonarbat",
+        null
+      ],
+      [
+        null,
+        null,
+        "voltmare"
+      ],
+      [
+        null,
+        null,
+        "zapantler"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      4
+    ],
+    "source_message_id": "1548318395458388119",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318395458388119",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:04:31.842Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-5",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "cheerspring",
+        null,
+        "stormlion"
+      ],
+      [
+        null,
+        "sonarbat",
+        null
+      ],
+      [
+        null,
+        null,
+        "voltmare"
+      ],
+      [
+        null,
+        null,
+        "zapantler"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      5
+    ],
+    "source_message_id": "1548318467923513395",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318467923513395",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:04:49.119Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-6",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "toucanzam",
+        "stormlion",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "voltmare",
+        null
+      ],
+      [
+        null,
+        "zapantler",
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      6
+    ],
+    "source_message_id": "1548318516208476291",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318516208476291",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:05:00.631Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "stormlion",
+        "toucanzam"
+      ],
+      [
+        null,
+        "cheerspring",
+        null
+      ],
+      [
+        "voltmare",
+        null,
+        null
+      ],
+      [
+        "zapantler",
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      7
+    ],
+    "source_message_id": "1548318564480721009",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318564480721009",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:05:12.140Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-8",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "stormlion",
+        null,
+        "sonarbat"
+      ],
+      [
+        "voltmare",
+        "cheerspring",
+        null
+      ],
+      [
+        "zapantler",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      8
+    ],
+    "source_message_id": "1548318611700056096",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318611700056096",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:05:23.398Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        "sonarbat"
+      ],
+      [
+        "stormlion",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "zapantler",
+        "voltmare"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1548318650124214365",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318650124214365",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:05:32.559Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        "zapooch"
+      ],
+      [
+        "stormlion",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "zapantler",
+        "voltmare"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "The tier II dog uses a base-form appearance.",
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 6,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1548318693409292348",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1523173959141691615/1548318693409292348",
+    "source_thread_id": "1523173959141691615",
+    "source_thread": "Lightning Dojo 6-1 through 6-10",
+    "display_name": "ARSENIC",
+    "posted_at": "2026-09-12T13:05:42.879Z",
+    "image_index": 0,
+    "capture_type": "post_clear",
+    "screenshot_displayed_stage": "6-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        null,
+        "stormlion"
+      ],
+      [
+        "sonarbat",
+        "cheerspring",
+        null
+      ],
+      [
+        "zapantler",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "boltskipper"
+      ]
+    ],
+    "notes": null,
+    "selected_for_website": true
+  },
+  {
+    "element": "lightning",
+    "floor": 7,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1562766167515336765",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1562766167515336765/1562766167515336765",
+    "source_thread_id": "1562766167515336765",
+    "source_thread": "Lightning Dojo 7",
+    "display_name": "smols",
+    "posted_at": "2026-10-22T09:54:49.127Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "7-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "voltverine",
+        null,
+        "stormlion"
+      ],
+      [
+        null,
+        "cheerstella",
+        null
+      ],
+      [
+        "boltallion",
+        "zapantler",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Author: Boltallion, Cheerstella and Stormlion at T4; one lineup for 7-1 to 7-10.",
+    "selected_for_website": true
+  }
+]

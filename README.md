@@ -10,6 +10,11 @@ Discord source posts** (1730 chapter-specific records). All **2437 reviewed
 formation records** are preserved; the public index contains 2424 source and
 supporting posts. Unsupported stages remain empty.
 
+**Badge Dojo** (November 11): a separate section at [/dojo/](https://critterformations.com/dojo/) covers all
+**350 dojo stages** (Water, Fire, Grass, Rock and Lightning Dojo 1-1–7-10) with **118 reviewed records** shown as
+109 cards. Dojo boards are 4 rows × 3 columns, front row first. Data and sources are in
+[`dojo/`](dojo/README.md); every board has five units of the dojo's element with unique families.
+
 October 25 Casey column audit compares all **417 selected original screenshots** (426 chapter-specific records) with their published boards. Nine additional sources had units shifted one column right, affecting **23 stages**: 56-30–31, 56-34, 56-43, 56-45–52, 56-73–74, 57-10–11, 59-70–74 and 63-30–31. These columns are corrected; extraction revision history preserves prior cells. The earlier 56-40–42 correction is retained. All unit forms, levels, timestamps, source IDs and stage coverage are unchanged, and the other 5312 stage records are unchanged.
 
 Only original posts **after August 27, 2026** qualify for publication, using

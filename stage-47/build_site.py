@@ -163,11 +163,11 @@ STRINGS = {
         "chapter_description_empty": "No verified formations are available yet for Chapter {n} (stages {n}-1–{n}-80).",
         "chapter_h1": "Chapter {n} Formations",
         "empty_chapter_message": "No verified formations available for this chapter yet.",
-        "next_stage_button": "Next: Stage {n}-1 →",
+        "next_stage_button": "Next: Stage {n}-1",
         "next_stage_aria": "Go to Chapter {n}, starting at stage {n}-1",
         "donation_label": "Finding these formations helpful?",
-        "donation_desktop": "Buy me a coffee ☕",
-        "donation_mobile": "☕ Donate",
+        "donation_desktop": "Buy me a coffee",
+        "donation_mobile": "Donate",
         "donation_aria": "Buy me a coffee via PayPal (opens in a new tab)",
         "posted_by": "Posted by",
         "discord_link_title": "Open the original Discord reference",
@@ -239,11 +239,11 @@ STRINGS = {
         "chapter_description_empty": "第 {n} 章（關卡 {n}-1–{n}-80）目前尚無已驗證的陣容。",
         "chapter_h1": "第 {n} 章陣容",
         "empty_chapter_message": "這個章節目前尚無已驗證的陣容。",
-        "next_stage_button": "下一關：{n}-1 →",
+        "next_stage_button": "下一關：{n}-1",
         "next_stage_aria": "前往第 {n} 章，從關卡 {n}-1 開始",
         "donation_label": "覺得這些陣容有幫助嗎？",
-        "donation_desktop": "請我喝杯咖啡 ☕",
-        "donation_mobile": "☕ 贊助",
+        "donation_desktop": "請我喝杯咖啡",
+        "donation_mobile": "贊助",
         "donation_aria": "透過 PayPal 請我喝杯咖啡（在新分頁開啟）",
         "posted_by": "發布者",
         "discord_link_title": "開啟 Discord 原始貼文",
@@ -311,11 +311,11 @@ STRINGS = {
         "chapter_description_empty": "챕터 {n}(스테이지 {n}-1–{n}-80)에는 아직 검증된 진형이 없습니다.",
         "chapter_h1": "챕터 {n} 진형",
         "empty_chapter_message": "이 챕터에는 아직 검증된 진형이 없습니다.",
-        "next_stage_button": "다음: 스테이지 {n}-1 →",
+        "next_stage_button": "다음: 스테이지 {n}-1",
         "next_stage_aria": "챕터 {n}의 스테이지 {n}-1로 이동",
         "donation_label": "진형 정보가 도움이 되셨나요?",
-        "donation_desktop": "커피 한 잔 후원하기 ☕",
-        "donation_mobile": "☕ 후원",
+        "donation_desktop": "커피 한 잔 후원하기",
+        "donation_mobile": "후원",
         "donation_aria": "PayPal로 커피 한 잔 후원하기 (새 탭에서 열림)",
         "posted_by": "작성자",
         "discord_link_title": "원본 Discord 게시물 열기",
@@ -387,11 +387,11 @@ STRINGS = {
         "chapter_description_empty": "Chưa có đội hình nào được xác minh cho Chương {n} (màn {n}-1–{n}-80).",
         "chapter_h1": "Đội hình Chương {n}",
         "empty_chapter_message": "Chưa có đội hình nào được xác minh cho chương này.",
-        "next_stage_button": "Tiếp theo: Màn {n}-1 →",
+        "next_stage_button": "Tiếp theo: Màn {n}-1",
         "next_stage_aria": "Đi đến Chương {n}, bắt đầu từ màn {n}-1",
         "donation_label": "Thấy các đội hình này hữu ích?",
-        "donation_desktop": "Mời tôi một ly cà phê ☕",
-        "donation_mobile": "☕ Ủng hộ",
+        "donation_desktop": "Mời tôi một ly cà phê",
+        "donation_mobile": "Ủng hộ",
         "donation_aria": "Mời một ly cà phê qua PayPal (mở tab mới)",
         "posted_by": "Đăng bởi",
         "discord_link_title": "Mở bài đăng Discord gốc",
@@ -620,6 +620,86 @@ POSTED_DATE_STRINGS = {
 for _lang, _extra in POSTED_DATE_STRINGS.items():
     STRINGS[_lang].update(_extra)
 
+# Badge Dojo: five element dojos, floors 1–7, ten stages per floor, and a 4-row by
+# 3-column player grid (row 1 is the front, nearest the enemy).
+DOJO_ELEMENTS = ("water", "fire", "grass", "rock", "lightning")
+DOJO_FLOORS = range(1, 8)
+DOJO_ROWS, DOJO_COLUMNS = 4, 3
+DOJO_FILE = ROOT.parent / "dojo" / "reviewed-dojo-formations.json"
+DOJO_REVIEWED = json.loads(DOJO_FILE.read_text())
+DOJO_STRINGS = {
+    "en": {
+        "dojo_nav": "Dojo",
+        "dojo_heading": "Badge Dojo",
+        "dojo_element_names": {"water": "Water", "fire": "Fire", "grass": "Grass", "rock": "Rock", "lightning": "Lightning"},
+        "dojo_element_title": "{element} Dojo",
+        "dojo_floor_heading": "{element} Dojo {n}",
+        "dojo_floor_link": "Dojo {n}",
+        "dojo_count": "{cards} cards · {stages} stages",
+        "dojo_index_title": "Clash of Critters Badge Dojo Formations | Critter Formations",
+        "dojo_index_description": "Water, Fire, Grass, Rock and Lightning Dojo formations for Clash of Critters, Dojo 1–7, with links to the original player posts.",
+        "dojo_index_h1": "Badge Dojo Formations",
+        "dojo_title": "Clash of Critters {element} Dojo Formations (1-1–7-10) | Critter Formations",
+        "dojo_description": "{cards} formation cards covering {stages} {element} Dojo stages (1-1–7-10) in Clash of Critters, with links to the original Discord posts.",
+        "dojo_h1": "{element} Dojo Formations",
+        "dojo_board_aria": "{element} Dojo {stage}: 3 by 4 formation, top row is the front",
+        "og_alt_dojo": "{element} Dojo Clash of Critters formations preview",
+    },
+    "zh-hant": {
+        "dojo_nav": "道場",
+        "dojo_heading": "徽章道場",
+        "dojo_element_names": {"water": "水", "fire": "火", "grass": "草", "rock": "岩", "lightning": "雷"},
+        "dojo_element_title": "{element}道場",
+        "dojo_floor_heading": "{element}道場 {n}",
+        "dojo_floor_link": "道場 {n}",
+        "dojo_count": "{cards} 張卡片 · {stages} 關",
+        "dojo_index_title": "塔塔冒險隊 徽章道場陣容 | Critter Formations",
+        "dojo_index_description": "塔塔冒險隊（Clash of Critters）水、火、草、岩、雷道場 1–7 的陣容，附玩家原始貼文連結。",
+        "dojo_index_h1": "徽章道場陣容",
+        "dojo_title": "塔塔冒險隊 {element}道場陣容（1-1–7-10）| Critter Formations",
+        "dojo_description": "{element}道場（1-1–7-10）共 {cards} 張陣容卡片，涵蓋 {stages} 個關卡，附 Discord 原始貼文連結。",
+        "dojo_h1": "{element}道場陣容",
+        "dojo_board_aria": "{element}道場 {stage}：3×4 陣容，最上排為前排",
+        "og_alt_dojo": "塔塔冒險隊 {element}道場陣容預覽",
+    },
+    "ko": {
+        "dojo_nav": "도장",
+        "dojo_heading": "배지 도장",
+        "dojo_element_names": {"water": "물", "fire": "불", "grass": "풀", "rock": "바위", "lightning": "번개"},
+        "dojo_element_title": "{element} 도장",
+        "dojo_floor_heading": "{element} 도장 {n}",
+        "dojo_floor_link": "도장 {n}",
+        "dojo_count": "카드 {cards}개 · {stages}개 스테이지",
+        "dojo_index_title": "Clash of Critters 배지 도장 편성 | Critter Formations",
+        "dojo_index_description": "Clash of Critters 물·불·풀·바위·번개 도장 1–7 편성과 원본 플레이어 게시물 링크.",
+        "dojo_index_h1": "배지 도장 편성",
+        "dojo_title": "Clash of Critters {element} 도장 편성 (1-1–7-10) | Critter Formations",
+        "dojo_description": "{element} 도장(1-1–7-10) {stages}개 스테이지를 다루는 편성 카드 {cards}개와 원본 Discord 게시물 링크.",
+        "dojo_h1": "{element} 도장 편성",
+        "dojo_board_aria": "{element} 도장 {stage}: 3×4 편성, 맨 위 줄이 전열",
+        "og_alt_dojo": "Clash of Critters {element} 도장 편성 미리보기",
+    },
+    "vi": {
+        "dojo_nav": "Võ đường",
+        "dojo_heading": "Võ đường huy hiệu",
+        "dojo_element_names": {"water": "Nước", "fire": "Lửa", "grass": "Cỏ", "rock": "Đá", "lightning": "Sét"},
+        "dojo_element_title": "Võ đường {element}",
+        "dojo_floor_heading": "Võ đường {element} {n}",
+        "dojo_floor_link": "Võ đường {n}",
+        "dojo_count": "{cards} thẻ · {stages} màn",
+        "dojo_index_title": "Đội hình Võ đường huy hiệu Clash of Critters | Critter Formations",
+        "dojo_index_description": "Đội hình Võ đường Nước, Lửa, Cỏ, Đá và Sét 1–7 trong Clash of Critters, kèm liên kết bài đăng gốc của người chơi.",
+        "dojo_index_h1": "Đội hình Võ đường huy hiệu",
+        "dojo_title": "Đội hình Võ đường {element} Clash of Critters (1-1–7-10) | Critter Formations",
+        "dojo_description": "{cards} thẻ đội hình cho {stages} màn Võ đường {element} (1-1–7-10) trong Clash of Critters, kèm liên kết bài đăng Discord gốc.",
+        "dojo_h1": "Đội hình Võ đường {element}",
+        "dojo_board_aria": "Võ đường {element} {stage}: đội hình 3×4, hàng trên cùng là hàng đầu",
+        "og_alt_dojo": "Xem trước đội hình Võ đường {element} Clash of Critters",
+    },
+}
+for _lang, _extra in DOJO_STRINGS.items():
+    STRINGS[_lang].update(_extra)
+
 POSTED_DATE_ZONE = ZoneInfo("America/Los_Angeles")
 MONTH_ABBR = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
@@ -652,6 +732,11 @@ def page_path(lang: str, page_type: str, chapter: int | None = None) -> str:
         return f"{prefix}/chapter/{chapter}/"
     if page_type == "privacy":
         return f"{prefix}/privacy.html"
+    if page_type == "dojo_index":
+        return f"{prefix}/dojo/"
+    if page_type == "dojo":
+        # For dojo pages the "chapter" argument carries the element slug.
+        return f"{prefix}/dojo/{chapter}/"
     raise ValueError(page_type)
 
 
@@ -752,7 +837,8 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         + (' selected' if l == lang else '')
         + f'>{html.escape(LANG_INFO[l]["native"])}</option>'
         for l in LANGS)
-    show_feedback = page_type in ("home", "chapter")
+    show_feedback = page_type in ("home", "chapter", "dojo_index", "dojo")
+    is_dojo = page_type in ("dojo_index", "dojo")
     footer_lang_links = "\n      ".join(
         f'<a href="{page_path(l, page_type, chapter)}" hreflang="{LANG_INFO[l]["code"]}" lang="{LANG_INFO[l]["code"]}">'
         f'{html.escape(LANG_INFO[l]["native"])}</a>'
@@ -772,7 +858,11 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "LANG_LABEL_TEXT": html.escape(S["lang_label"]),
         "LANG_OPTIONS": lang_options,
         "CHAPTER_LABEL_TEXT": html.escape(S["chapter_label"]),
-        "CHAPTER_OPTIONS": chapter_options(lang, chapter),
+        "CHAPTER_OPTIONS": chapter_options(lang, chapter if page_type == "chapter" else None),
+        "DOJO_NAV": (f'<a class="dojo-nav-link" href="{page_path(lang, "dojo_index")}"'
+                     + (' aria-current="page"' if page_type == "dojo_index" else '')
+                     + (' data-active="true"' if is_dojo else '')
+                     + f'>{html.escape(S["dojo_nav"])}</a>'),
         "DONATION_LABEL_TEXT": html.escape(S["donation_label"]),
         "DONATION_ARIA_TEXT": html.escape(S["donation_aria"], quote=True),
         "DONATION_DESKTOP_TEXT": html.escape(S["donation_desktop"]),
@@ -790,7 +880,8 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
             "lang": lang,
             "langPrefix": lang_prefix(lang),
             "pageType": page_type,
-            "chapter": chapter,
+            "chapter": chapter if page_type == "chapter" else None,
+            "dojoElement": chapter if page_type == "dojo" else None,
             "feedback": {
                 "endpoint": FEEDBACK_ENDPOINT,
                 "ratingLabels": S["feedback_rating_labels"],
@@ -903,22 +994,31 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
         f'{REPORT_FLAG_SVG}<span>{html.escape(S["report_button"])}</span></button></div></article>')
 
 
-def render_home_main(lang: str, chapter_stats: dict) -> str:
+def count_spans(fmt: str, cards: int, stages: int) -> str:
+    """Split a "{cards} … · {stages} …" string into two spans (stages first), no joining dot."""
+    parts = [part.strip() for part in fmt.split(" · ")]
+    parts.sort(key=lambda part: "{stages}" not in part)
+    return "".join(f'<span>{html.escape(part.format(cards=cards, stages=stages))}</span>' for part in parts)
+
+
+def render_home_main(lang: str, chapter_stats: dict, dojo_stats: dict) -> str:
     S = STRINGS[lang]
     items = []
     for c in CHAPTERS:
         n = c["chapter"]
         stats = chapter_stats[n]
         empty = stats["cards"] == 0
-        count_text = (S["chapter_count_empty"] if empty else
-                      S["chapter_count"].format(cards=stats["cards"], stages=stats["stages"]))
+        count_html = (f'<span>{html.escape(S["chapter_count_empty"])}</span>' if empty else
+                      count_spans(S["chapter_count"], stats["cards"], stats["stages"]))
         items.append(
             f'<li><a class="{"is-empty" if empty else ""}" href="{page_path(lang, "chapter", n)}">'
             f'<span class="chapter-name">{html.escape(S["chapter_option_label"].format(n=n))}</span>'
-            f'<span class="chapter-count">{html.escape(count_text)}</span></a></li>')
+            f'<span class="chapter-count">{count_html}</span></a></li>')
     heading = html.escape(S["home_chapters_heading"])
     return (f'<h2 class="section-heading">{heading}</h2>'
-            f'<ul class="chapter-grid" aria-label="{heading}">{"".join(items)}</ul>')
+            f'<ul class="chapter-grid" aria-label="{heading}">{"".join(items)}</ul>'
+            f'<h2 class="section-heading" id="dojo">{html.escape(S["dojo_heading"])}</h2>'
+            + render_dojo_grid(lang, dojo_stats))
 
 
 def render_chapter_main(lang: str, chapter_number: int, cards_html: list[str]) -> str:
@@ -937,6 +1037,95 @@ def render_chapter_main(lang: str, chapter_number: int, cards_html: list[str]) -
             f'aria-label="{html.escape(S["next_stage_aria"].format(n=next_n), quote=True)}">'
             f'{html.escape(S["next_stage_button"].format(n=next_n))}</a></div>')
     return body
+
+
+def render_dojo_card(group: dict, lang: str, is_first: bool) -> str:
+    S = STRINGS[lang]
+    element = group["element"]
+    element_name = S["dojo_element_names"][element]
+    cells_html = []
+    for r, c, key in group["cells"]:
+        if key:
+            unit = unit_record(key, r, c)
+            label = f'{unit["name"]} · T{unit["tier"]} · ' + S["row_col"].format(row=r, column=c)
+            loading_attr = "" if is_first else ' loading="lazy"'
+            cells_html.append(
+                f'<div class="cell occupied" title="{html.escape(label)}">'
+                f'<img src="/sprites/{key}.png" alt="{html.escape(label)}" width="200" height="200" '
+                f'decoding="async" draggable="false"{loading_attr}></div>')
+        else:
+            empty_label = S["empty_cell"].format(row=r, column=c)
+            cells_html.append(f'<div class="cell" aria-label="{html.escape(empty_label)}"></div>')
+    stage = group["stage_label"]
+    board_aria = html.escape(S["dojo_board_aria"].format(element=element_name, stage=stage), quote=True)
+    posted_date = format_posted_date(group["posted_at"], lang)
+    posted_label = S["posted_on"].format(date=posted_date)
+    poster = (f'<a href="{html.escape(group["source_message_url"], quote=True)}" target="_blank" '
+              f'rel="noopener noreferrer">{html.escape(group["display_name"])}</a>')
+    return (
+        f'<article class="stage dojo-card" id="{group["card_id"]}" data-dojo="{element}" data-floor="{group["floor"]}" '
+        f'data-formation-id="{group["formation_id"]}" data-stages="{",".join(str(n) for n in group["numbers"])}" '
+        f'data-posted-at="{html.escape(group["posted_at"], quote=True)}">'
+        f'<h3 class="stage-title"><a href="{html.escape(group["source_message_url"], quote=True)}" target="_blank" '
+        f'rel="noopener noreferrer" title="{html.escape(S["discord_link_title"], quote=True)}">{stage}</a>'
+        f'<span class="card-meta"><time class="posted" datetime="{html.escape(group["posted_at"], quote=True)}" '
+        f'title="{html.escape(posted_label, quote=True)}">{html.escape(posted_date)}</time></span></h3>'
+        f'<p class="poster">{S["posted_by"]} {poster}</p>'
+        f'<div class="board dojo-board" role="group" aria-label="{board_aria}">{"".join(cells_html)}</div></article>')
+
+
+def render_dojo_tabs(lang: str, current: str | None) -> str:
+    S = STRINGS[lang]
+    tabs = "".join(
+        f'<a class="dojo-tab dojo-{element}" href="{page_path(lang, "dojo", element)}"'
+        + (' aria-current="page"' if element == current else '')
+        + f'>{html.escape(S["dojo_element_title"].format(element=S["dojo_element_names"][element]))}</a>'
+        for element in DOJO_ELEMENTS)
+    return f'<nav class="dojo-tabs" aria-label="{html.escape(S["dojo_heading"], quote=True)}">{tabs}</nav>'
+
+
+def render_dojo_grid(lang: str, dojo_stats: dict) -> str:
+    S = STRINGS[lang]
+    items = []
+    for element in DOJO_ELEMENTS:
+        stats = dojo_stats[element]
+        items.append(
+            f'<li><a class="dojo-{element}" href="{page_path(lang, "dojo", element)}">'
+            f'<span class="chapter-name">{html.escape(S["dojo_element_title"].format(element=S["dojo_element_names"][element]))}</span>'
+            f'<span class="chapter-count">{count_spans(S["dojo_count"], stats["cards"], stats["stages"])}</span></a></li>')
+    heading = html.escape(S["dojo_heading"])
+    return f'<ul class="chapter-grid dojo-grid" aria-label="{heading}">{"".join(items)}</ul>'
+
+
+def render_dojo_index_main(lang: str, dojo_stats: dict) -> str:
+    return render_dojo_grid(lang, dojo_stats)
+
+
+def render_dojo_main(lang: str, element: str, floor_groups: dict[int, list[dict]]) -> str:
+    S = STRINGS[lang]
+    element_name = S["dojo_element_names"][element]
+    jump = "".join(
+        f'<a href="#dojo-{element}-{floor}">{html.escape(S["dojo_floor_link"].format(n=floor))}</a>'
+        for floor in DOJO_FLOORS if floor_groups.get(floor))
+    sections = []
+    card_index = 0
+    for floor in DOJO_FLOORS:
+        groups = floor_groups.get(floor, [])
+        if not groups:
+            continue
+        cards = []
+        for group in groups:
+            cards.append(render_dojo_card(group, lang, card_index == 0))
+            card_index += 1
+        sections.append(
+            f'<section class="dojo-floor" id="dojo-{element}-{floor}" aria-labelledby="dojo-{element}-{floor}-heading">'
+            f'<div class="floor-head"><h2 class="section-heading" id="dojo-{element}-{floor}-heading">'
+            f'{html.escape(S["dojo_floor_heading"].format(element=element_name, n=floor))}</h2>'
+            f'<p class="floor-range">{floor}-1 – {floor}-10</p></div>'
+            f'<div class="cards-grid dojo-cards">{"".join(cards)}</div></section>')
+    return (render_dojo_tabs(lang, element)
+            + f'<nav class="floor-jump" aria-label="{html.escape(S["dojo_element_title"].format(element=element_name), quote=True)}">{jump}</nav>'
+            + "".join(sections))
 
 
 def render_privacy_main(lang: str) -> str:
@@ -1278,12 +1467,79 @@ def build() -> None:
             "level_max": max(levels) if levels else None,
         }
 
+    # Badge Dojo formations: separate from chapter stages, one 4×3 board per record.
+    dojo_records = []
+    dojo_groups: dict[tuple, dict] = {}
+    dojo_coverage: Counter = Counter()
+    for record in DOJO_REVIEWED:
+        element, floor, board = record["element"], record["floor"], record["board"]
+        mid = record["source_message_id"]
+        assert element in DOJO_ELEMENTS and floor in DOJO_FLOORS, mid
+        assert len(board) == DOJO_ROWS and all(len(row) == DOJO_COLUMNS for row in board), mid
+        numbers = record["website_stage_numbers"]
+        assert numbers and all(1 <= n <= 10 for n in numbers) and numbers == sorted(set(numbers)), mid
+        assert datetime.fromisoformat(record["posted_at"].replace("Z", "+00:00")) <= datetime.now(timezone.utc), mid
+        lineup = [unit_record(key, r, c) for r, row in enumerate(board, 1) for c, key in enumerate(row, 1) if key]
+        for unit in lineup:
+            unit["position"] = (unit["row"] - 1) * DOJO_COLUMNS + unit["column"]
+            assert FORMS[unit["form_id"]]["element"].lower() == element, (mid, unit["form_id"])
+        assert len(lineup) == 5, (mid, len(lineup))
+        families = Counter(unit["family_id"] for unit in lineup)
+        assert all(count == 1 for count in families.values()), (mid, families)
+        if not record.get("selected_for_website", True):
+            continue
+        for n in numbers:
+            dojo_coverage[(element, floor, n)] += 1
+        formation_id = f"{mid}:dojo-{element}-{floor}-{record['image_index']}"
+        signature = json.dumps([(u["position"], u["form_id"]) for u in lineup], separators=(",", ":"))
+        dojo_records.append({**record, "formation_id": formation_id, "lineup": lineup,
+                             "formation_hash": hashlib.sha256(signature.encode()).hexdigest(),
+                             "outcome_basis": "Author-reported clear; not independently tested in game."})
+        group = dojo_groups.setdefault((element, floor, dojo_records[-1]["formation_hash"]), {
+            "element": element, "floor": floor, "board": board, "numbers": [],
+            "formation_id": formation_id, "source_message_url": record["source_message_url"],
+            "display_name": record["display_name"], "posted_at": record["posted_at"],
+        })
+        group["numbers"] = sorted(set(group["numbers"]) | set(numbers))
+        if record["posted_at"] < group["posted_at"]:
+            group["posted_at"] = record["posted_at"]
+    duplicated = [key for key, count in dojo_coverage.items() if count > 1]
+    assert not duplicated, f"More than one selected dojo formation for {duplicated}"
+    dojo_floor_groups: dict[str, dict[int, list[dict]]] = {element: {} for element in DOJO_ELEMENTS}
+    for group in sorted(dojo_groups.values(), key=lambda g: (DOJO_ELEMENTS.index(g["element"]), g["floor"], g["numbers"][0])):
+        element, floor = group["element"], group["floor"]
+        group["stage_label"] = stage_label(group["numbers"], floor)
+        group["card_id"] = f"dojo-{element}-{floor}-{group['numbers'][0]}"
+        group["cells"] = [(r, c, key) for r, row in enumerate(group["board"], 1) for c, key in enumerate(row, 1)]
+        for row in group["board"]:
+            for key in row:
+                if key:
+                    sprites.setdefault(key, sprite_path(key))
+        dojo_floor_groups[element].setdefault(floor, []).append(group)
+    dojo_stats = {element: {"cards": sum(len(groups) for groups in dojo_floor_groups[element].values()),
+                            "stages": sum(1 for (e, _, _) in dojo_coverage if e == element)}
+                  for element in DOJO_ELEMENTS}
+    (DOJO_FILE.parent / "dojo-lineups.json").write_text(json.dumps({
+        "schema_version": "1.0",
+        "collected_at": "2026-11-11",
+        "description": "Badge Dojo formations for Water, Fire, Grass, Rock and Lightning Dojo 1–7. Boards have 4 rows (front to rear) and 3 columns (left to right).",
+        "collection_method": "Authenticated Discord website, read-only browser inspection of posts found with element dojo searches.",
+        "catalog_reference": {"url": CATALOG["source_url"], "version": CATALOG["source_version"]},
+        "selection_policy": "One selected formation per dojo stage, preferring posts after August 27, 2026 that cover a whole floor or the author's explicit stage list. Lightning Dojo 2 uses a July 19 post because no newer complete reference was found.",
+        "stages": [{"stage": f"{element}-{floor}-{n}", "formation_id": record["formation_id"]}
+                   for record in dojo_records for element, floor in [(record["element"], record["floor"])]
+                   for n in record["website_stage_numbers"]],
+        "unavailable_stages": [f"{e}-{f}-{n}" for e in DOJO_ELEMENTS for f in DOJO_FLOORS for n in range(1, 11)
+                               if (e, f, n) not in dojo_coverage],
+        "formations": dojo_records,
+    }, ensure_ascii=False, indent=2) + "\n")
+
     template = (ROOT / "page-template.html").read_text()
     site = ROOT / "site"
     # Chapter pages are static (crawlable without JS); each chapter's sprites are separate
     # files so visitors download only what a chapter's cards reference.
     shutil.rmtree(site / "chapters", ignore_errors=True)
-    for generated in ("sprites", "chapter", "og", *(lang_prefix(l).lstrip("/") for l in LANGS if lang_prefix(l))):
+    for generated in ("sprites", "chapter", "dojo", "og", *(lang_prefix(l).lstrip("/") for l in LANGS if lang_prefix(l))):
         shutil.rmtree(site / generated, ignore_errors=True)
     (site / "sprites").mkdir(parents=True)
     (site / "chapter").mkdir(parents=True)
@@ -1305,10 +1561,16 @@ def build() -> None:
                    else "No formations yet")
         render_og_image(site / "og" / f"chapter-{number}.png", f"Chapter {number}",
                          "Clash of Critters Formations", caption)
+    render_og_image(site / "og" / "dojo.png", "Badge Dojo", "Clash of Critters Formations",
+                     f"{len(DOJO_ELEMENTS)} elements · Dojo 1–7")
+    for element in DOJO_ELEMENTS:
+        stats = dojo_stats[element]
+        render_og_image(site / "og" / f"dojo-{element}.png", f"{STRINGS['en']['dojo_element_names'][element]} Dojo",
+                         "Clash of Critters Formations", f"{stats['cards']} cards · {stats['stages']} stages")
 
     for lang in LANGS:
         strings = STRINGS[lang]
-        main_content = render_home_main(lang, chapter_stats)
+        main_content = render_home_main(lang, chapter_stats, dojo_stats)
         page = render_shell(
             template, lang, "home",
             title=strings["home_title"], description=strings["home_description"],
@@ -1351,6 +1613,42 @@ def build() -> None:
 
     for lang in LANGS:
         strings = STRINGS[lang]
+        page = render_shell(
+            template, lang, "dojo_index",
+            title=strings["dojo_index_title"], description=strings["dojo_index_description"],
+            canonical_path=page_path(lang, "dojo_index"), h1=strings["dojo_index_h1"],
+            main_content=render_dojo_index_main(lang, dojo_stats),
+            og_image_path="og/dojo.png", og_image_alt=strings["dojo_index_h1"], jsonld_scripts=[],
+        )
+        dojo_dir = lang_dir(site, lang) / "dojo"
+        dojo_dir.mkdir(parents=True, exist_ok=True)
+        (dojo_dir / "index.html").write_text(page)
+        for element in DOJO_ELEMENTS:
+            element_name = strings["dojo_element_names"][element]
+            stats = dojo_stats[element]
+            breadcrumb = jsonld_script({
+                "@context": "https://schema.org", "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {"@type": "ListItem", "position": 1, "name": strings["breadcrumb_home"], "item": SITE_URL + page_path(lang, "home")},
+                    {"@type": "ListItem", "position": 2, "name": strings["dojo_heading"], "item": SITE_URL + page_path(lang, "dojo_index")},
+                    {"@type": "ListItem", "position": 3, "name": strings["dojo_element_title"].format(element=element_name),
+                     "item": SITE_URL + page_path(lang, "dojo", element)},
+                ],
+            })
+            page = render_shell(
+                template, lang, "dojo", chapter=element,
+                title=strings["dojo_title"].format(element=element_name),
+                description=strings["dojo_description"].format(element=element_name, cards=stats["cards"], stages=stats["stages"]),
+                canonical_path=page_path(lang, "dojo", element), h1=strings["dojo_h1"].format(element=element_name),
+                main_content=render_dojo_main(lang, element, dojo_floor_groups[element]),
+                og_image_path=f"og/dojo-{element}.png", og_image_alt=strings["og_alt_dojo"].format(element=element_name),
+                jsonld_scripts=[breadcrumb], robots_noindex=not stats["cards"],
+            )
+            (dojo_dir / element).mkdir(parents=True, exist_ok=True)
+            (dojo_dir / element / "index.html").write_text(page)
+
+    for lang in LANGS:
+        strings = STRINGS[lang]
         main_content = render_privacy_main(lang)
         page = render_shell(
             template, lang, "privacy",
@@ -1379,6 +1677,9 @@ def build() -> None:
     sitemap_urls += [sitemap_entry(lang, "chapter", chapter["chapter"])
                      for chapter in CHAPTERS if chapter_stats[chapter["chapter"]]["cards"]
                      for lang in LANGS]
+    sitemap_urls += [sitemap_entry(lang, "dojo_index") for lang in LANGS]
+    sitemap_urls += [sitemap_entry(lang, "dojo", element) for element in DOJO_ELEMENTS
+                     if dojo_stats[element]["cards"] for lang in LANGS]
     sitemap_urls += [sitemap_entry(lang, "privacy") for lang in LANGS]
     sitemap_xml = ('<?xml version="1.0" encoding="UTF-8"?>\n'
                    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
@@ -1387,7 +1688,9 @@ def build() -> None:
     (site / "robots.txt").write_text(
         "User-agent: *\nAllow: /\nDisallow: /chapters/\nSitemap: " + SITE_URL + "/sitemap.xml\n")
 
-    print(f"Built {len(stages)} stages in {len(groups)} grouped formation cards; {len(sprites)} exact sprite variants. Site: {site}")
+    print(f"Built {len(stages)} stages in {len(groups)} grouped formation cards; "
+          f"{len(dojo_coverage)} dojo stages in {sum(s['cards'] for s in dojo_stats.values())} dojo cards; "
+          f"{len(sprites)} exact sprite variants. Site: {site}")
 
 
 if __name__ == "__main__":
