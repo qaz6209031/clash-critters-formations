@@ -163,11 +163,11 @@ STRINGS = {
         "chapter_description_empty": "No verified formations are available yet for Chapter {n} (stages {n}-1–{n}-80).",
         "chapter_h1": "Chapter {n} Formations",
         "empty_chapter_message": "No verified formations available for this chapter yet.",
-        "next_stage_button": "Next: Stage {n}-1 →",
+        "next_stage_button": "Next: Stage {n}-1",
         "next_stage_aria": "Go to Chapter {n}, starting at stage {n}-1",
         "donation_label": "Finding these formations helpful?",
-        "donation_desktop": "Buy me a coffee ☕",
-        "donation_mobile": "☕ Donate",
+        "donation_desktop": "Buy me a coffee",
+        "donation_mobile": "Donate",
         "donation_aria": "Buy me a coffee via PayPal (opens in a new tab)",
         "posted_by": "Posted by",
         "discord_link_title": "Open the original Discord reference",
@@ -239,11 +239,11 @@ STRINGS = {
         "chapter_description_empty": "第 {n} 章（關卡 {n}-1–{n}-80）目前尚無已驗證的陣容。",
         "chapter_h1": "第 {n} 章陣容",
         "empty_chapter_message": "這個章節目前尚無已驗證的陣容。",
-        "next_stage_button": "下一關：{n}-1 →",
+        "next_stage_button": "下一關：{n}-1",
         "next_stage_aria": "前往第 {n} 章，從關卡 {n}-1 開始",
         "donation_label": "覺得這些陣容有幫助嗎？",
-        "donation_desktop": "請我喝杯咖啡 ☕",
-        "donation_mobile": "☕ 贊助",
+        "donation_desktop": "請我喝杯咖啡",
+        "donation_mobile": "贊助",
         "donation_aria": "透過 PayPal 請我喝杯咖啡（在新分頁開啟）",
         "posted_by": "發布者",
         "discord_link_title": "開啟 Discord 原始貼文",
@@ -311,11 +311,11 @@ STRINGS = {
         "chapter_description_empty": "챕터 {n}(스테이지 {n}-1–{n}-80)에는 아직 검증된 진형이 없습니다.",
         "chapter_h1": "챕터 {n} 진형",
         "empty_chapter_message": "이 챕터에는 아직 검증된 진형이 없습니다.",
-        "next_stage_button": "다음: 스테이지 {n}-1 →",
+        "next_stage_button": "다음: 스테이지 {n}-1",
         "next_stage_aria": "챕터 {n}의 스테이지 {n}-1로 이동",
         "donation_label": "진형 정보가 도움이 되셨나요?",
-        "donation_desktop": "커피 한 잔 후원하기 ☕",
-        "donation_mobile": "☕ 후원",
+        "donation_desktop": "커피 한 잔 후원하기",
+        "donation_mobile": "후원",
         "donation_aria": "PayPal로 커피 한 잔 후원하기 (새 탭에서 열림)",
         "posted_by": "작성자",
         "discord_link_title": "원본 Discord 게시물 열기",
@@ -387,11 +387,11 @@ STRINGS = {
         "chapter_description_empty": "Chưa có đội hình nào được xác minh cho Chương {n} (màn {n}-1–{n}-80).",
         "chapter_h1": "Đội hình Chương {n}",
         "empty_chapter_message": "Chưa có đội hình nào được xác minh cho chương này.",
-        "next_stage_button": "Tiếp theo: Màn {n}-1 →",
+        "next_stage_button": "Tiếp theo: Màn {n}-1",
         "next_stage_aria": "Đi đến Chương {n}, bắt đầu từ màn {n}-1",
         "donation_label": "Thấy các đội hình này hữu ích?",
-        "donation_desktop": "Mời tôi một ly cà phê ☕",
-        "donation_mobile": "☕ Ủng hộ",
+        "donation_desktop": "Mời tôi một ly cà phê",
+        "donation_mobile": "Ủng hộ",
         "donation_aria": "Mời một ly cà phê qua PayPal (mở tab mới)",
         "posted_by": "Đăng bởi",
         "discord_link_title": "Mở bài đăng Discord gốc",
@@ -994,6 +994,13 @@ def render_card(group: dict, lang: str, is_first: bool) -> str:
         f'{REPORT_FLAG_SVG}<span>{html.escape(S["report_button"])}</span></button></div></article>')
 
 
+def count_spans(fmt: str, cards: int, stages: int) -> str:
+    """Split a "{cards} … · {stages} …" string into two spans (stages first), no joining dot."""
+    parts = [part.strip() for part in fmt.split(" · ")]
+    parts.sort(key=lambda part: "{stages}" not in part)
+    return "".join(f'<span>{html.escape(part.format(cards=cards, stages=stages))}</span>' for part in parts)
+
+
 def render_home_main(lang: str, chapter_stats: dict, dojo_stats: dict) -> str:
     S = STRINGS[lang]
     items = []
@@ -1001,12 +1008,12 @@ def render_home_main(lang: str, chapter_stats: dict, dojo_stats: dict) -> str:
         n = c["chapter"]
         stats = chapter_stats[n]
         empty = stats["cards"] == 0
-        count_text = (S["chapter_count_empty"] if empty else
-                      S["chapter_count"].format(cards=stats["cards"], stages=stats["stages"]))
+        count_html = (f'<span>{html.escape(S["chapter_count_empty"])}</span>' if empty else
+                      count_spans(S["chapter_count"], stats["cards"], stats["stages"]))
         items.append(
             f'<li><a class="{"is-empty" if empty else ""}" href="{page_path(lang, "chapter", n)}">'
             f'<span class="chapter-name">{html.escape(S["chapter_option_label"].format(n=n))}</span>'
-            f'<span class="chapter-count">{html.escape(count_text)}</span></a></li>')
+            f'<span class="chapter-count">{count_html}</span></a></li>')
     heading = html.escape(S["home_chapters_heading"])
     return (f'<h2 class="section-heading">{heading}</h2>'
             f'<ul class="chapter-grid" aria-label="{heading}">{"".join(items)}</ul>'
@@ -1085,7 +1092,7 @@ def render_dojo_grid(lang: str, dojo_stats: dict) -> str:
         items.append(
             f'<li><a class="dojo-{element}" href="{page_path(lang, "dojo", element)}">'
             f'<span class="chapter-name">{html.escape(S["dojo_element_title"].format(element=S["dojo_element_names"][element]))}</span>'
-            f'<span class="chapter-count">{html.escape(S["dojo_count"].format(cards=stats["cards"], stages=stats["stages"]))}</span></a></li>')
+            f'<span class="chapter-count">{count_spans(S["dojo_count"], stats["cards"], stats["stages"])}</span></a></li>')
     heading = html.escape(S["dojo_heading"])
     return f'<ul class="chapter-grid dojo-grid" aria-label="{heading}">{"".join(items)}</ul>'
 
@@ -1112,9 +1119,9 @@ def render_dojo_main(lang: str, element: str, floor_groups: dict[int, list[dict]
             card_index += 1
         sections.append(
             f'<section class="dojo-floor" id="dojo-{element}-{floor}" aria-labelledby="dojo-{element}-{floor}-heading">'
-            f'<h2 class="section-heading" id="dojo-{element}-{floor}-heading">'
-            f'{html.escape(S["dojo_floor_heading"].format(element=element_name, n=floor))}'
-            f'<span class="floor-range">{floor}-1 – {floor}-10</span></h2>'
+            f'<div class="floor-head"><h2 class="section-heading" id="dojo-{element}-{floor}-heading">'
+            f'{html.escape(S["dojo_floor_heading"].format(element=element_name, n=floor))}</h2>'
+            f'<p class="floor-range">{floor}-1 – {floor}-10</p></div>'
             f'<div class="cards-grid dojo-cards">{"".join(cards)}</div></section>')
     return (render_dojo_tabs(lang, element)
             + f'<nav class="floor-jump" aria-label="{html.escape(S["dojo_element_title"].format(element=element_name), quote=True)}">{jump}</nav>'
