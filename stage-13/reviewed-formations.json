@@ -1637,8 +1637,8 @@
     "needs_review": false,
     "notes": "Exact visible forms and positions were visually compared with the local planner catalog, including Pyrohound T2, Frostique T3 and the distinct monkey forms. Empty cells are preserved. The author explicitly marks this range inclusive; screenshot stage and enemy level are retained separately. Only previously unavailable stages are selected.",
     "stage_assignment_basis": "The author explicitly captions this inclusive cleared range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Fill an unavailable chapter 13 stage using a date-eligible original reference with its own readable player level; preserve all existing selections.",
+    "selected_for_website": false,
+    "selection_reason": "November 12, 2026: replaced after 5+ \"Can't pass this stage?\" reports by a lower-level clear (source 1566696555115708426). Original board, level and source remain archived.",
     "caption_stage_numbers_original": [
       66,
       67,
@@ -1650,6 +1650,9 @@
       67,
       68,
       69
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1566696555115708426"
     ]
   },
   {
@@ -2068,5 +2071,78 @@
     "selected_for_website": true,
     "selection_reason": "Verified author-reported clear selected during October 12 website feedback review; not independently tested in game. Front-left Boldclaw follows the confirmed clear image; previous 13-31 through 13-35 selections are retained.",
     "tatari_level_quote": "lvl 229"
+  },
+  {
+    "source_message_id": "1566696555115708426",
+    "stage_start": 66,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "website_stage_numbers": [
+      66,
+      67,
+      68,
+      69
+    ],
+    "screenshot_displayed_stage": "13-70",
+    "screenshot_enemy_level": null,
+    "tatari_level": 234,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Lvl 234",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "puffbelly",
+        null,
+        null
+      ],
+      [
+        "ospisces",
+        "stalkerix",
+        "rizzler",
+        "boldclaw",
+        "rockfu"
+      ],
+      [
+        "voltling",
+        "frugatoad",
+        "capobeetle",
+        "cheerlet",
+        null
+      ],
+      [
+        "blubbles",
+        "rockshell",
+        "azurion",
+        "frostique",
+        "humbleetle"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 13-70 screenshot; inventory cards read Lvl 234. Row 0 is empty. The author notes a retry may be needed.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 12, 2026: the previous card drew 5+ \"Can't pass this stage?\" reports; replaced with this lower-level (Lv.234) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1554603613467181086"
+    ]
   }
 ]
