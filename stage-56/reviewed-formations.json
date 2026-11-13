@@ -2088,16 +2088,19 @@
     "capture_type": "range_snapshot",
     "level_from_original_post_clear_screenshot": true,
     "tatari_level_basis": "Player level 1128 is readable in this source's own screenshot inventory. The caption explicitly states the same level.",
-    "selected_for_website": true,
+    "selected_for_website": false,
     "needs_review": true,
     "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
-    "selection_reason": "Owner requested Casey’s verified chapter 56 onward formations. Levels are compared individually with the previous selection; all old records remain archived.",
+    "selection_reason": "November 13, 2026: a November 12 feedback message said the 56-20 card no longer works and it drew 7 stage reports that day. Replaced by source 1569537418342699028; original board, level and source remain archived.",
     "tatari_level_quote": "Level 1128",
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1545384805020205076",
       "1545385708145877023"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1569537418342699028"
     ]
   },
   {
@@ -4176,6 +4179,77 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1545651485570760714"
+    ]
+  },
+  {
+    "source_message_id": "1569537418342699028",
+    "stage_start": 20,
+    "stage_end": 22,
+    "caption_stage_numbers": [
+      20,
+      21,
+      22
+    ],
+    "website_stage_numbers": [
+      20,
+      21,
+      22
+    ],
+    "screenshot_displayed_stage": "56-21",
+    "screenshot_enemy_level": 1483,
+    "tatari_level": 1126,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 1126",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "voltverine",
+        "stormlion",
+        "serrabloom",
+        "frostique",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "solaflora",
+        "rockong",
+        "sonarbat",
+        "silversear",
+        "clangnaga"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 56-21 screenshot. Rows 0-3 used, row 4 empty (checked against the download button and the empty tile row below). Stormlion wears a purple Sparkle skin; Cheerspring a bow and Azurion a top hat. Catalog standard models are shown.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 13, 2026: a November 12 feedback message said the 56-20 card no longer works and it drew 7 stage reports that day. Lower-level (Lv.1126) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1560925471124750396"
     ]
   }
 ]

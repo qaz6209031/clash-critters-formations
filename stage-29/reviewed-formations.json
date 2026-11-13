@@ -1529,14 +1529,17 @@
     "needs_review": false,
     "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
     "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
-    "selected_for_website": true,
-    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "selected_for_website": false,
+    "selection_reason": "November 13, 2026: a November 12 feedback message said chapter 29 is outdated and 29-10 drew stage reports; the previous board was posted September 21. Replaced by source 1568944404159533066; original board, level and source remain archived.",
     "website_stage_numbers": [
       10,
       11,
       12,
       13,
       14
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1568944404159533066"
     ]
   },
   {
@@ -2083,12 +2086,15 @@
     "needs_review": false,
     "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
     "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
-    "selected_for_website": true,
-    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "selected_for_website": false,
+    "selection_reason": "November 13, 2026: a November 12 feedback message said chapter 29 is outdated and 29-40 drew stage reports; the previous board was posted September 21. Replaced by source 1570595040974217358; original board, level and source remain archived.",
     "website_stage_numbers": [
       40,
       41,
       42
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1570595040974217358"
     ]
   },
   {
@@ -3033,6 +3039,152 @@
     "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
     "website_stage_numbers": [
       80
+    ]
+  },
+  {
+    "source_message_id": "1568944404159533066",
+    "stage_start": 10,
+    "stage_end": 14,
+    "caption_stage_numbers": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "website_stage_numbers": [
+      10,
+      11,
+      12,
+      13,
+      14
+    ],
+    "screenshot_displayed_stage": "29-15",
+    "screenshot_enemy_level": 761,
+    "tatari_level": 557,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 557",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        "hellhound",
+        "tikowl",
+        "serrabloom"
+      ],
+      [
+        "seaswirl",
+        "cheerspring",
+        "charflutter",
+        "trippet",
+        "capobeetle"
+      ],
+      [
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frugatoad",
+        "solaflora"
+      ],
+      [
+        null,
+        null,
+        null,
+        "aquariel",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 29-15 screenshot; row 0 empty (same layout as the author's 28-70 post). Costumes: Cheerspring bow, Trippet horns, Capobeetle pirate hat, Azurion top hat.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 13, 2026: a November 12 feedback message said chapter 29 is outdated and 29-10 drew stage reports; the previous board was posted September 21. Lower-level (Lv.557) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1551618059679174681"
+    ]
+  },
+  {
+    "source_message_id": "1570595040974217358",
+    "stage_start": 40,
+    "stage_end": 42,
+    "caption_stage_numbers": [
+      40,
+      41,
+      42
+    ],
+    "website_stage_numbers": [
+      40,
+      41,
+      42
+    ],
+    "screenshot_displayed_stage": "29-43",
+    "screenshot_enemy_level": 770,
+    "tatari_level": 573,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 573",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "jacobdumbnut",
+    "credit_basis": "Creator credited in the source caption (jacobdumbnut's thread); distinct from the posting author.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        "rockwu",
+        "frostique",
+        "serrabloom",
+        "hellhound"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "pyroprawn"
+      ],
+      [
+        "azurion",
+        "waveflutter",
+        "haplysia",
+        "solaflora",
+        "firefox"
+      ],
+      [
+        null,
+        "clangnaga",
+        "capypapa",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 29-43 screenshot (low resolution). Rows 0-3 used, row 4 empty. The center unit was mid T4 aura animation; its inventory card is the water T4 Haplysia.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 13, 2026: a November 12 feedback message said chapter 29 is outdated and 29-40 drew stage reports; the previous board was posted September 21. Lower-level (Lv.573) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1551620102456086670"
     ]
   }
 ]

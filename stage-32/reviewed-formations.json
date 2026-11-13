@@ -824,8 +824,12 @@
     ],
     "needs_review": false,
     "notes": "",
-    "selection_reason": "Author-reported clear covering the stage block; exhaustive lowest-level comparison waived by user.",
-    "level_from_original_post_clear_screenshot": false
+    "selection_reason": "November 13, 2026: the 32-55 card drew about 10 stage reports across November 10-12; the previous board was posted August 29. Replaced by source 1569168684260393070; original board, level and source remain archived.",
+    "level_from_original_post_clear_screenshot": false,
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1569168684260393070"
+    ]
   },
   {
     "source_message_id": "1543580812048474212",
@@ -1274,6 +1278,81 @@
     "selection_reason": "November 9, 2026: user feedback reported the previous level-684 board failing 32-71–32-74. Lower-level (668) reference without Clucky.",
     "replaces_website_source_message_ids": [
       "1544709891489398915"
+    ]
+  },
+  {
+    "source_message_id": "1569168684260393070",
+    "stage_start": 55,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "website_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "screenshot_displayed_stage": "32-60",
+    "screenshot_enemy_level": 856,
+    "tatari_level": 635,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 635",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; the caption says the board was taken from the 'Chapter 20 and onwards' thread without naming its creator.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "clawzor",
+        "rockshell",
+        "rockfu",
+        "rockzilla",
+        null
+      ],
+      [
+        "armorjaw",
+        "cheerspring",
+        "trippet",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        null,
+        "clangnaga",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "rockhog",
+        "solaflora",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 32-60 screenshot; row 0 empty. The monkey is the Rockfu (T2) model in a blue costume with a sword (its inventory card matches); the caption's \"Monkey and Lion are T3\" line is the author's standard footer. Charflutter wears a flower costume.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 13, 2026: the 32-55 card drew about 10 stage reports across November 10-12; the previous board was posted August 29. Lower-level (Lv.635) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1543335684893577236"
     ]
   }
 ]
