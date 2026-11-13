@@ -33041,5 +33041,41 @@
     "channel_id": "1567956074802188439",
     "attachments": [],
     "local_image_path": null
+  },
+  {
+    "id": "1570239262060978368",
+    "text": "25-30 lv 517 so much easier now",
+    "display_name": "Boomking ~ UID:39341599",
+    "posted_at": "2026-11-12T00:50:13.710Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1568816042153873571/1570239262060978368",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 24 New updated November 2026",
+    "channel_id": "1568816042153873571",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1569162572559556681",
+    "text": "32-50, 32-51, lvl 635\nDojo: 44444\nNabbed from: ⁠Chapter 20 and onwards",
+    "display_name": "Le Twins",
+    "posted_at": "2026-11-09T01:31:50.929Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1514595927489515570/1569162572559556681",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "7-50 to 39-80 reference",
+    "channel_id": "1514595927489515570",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1549089095802822706",
+    "text": "32-60 lvl 642",
+    "display_name": "Jolanda/28583983",
+    "posted_at": "2026-09-14T16:07:01.123Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1549083789144358982/1549089095802822706",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Jolanda hard chapters solution",
+    "channel_id": "1549083789144358982",
+    "attachments": [],
+    "local_image_path": null
   }
 ]
