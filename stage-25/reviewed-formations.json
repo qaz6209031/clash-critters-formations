@@ -4522,10 +4522,13 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. The screenshot shows stage 25-25 before battle; stages follow the author’s caption. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "November 13, 2026: the 25-25 card drew 4 stage reports on November 12. Replaced by source 1567960873127907449; original board, level and source remain archived.",
     "source_image_number": 1,
-    "replaces_website_source_message_ids": []
+    "replaces_website_source_message_ids": [],
+    "replaced_by_website_source_message_ids": [
+      "1567960873127907449"
+    ]
   },
   {
     "source_message_id": "1566708728445669418",
@@ -4934,6 +4937,77 @@
     "selection_reason": "November 13, 2026: a November 12 feedback message reported clearing 25-30 at level 472 and the card drew stage reports. Lower-level (Lv.471) clear posted after the chapter's publication cutoff.",
     "replaces_website_source_message_ids": [
       "1563562760262914109"
+    ]
+  },
+  {
+    "source_message_id": "1567960873127907449",
+    "stage_start": 25,
+    "stage_end": 29,
+    "caption_stage_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "website_stage_numbers": [
+      25
+    ],
+    "screenshot_displayed_stage": "25-30",
+    "screenshot_enemy_level": 659,
+    "tatari_level": 471,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 471",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "lickflicker",
+        "polarpaw",
+        "swaystroll",
+        "rockwu",
+        "serrabloom"
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "trippet",
+        "cheerspring",
+        "cluckeroo"
+      ],
+      [
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "pandaroot"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 25-30 screenshot (cropped); rows 0 and 1 empty, matching the author's 25-30 post layout. Costumes: Charflutter flower, Azurion top hat. Only 25-25 is published from this post; 25-26 to 25-29 keep their cards.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 13, 2026: the 25-25 card drew 4 stage reports on November 12. Lower-level (Lv.471) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1566707587175415858"
     ]
   }
 ]

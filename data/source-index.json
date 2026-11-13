@@ -33017,5 +33017,29 @@
     "channel_id": "1514595927489515570",
     "attachments": [],
     "local_image_path": null
+  },
+  {
+    "id": "1543511142062891100",
+    "text": "8-10 8-11 8-12 8-13 8-14 8-15 lv141",
+    "display_name": "Renatus |183| ID:32588441",
+    "posted_at": "2026-08-30T06:42:13.318Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1541229585037787157/1543511142062891100",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "4-00 to 36-80 Lineup Reference [F2P]",
+    "channel_id": "1541229585037787157",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1567960873127907449",
+    "text": "25-25, 25-26, 25-27, 25-28, 25-29\nlvl 471",
+    "display_name": "Attention",
+    "posted_at": "2026-11-05T17:56:43.458Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1567956074802188439/1567960873127907449",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 25",
+    "channel_id": "1567956074802188439",
+    "attachments": [],
+    "local_image_path": null
   }
 ]

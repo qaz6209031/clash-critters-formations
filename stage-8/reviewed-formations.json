@@ -264,8 +264,11 @@
     "needs_review": false,
     "notes": "Exact visible forms and occupied cells manually matched to the planner catalog. Caption claims are preserved separately from selected stages. A range endpoint matching the displayed, uncleared stage is excluded; no extra stage is inferred. Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
     "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
-    "selected_for_website": true,
-    "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+    "selected_for_website": false,
+    "selection_reason": "November 13, 2026: the 8-10 card drew 6 stage reports on November 12. Replaced by source 1543511142062891100; original board, level and source remain archived.",
+    "replaced_by_website_source_message_ids": [
+      "1543511142062891100"
+    ]
   },
   {
     "source_message_id": "1555884935112429569",
@@ -1837,5 +1840,77 @@
     "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
     "selected_for_website": true,
     "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1543511142062891100",
+    "stage_start": 10,
+    "stage_end": 15,
+    "caption_stage_numbers": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "website_stage_numbers": [
+      10
+    ],
+    "screenshot_displayed_stage": null,
+    "screenshot_enemy_level": null,
+    "tatari_level": 141,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lv141",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "range_reference",
+    "board": [
+      [
+        null,
+        "pyrohound",
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "firecoil",
+        "cribbler",
+        "rubblet",
+        "electroar"
+      ],
+      [
+        "buddi",
+        "ignisnap",
+        "maskfry",
+        "cheerlet",
+        "bubbit"
+      ],
+      [
+        "humbleetle",
+        null,
+        null,
+        "frostpaw",
+        "sparkdoe"
+      ],
+      [
+        "frugatoad",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. The image is a board-only crop showing all five rows; no stage label is visible. Only 8-10 is published from this post; 8-11 to 8-15 keep their cards.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 13, 2026: the 8-10 card drew 6 stage reports on November 12. Lower-level (Lv.141) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1552075260625424527"
+    ]
   }
 ]
