@@ -32945,5 +32945,77 @@
     "channel_id": "1546603142752239626",
     "attachments": [],
     "local_image_path": null
+  },
+  {
+    "id": "1569537418342699028",
+    "text": "56-20, 56-21, and 56-22, lvl 1126. Badges 5-5-5-6-6.",
+    "display_name": "SuperSlosh",
+    "posted_at": "2026-11-10T02:21:21.128Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1547110768590327808/1569537418342699028",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "29-43 and above",
+    "channel_id": "1547110768590327808",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1567966067903561909",
+    "text": "25-30\nlvl 471",
+    "display_name": "Attention",
+    "posted_at": "2026-11-05T18:17:21.989Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1567956074802188439/1567966067903561909",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 25",
+    "channel_id": "1567956074802188439",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1568944404159533066",
+    "text": "29-10, 29-11, 29-12, 29-13, 29-14 Level 557 54444",
+    "display_name": "AdAstra",
+    "posted_at": "2026-11-08T11:04:55.529Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1567843847386439830/1568944404159533066",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "AdAstra | Chapter 27 onwards",
+    "channel_id": "1567843847386439830",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1570595040974217358",
+    "text": "29-40, 29-41, 29-42 Level 573\nCredits to ⁠jacobdumbnut's ch. 22-40 to 51-…",
+    "display_name": "AdAstra",
+    "posted_at": "2026-11-13T00:23:58.013Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1567843847386439830/1570595040974217358",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "AdAstra | Chapter 27 onwards",
+    "channel_id": "1567843847386439830",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1568913251066974220",
+    "text": "28-50, 28-51, 28-52, 28-53, 28-54 Level 551 54444",
+    "display_name": "AdAstra",
+    "posted_at": "2026-11-08T09:01:08.053Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1567843847386439830/1568913251066974220",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "AdAstra | Chapter 27 onwards",
+    "channel_id": "1567843847386439830",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1569168684260393070",
+    "text": "32-55, 32-56, 32-57, 32-58, 32-59, lvl 635\nDojo: 44444\nMonkey and Lion are T3.\nNabbed from: ⁠Chapter 20 and onwards",
+    "display_name": "Le Twins",
+    "posted_at": "2026-11-09T01:56:08.072Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1514595927489515570/1569168684260393070",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "7-50 to 39-80 reference",
+    "channel_id": "1514595927489515570",
+    "attachments": [],
+    "local_image_path": null
   }
 ]

@@ -3825,11 +3825,14 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "November 13, 2026: a November 12 feedback message reported clearing 25-30 at level 472 and the card drew stage reports. Replaced by source 1567966067903561909; original board, level and source remain archived.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1547696716915019858"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567966067903561909"
     ]
   },
   {
@@ -4865,5 +4868,72 @@
     "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": []
+  },
+  {
+    "source_message_id": "1567966067903561909",
+    "stage_start": 30,
+    "stage_end": 30,
+    "caption_stage_numbers": [
+      30
+    ],
+    "website_stage_numbers": [
+      30
+    ],
+    "screenshot_displayed_stage": "25-31",
+    "screenshot_enemy_level": 659,
+    "tatari_level": 471,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 471",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "snapshade",
+        null,
+        null
+      ],
+      [
+        "clangnaga",
+        null,
+        "trippet",
+        "cheerspring",
+        null
+      ],
+      [
+        "rockwu",
+        "charflutter",
+        "waveflutter",
+        "sparkdoe",
+        "solaflora"
+      ],
+      [
+        null,
+        "tideon",
+        "frugatoad",
+        null,
+        null
+      ],
+      [
+        null,
+        "voltling",
+        "capobeetle",
+        "blitzmane",
+        "serrabloom"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 25-31 screenshot (cropped); all five rows visible.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 13, 2026: a November 12 feedback message reported clearing 25-30 at level 472 and the card drew stage reports. Lower-level (Lv.471) clear posted after the chapter's publication cutoff.",
+    "replaces_website_source_message_ids": [
+      "1563562760262914109"
+    ]
   }
 ]
