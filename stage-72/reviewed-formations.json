@@ -60,8 +60,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       1,
       2,
@@ -74,6 +74,36 @@
       2,
       3,
       4
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -138,8 +168,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint. The source deploys 14 units; no missing unit is inferred.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       5,
       6,
@@ -154,6 +184,36 @@
       7,
       8,
       9
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -214,13 +274,43 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       10
     ],
     "website_stage_numbers": [
       10
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -284,8 +374,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       11,
       12,
@@ -298,6 +388,36 @@
       12,
       13,
       14
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -362,8 +482,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint. The source deploys 14 units; no missing unit is inferred.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       15,
       16,
@@ -378,6 +498,36 @@
       17,
       18,
       19
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -438,13 +588,43 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       20
     ],
     "website_stage_numbers": [
       20
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -508,8 +688,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       21,
       22,
@@ -522,6 +702,36 @@
       22,
       23,
       24
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -586,8 +796,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       25,
       26,
@@ -602,6 +812,36 @@
       27,
       28,
       29
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -662,13 +902,43 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       30
     ],
     "website_stage_numbers": [
       30
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -732,8 +1002,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       31,
       32,
@@ -746,6 +1016,36 @@
       32,
       33,
       34
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -810,8 +1110,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       35,
       36,
@@ -826,6 +1126,36 @@
       37,
       38,
       39
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -886,13 +1216,43 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       40
     ],
     "website_stage_numbers": [
       40
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -956,8 +1316,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "board_source_message_id": "1551432379003047978",
     "supporting_message_ids": [
       "1551432379003047978"
@@ -974,6 +1334,36 @@
       42,
       43,
       44
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1038,8 +1428,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       45,
       46,
@@ -1054,6 +1444,36 @@
       47,
       48,
       49
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1114,13 +1534,43 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       50
     ],
     "website_stage_numbers": [
       50
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1184,8 +1634,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       51,
       52,
@@ -1198,6 +1648,36 @@
       52,
       53,
       54
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1262,8 +1742,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       55,
       56,
@@ -1278,6 +1758,36 @@
       57,
       58,
       59
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1338,13 +1848,43 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       60
     ],
     "website_stage_numbers": [
       60
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1408,8 +1948,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       61,
       62,
@@ -1422,6 +1962,36 @@
       62,
       63,
       64
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1486,8 +2056,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       65,
       66,
@@ -1502,6 +2072,36 @@
       67,
       68,
       69
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1562,13 +2162,43 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       70
     ],
     "website_stage_numbers": [
       70
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1632,8 +2262,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       71,
       72,
@@ -1646,6 +2276,36 @@
       72,
       73,
       74
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1710,8 +2370,8 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
     "stage_assignment_basis": "The caption names the screenshot’s next stage as its range endpoint; cleared coverage stops before that endpoint.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "board_source_message_id": "1551803960405532807",
     "supporting_message_ids": [
       "1551803960405532807"
@@ -1730,6 +2390,36 @@
       77,
       78,
       79
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
   },
   {
@@ -1790,13 +2480,2639 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 13, 2026: replaced by Casey's newer posts at the owner's request; record archived.",
     "caption_stage_numbers_original": [
       80
     ],
     "website_stage_numbers": [
       80
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1567756201972859042",
+      "1567757730650005524",
+      "1567758223203893319",
+      "1567761463051952178",
+      "1567762360213704735",
+      "1567763157588643930",
+      "1567772382888722444",
+      "1567773703800889434",
+      "1567774614900318249",
+      "1567776576505126973",
+      "1567778411659657278",
+      "1567780021060243456",
+      "1567780523256979498",
+      "1567782586489507972",
+      "1567783788363382804",
+      "1567786963732275210",
+      "1567787984487448578",
+      "1567788463477100585",
+      "1567789486459330623",
+      "1567790750081486898",
+      "1567793938637783070",
+      "1567794611152494695",
+      "1567794784959991850",
+      "1567797038953799841",
+      "1567798196963516420",
+      "1567799199389720707",
+      "1567799689452068984",
+      "1567861446895992852"
     ]
+  },
+  {
+    "source_message_id": "1567756201972859042",
+    "screenshot_displayed_stage": "72-1",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1472,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 1,
+    "stage_end": 4,
+    "caption_stage_numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1472 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "rockong",
+        "blitzmane",
+        "voltverine",
+        "orchitoria",
+        "armorjaw"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "cinderclaw"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        "umbraveil:glitter"
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567757730650005524",
+    "screenshot_displayed_stage": "72-10",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1472,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 5,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "website_stage_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1472 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "armorjaw",
+        "blitzmane",
+        "clangnaga",
+        "orchitoria",
+        "pyrodaemon"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "cinderclaw"
+      ],
+      [
+        null,
+        "rockong",
+        "umbraveil:glitter",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567758223203893319",
+    "screenshot_displayed_stage": "72-11",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1472,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 10,
+    "stage_end": 10,
+    "caption_stage_numbers": [
+      10
+    ],
+    "website_stage_numbers": [
+      10
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1472 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        null,
+        "donscarab",
+        null,
+        "orchitoria",
+        null
+      ],
+      [
+        null,
+        "rockong",
+        "flarevix",
+        "chronerva",
+        "blitzmane"
+      ],
+      [
+        "cinderclaw",
+        "cheerspring",
+        "hyphoria",
+        "umbraveil:glitter",
+        "voltverine"
+      ],
+      [
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567761463051952178",
+    "screenshot_displayed_stage": "72-12",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1472,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 11,
+    "stage_end": 11,
+    "caption_stage_numbers": [
+      11
+    ],
+    "website_stage_numbers": [
+      11
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1472 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "donscarab",
+        "rockong",
+        "blitzmane",
+        "orchitoria",
+        "voltverine"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "voltazar"
+      ],
+      [
+        "cinderclaw",
+        "solaflora",
+        "umbraveil:glitter",
+        null,
+        null
+      ],
+      [
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567762360213704735",
+    "screenshot_displayed_stage": "72-15",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1472,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 12,
+    "stage_end": 14,
+    "caption_stage_numbers": [
+      12,
+      13,
+      14
+    ],
+    "website_stage_numbers": [
+      12,
+      13,
+      14
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1472 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "pyrodaemon",
+        "rockong",
+        "blitzmane",
+        "orchitoria",
+        "voltverine"
+      ],
+      [
+        "donscarab",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "cinderclaw",
+        "solaflora",
+        "umbraveil:glitter",
+        null,
+        null
+      ],
+      [
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567763157588643930",
+    "screenshot_displayed_stage": "72-20",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1472,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 15,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "website_stage_numbers": [
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1472 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        null,
+        "orchitoria",
+        "pyrodaemon",
+        "blitzmane",
+        "armorjaw"
+      ],
+      [
+        "rockong",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "clangnaga",
+        "solaflora",
+        "umbraveil:glitter",
+        "cinderclaw",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567772382888722444",
+    "screenshot_displayed_stage": null,
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 20,
+    "stage_end": 20,
+    "caption_stage_numbers": [
+      20
+    ],
+    "website_stage_numbers": [
+      20
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "armorjaw",
+        "orchitoria",
+        "solaflora",
+        "blitzmane",
+        null
+      ],
+      [
+        "seaswirl",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "cinderclaw",
+        "azurion",
+        "morphanessa",
+        "tideon",
+        "frostique"
+      ],
+      [
+        null,
+        null,
+        "umbraveil:glitter",
+        "rockong",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567773703800889434",
+    "screenshot_displayed_stage": null,
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 21,
+    "stage_end": 24,
+    "caption_stage_numbers": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "website_stage_numbers": [
+      21,
+      22,
+      23,
+      24
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "armorjaw",
+        "orchitoria",
+        "chronerva",
+        "blitzmane",
+        "voltverine"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "frostique",
+        "cinderclaw",
+        "solaflora",
+        "umbraveil:glitter",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567774614900318249",
+    "screenshot_displayed_stage": null,
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 25,
+    "stage_end": 29,
+    "caption_stage_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "website_stage_numbers": [
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "armorjaw",
+        "blitzmane",
+        "orchitoria",
+        "pyrodaemon",
+        "voltverine"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "cinderclaw",
+        "rockong",
+        "umbraveil:glitter",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567776576505126973",
+    "screenshot_displayed_stage": null,
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 30,
+    "stage_end": 34,
+    "caption_stage_numbers": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "website_stage_numbers": [
+      30,
+      31,
+      32,
+      33,
+      34
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "dreadclaw",
+        "pyrodaemon",
+        "rockzilla",
+        "blitzmane",
+        "rockshell"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "cinderclaw",
+        null,
+        "umbraveil:glitter",
+        "rockong",
+        "solaflora"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567778411659657278",
+    "screenshot_displayed_stage": "72-36",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 35,
+    "stage_end": 35,
+    "caption_stage_numbers": [
+      35
+    ],
+    "website_stage_numbers": [
+      35
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "pyrodaemon",
+        "blitzmane",
+        "rockong",
+        "orchitoria",
+        "armorjaw"
+      ],
+      [
+        "cinderclaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "solaflora",
+        null,
+        "umbraveil:glitter",
+        "chronerva",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567780021060243456",
+    "screenshot_displayed_stage": "72-40",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 36,
+    "stage_end": 39,
+    "caption_stage_numbers": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "website_stage_numbers": [
+      36,
+      37,
+      38,
+      39
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "pyrodaemon",
+        "blitzmane",
+        "rockong",
+        "orchitoria",
+        "dreadclaw"
+      ],
+      [
+        "armorjaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "umbraveil:glitter",
+        null,
+        "cinderclaw"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567780523256979498",
+    "screenshot_displayed_stage": "72-41",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 40,
+    "stage_end": 44,
+    "caption_stage_numbers": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "website_stage_numbers": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "pyrodaemon",
+        "armorjaw",
+        "dreadclaw",
+        "blitzmane",
+        "orchitoria"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        null,
+        "umbraveil:glitter",
+        "cinderclaw",
+        null
+      ],
+      [
+        "azurion",
+        "morphanessa",
+        "tideon",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567782586489507972",
+    "screenshot_displayed_stage": "72-50",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 45,
+    "stage_end": 49,
+    "caption_stage_numbers": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "website_stage_numbers": [
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "voltverine",
+        "pyrodaemon",
+        "blitzmane",
+        "thornwisp",
+        "solaflora"
+      ],
+      [
+        "armorjaw",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "orchitoria"
+      ],
+      [
+        null,
+        null,
+        "umbraveil:glitter",
+        "cinderclaw",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567783788363382804",
+    "screenshot_displayed_stage": "72-51",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 50,
+    "stage_end": 50,
+    "caption_stage_numbers": [
+      50
+    ],
+    "website_stage_numbers": [
+      50
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "orchitoria",
+        "thornwisp",
+        "armorjaw",
+        "blitzmane",
+        "pyrodaemon"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "solaflora",
+        "rockong",
+        null,
+        "umbraveil:glitter",
+        "cinderclaw"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567786963732275210",
+    "screenshot_displayed_stage": "72-55",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 51,
+    "stage_end": 54,
+    "caption_stage_numbers": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "website_stage_numbers": [
+      51,
+      52,
+      53,
+      54
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "orchitoria",
+        "chronerva",
+        "dreadclaw",
+        "blitzmane",
+        "pyrodaemon"
+      ],
+      [
+        "rockong",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "umbraveil:glitter",
+        null,
+        "cinderclaw"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567787984487448578",
+    "screenshot_displayed_stage": "72-60",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 55,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "website_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "dreadclaw",
+        null,
+        "chronerva",
+        "rockong",
+        "orchitoria"
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "seaswirl",
+        "umbraveil:glitter",
+        "cinderclaw",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567788463477100585",
+    "screenshot_displayed_stage": "72-61",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 60,
+    "stage_end": 60,
+    "caption_stage_numbers": [
+      60
+    ],
+    "website_stage_numbers": [
+      60
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "voltverine",
+        "pyrodaemon",
+        "armorjaw",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "clangnaga"
+      ],
+      [
+        null,
+        null,
+        "umbraveil:glitter",
+        "rockong",
+        "cinderclaw"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "solaflora",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567789486459330623",
+    "screenshot_displayed_stage": "72-65",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 61,
+    "stage_end": 64,
+    "caption_stage_numbers": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "website_stage_numbers": [
+      61,
+      62,
+      63,
+      64
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "voltverine",
+        "pyrodaemon",
+        "armorjaw",
+        "blitzmane",
+        "rockong"
+      ],
+      [
+        "voltazar",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        null,
+        "umbraveil:glitter",
+        "solaflora",
+        "cinderclaw"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567790750081486898",
+    "screenshot_displayed_stage": "72-66",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 65,
+    "stage_end": 65,
+    "caption_stage_numbers": [
+      65
+    ],
+    "website_stage_numbers": [
+      65
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "armorjaw",
+        "voltazar",
+        "orchitoria",
+        "blitzmane",
+        "dreadclaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "cinderclaw",
+        "solaflora",
+        "umbraveil:glitter",
+        "rockong",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567793938637783070",
+    "screenshot_displayed_stage": "72-68",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 66,
+    "stage_end": 67,
+    "caption_stage_numbers": [
+      66,
+      67
+    ],
+    "website_stage_numbers": [
+      66,
+      67
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "dreadclaw",
+        "blitzmane",
+        "rockong",
+        null,
+        "armorjaw"
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "frostique",
+        "solaflora",
+        "umbraveil:glitter",
+        "seaswirl",
+        "cinderclaw"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567794611152494695",
+    "screenshot_displayed_stage": "72-69",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 68,
+    "stage_end": 68,
+    "caption_stage_numbers": [
+      68
+    ],
+    "website_stage_numbers": [
+      68
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "rockong",
+        "dreadclaw",
+        "armorjaw"
+      ],
+      [
+        "seaswirl",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "frostique",
+        "solaflora",
+        "umbraveil:glitter",
+        null,
+        "cinderclaw"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567794784959991850",
+    "screenshot_displayed_stage": "72-70",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 69,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      69
+    ],
+    "website_stage_numbers": [
+      69
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "blitzmane",
+        "rockong",
+        "dreadclaw",
+        "armorjaw"
+      ],
+      [
+        "frostique",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        null
+      ],
+      [
+        "seaswirl",
+        "solaflora",
+        "umbraveil:glitter",
+        null,
+        "cinderclaw"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567797038953799841",
+    "screenshot_displayed_stage": "72-71",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 70,
+    "stage_end": 70,
+    "caption_stage_numbers": [
+      70
+    ],
+    "website_stage_numbers": [
+      70
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "rockong",
+        "pyrodaemon",
+        "chronerva",
+        "orchitoria",
+        "voltazar"
+      ],
+      [
+        "cinderclaw",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "solaflora",
+        null,
+        "umbraveil:glitter",
+        null,
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567798196963516420",
+    "screenshot_displayed_stage": "72-75",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 71,
+    "stage_end": 74,
+    "caption_stage_numbers": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "website_stage_numbers": [
+      71,
+      72,
+      73,
+      74
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "voltverine",
+        "pyrodaemon",
+        "orchitoria",
+        "chronerva",
+        "blitzmane"
+      ],
+      [
+        "rockong",
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "cinderclaw",
+        null,
+        "umbraveil:glitter",
+        null,
+        "solaflora"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567799199389720707",
+    "screenshot_displayed_stage": "72-77",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 75,
+    "stage_end": 76,
+    "caption_stage_numbers": [
+      75,
+      76
+    ],
+    "website_stage_numbers": [
+      75,
+      76
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "armorjaw",
+        "blitzmane",
+        "rockong",
+        "orchitoria",
+        null
+      ],
+      [
+        null,
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "flarevix"
+      ],
+      [
+        null,
+        "clangnaga",
+        "umbraveil:glitter",
+        "solaflora",
+        "cinderclaw"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567799689452068984",
+    "screenshot_displayed_stage": "72-80",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 77,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      77,
+      78,
+      79
+    ],
+    "website_stage_numbers": [
+      77,
+      78,
+      79
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "armorjaw",
+        "blitzmane",
+        "rockong",
+        "orchitoria",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "hyphoria",
+        "charflutter",
+        "flarevix"
+      ],
+      [
+        null,
+        "clangnaga",
+        "umbraveil:glitter",
+        "solaflora",
+        "cinderclaw"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1567861446895992852",
+    "screenshot_displayed_stage": "73-1",
+    "screenshot_enemy_level": null,
+    "tatari_level": 1475,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 80,
+    "stage_end": 80,
+    "caption_stage_numbers": [
+      80
+    ],
+    "website_stage_numbers": [
+      80
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1475 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "selection_reason": "November 13, 2026: owner requested Casey's latest formations after 71-9 (71-10 through 74-37).",
+    "replaces_website_source_message_ids": [
+      "1551407925082464346",
+      "1551410068573134930",
+      "1551416109557874748",
+      "1551417674561626176",
+      "1551419129225814067",
+      "1551421059515949198",
+      "1551421855565615194",
+      "1551423133330833418",
+      "1551424316720152646",
+      "1551425266599985272",
+      "1551430132487684297",
+      "1551430881808351342",
+      "1551432355682586645",
+      "1551436540612190228",
+      "1551441912555241505",
+      "1551454754943541320",
+      "1551498251536961617",
+      "1551639308732076042",
+      "1551640620441796630",
+      "1551780716050645152",
+      "1551790528914399363",
+      "1551801037264916590",
+      "1551803936971825153",
+      "1552253723533906001"
+    ],
+    "board": [
+      [
+        "orchitoria",
+        "blitzmane",
+        "umbraveil:glitter",
+        "donscarab",
+        "rockzilla"
+      ],
+      [
+        "rockong",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "clangnaga"
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        "cinderclaw"
+      ],
+      [
+        null,
+        null,
+        null,
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 13, 2026). Costumes are shown with the catalog's standard models."
   }
 ]

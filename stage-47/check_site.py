@@ -275,8 +275,8 @@ def main() -> None:
         fail(f"dojo card counts differ between languages: {dojo_cards}")
 
     for lang in LANGS:
-        if total_cards[lang] != 2127:
-            fail(f"{lang} chapter pages: expected 2127 total cards, found {total_cards[lang]}")
+        if total_cards[lang] != 2163:
+            fail(f"{lang} chapter pages: expected 2163 total cards, found {total_cards[lang]}")
 
     for page in pages_to_check:
         check_page(page)
