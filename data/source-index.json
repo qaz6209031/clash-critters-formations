@@ -34721,5 +34721,17 @@
     "channel_id": "1564312728666112070",
     "attachments": [],
     "local_image_path": null
+  },
+  {
+    "id": "1565567428329742469",
+    "text": "66-60 to 66-64 (Level 1341/Badges 66666) repeated from Chapter 19 and onwards",
+    "display_name": "Casey | 31150710",
+    "posted_at": "2026-10-30T03:26:01.750Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1544627061736345690/1565567428329742469",
+    "permalink_method": "Original message ID read from authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 19 and onwards",
+    "channel_id": "1544627061736345690",
+    "attachments": [],
+    "local_image_path": null
   }
 ]

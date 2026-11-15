@@ -1386,8 +1386,8 @@
     "needs_review": false,
     "notes": "Exact forms, variants and occupied cells were visually matched to the planner catalog. Empty cells are preserved. The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
     "stage_assignment_basis": "The author’s caption names the screenshot’s next stage as the range endpoint. Cleared coverage stops before that endpoint; the complete original caption and its stage numbers are retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible author-reported clear for the requested chapter. Exhaustive lowest-level comparison was waived; overlaps retain the formation for the later starting block. November 15, 2026: owner asked for Casey's lineup on 66-61 to 66-64; record archived.",
     "caption_stage_numbers_original": [
       61,
       62,
@@ -1400,6 +1400,9 @@
       62,
       63,
       64
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1566460355142623293"
     ]
   },
   {
@@ -3830,12 +3833,20 @@
     ],
     "deployed_count": 15,
     "stage_start": 60,
-    "stage_end": 60,
+    "stage_end": 64,
     "caption_stage_numbers": [
-      60
+      60,
+      61,
+      62,
+      63,
+      64
     ],
     "website_stage_numbers": [
-      60
+      60,
+      61,
+      62,
+      63,
+      64
     ],
     "credited_player_name": null,
     "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
@@ -3843,13 +3854,17 @@
     "level_from_original_post_clear_screenshot": true,
     "tatari_level_basis": "Player level 1341 is readable in this source's own screenshot inventory.",
     "selected_for_website": true,
-    "needs_review": true,
-    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. The original 66-60 to 66-64 post has no image and points to a replacement image captioned \"66-60 (replacement)\". Only 66-60 is assigned; 66-61 to 66-64 are not inferred. Blitzmane is wearing a goggles costume; underlying unit and tier match Blitzmane, displayed using the catalog’s standard model.",
-    "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
+    "needs_review": false,
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. The original 66-60 to 66-64 post has no image and points to a replacement image captioned \"66-60 (replacement)\". Only 66-60 is assigned; 66-61 to 66-64 are not inferred. Blitzmane is wearing a goggles costume; underlying unit and tier match Blitzmane, displayed using the catalog’s standard model. November 15, 2026: owner confirmed this replacement image belongs to Casey's original post \"66-60 to 66-64 (Level 1341/Badges 66666)\" (message 1565567428329742469, image removed), so it now covers 66-60 to 66-64.",
+    "stage_assignment_basis": "Casey's original inclusive caption 66-60 to 66-64, whose image was replaced by this post.",
     "selection_reason": "Owner requested Casey’s verified formations from 63-60 onward. All old records remain archived.",
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
-      "1549321438257881118"
+      "1549321438257881118",
+      "1549322247997620234"
+    ],
+    "supporting_message_ids": [
+      "1565567428329742469"
     ]
   }
 ]
