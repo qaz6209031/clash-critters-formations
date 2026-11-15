@@ -239,7 +239,15 @@
     .next-stage-link { min-height: 52px; padding: 0 var(--space-xl); font-size: var(--text-lg); }
 
     /* feedback: a paper-2 sheet at the foot of the page */
-    .feedback { max-width: 640px; margin: var(--space-3xl) auto 0; padding: var(--space-xl); border-radius: var(--radius-card); background: var(--grain), var(--color-paper-2); }
+    .feedback { margin: var(--space-3xl) 0 0; padding: var(--space-xl); border-radius: var(--radius-card); background: var(--grain), var(--color-paper-2); }
+    @media (min-width: 60rem) {
+      .feedback { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); grid-template-rows: auto 1fr; column-gap: var(--space-2xl); padding: var(--space-xl) var(--space-2xl); }
+      .feedback > h2, .feedback > .feedback-intro { grid-column: 1; }
+      .feedback > form, .feedback > .feedback-thanks { grid-column: 2; grid-row: 1 / span 2; }
+      .feedback > form { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); column-gap: var(--space-lg); align-content: start; }
+      .feedback > form > fieldset, .feedback > form > .feedback-field:has(textarea), .feedback > form > .feedback-error { grid-column: 1 / -1; }
+      .feedback > form > .feedback-submit { grid-column: 2; align-self: end; margin-bottom: var(--space-lg); }
+    }
     .feedback h2 { font-size: var(--text-2xl); margin-bottom: var(--space-xs); }
     .feedback-intro { margin-bottom: var(--space-lg); color: var(--color-muted); max-width: 52ch; }
     .feedback-field { margin: 0 0 var(--space-lg); padding: 0; border: 0; min-width: 0; }
