@@ -271,6 +271,24 @@
     .feedback-thanks-heading { margin-bottom: var(--space-2xs); font-size: var(--text-xl); font-weight: 600; letter-spacing: -0.02em; }
     .feedback-thanks p:not(.feedback-thanks-heading) { margin-bottom: var(--space-md); color: var(--color-muted); }
 
+    .whats-new { margin: 0 0 var(--space-lg); border-radius: var(--radius-stock); background: var(--grain), var(--color-paper-2); }
+    .whats-new summary { display: flex; align-items: center; flex-wrap: wrap; column-gap: var(--space-sm); min-height: 48px; padding: var(--space-xs) var(--space-lg); cursor: pointer; border-radius: var(--radius-stock); list-style: none; }
+    .whats-new summary::-webkit-details-marker { display: none; }
+    .whats-new summary::before { content: ""; width: 8px; height: 8px; border-right: 2px solid var(--color-ink-2); border-bottom: 2px solid var(--color-ink-2); rotate: -45deg; transition: rotate var(--dur-micro) var(--ease-snap); }
+    .whats-new[open] summary::before { rotate: 45deg; }
+    .whats-new summary:hover { background: var(--color-paper-3); }
+    .whats-new-title { font-weight: 600; }
+    .whats-new ul, .whats-new-link { margin-inline: var(--space-lg); }
+    .whats-new ul { padding-left: var(--space-lg); padding-bottom: var(--space-xs); }
+    .whats-new-link { margin-bottom: var(--space-sm); }
+    .whats-new time, .update-entry time { color: var(--color-muted); font-size: var(--text-sm); font-variant-numeric: tabular-nums; }
+    .update-entry ul, .whats-new ul { margin-top: 0; margin-bottom: 0; padding-left: var(--space-lg); display: grid; gap: var(--space-2xs); max-width: 80ch; }
+    .whats-new-link { display: inline-flex; align-items: center; min-height: 44px; margin-top: var(--space-xs); color: var(--color-accent-2); font-weight: 600; }
+    .whats-new-link:hover { color: var(--color-blue-deep); }
+    .updates-content { display: grid; gap: var(--space-xl); max-width: 80ch; }
+    .updates-intro { padding: var(--space-md) var(--space-lg); border-radius: var(--radius-stock); background: color-mix(in oklab, var(--color-accent) 30%, var(--color-paper)); font-weight: 600; max-width: none; }
+    .update-entry h2 { margin-bottom: var(--space-xs); }
+    .update-entry h2 time { font-size: var(--text-xl); color: var(--color-ink); }
     .privacy-content { max-width: 68ch; line-height: 1.7; overflow-wrap: break-word; }
     .privacy-content h2 { font-size: var(--text-xl); margin: var(--space-xl) 0 var(--space-xs); }
     .privacy-content p { margin-bottom: var(--space-sm); }
@@ -381,6 +399,7 @@
       <p>非官方粉絲自製內容，與 Farlight 無關，亦未獲 Farlight 認可。</p>
       <p>Clash of Critters（塔塔冒險隊）為其各自所有者的商標。</p>
       <nav aria-label="Footer">
+        <a href="/zh-hant/updates.html">更新紀錄</a>
         <a href="/zh-hant/privacy.html">隱私權政策</a>
         <a href="https://github.com/qaz6209031/clash-critters-formations" target="_blank" rel="noopener noreferrer">GitHub</a>
         <a href="/chapter/55/" hreflang="en" lang="en">EN</a>

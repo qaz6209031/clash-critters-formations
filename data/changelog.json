@@ -1,0 +1,133 @@
+[
+  {
+    "date": "2026-11-15",
+    "en": [
+      "Rock Dojo 7 now uses an all-T4 Monkey, Zilla and Snake lineup (Rockong, Meteorax, Dharmadder).",
+      "Chapter 29 is fully refreshed with clears posted after the latest update.",
+      "Added the missing 25-24, and replaced 18-76–18-79, 25-40, 28-10 and 32-20 with lower-level clears.",
+      "Fixed swapped Tideon and Azurion positions on 66-10 and 70-40.",
+      "Neighbouring stages with an identical board now share one card (for example 54-60 – 54-64).",
+      "The feedback form is wider on desktop.",
+      "New Updates page listing every site change, with a “What's new” summary on the home page."
+    ],
+    "zh-hant": [
+      "岩道場第 7 層改用全 T4 的猴子、哥吉拉、蛇陣容（Rockong、Meteorax、Dharmadder）。",
+      "第 29 章全部換成最新更新後的通關陣容。",
+      "補上缺少的 25-24，並把 18-76～18-79、25-40、28-10、32-20 換成等級更低的陣容。",
+      "修正 66-10 和 70-40 中 Tideon 與 Azurion 左右對調的錯誤。",
+      "相鄰關卡陣容完全相同時合併成一張卡片（例如 54-60 – 54-64）。",
+      "桌機版的意見回饋表單變寬了。",
+      "新增「更新紀錄」頁面列出網站的每次更新，首頁也會顯示「最新更新」摘要。"
+    ],
+    "ko": [
+      "바위 도장 7을 원숭이·질라·뱀 모두 T4인 진형(Rockong, Meteorax, Dharmadder)으로 교체했습니다.",
+      "챕터 29 전체를 최신 업데이트 이후 클리어 진형으로 교체했습니다.",
+      "빠져 있던 25-24를 추가하고 18-76~18-79, 25-40, 28-10, 32-20을 더 낮은 레벨 진형으로 교체했습니다.",
+      "66-10과 70-40에서 Tideon과 Azurion 위치가 바뀌어 있던 오류를 수정했습니다.",
+      "진형이 완전히 같은 연속 스테이지는 카드 하나로 합쳐 보여 줍니다(예: 54-60 – 54-64).",
+      "데스크톱에서 피드백 양식이 넓어졌습니다.",
+      "사이트 변경 사항을 모두 보여 주는 업데이트 페이지를 추가하고, 홈에 “새로운 소식” 요약을 표시합니다."
+    ],
+    "vi": [
+      "Võ đường Đá 7 dùng đội hình Khỉ, Zilla và Rắn đều T4 (Rockong, Meteorax, Dharmadder).",
+      "Chương 29 được thay toàn bộ bằng đội hình qua màn sau bản cập nhật mới nhất.",
+      "Bổ sung màn 25-24 còn thiếu, thay 18-76–18-79, 25-40, 28-10 và 32-20 bằng đội hình cấp thấp hơn.",
+      "Sửa lỗi Tideon và Azurion bị đổi chỗ ở 66-10 và 70-40.",
+      "Các màn liền nhau có đội hình giống hệt nhau giờ dùng chung một thẻ (ví dụ 54-60 – 54-64).",
+      "Khung góp ý rộng hơn trên máy tính.",
+      "Thêm trang Cập nhật liệt kê mọi thay đổi của trang, kèm phần tóm tắt “Có gì mới” trên trang chủ."
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "en": [
+      "Added Casey's formations from 71-10 through 74-37, including 12 chapter 74 stages that had none.",
+      "Replaced reported boards for 8-10, 25-25, 25-30, 28-50, 29-10, 29-40, 32-50, 32-55, 32-60 and 56-20."
+    ],
+    "zh-hant": [
+      "新增 Casey 從 71-10 到 74-37 的陣容，其中包含第 74 章原本沒有陣容的 12 關。",
+      "更換被回報的 8-10、25-25、25-30、28-50、29-10、29-40、32-50、32-55、32-60、56-20 陣容。"
+    ],
+    "ko": [
+      "Casey의 71-10부터 74-37까지 진형을 추가했습니다. 진형이 없던 챕터 74의 12개 스테이지도 포함됩니다.",
+      "신고된 8-10, 25-25, 25-30, 28-50, 29-10, 29-40, 32-50, 32-55, 32-60, 56-20 진형을 교체했습니다."
+    ],
+    "vi": [
+      "Thêm đội hình của Casey từ 71-10 đến 74-37, gồm 12 màn chương 74 trước đây chưa có.",
+      "Thay đội hình bị báo lỗi cho 8-10, 25-25, 25-30, 28-50, 29-10, 29-40, 32-50, 32-55, 32-60 và 56-20."
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "en": [
+      "New Badge Dojo section: Water, Fire, Grass, Rock and Lightning, Dojo 1–7.",
+      "New site design.",
+      "Replaced the most-reported boards for 9-3, 13-66, 16-16, 24-30 and 28-70."
+    ],
+    "zh-hant": [
+      "新增徽章道場：水、火、草、岩、雷，道場 1～7。",
+      "網站換上新設計。",
+      "更換回報最多的 9-3、13-66、16-16、24-30、28-70 陣容。"
+    ],
+    "ko": [
+      "배지 도장 섹션 추가: 물·불·풀·바위·번개, 도장 1~7.",
+      "새로운 사이트 디자인.",
+      "가장 많이 신고된 9-3, 13-66, 16-16, 24-30, 28-70 진형을 교체했습니다."
+    ],
+    "vi": [
+      "Thêm mục Võ đường Huy hiệu: Nước, Lửa, Cỏ, Đá và Sét, Võ đường 1–7.",
+      "Giao diện trang mới.",
+      "Thay các đội hình bị báo lỗi nhiều nhất cho 9-3, 13-66, 16-16, 24-30 và 28-70."
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "en": [
+      "Cards now show the date each formation was posted.",
+      "Chapter 23 refreshed with clears posted after the October 21 update.",
+      "Added a \"Can't pass this stage?\" button on every card.",
+      "Fixed 12-6, 21-5, 23-60, 24-20, 32-71–32-74 and 33-20."
+    ],
+    "zh-hant": [
+      "卡片上會顯示陣容的發布日期。",
+      "第 23 章換成 10 月 21 日更新後的通關陣容。",
+      "每張卡片新增「打不過這關？」按鈕。",
+      "修正 12-6、21-5、23-60、24-20、32-71～32-74、33-20。"
+    ],
+    "ko": [
+      "카드에 진형이 게시된 날짜가 표시됩니다.",
+      "챕터 23을 10월 21일 업데이트 이후 클리어 진형으로 교체했습니다.",
+      "모든 카드에 \"이 스테이지를 못 깨나요?\" 버튼을 추가했습니다.",
+      "12-6, 21-5, 23-60, 24-20, 32-71~32-74, 33-20을 수정했습니다."
+    ],
+    "vi": [
+      "Thẻ hiển thị ngày đăng của đội hình.",
+      "Chương 23 được thay bằng đội hình qua màn sau bản cập nhật 21/10.",
+      "Thêm nút \"Không qua được màn này?\" trên mỗi thẻ.",
+      "Sửa 12-6, 21-5, 23-60, 24-20, 32-71–32-74 và 33-20."
+    ]
+  },
+  {
+    "date": "2026-11-04",
+    "en": [
+      "Added Traditional Chinese and Korean, a language menu and the feedback form.",
+      "Added Casey's formations from 63-60 through 71-9.",
+      "Filled chapters 24, 25 and 74–76 with clears posted after the update."
+    ],
+    "zh-hant": [
+      "新增繁體中文與韓文、語言選單和意見回饋表單。",
+      "新增 Casey 從 63-60 到 71-9 的陣容。",
+      "第 24、25、74～76 章補上更新後的通關陣容。"
+    ],
+    "ko": [
+      "번체 중국어와 한국어, 언어 메뉴, 피드백 양식을 추가했습니다.",
+      "Casey의 63-60부터 71-9까지 진형을 추가했습니다.",
+      "챕터 24, 25, 74~76을 업데이트 이후 클리어 진형으로 채웠습니다."
+    ],
+    "vi": [
+      "Thêm tiếng Trung phồn thể và tiếng Hàn, menu ngôn ngữ và khung góp ý.",
+      "Thêm đội hình của Casey từ 63-60 đến 71-9.",
+      "Bổ sung chương 24, 25 và 74–76 bằng đội hình qua màn sau bản cập nhật."
+    ]
+  }
+]

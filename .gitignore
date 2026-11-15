@@ -8,6 +8,7 @@
 !/.github/workflows/pages.yml
 !/data/
 !/data/source-index.json
+!/data/changelog.json
 !/dojo/
 !/dojo/README.md
 !/dojo/reviewed-dojo-formations.json
@@ -20,6 +21,7 @@
 !/stage-47/site/
 !/stage-47/site/index.html
 !/stage-47/site/privacy.html
+!/stage-47/site/updates.html
 !/stage-47/site/sitemap.xml
 !/stage-47/site/robots.txt
 !/stage-47/site/favicon-tatari.png
@@ -33,6 +35,7 @@
 !/stage-47/site/vi/
 !/stage-47/site/vi/index.html
 !/stage-47/site/vi/privacy.html
+!/stage-47/site/vi/updates.html
 !/stage-47/site/vi/chapter/
 !/stage-47/site/vi/chapter/*/
 !/stage-47/site/vi/chapter/*/index.html
@@ -43,6 +46,7 @@
 !/stage-47/site/zh-hant/
 !/stage-47/site/zh-hant/index.html
 !/stage-47/site/zh-hant/privacy.html
+!/stage-47/site/zh-hant/updates.html
 !/stage-47/site/zh-hant/chapter/
 !/stage-47/site/zh-hant/chapter/*/
 !/stage-47/site/zh-hant/chapter/*/index.html
@@ -53,6 +57,7 @@
 !/stage-47/site/ko/
 !/stage-47/site/ko/index.html
 !/stage-47/site/ko/privacy.html
+!/stage-47/site/ko/updates.html
 !/stage-47/site/ko/chapter/
 !/stage-47/site/ko/chapter/*/
 !/stage-47/site/ko/chapter/*/index.html

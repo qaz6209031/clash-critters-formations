@@ -121,10 +121,15 @@ def check_page(path: Path) -> None:
     if "lang-switch" in text:
         fail(f"{rel}: old language link row still present")
     has_feedback = 'id="feedback-form"' in text
-    if (is_chapter or is_home or is_dojo) != has_feedback:
-        fail(f"{rel}: feedback form should appear on home, chapter and dojo pages only")
+    is_updates = rel.name == "updates.html"
+    if (is_chapter or is_home or is_dojo or is_updates) != has_feedback:
+        fail(f"{rel}: feedback form should appear on home, chapter, dojo and updates pages only")
     if 'class="dojo-nav-link"' not in text:
         fail(f"{rel}: header Dojo link missing")
+    if f'href="{prefix}/updates.html"' not in text:
+        fail(f"{rel}: footer Updates link missing")
+    if is_home and 'class="whats-new"' not in text:
+        fail(f"{rel}: home page missing the What's new summary")
     if has_feedback and 'name="website"' not in text:
         fail(f"{rel}: feedback form missing honeypot field")
     if is_chapter:
@@ -200,7 +205,7 @@ def main() -> None:
             fail(f"STRINGS[{lang!r}]: privacy_sections count differs from English")
 
     pages_to_check: list[Path] = []
-    for page in [lang_dir(SITE, lang) / name for lang in LANGS for name in ("index.html", "privacy.html")]:
+    for page in [lang_dir(SITE, lang) / name for lang in LANGS for name in ("index.html", "privacy.html", "updates.html")]:
         if page.exists():
             pages_to_check.append(page)
         else:
