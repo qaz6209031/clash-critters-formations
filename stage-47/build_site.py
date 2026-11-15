@@ -700,6 +700,30 @@ DOJO_STRINGS = {
 for _lang, _extra in DOJO_STRINGS.items():
     STRINGS[_lang].update(_extra)
 
+UPDATES_STRINGS = {
+    "en": {"updates_title": "Site Updates | Critter Formations",
+           "updates_description": "What changed on Critter Formations: new formations, replaced stages and site improvements.",
+           "updates_h1": "Site updates", "footer_updates_label": "Updates",
+           "home_whats_new": "What's new", "home_all_updates": "All updates"},
+    "zh-hant": {"updates_title": "網站更新紀錄 | Critter Formations",
+                "updates_description": "Critter Formations 的更新內容：新增陣容、更換的關卡與網站改善。",
+                "updates_h1": "網站更新紀錄", "footer_updates_label": "更新紀錄",
+                "home_whats_new": "最新更新", "home_all_updates": "所有更新紀錄"},
+    "ko": {"updates_title": "사이트 업데이트 | Critter Formations",
+           "updates_description": "Critter Formations 변경 사항: 새 진형, 교체된 스테이지, 사이트 개선.",
+           "updates_h1": "사이트 업데이트", "footer_updates_label": "업데이트",
+           "home_whats_new": "새로운 소식", "home_all_updates": "전체 업데이트"},
+    "vi": {"updates_title": "Cập Nhật Trang | Critter Formations",
+           "updates_description": "Những thay đổi trên Critter Formations: đội hình mới, màn được thay và cải tiến trang.",
+           "updates_h1": "Cập nhật trang", "footer_updates_label": "Cập nhật",
+           "home_whats_new": "Có gì mới", "home_all_updates": "Tất cả cập nhật"},
+}
+for _lang, _extra in UPDATES_STRINGS.items():
+    STRINGS[_lang].update(_extra)
+
+# Owner-written change log shown on /updates.html and summarised on the home page.
+CHANGELOG = json.loads((ROOT.parent / "data" / "changelog.json").read_text())
+
 POSTED_DATE_ZONE = ZoneInfo("America/Los_Angeles")
 MONTH_ABBR = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
 
@@ -732,6 +756,8 @@ def page_path(lang: str, page_type: str, chapter: int | None = None) -> str:
         return f"{prefix}/chapter/{chapter}/"
     if page_type == "privacy":
         return f"{prefix}/privacy.html"
+    if page_type == "updates":
+        return f"{prefix}/updates.html"
     if page_type == "dojo_index":
         return f"{prefix}/dojo/"
     if page_type == "dojo":
@@ -874,6 +900,8 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "FOOTER_UNOFFICIAL_TEXT": html.escape(S["footer_unofficial"]),
         "FOOTER_TRADEMARK_TEXT": html.escape(S["footer_trademark"]),
         "FOOTER_PRIVACY_HREF": page_path(lang, "privacy"),
+        "FOOTER_UPDATES_HREF": page_path(lang, "updates"),
+        "FOOTER_UPDATES_LABEL_TEXT": html.escape(S["footer_updates_label"]),
         "FOOTER_PRIVACY_LABEL_TEXT": html.escape(S["footer_privacy_label"]),
         "FOOTER_LANG_LINKS": footer_lang_links,
         "JS_CONFIG_JSON": json.dumps({
@@ -1015,10 +1043,41 @@ def render_home_main(lang: str, chapter_stats: dict, dojo_stats: dict) -> str:
             f'<span class="chapter-name">{html.escape(S["chapter_option_label"].format(n=n))}</span>'
             f'<span class="chapter-count">{count_html}</span></a></li>')
     heading = html.escape(S["home_chapters_heading"])
-    return (f'<h2 class="section-heading">{heading}</h2>'
+    return (render_whats_new(lang) + f'<h2 class="section-heading">{heading}</h2>'
             f'<ul class="chapter-grid" aria-label="{heading}">{"".join(items)}</ul>'
             f'<h2 class="section-heading" id="dojo">{html.escape(S["dojo_heading"])}</h2>'
             + render_dojo_grid(lang, dojo_stats))
+
+
+def changelog_date(date: str, lang: str) -> str:
+    return format_posted_date(date + "T20:00:00Z", lang)
+
+
+def changelog_items(entry: dict, lang: str) -> list[str]:
+    items = entry.get(lang) or entry["en"]
+    assert items and all(isinstance(item, str) and item for item in items), entry["date"]
+    return items
+
+
+def render_whats_new(lang: str) -> str:
+    S = STRINGS[lang]
+    latest = CHANGELOG[0]
+    items = "".join(f"<li>{html.escape(item)}</li>" for item in changelog_items(latest, lang))
+    return (f'<section class="whats-new" aria-labelledby="whats-new-heading">'
+            f'<div class="whats-new-head"><h2 id="whats-new-heading">{html.escape(S["home_whats_new"])}</h2>'
+            f'<time datetime="{latest["date"]}">{html.escape(changelog_date(latest["date"], lang))}</time></div>'
+            f'<ul>{items}</ul>'
+            f'<a class="whats-new-link" href="{page_path(lang, "updates")}">{html.escape(S["home_all_updates"])}</a></section>')
+
+
+def render_updates_main(lang: str) -> str:
+    entries = []
+    for entry in CHANGELOG:
+        items = "".join(f"<li>{html.escape(item)}</li>" for item in changelog_items(entry, lang))
+        entries.append(f'<section class="update-entry" aria-labelledby="update-{entry["date"]}">'
+                       f'<h2 id="update-{entry["date"]}"><time datetime="{entry["date"]}">'
+                       f'{html.escape(changelog_date(entry["date"], lang))}</time></h2><ul>{items}</ul></section>')
+    return f'<div class="updates-content">{"".join(entries)}</div>'
 
 
 def render_chapter_main(lang: str, chapter_number: int, cards_html: list[str]) -> str:
@@ -1680,6 +1739,19 @@ def build() -> None:
         privacy_file = lang_dir(site, lang) / "privacy.html"
         privacy_file.write_text(page)
 
+    dates = [entry["date"] for entry in CHANGELOG]
+    assert dates == sorted(dates, reverse=True) and len(set(dates)) == len(dates), "Changelog must be newest first"
+    for lang in LANGS:
+        strings = STRINGS[lang]
+        page = render_shell(
+            template, lang, "updates",
+            title=strings["updates_title"], description=strings["updates_description"],
+            canonical_path=page_path(lang, "updates"), h1=strings["updates_h1"],
+            main_content=render_updates_main(lang),
+            og_image_path="og/home.png", og_image_alt=strings["og_alt_home"], jsonld_scripts=[],
+        )
+        (lang_dir(site, lang) / "updates.html").write_text(page)
+
     collected_at = dataset["collected_at"]
 
     def hreflang_sitemap_links(page_type: str, chapter_number: int | None) -> str:
@@ -1702,6 +1774,7 @@ def build() -> None:
     sitemap_urls += [sitemap_entry(lang, "dojo", element) for element in DOJO_ELEMENTS
                      if dojo_stats[element]["cards"] for lang in LANGS]
     sitemap_urls += [sitemap_entry(lang, "privacy") for lang in LANGS]
+    sitemap_urls += [sitemap_entry(lang, "updates") for lang in LANGS]
     sitemap_xml = ('<?xml version="1.0" encoding="UTF-8"?>\n'
                    '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" '
                    'xmlns:xhtml="http://www.w3.org/1999/xhtml">\n' + "\n".join(sitemap_urls) + "\n</urlset>\n")
