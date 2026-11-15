@@ -2659,9 +2659,9 @@
         "solaflora"
       ],
       [
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         "cinderclaw",
         null
       ],
@@ -2704,7 +2704,51 @@
     "replaces_website_source_message_ids": [
       "1550706730378465340",
       "1550707461139333172"
-    ]
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Owner feedback and a player report: Tideon and Azurion were swapped; rechecked against the original Discord screenshot.",
+        "previous_board": [
+          [
+            null,
+            "nekowatt",
+            "armorjaw",
+            "blitzmane",
+            null
+          ],
+          [
+            null,
+            "cheerspring",
+            "hyphoria",
+            "charflutter",
+            "voltverine"
+          ],
+          [
+            null,
+            null,
+            "umbraveil:glitter",
+            "rockong",
+            "solaflora"
+          ],
+          [
+            "tideon",
+            "morphanessa",
+            "azurion",
+            "cinderclaw",
+            null
+          ],
+          [
+            null,
+            null,
+            "aquariel",
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    "extraction_revision": 2
   },
   {
     "source_message_id": "1566879876483653823",
