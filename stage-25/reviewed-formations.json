@@ -3542,12 +3542,15 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28. November 15, 2026: replaced by a newer clear after feedback/stage reports; record archived.",
     "tatari_level_quote": "lv 555",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1547698646387130398"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1564321962002489398"
     ]
   },
   {
@@ -5078,6 +5081,141 @@
     "selection_reason": "November 13, 2026: the Lv.471 Attention board published November 13 drew 6 stage reports within 13 hours (re-checked: transcription matches its screenshot). Lower-level (Lv.517) clear posted after the chapter's publication cutoff.",
     "replaces_website_source_message_ids": [
       "1567966067903561909"
+    ]
+  },
+  {
+    "source_message_id": "1567958266561044550",
+    "stage_start": 23,
+    "stage_end": 24,
+    "caption_stage_numbers": [
+      23,
+      24
+    ],
+    "website_stage_numbers": [
+      24
+    ],
+    "screenshot_displayed_stage": "25-25",
+    "screenshot_enemy_level": null,
+    "tatari_level": 471,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 471",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        "rockwu",
+        null,
+        "zapantler",
+        "voltverine",
+        "lickflicker"
+      ],
+      [
+        "clangnaga",
+        "charflutter",
+        "boltskipper",
+        "cheerspring",
+        "firefox"
+      ],
+      [
+        "solaflora",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "frostique"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog (November 15, 2026). Costumes and Sparkle skins are shown with the catalog's standard models.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 15, 2026: a Nov 14 feedback message reported 25-24 missing; no stage card existed.",
+    "replaces_website_source_message_ids": [
+      "1563042850218836038"
+    ]
+  },
+  {
+    "source_message_id": "1564321962002489398",
+    "stage_start": 40,
+    "stage_end": 40,
+    "caption_stage_numbers": [
+      40
+    ],
+    "website_stage_numbers": [
+      40
+    ],
+    "screenshot_displayed_stage": "25-41",
+    "screenshot_enemy_level": null,
+    "tatari_level": 468,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lv468",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        "shellshy",
+        "manteeny",
+        "frugling",
+        "zappur",
+        "rubblet"
+      ],
+      [
+        "frostnip",
+        null,
+        "capobeetle",
+        "cheerspring",
+        "rockfu"
+      ],
+      [
+        "tideon",
+        "ripplewing",
+        "azurion",
+        "voltfawn",
+        "humbleetle"
+      ],
+      [
+        "solaflora",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog (November 15, 2026). Costumes and Sparkle skins are shown with the catalog's standard models.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 15, 2026: 25-40 drew 5 stage reports Nov 14–15; previous board was Lv.555.",
+    "replaces_website_source_message_ids": [
+      "1563042850218836038"
     ]
   }
 ]

@@ -1920,8 +1920,11 @@
     "needs_review": false,
     "notes": "Exact visible forms and all 25 grid positions were visually compared with the local planner catalog. Frugagon T3 is distinguished from Frugatoad T2; Punchimp T1 is distinguished from Rockfu T2; Rockshell T3 and Turtuff T2 remain distinct. Empty cells are preserved. Only previously unavailable stages are selected. ",
     "stage_assignment_basis": "The author explicitly captions the selected stages/range. The screenshot’s displayed stage is retained separately; no additional stage is inferred.",
-    "selected_for_website": true,
-    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections."
+    "selected_for_website": false,
+    "selection_reason": "Fill a previously unavailable stage with a date-eligible original screenshot and its own readable or explicitly captioned player level; preserve existing selections. November 15, 2026: replaced by a newer clear after feedback/stage reports; record archived.",
+    "replaced_by_website_source_message_ids": [
+      "1570804248336400514"
+    ]
   },
   {
     "source_message_id": "1553116018639904928",
@@ -2011,6 +2014,79 @@
           }
         ]
       }
+    ]
+  },
+  {
+    "source_message_id": "1570804248336400514",
+    "stage_start": 76,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "website_stage_numbers": [
+      76,
+      77,
+      78,
+      79
+    ],
+    "screenshot_displayed_stage": "18-80",
+    "screenshot_enemy_level": null,
+    "tatari_level": 304,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Lvl 304",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "stalkerix",
+        "rockzilla",
+        "rizzler",
+        "boldclaw",
+        "firecoil"
+      ],
+      [
+        "rockshell",
+        "cheerlet",
+        "blitzmane",
+        "bubbit",
+        null
+      ],
+      [
+        "frugagon",
+        "frostique",
+        "rockwu",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        "cluckeroo",
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog (November 15, 2026). Costumes and Sparkle skins are shown with the catalog's standard models.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 15, 2026: 18-76 drew 8 stage reports Nov 14–15 and 5 on Nov 10; previous board was Lv.391 (Sep 18).",
+    "replaces_website_source_message_ids": [
+      "1550564906930143243"
     ]
   }
 ]

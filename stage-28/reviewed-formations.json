@@ -3795,7 +3795,6 @@
       13
     ],
     "website_stage_numbers": [
-      10,
       11,
       12,
       13
@@ -3851,10 +3850,13 @@
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
     "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28. November 15, 2026: stages 28-10 replaced by newer clears; this board stays selected for the rest.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1550973785073524806"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1568600306835783711"
     ]
   },
   {
@@ -4844,6 +4846,73 @@
     "selection_reason": "November 13, 2026: the 28-50 card drew 5 stage reports on November 12. Lower-level (Lv.551) clear posted after the chapter's publication cutoff.",
     "replaces_website_source_message_ids": [
       "1563584038810288198"
+    ]
+  },
+  {
+    "source_message_id": "1568600306835783711",
+    "stage_start": 10,
+    "stage_end": 10,
+    "caption_stage_numbers": [
+      10
+    ],
+    "website_stage_numbers": [
+      10
+    ],
+    "screenshot_displayed_stage": "28-11",
+    "screenshot_enemy_level": null,
+    "tatari_level": 543,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 543",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "armorjaw",
+        "swaystroll",
+        "rockzilla"
+      ],
+      [
+        null,
+        "blitzmane",
+        "serrabloom",
+        "cheerspring",
+        "rockshell"
+      ],
+      [
+        null,
+        "charflutter",
+        "trippet",
+        "frostique",
+        "zapantler"
+      ],
+      [
+        "rockwu",
+        "waveflutter",
+        "tideon",
+        "aquariel",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog (November 15, 2026). Costumes and Sparkle skins are shown with the catalog's standard models.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 15, 2026: 28-10 drew 7 stage reports Nov 14–15 (plus 7 earlier).",
+    "replaces_website_source_message_ids": [
+      "1563753865747107920"
     ]
   }
 ]
