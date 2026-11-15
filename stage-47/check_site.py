@@ -121,8 +121,9 @@ def check_page(path: Path) -> None:
     if "lang-switch" in text:
         fail(f"{rel}: old language link row still present")
     has_feedback = 'id="feedback-form"' in text
-    if (is_chapter or is_home or is_dojo) != has_feedback:
-        fail(f"{rel}: feedback form should appear on home, chapter and dojo pages only")
+    is_updates = rel.name == "updates.html"
+    if (is_chapter or is_home or is_dojo or is_updates) != has_feedback:
+        fail(f"{rel}: feedback form should appear on home, chapter, dojo and updates pages only")
     if 'class="dojo-nav-link"' not in text:
         fail(f"{rel}: header Dojo link missing")
     if f'href="{prefix}/updates.html"' not in text:

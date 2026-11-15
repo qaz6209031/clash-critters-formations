@@ -704,18 +704,22 @@ UPDATES_STRINGS = {
     "en": {"updates_title": "Site Updates | Critter Formations",
            "updates_description": "What changed on Critter Formations: new formations, replaced stages and site improvements.",
            "updates_h1": "Site updates", "footer_updates_label": "Updates",
+           "updates_intro": "I read every piece of feedback and “Can't pass this stage?” report each day and update the site based on them. Please keep sending feedback, it really helps!",
            "home_whats_new": "What's new", "home_all_updates": "All updates"},
     "zh-hant": {"updates_title": "網站更新紀錄 | Critter Formations",
                 "updates_description": "Critter Formations 的更新內容：新增陣容、更換的關卡與網站改善。",
                 "updates_h1": "網站更新紀錄", "footer_updates_label": "更新紀錄",
-                "home_whats_new": "最新更新", "home_all_updates": "所有更新紀錄"},
+                "updates_intro": "我每天都會看大家的意見回饋和「打不過這關？」回報，並依此更新網站。請繼續提供意見，對網站幫助很大！",
+           "home_whats_new": "最新更新", "home_all_updates": "所有更新紀錄"},
     "ko": {"updates_title": "사이트 업데이트 | Critter Formations",
            "updates_description": "Critter Formations 변경 사항: 새 진형, 교체된 스테이지, 사이트 개선.",
            "updates_h1": "사이트 업데이트", "footer_updates_label": "업데이트",
+           "updates_intro": "매일 모든 피드백과 “이 스테이지를 못 깨나요?” 신고를 확인하고 사이트를 업데이트합니다. 계속 의견을 보내 주세요. 큰 도움이 됩니다!",
            "home_whats_new": "새로운 소식", "home_all_updates": "전체 업데이트"},
     "vi": {"updates_title": "Cập Nhật Trang | Critter Formations",
            "updates_description": "Những thay đổi trên Critter Formations: đội hình mới, màn được thay và cải tiến trang.",
            "updates_h1": "Cập nhật trang", "footer_updates_label": "Cập nhật",
+           "updates_intro": "Mỗi ngày mình đều đọc mọi góp ý và báo cáo “Không qua được màn này?” rồi cập nhật trang theo đó. Hãy tiếp tục gửi góp ý nhé, điều đó giúp ích rất nhiều!",
            "home_whats_new": "Có gì mới", "home_all_updates": "Tất cả cập nhật"},
 }
 for _lang, _extra in UPDATES_STRINGS.items():
@@ -863,7 +867,7 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         + (' selected' if l == lang else '')
         + f'>{html.escape(LANG_INFO[l]["native"])}</option>'
         for l in LANGS)
-    show_feedback = page_type in ("home", "chapter", "dojo_index", "dojo")
+    show_feedback = page_type in ("home", "chapter", "dojo_index", "dojo", "updates")
     is_dojo = page_type in ("dojo_index", "dojo")
     footer_lang_links = "\n      ".join(
         f'<a href="{page_path(l, page_type, chapter)}" hreflang="{LANG_INFO[l]["code"]}" lang="{LANG_INFO[l]["code"]}">'
@@ -1077,7 +1081,8 @@ def render_updates_main(lang: str) -> str:
         entries.append(f'<section class="update-entry" aria-labelledby="update-{entry["date"]}">'
                        f'<h2 id="update-{entry["date"]}"><time datetime="{entry["date"]}">'
                        f'{html.escape(changelog_date(entry["date"], lang))}</time></h2><ul>{items}</ul></section>')
-    return f'<div class="updates-content">{"".join(entries)}</div>'
+    intro = f'<p class="updates-intro">{html.escape(STRINGS[lang]["updates_intro"])}</p>'
+    return f'<div class="updates-content">{intro}{"".join(entries)}</div>'
 
 
 def render_chapter_main(lang: str, chapter_number: int, cards_html: list[str]) -> str:
