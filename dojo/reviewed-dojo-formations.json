@@ -4146,8 +4146,8 @@
         "clangnaga"
       ]
     ],
-    "notes": null,
-    "selected_for_website": true
+    "notes": "November 15, 2026: replaced on the website by Rose's all-T4 monkey/zilla/snake clears at the owner's request; record archived.",
+    "selected_for_website": false
   },
   {
     "element": "rock",
@@ -4192,8 +4192,8 @@
         null
       ]
     ],
-    "notes": "Cropped battle image; absolute rows and columns are inferred from tile spacing.",
-    "selected_for_website": true
+    "notes": "Cropped battle image; absolute rows and columns are inferred from tile spacing. November 15, 2026: replaced on the website by Rose's all-T4 monkey/zilla/snake clears at the owner's request; record archived.",
+    "selected_for_website": false
   },
   {
     "element": "lightning",
@@ -5539,6 +5539,236 @@
       ]
     ],
     "notes": "Author: Boltallion, Cheerstella and Stormlion at T4; one lineup for 7-1 to 7-10.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 7,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "source_message_id": "1565769292178264244",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1565769292178264244/1565769292178264244",
+    "source_thread_id": "1565769292178264244",
+    "source_thread": "Rock Dojo 7 w/ Monkey Zilla Snake",
+    "display_name": "Rose",
+    "posted_at": "2026-10-30T16:48:09.842Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "7-5",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "meteorax",
+        "rockong",
+        null
+      ],
+      [
+        "rockshell",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "dharmadder",
+        "zenscarab",
+        null
+      ]
+    ],
+    "notes": "Tiers read from the dojo roman numerals: Rockong IV, Meteorax IV, Dharmadder IV, Rockshell III, Zenscarab III. Image supplied by the owner (downloaded from this post); the in-app preview did not load.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 7,
+    "website_stage_numbers": [
+      5,
+      6
+    ],
+    "source_message_id": "1565769504447922408",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1565769292178264244/1565769504447922408",
+    "source_thread_id": "1565769292178264244",
+    "source_thread": "Rock Dojo 7 w/ Monkey Zilla Snake",
+    "display_name": "Rose",
+    "posted_at": "2026-10-30T16:49:00.451Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "7-7",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockong",
+        "meteorax",
+        null
+      ],
+      [
+        "rockshell",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "dharmadder",
+        "zenscarab",
+        null
+      ]
+    ],
+    "notes": "Tiers read from the dojo roman numerals: Rockong IV, Meteorax IV, Dharmadder IV, Rockshell III, Zenscarab III.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 7,
+    "website_stage_numbers": [
+      7,
+      8
+    ],
+    "source_message_id": "1565769556159500341",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1565769292178264244/1565769556159500341",
+    "source_thread_id": "1565769292178264244",
+    "source_thread": "Rock Dojo 7 w/ Monkey Zilla Snake",
+    "display_name": "Rose",
+    "posted_at": "2026-10-30T16:49:12.780Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "7-9",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "rockong",
+        "meteorax",
+        null
+      ],
+      [
+        null,
+        "rockshell",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "zenscarab",
+        "dharmadder",
+        null
+      ]
+    ],
+    "notes": "Tiers read from the dojo roman numerals: Rockong IV, Meteorax IV, Dharmadder IV, Rockshell III, Zenscarab III.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 7,
+    "website_stage_numbers": [
+      9
+    ],
+    "source_message_id": "1565769643036246178",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1565769292178264244/1565769643036246178",
+    "source_thread_id": "1565769292178264244",
+    "source_thread": "Rock Dojo 7 w/ Monkey Zilla Snake",
+    "display_name": "Rose",
+    "posted_at": "2026-10-30T16:49:33.493Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "7-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "meteorax",
+        null,
+        "rockong"
+      ],
+      [
+        "rockshell",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "zenscarab",
+        null,
+        "dharmadder"
+      ]
+    ],
+    "notes": "Tiers read from the dojo roman numerals: Rockong IV, Meteorax IV, Dharmadder IV, Rockshell III, Zenscarab III.",
+    "selected_for_website": true
+  },
+  {
+    "element": "rock",
+    "floor": 7,
+    "website_stage_numbers": [
+      10
+    ],
+    "source_message_id": "1565769701592670329",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1565769292178264244/1565769701592670329",
+    "source_thread_id": "1565769292178264244",
+    "source_thread": "Rock Dojo 7 w/ Monkey Zilla Snake",
+    "display_name": "Rose",
+    "posted_at": "2026-10-30T16:49:47.454Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": null,
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        null,
+        "meteorax",
+        "rockong"
+      ],
+      [
+        null,
+        "rockshell",
+        null
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "zenscarab",
+        "dharmadder"
+      ]
+    ],
+    "notes": "Tiers read from the dojo roman numerals: Rockong IV, Meteorax IV, Dharmadder IV, Rockshell III, Zenscarab III. Taken on the regular battle screen (player Lvl 1706); stage 7-10 per the caption.",
     "selected_for_website": true
   }
 ]
