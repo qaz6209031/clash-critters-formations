@@ -1067,11 +1067,12 @@ def render_whats_new(lang: str) -> str:
     S = STRINGS[lang]
     latest = CHANGELOG[0]
     items = "".join(f"<li>{html.escape(item)}</li>" for item in changelog_items(latest, lang))
-    return (f'<section class="whats-new" aria-labelledby="whats-new-heading">'
-            f'<div class="whats-new-head"><h2 id="whats-new-heading">{html.escape(S["home_whats_new"])}</h2>'
-            f'<time datetime="{latest["date"]}">{html.escape(changelog_date(latest["date"], lang))}</time></div>'
+    # Collapsed by default so it doesn't push the chapter list down.
+    return (f'<details class="whats-new">'
+            f'<summary><span class="whats-new-title">{html.escape(S["home_whats_new"])}</span>'
+            f'<time datetime="{latest["date"]}">{html.escape(changelog_date(latest["date"], lang))}</time></summary>'
             f'<ul>{items}</ul>'
-            f'<a class="whats-new-link" href="{page_path(lang, "updates")}">{html.escape(S["home_all_updates"])}</a></section>')
+            f'<a class="whats-new-link" href="{page_path(lang, "updates")}">{html.escape(S["home_all_updates"])}</a></details>')
 
 
 def render_updates_main(lang: str) -> str:
