@@ -1320,6 +1320,7 @@ def build() -> None:
                 "chapter": chapter, "formation_id": formation_id,
                 "board": board, "numbers": [], "source": source, "levels": set(),
                 "posters": {}, "level_notes": [], "source_ids": [], "posted_at": [],
+                "formation_hash": formations[-1]["formation_hash"],
             })
             group["numbers"].extend(numbers)
             group["source_ids"].append(source["id"])
@@ -1349,6 +1350,25 @@ def build() -> None:
             assert sorted(number for group in chapter_groups for number in group["numbers"]) == sorted(available), chapter
         else:
             assert [sorted(set(group["numbers"])) for group in chapter_groups] == expected_blocks, chapter
+
+    # Show one card when neighbouring stages use the identical board (for example a boss
+    # stage and the block after it), instead of splitting it at the block boundary.
+    merged_groups = []
+    for group in ordered_groups:
+        previous = merged_groups[-1] if merged_groups else None
+        if (previous and previous["chapter"] == group["chapter"]
+                and previous["formation_hash"] == group["formation_hash"]
+                and max(previous["numbers"]) + 1 == min(group["numbers"])):
+            previous["numbers"].extend(group["numbers"])
+            previous["source_ids"].extend(group["source_ids"])
+            previous["posted_at"].extend(group["posted_at"])
+            previous["levels"] |= group["levels"]
+            for name, url in group["posters"].items():
+                previous["posters"].setdefault(name, url)
+            previous["level_notes"].extend(group["level_notes"])
+            continue
+        merged_groups.append(group)
+    ordered_groups = merged_groups
 
     for group in ordered_groups:
         chapter = group["chapter"]
@@ -1551,7 +1571,7 @@ def build() -> None:
         shutil.copyfile(path, site / "sprites" / f"{sprite_id}.png")
 
     total_chapters = len(CHAPTERS)
-    total_cards = len(groups)
+    total_cards = len(ordered_groups)
     total_stages = len(stages)
     render_og_image(site / "og" / "home.png", "Critter Formations", "Clash of Critters Formations",
                      f"{total_chapters} chapters · {total_cards} cards · {total_stages} stages")
@@ -1689,7 +1709,7 @@ def build() -> None:
     (site / "robots.txt").write_text(
         "User-agent: *\nAllow: /\nDisallow: /chapters/\nSitemap: " + SITE_URL + "/sitemap.xml\n")
 
-    print(f"Built {len(stages)} stages in {len(groups)} grouped formation cards; "
+    print(f"Built {len(stages)} stages in {len(ordered_groups)} grouped formation cards; "
           f"{len(dojo_coverage)} dojo stages in {sum(s['cards'] for s in dojo_stats.values())} dojo cards; "
           f"{len(sprites)} exact sprite variants. Site: {site}")
 
