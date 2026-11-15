@@ -2012,9 +2012,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -2052,7 +2052,51 @@
     "replaces_website_source_message_ids": [
       "1549302695876231220",
       "1549303317673283637"
-    ]
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Owner feedback and a player report: Tideon and Azurion were swapped; rechecked against the original Discord screenshot.",
+        "previous_board": [
+          [
+            "voltverine",
+            "orchitoria",
+            "rockong",
+            null,
+            "blitzmane"
+          ],
+          [
+            null,
+            "cheerspring",
+            "zapantler",
+            null,
+            "solaflora"
+          ],
+          [
+            "frostique",
+            null,
+            "umbraveil:glitter",
+            "hyphoria",
+            "silversear"
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            "voltmare",
+            null,
+            null
+          ]
+        ]
+      }
+    ],
+    "extraction_revision": 2
   },
   {
     "source_message_id": "1565537979596935198",
