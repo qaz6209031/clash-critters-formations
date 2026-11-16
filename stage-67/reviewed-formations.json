@@ -2083,9 +2083,9 @@
       [
         null,
         "solaflora",
-        "azurion",
+        "tideon",
         "morphanessa",
-        "tideon"
+        "azurion"
       ],
       [
         null,
@@ -2126,6 +2126,49 @@
     "replaces_website_source_message_ids": [
       "1549699075014795355",
       "1549700064400773130"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Owner reported 67-10 as wrong: Tideon and Azurion were swapped; rechecked against the original Discord screenshot.",
+        "previous_board": [
+          [
+            "armorjaw",
+            "blitzmane",
+            "dreadclaw",
+            "rockong",
+            null
+          ],
+          [
+            null,
+            "hyphoria",
+            "cheerspring",
+            "charflutter",
+            null
+          ],
+          [
+            "seaswirl",
+            "umbraveil:glitter",
+            "aquariel",
+            "silversear",
+            null
+          ],
+          [
+            null,
+            "solaflora",
+            "azurion",
+            "morphanessa",
+            "tideon"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2158,9 +2201,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -2193,6 +2236,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549701036858413116"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Owner reported 67-10 as wrong: Tideon and Azurion were swapped; rechecked against the original Discord screenshot.",
+        "previous_board": [
+          [
+            "dreadclaw",
+            "blitzmane",
+            "solaflora",
+            "orchitoria",
+            "armorjaw"
+          ],
+          [
+            null,
+            "cheerspring",
+            "hyphoria",
+            "charflutter",
+            null
+          ],
+          [
+            "frostique",
+            "silversear",
+            "umbraveil:glitter",
+            "rockong",
+            null
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
