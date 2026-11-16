@@ -2360,9 +2360,9 @@
       ],
       [
         "cinderclaw",
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         "clangnaga"
       ],
       [
@@ -2404,6 +2404,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1550834872149614622"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "orchitoria",
+            "voltverine",
+            "blitzmane",
+            "pyrodaemon",
+            "rockong"
+          ],
+          [
+            null,
+            "cheerspring",
+            "hyphoria",
+            "charflutter",
+            "umbraveil:glitter"
+          ],
+          [
+            "cinderclaw",
+            "tideon",
+            "morphanessa",
+            "azurion",
+            "clangnaga"
+          ],
+          [
+            null,
+            null,
+            "solaflora",
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2429,9 +2472,9 @@
       ],
       [
         "cinderclaw",
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         "clangnaga"
       ],
       [
@@ -2473,6 +2516,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1550834872149614622"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "solaflora",
+            "voltverine",
+            "blitzmane",
+            "pyrodaemon",
+            "rockong"
+          ],
+          [
+            "orchitoria",
+            "cheerspring",
+            "hyphoria",
+            "charflutter",
+            "umbraveil:glitter"
+          ],
+          [
+            "cinderclaw",
+            "tideon",
+            "morphanessa",
+            "azurion",
+            "clangnaga"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2505,9 +2591,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -2548,6 +2634,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1550858824351612998"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "voltverine",
+            "rockong",
+            "orchitoria",
+            "blitzmane",
+            null
+          ],
+          [
+            "nekowatt",
+            "cheerspring",
+            "hyphoria",
+            "charflutter",
+            null
+          ],
+          [
+            null,
+            "clangnaga",
+            "umbraveil:glitter",
+            "solaflora",
+            "cinderclaw"
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {

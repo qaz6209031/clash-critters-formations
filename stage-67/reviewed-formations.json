@@ -1805,9 +1805,9 @@
       [
         null,
         null,
-        "azurion",
+        "tideon",
         "morphanessa",
-        "tideon"
+        "azurion"
       ],
       [
         null,
@@ -1841,6 +1841,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549453406941483241"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "armorjaw",
+            "pyrodaemon",
+            "orchitoria",
+            "blitzmane",
+            null
+          ],
+          [
+            "dreadclaw",
+            "cheerspring",
+            "hyphoria",
+            "charflutter",
+            null
+          ],
+          [
+            null,
+            "solaflora",
+            "flarevix",
+            "rockong",
+            null
+          ],
+          [
+            null,
+            null,
+            "azurion",
+            "morphanessa",
+            "tideon"
+          ],
+          [
+            null,
+            null,
+            "silversear",
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -1874,9 +1917,9 @@
       [
         null,
         null,
-        "azurion",
+        "tideon",
         "morphanessa",
-        "tideon"
+        "azurion"
       ],
       [
         null,
@@ -1910,6 +1953,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549453406941483241"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "armorjaw",
+            "pyrodaemon",
+            "orchitoria",
+            "blitzmane",
+            null
+          ],
+          [
+            "dreadclaw",
+            "charflutter",
+            "hyphoria",
+            "cheerspring",
+            null
+          ],
+          [
+            "silversear",
+            "solaflora",
+            "umbraveil:glitter",
+            "rockong",
+            null
+          ],
+          [
+            null,
+            null,
+            "azurion",
+            "morphanessa",
+            "tideon"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -1942,9 +2028,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -1979,6 +2065,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549697849082515556"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "armorjaw",
+            "pyrodaemon",
+            "flarevix",
+            "orchitoria",
+            "voltverine"
+          ],
+          [
+            "dreadclaw",
+            "charflutter",
+            "hyphoria",
+            "cheerspring",
+            null
+          ],
+          [
+            null,
+            "silversear",
+            "umbraveil:glitter",
+            null,
+            "solaflora"
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2011,9 +2140,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -2050,6 +2179,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549697849082515556"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "armorjaw",
+            "pyrodaemon",
+            "flarevix",
+            "orchitoria",
+            "voltverine"
+          ],
+          [
+            null,
+            "cheerspring",
+            "hyphoria",
+            "charflutter",
+            "nekowatt"
+          ],
+          [
+            "silversear",
+            "solaflora",
+            "umbraveil:glitter",
+            null,
+            null
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2312,9 +2484,9 @@
       [
         "solaflora",
         "frostique",
-        "azurion",
+        "tideon",
         "morphanessa",
-        "tideon"
+        "azurion"
       ],
       [
         null,
@@ -2346,6 +2518,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549701036858413116"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            null,
+            null,
+            null,
+            "orchitoria",
+            null
+          ],
+          [
+            "armorjaw",
+            "blitzmane",
+            "chronerva",
+            "rockong",
+            null
+          ],
+          [
+            "dreadclaw",
+            "cheerspring",
+            "hyphoria",
+            "silversear",
+            "seaswirl"
+          ],
+          [
+            "solaflora",
+            "frostique",
+            "azurion",
+            "morphanessa",
+            "tideon"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2379,9 +2594,9 @@
       [
         "solaflora",
         "frostique",
-        "azurion",
+        "tideon",
         "morphanessa",
-        "tideon"
+        "azurion"
       ],
       [
         null,
@@ -2413,6 +2628,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549701036858413116"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            null,
+            null,
+            null,
+            "orchitoria",
+            null
+          ],
+          [
+            "armorjaw",
+            "blitzmane",
+            "chronerva",
+            "rockong",
+            null
+          ],
+          [
+            "dreadclaw",
+            "cheerspring",
+            "hyphoria",
+            null,
+            "seaswirl"
+          ],
+          [
+            "solaflora",
+            "frostique",
+            "azurion",
+            "morphanessa",
+            "tideon"
+          ],
+          [
+            null,
+            "silversear",
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2446,9 +2704,9 @@
       [
         null,
         "frostique",
-        "azurion",
+        "tideon",
         "morphanessa",
-        "tideon"
+        "azurion"
       ],
       [
         null,
@@ -2482,6 +2740,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549701036858413116"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            null,
+            null,
+            null,
+            "orchitoria",
+            null
+          ],
+          [
+            "armorjaw",
+            "blitzmane",
+            "chronerva",
+            "rockong",
+            null
+          ],
+          [
+            "dreadclaw",
+            "cheerspring",
+            "hyphoria",
+            "silversear",
+            "seaswirl"
+          ],
+          [
+            null,
+            "frostique",
+            "azurion",
+            "morphanessa",
+            "tideon"
+          ],
+          [
+            null,
+            null,
+            "solaflora",
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2514,9 +2815,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -2554,6 +2855,49 @@
     "replaces_website_source_message_ids": [
       "1549701382800408676",
       "1549702058289139762"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "armorjaw",
+            "pyrodaemon",
+            "orchitoria",
+            "blitzmane",
+            "voltverine"
+          ],
+          [
+            null,
+            "charflutter",
+            "hyphoria",
+            "cheerspring",
+            null
+          ],
+          [
+            "silversear",
+            null,
+            "umbraveil:glitter",
+            "solaflora",
+            "clangnaga"
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2586,9 +2930,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -2623,6 +2967,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549702058289139762"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "armorjaw",
+            "pyrodaemon",
+            "orchitoria",
+            "blitzmane",
+            "voltverine"
+          ],
+          [
+            null,
+            "charflutter",
+            "hyphoria",
+            "cheerspring",
+            "rockong"
+          ],
+          [
+            "silversear",
+            null,
+            "umbraveil:glitter",
+            "solaflora",
+            null
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2655,9 +3042,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -2698,6 +3085,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549702874202902539"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "orchitoria",
+            "pyrodaemon",
+            "blitzmane",
+            "voltverine",
+            "armorjaw"
+          ],
+          [
+            null,
+            "charflutter",
+            "hyphoria",
+            "cheerspring",
+            null
+          ],
+          [
+            "silversear",
+            null,
+            "umbraveil:glitter",
+            "rockong",
+            "solaflora"
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2737,9 +3167,9 @@
       ],
       [
         "frostique",
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ]
     ],
@@ -2765,6 +3195,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549703872296001628"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            "orchitoria"
+          ],
+          [
+            null,
+            null,
+            null,
+            "cheerspring",
+            null
+          ],
+          [
+            "donscarab",
+            "blitzmane",
+            "umbraveil:glitter",
+            "hyphoria",
+            "silversear"
+          ],
+          [
+            "voltverine",
+            "charflutter",
+            "voltmare",
+            "solaflora",
+            null
+          ],
+          [
+            "frostique",
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2804,9 +3277,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         "solaflora"
       ]
     ],
@@ -2834,6 +3307,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549705006100254792"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "pyrodaemon"
+          ],
+          [
+            "voltverine",
+            "lickflicker",
+            "umbraveil:glitter",
+            "blitzmane",
+            "cheerspring"
+          ],
+          [
+            "armorjaw",
+            "charflutter",
+            "nekowatt",
+            "hyphoria",
+            "silversear"
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            "solaflora"
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2873,9 +3389,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         "solaflora"
       ]
     ],
@@ -2901,6 +3417,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549705006100254792"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "pyrodaemon"
+          ],
+          [
+            "voltverine",
+            "lickflicker",
+            "umbraveil:glitter",
+            "blitzmane",
+            "charflutter"
+          ],
+          [
+            "armorjaw",
+            "cheerspring",
+            "nekowatt",
+            "hyphoria",
+            "silversear"
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            "solaflora"
+          ]
+        ]
+      }
     ]
   },
   {
@@ -2940,9 +3499,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         "solaflora"
       ]
     ],
@@ -2968,6 +3527,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549705006100254792"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "pyrodaemon"
+          ],
+          [
+            "voltverine",
+            "blitzmane",
+            "umbraveil:glitter",
+            "orchitoria",
+            "cheerspring"
+          ],
+          [
+            "armorjaw",
+            "charflutter",
+            "nekowatt",
+            "hyphoria",
+            "silversear"
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            "solaflora"
+          ]
+        ]
+      }
     ]
   },
   {
@@ -3570,9 +4172,9 @@
       ],
       [
         "donscarab",
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -3610,6 +4212,49 @@
     "replaces_website_source_message_ids": [
       "1549720439289290762",
       "1549721017998508043"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "orchitoria",
+            "blitzmane",
+            null,
+            "rockong",
+            "armorjaw"
+          ],
+          [
+            null,
+            null,
+            "umbraveil:glitter",
+            "cheerspring",
+            null
+          ],
+          [
+            "silversear",
+            "clangnaga",
+            "nekowatt",
+            "hyphoria",
+            null
+          ],
+          [
+            "donscarab",
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            "solaflora",
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -3642,9 +4287,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -3679,6 +4324,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549721017998508043"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            "orchitoria",
+            "blitzmane",
+            "nekowatt",
+            "rockong",
+            "armorjaw"
+          ],
+          [
+            "solaflora",
+            "charflutter",
+            "hyphoria",
+            "cheerspring",
+            null
+          ],
+          [
+            null,
+            "clangnaga",
+            "umbraveil:glitter",
+            "silversear",
+            null
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
@@ -3711,9 +4399,9 @@
       ],
       [
         null,
-        "tideon",
-        "morphanessa",
         "azurion",
+        "morphanessa",
+        "tideon",
         null
       ],
       [
@@ -3754,6 +4442,49 @@
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1549721952216678520"
+    ],
+    "extraction_corrections": [
+      {
+        "date": "2026-11-15",
+        "reason": "Audit of all Casey boards against the original Discord screenshots: Tideon (white fox) and Azurion (red dragon) were transcribed in each other's cells.",
+        "previous_board": [
+          [
+            null,
+            "blitzmane",
+            "rockong",
+            "orchitoria",
+            "voltverine"
+          ],
+          [
+            "clangnaga",
+            "cheerspring",
+            "hyphoria",
+            "charflutter",
+            "armorjaw"
+          ],
+          [
+            null,
+            "solaflora",
+            "umbraveil:glitter",
+            "silversear",
+            null
+          ],
+          [
+            null,
+            "tideon",
+            "morphanessa",
+            "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      }
     ]
   },
   {
