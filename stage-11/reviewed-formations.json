@@ -394,7 +394,7 @@
     "notes": "Occupied cells and exact visible forms were manually matched to the planner catalog; empty cells are preserved. Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed. The screenshot’s displayed stage is retained separately; no extra cleared stage is inferred.",
     "selected_for_website": true,
-    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived.",
+    "selection_reason": "Lowest supported level among these inspected, visually reviewed candidates, using only explicitly captioned stages; exhaustive server-wide comparison was waived. November 17, 2026: 11-20 moved to 1562620361848135710.",
     "caption_stage_numbers_original": [
       16,
       17,
@@ -408,8 +408,10 @@
       17,
       18,
       19,
-      20,
       21
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1562620361848135710"
     ]
   },
   {
@@ -1677,6 +1679,72 @@
     ],
     "website_stage_numbers": [
       80
+    ]
+  },
+  {
+    "source_message_id": "1562620361848135710",
+    "stage_start": 20,
+    "stage_end": 20,
+    "caption_stage_numbers": [
+      20
+    ],
+    "website_stage_numbers": [
+      20
+    ],
+    "screenshot_displayed_stage": "11-21",
+    "screenshot_enemy_level": 283,
+    "tatari_level": 221,
+    "tatari_level_source": "image",
+    "tatari_level_basis": "Player level read on the deployed inventory cards in this original screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "turtuff",
+        "pyrohound",
+        null,
+        null
+      ],
+      [
+        "ospisces",
+        "voltling",
+        "kitjitsu",
+        "stalkerix",
+        "electroar"
+      ],
+      [
+        "frostique",
+        "rattlecoil",
+        "pyroprawn",
+        null,
+        "cheerlet"
+      ],
+      [
+        null,
+        "embertail",
+        "ignisnap",
+        "frugatoad",
+        "sparkdoe"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog (November 17, 2026). Row 1 calibrated from the empty board cells above the formation where present. Costumes are shown with the catalog's standard models.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed next stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 17, 2026: 11-20 had 19 stage reports on the shared 11-16 – 11-21 board; 11-20 (boss) now has its own clear.",
+    "replaces_website_source_message_ids": [
+      "1550901134690877551"
     ]
   }
 ]
