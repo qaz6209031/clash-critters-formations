@@ -97,7 +97,22 @@
     ],
     "needs_review": false,
     "notes": "",
-    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+    "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username.",
+    "caption_stage_numbers": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "website_stage_numbers": [
+      8,
+      9
+    ],
+    "selection_reason": "November 17, 2026: 43-5,6,7 moved to 1562590175500959886.",
+    "replaced_by_website_source_message_ids": [
+      "1562590175500959886"
+    ]
   },
   {
     "source_message_id": "1548163128637001881",
@@ -1198,5 +1213,76 @@
     "needs_review": false,
     "notes": "",
     "credit_basis": "Reference named in the caption (possessive spelling normalized); not a verified Discord username."
+  },
+  {
+    "source_message_id": "1562590175500959886",
+    "stage_start": 5,
+    "stage_end": 7,
+    "caption_stage_numbers": [
+      5,
+      6,
+      7
+    ],
+    "website_stage_numbers": [
+      5,
+      6,
+      7
+    ],
+    "screenshot_displayed_stage": "43-8",
+    "screenshot_enemy_level": 1132,
+    "tatari_level": 882,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 882",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "voltling",
+        "rockwu",
+        "sonarbat",
+        "blitzmane",
+        null
+      ],
+      [
+        "zapantler",
+        "charflutter",
+        "hyphoria",
+        "cheerspring",
+        "voltmare"
+      ],
+      [
+        "silversear",
+        "clangnaga",
+        "azurion",
+        "waveflutter",
+        "aquariel"
+      ],
+      [
+        null,
+        null,
+        null,
+        "solaflora",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog (November 17, 2026). Row 1 calibrated from the empty board cells above the formation where present. Costumes are shown with the catalog's standard models.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed next stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 17, 2026: 43-5 had 20 stage reports; previous board was Lv.941.",
+    "replaces_website_source_message_ids": [
+      "1548163071946522644"
+    ]
   }
 ]

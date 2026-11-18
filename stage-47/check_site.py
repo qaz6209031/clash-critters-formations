@@ -124,6 +124,8 @@ def check_page(path: Path) -> None:
     is_updates = rel.name == "updates.html"
     if (is_chapter or is_home or is_dojo or is_updates) != has_feedback:
         fail(f"{rel}: feedback form should appear on home, chapter, dojo and updates pages only")
+    if 'class="theme-toggle"' not in text:
+        fail(f"{rel}: header dark-mode toggle missing")
     if 'class="dojo-nav-link"' not in text:
         fail(f"{rel}: header Dojo link missing")
     if f'href="{prefix}/updates.html"' not in text:
@@ -280,8 +282,8 @@ def main() -> None:
         fail(f"dojo card counts differ between languages: {dojo_cards}")
 
     for lang in LANGS:
-        if total_cards[lang] != 1814:
-            fail(f"{lang} chapter pages: expected 1814 total cards, found {total_cards[lang]}")
+        if total_cards[lang] != 1817:
+            fail(f"{lang} chapter pages: expected 1817 total cards, found {total_cards[lang]}")
 
     for page in pages_to_check:
         check_page(page)

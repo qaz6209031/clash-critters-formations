@@ -700,6 +700,15 @@ DOJO_STRINGS = {
 for _lang, _extra in DOJO_STRINGS.items():
     STRINGS[_lang].update(_extra)
 
+THEME_STRINGS = {
+    "en": {"theme_toggle": "Dark mode"},
+    "zh-hant": {"theme_toggle": "深色模式"},
+    "ko": {"theme_toggle": "다크 모드"},
+    "vi": {"theme_toggle": "Chế độ tối"},
+}
+for _lang, _extra in THEME_STRINGS.items():
+    STRINGS[_lang].update(_extra)
+
 UPDATES_STRINGS = {
     "en": {"updates_title": "Site Updates | Critter Formations",
            "updates_description": "What changed on Critter Formations: new formations, replaced stages and site improvements.",
@@ -886,6 +895,7 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         "HOME_HREF": page_path(lang, "home"),
         "SITE_TITLE_TEXT": html.escape(S["site_title"]),
         "LANG_LABEL_TEXT": html.escape(S["lang_label"]),
+        "THEME_TOGGLE_LABEL": html.escape(S["theme_toggle"], quote=True),
         "LANG_OPTIONS": lang_options,
         "CHAPTER_LABEL_TEXT": html.escape(S["chapter_label"]),
         "CHAPTER_OPTIONS": chapter_options(lang, chapter if page_type == "chapter" else None),

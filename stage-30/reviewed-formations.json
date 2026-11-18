@@ -1515,10 +1515,13 @@
     "needs_review": false,
     "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
     "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
-    "selected_for_website": true,
-    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "selected_for_website": false,
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage. November 17, 2026: replaced after repeated stage reports.",
     "website_stage_numbers": [
       20
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1571046607997374485"
     ]
   },
   {
@@ -2621,6 +2624,73 @@
     "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
     "website_stage_numbers": [
       80
+    ]
+  },
+  {
+    "source_message_id": "1571046607997374485",
+    "stage_start": 20,
+    "stage_end": 20,
+    "caption_stage_numbers": [
+      20
+    ],
+    "website_stage_numbers": [
+      20
+    ],
+    "screenshot_displayed_stage": "30-21",
+    "screenshot_enemy_level": 789,
+    "tatari_level": 586,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lv586",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        "stalkerix",
+        "electroar",
+        null
+      ],
+      [
+        null,
+        "hellhound",
+        null,
+        "zapantler",
+        null
+      ],
+      [
+        "frostnip",
+        "cheerlet",
+        "hyphoria",
+        "clucky",
+        "clangnaga"
+      ],
+      [
+        "sealoon",
+        "ignisnap",
+        "ripplewing",
+        "droppit",
+        "solaflora"
+      ],
+      [
+        null,
+        "pandaroot",
+        null,
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog (November 17, 2026). Row 1 calibrated from the empty board cells above the formation where present. Costumes are shown with the catalog's standard models.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed next stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 17, 2026: 30-20 had 18 stage reports; previous board was Lv.619.",
+    "replaces_website_source_message_ids": [
+      "1551622458547769445"
     ]
   }
 ]

@@ -3643,11 +3643,14 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28. November 17, 2026: replaced after repeated stage reports.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1548783872479596584"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1571145313295667281"
     ]
   },
   {
@@ -4913,6 +4916,73 @@
     "selection_reason": "November 15, 2026: 28-10 drew 7 stage reports Nov 14–15 (plus 7 earlier).",
     "replaces_website_source_message_ids": [
       "1563753865747107920"
+    ]
+  },
+  {
+    "source_message_id": "1571145313295667281",
+    "stage_start": 30,
+    "stage_end": 30,
+    "caption_stage_numbers": [
+      30
+    ],
+    "website_stage_numbers": [
+      30
+    ],
+    "screenshot_displayed_stage": "28-31",
+    "screenshot_enemy_level": 739,
+    "tatari_level": 548,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "level 548",
+    "tatari_level_basis": "Level explicitly typed in this source post.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "rubblet",
+        "clawzor",
+        "boldclaw",
+        "serrabloom"
+      ],
+      [
+        "zapantler",
+        "cheerspring",
+        "capypapa",
+        "charflutter",
+        "clangnaga"
+      ],
+      [
+        "solaflora",
+        "rockwu",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "frostnip",
+        null,
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog (November 17, 2026). Row 1 calibrated from the empty board cells above the formation where present. Costumes are shown with the catalog's standard models.",
+    "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed next stage is retained separately.",
+    "selected_for_website": true,
+    "selection_reason": "November 17, 2026: 28-30 had 20 stage reports; previous board was Lv.606.",
+    "replaces_website_source_message_ids": [
+      "1563602636731715715"
     ]
   }
 ]
