@@ -190,5 +190,484 @@
     "stage_assignment_basis": "Author’s literal caption or stage-specific thread title, checked against the screenshot. A displayed range endpoint is excluded from website coverage.",
     "selected_for_website": true,
     "selection_reason": "Reviewed date-eligible reference; known-level boss references take priority, then the newer inspected source. Exhaustive minimum-level search was waived."
+  },
+  {
+    "source_message_id": "1520758422520205432",
+    "image_index": 0,
+    "stage_start": 6,
+    "stage_end": 9,
+    "caption_stage_numbers": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "website_stage_numbers": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "screenshot_displayed_stage": "6-7",
+    "screenshot_enemy_level": 145,
+    "tatari_level": 116,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        "maskfry",
+        "manteeny",
+        "swaystroll",
+        "electroar",
+        "kitjitsu"
+      ],
+      [
+        null,
+        null,
+        "cheerlet",
+        "zaplet",
+        "souphog"
+      ],
+      [
+        "embertail",
+        "pandaroot",
+        null,
+        "zapooch",
+        null
+      ],
+      [
+        "frostpaw",
+        "shardsnail",
+        null,
+        null,
+        null
+      ],
+      [
+        "droppit",
+        null,
+        null,
+        null,
+        "ignisnap"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the catalog (November 18, 2026). Posted before August 28, 2026; allowed because no game update has changed Chapter 6.",
+    "stage_assignment_basis": "Author's literal caption or stage-specific thread title, checked against the screenshot.",
+    "selected_for_website": true,
+    "selection_reason": "November 18, 2026: Chapter 6 had almost no post-August clears; owner allowed older Chapter 6 posts."
+  },
+  {
+    "source_message_id": "1520760131606810644",
+    "image_index": 0,
+    "stage_start": 10,
+    "stage_end": 12,
+    "caption_stage_numbers": [
+      10,
+      11,
+      12
+    ],
+    "website_stage_numbers": [
+      10,
+      11,
+      12
+    ],
+    "screenshot_displayed_stage": "6-11",
+    "screenshot_enemy_level": 146,
+    "tatari_level": 116,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        "electroar",
+        "swaystroll",
+        "manteeny",
+        "kitjitsu",
+        "sparkeet"
+      ],
+      [
+        "souphog",
+        "cheerlet",
+        "goonbug",
+        null,
+        "zapooch"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        "pandaroot",
+        "zapuni"
+      ],
+      [
+        null,
+        "frostpaw",
+        "frugatoad",
+        "ignisnap",
+        "shardsnail"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the catalog (November 18, 2026). Posted before August 28, 2026; allowed because no game update has changed Chapter 6.",
+    "stage_assignment_basis": "Author's literal caption or stage-specific thread title, checked against the screenshot.",
+    "selected_for_website": true,
+    "selection_reason": "November 18, 2026: Chapter 6 had almost no post-August clears; owner allowed older Chapter 6 posts."
+  },
+  {
+    "source_message_id": "1520763283533991957",
+    "image_index": 0,
+    "stage_start": 13,
+    "stage_end": 15,
+    "caption_stage_numbers": [
+      13,
+      14,
+      15
+    ],
+    "website_stage_numbers": [
+      13,
+      14,
+      15
+    ],
+    "screenshot_displayed_stage": "6-16",
+    "screenshot_enemy_level": 148,
+    "tatari_level": 116,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        "electroar",
+        "swaystroll",
+        "manteeny",
+        "pearpair",
+        "sparkeet"
+      ],
+      [
+        "voltkit",
+        "cheerlet",
+        "goonbug",
+        "kitjitsu",
+        "zapooch"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "zapuni"
+      ],
+      [
+        null,
+        "frostpaw",
+        "frugatoad",
+        "ignisnap",
+        "shardsnail"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the catalog (November 18, 2026). Posted before August 28, 2026; allowed because no game update has changed Chapter 6.",
+    "stage_assignment_basis": "Author's literal caption or stage-specific thread title, checked against the screenshot.",
+    "selected_for_website": true,
+    "selection_reason": "November 18, 2026: Chapter 6 had almost no post-August clears; owner allowed older Chapter 6 posts."
+  },
+  {
+    "source_message_id": "1520765674270494843",
+    "image_index": 0,
+    "stage_start": 16,
+    "stage_end": 19,
+    "caption_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "website_stage_numbers": [
+      16,
+      17,
+      18,
+      19
+    ],
+    "screenshot_displayed_stage": "6-18",
+    "screenshot_enemy_level": 148,
+    "tatari_level": 116,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        "electroar",
+        "swaystroll",
+        "kitjitsu",
+        "manteeny",
+        "momopo"
+      ],
+      [
+        "zapooch",
+        "pandaroot",
+        "cheerlet",
+        "goonbug",
+        "gibber"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        "punchimp"
+      ],
+      [
+        null,
+        null,
+        "frostpaw",
+        null,
+        null
+      ],
+      [
+        "shardsnail",
+        null,
+        "ignisnap",
+        "frugatoad",
+        null
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the catalog (November 18, 2026). Author: Snoozebo/Momopo can be replaced with a rock lizard. The post's second image shows a variant set up for 6-20 (not captioned) and is not used. Posted before August 28, 2026; allowed because no game update has changed Chapter 6.",
+    "stage_assignment_basis": "Author's literal caption or stage-specific thread title, checked against the screenshot.",
+    "selected_for_website": true,
+    "selection_reason": "November 18, 2026: Chapter 6 had almost no post-August clears; owner allowed older Chapter 6 posts."
+  },
+  {
+    "source_message_id": "1520806518436401183",
+    "image_index": 0,
+    "stage_start": 26,
+    "stage_end": 27,
+    "caption_stage_numbers": [
+      26,
+      27
+    ],
+    "website_stage_numbers": [
+      26,
+      27
+    ],
+    "screenshot_displayed_stage": "6-27",
+    "screenshot_enemy_level": 151,
+    "tatari_level": 115,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        "sparkeet",
+        "electroar",
+        null,
+        "souphog",
+        "pearpair"
+      ],
+      [
+        "voltkit",
+        "cheerlet",
+        "gibber",
+        "kitjitsu",
+        null
+      ],
+      [
+        "zapooch",
+        "voltfawn",
+        null,
+        null,
+        "shardsnail"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "droppit",
+        "humbleetle",
+        "ignisnap",
+        "frugatoad"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the catalog (November 18, 2026). Caption covers 6-26 – 6-29 with two photos: image 1 is set up for 6-27 (used for 6-26 – 6-27), image 2 for 6-28 (used for 6-28 – 6-29). Photographed phone screen. Posted before August 28, 2026; allowed because no game update has changed Chapter 6.",
+    "stage_assignment_basis": "Author's literal caption or stage-specific thread title, checked against the screenshot.",
+    "selected_for_website": true,
+    "selection_reason": "November 18, 2026: Chapter 6 had almost no post-August clears; owner allowed older Chapter 6 posts."
+  },
+  {
+    "source_message_id": "1520806518436401183",
+    "image_index": 1,
+    "stage_start": 28,
+    "stage_end": 29,
+    "caption_stage_numbers": [
+      28,
+      29
+    ],
+    "website_stage_numbers": [
+      28,
+      29
+    ],
+    "screenshot_displayed_stage": "6-28",
+    "screenshot_enemy_level": 152,
+    "tatari_level": 115,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        "sparkeet",
+        "electroar",
+        null,
+        "souphog",
+        "pearpair"
+      ],
+      [
+        "voltkit",
+        "cheerlet",
+        "gibber",
+        "kitjitsu",
+        "goonbug"
+      ],
+      [
+        "zapooch",
+        "voltfawn",
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        "droppit",
+        "humbleetle",
+        "ignisnap",
+        "frugatoad"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the catalog (November 18, 2026). Second photo of the 6-26 – 6-29 post, set up for 6-28: Goonbug replaces Shardsnail. Used for 6-28 – 6-29. Posted before August 28, 2026; allowed because no game update has changed Chapter 6.",
+    "stage_assignment_basis": "Author's literal caption or stage-specific thread title, checked against the screenshot.",
+    "selected_for_website": true,
+    "selection_reason": "November 18, 2026: Chapter 6 had almost no post-August clears; owner allowed older Chapter 6 posts."
+  },
+  {
+    "source_message_id": "1560563438189805648",
+    "image_index": 0,
+    "stage_start": 50,
+    "stage_end": 50,
+    "caption_stage_numbers": [
+      50
+    ],
+    "website_stage_numbers": [
+      50
+    ],
+    "screenshot_displayed_stage": "6-51",
+    "screenshot_enemy_level": 159,
+    "tatari_level": 120,
+    "tatari_level_source": "image",
+    "tatari_level_quote": null,
+    "tatari_level_basis": "Player inventory level is readable in the source screenshot; enemy levels are not used as player levels.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "No separate creator is credited; posting display name is retained.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        "maskfry",
+        "electroar",
+        "pyropup",
+        "stalkerix",
+        "cobbledon"
+      ],
+      [
+        null,
+        "cheerlet",
+        "tindercub",
+        null,
+        null
+      ],
+      [
+        "blubbles",
+        "frostpaw",
+        "ignisnap",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "fumekit",
+        "pandaroot",
+        "capobeetle"
+      ],
+      [
+        null,
+        null,
+        null,
+        "cluckeroo",
+        "frugatoad"
+      ]
+    ],
+    "deployed_count": 15,
+    "needs_review": false,
+    "notes": "Visually reviewed exact forms and 25 grid positions against the catalog (November 18, 2026). Thread title \"Chapter 6-50\"; the author replied \"I beat it with this lineup\" and the screenshot shows the next stage, 6-51. French game client. Posted before August 28, 2026; allowed because no game update has changed Chapter 6.",
+    "stage_assignment_basis": "Author's literal caption or stage-specific thread title, checked against the screenshot.",
+    "selected_for_website": true,
+    "selection_reason": "November 18, 2026: Chapter 6 had almost no post-August clears; owner allowed older Chapter 6 posts."
   }
 ]
