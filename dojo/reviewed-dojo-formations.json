@@ -2758,7 +2758,61 @@
         "frugagon"
       ]
     ],
-    "notes": "Author: one lineup for all stages. Chomperwraith overlaps Pandagrand in the screenshot.",
+    "notes": "Author: one lineup for all stages. Chomperwraith overlaps Pandagrand in the screenshot. November 18, 2026: replaced on the website by dooka's T4 Mantis/Owl/Budboo lineup (1570388294049603634) at the owner's request.",
+    "selected_for_website": false
+  },
+  {
+    "element": "grass",
+    "floor": 7,
+    "website_stage_numbers": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "source_message_id": "1570388294049603634",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1570388074041708554/1570388294049603634",
+    "source_thread_id": "1570388074041708554",
+    "source_thread": "Grass Dojo 7, t4s: Mantis, Owl, Budboo",
+    "display_name": "dooka",
+    "posted_at": "2026-11-12T10:42:25.705Z",
+    "image_index": 0,
+    "capture_type": "setup_screen",
+    "screenshot_displayed_stage": "7-10",
+    "grid": {
+      "rows": 4,
+      "columns": 3,
+      "orientation": "Rows front (nearest the enemy) to rear; columns left to right."
+    },
+    "board": [
+      [
+        "orchitoria",
+        null,
+        "jarachnid"
+      ],
+      [
+        null,
+        null,
+        null
+      ],
+      [
+        "pandarrior",
+        "hypnostrix",
+        "chomperwraith"
+      ],
+      [
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Author: \"grass dojo 7-1 ... 7-10\", \"Budboo melt down everything\"; stat grades Mantis BBB, Owl BBB, Budboo BBB, Panda (T3) CCD, Sackling (T2) DCD. Player level 500 in the screenshot. Rows calibrated from the 8-row floor checkerboard (our side is the lower 4 rows). Mantis is a foil/costume Orchitoria and Budboo wears a jester costume; both shown with the catalog's standard models. Another player (DarkTyrantula) replied that it works. Reviewed November 18, 2026.",
     "selected_for_website": true
   },
   {
