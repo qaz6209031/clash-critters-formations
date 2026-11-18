@@ -743,7 +743,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zapup.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapup.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapup.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Zapup.png"
     },
     {
       "form_id": "zapooch",
@@ -754,7 +755,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zapooch.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapooch.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapooch.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Zapooch.png"
     },
     {
       "form_id": "clucky",
@@ -765,7 +767,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/clucky.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/clucky.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/clucky.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Clucky.png"
     },
     {
       "form_id": "cluckeroo",
@@ -776,7 +779,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cluckeroo.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cluckeroo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cluckeroo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cluckeroo.png"
     },
     {
       "form_id": "cindermunk",
@@ -787,7 +791,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cindermunk.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cindermunk.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cindermunk.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cindermunk.png"
     },
     {
       "form_id": "embertail",
@@ -798,7 +803,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/embertail.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/embertail.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/embertail.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Embertail.png"
     },
     {
       "form_id": "shellshy",
@@ -809,7 +815,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/shellshy.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/shellshy.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/shellshy.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Shellshy.png"
     },
     {
       "form_id": "boldclaw",
@@ -820,7 +827,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/boldclaw.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/boldclaw.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/boldclaw.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Boldclaw.png"
     },
     {
       "form_id": "capywata",
@@ -831,7 +839,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/capywata.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/capywata.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/capywata.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Capywata.png"
     },
     {
       "form_id": "capypapa",
@@ -842,7 +851,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/capypapa.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/capypapa.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/capypapa.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Capypapa.png"
     },
     {
       "form_id": "sparkrow",
@@ -853,7 +863,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sparkrow.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkrow.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkrow.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sparkrow.png"
     },
     {
       "form_id": "scorchwing",
@@ -864,7 +875,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/scorchwing.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/scorchwing.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/scorchwing.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Scorchwing.png"
     },
     {
       "form_id": "solpear",
@@ -875,7 +887,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/solpear.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/solpear.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/solpear.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Solpear.png"
     },
     {
       "form_id": "pearpair",
@@ -886,7 +899,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pearpair.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pearpair.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pearpair.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pearpair.png"
     },
     {
       "form_id": "mudrump",
@@ -897,7 +911,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/mudrump.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/mudrump.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/mudrump.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Mudrump.png"
     },
     {
       "form_id": "rockhog",
@@ -908,7 +923,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockhog.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockhog.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockhog.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Rockhog.png"
     },
     {
       "form_id": "wobbler",
@@ -919,7 +935,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/wobbler.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/wobbler.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/wobbler.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Wobbler.png"
     },
     {
       "form_id": "boltskipper",
@@ -930,7 +947,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/boltskipper.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/boltskipper.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/boltskipper.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Boltskipper.png"
     },
     {
       "form_id": "dozy",
@@ -941,7 +959,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dozy.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dozy.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dozy.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Dozy.png"
     },
     {
       "form_id": "snoozebo",
@@ -952,7 +971,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/snoozebo.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/snoozebo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/snoozebo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Snoozebo.png"
     },
     {
       "form_id": "frostnip",
@@ -963,7 +983,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frostnip.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frostnip.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostnip.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostnip.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Frostnip.png"
     },
     {
       "form_id": "frostpaw",
@@ -974,7 +995,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frostpaw.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frostpaw.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostpaw.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostpaw.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Frostpaw.png"
     },
     {
       "form_id": "frostique",
@@ -985,7 +1007,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frostique.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frostique.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostique.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostique.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Frostique.png"
     },
     {
       "form_id": "frostluna",
@@ -996,7 +1019,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frostluna.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frostluna.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostluna.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frostluna.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Frostluna.png"
     },
     {
       "form_id": "pyropup",
@@ -1007,7 +1031,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyropup.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyropup.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyropup.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyropup.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pyropup.png"
     },
     {
       "form_id": "pyrohound",
@@ -1018,7 +1043,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyrohound.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyrohound.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyrohound.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyrohound.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pyrohound.png"
     },
     {
       "form_id": "hellhound",
@@ -1029,7 +1055,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hellhound.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hellhound.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hellhound.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hellhound.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Hellhound.png"
     },
     {
       "form_id": "pyrodaemon",
@@ -1040,7 +1067,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyrodaemon.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyrodaemon.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyrodaemon.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyrodaemon.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pyrodaemon.png"
     },
     {
       "form_id": "frugling",
@@ -1051,7 +1079,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frugling.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frugling.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugling.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugling.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Frugling.png"
     },
     {
       "form_id": "frugatoad",
@@ -1062,7 +1091,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frugatoad.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frugatoad.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugatoad.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugatoad.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Frugatoad.png"
     },
     {
       "form_id": "frugagon",
@@ -1073,7 +1103,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frugagon.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frugagon.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugagon.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugagon.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Frugagon.png"
     },
     {
       "form_id": "frugantuan",
@@ -1084,7 +1115,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/frugantuan.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/frugantuan.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugantuan.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/frugantuan.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Frugantuan.png"
     },
     {
       "form_id": "rubblet",
@@ -1095,7 +1127,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rubblet.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rubblet.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rubblet.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rubblet.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Rubblet.png"
     },
     {
       "form_id": "cobbledon",
@@ -1106,7 +1139,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cobbledon.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cobbledon.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cobbledon.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cobbledon.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cobbledon.png"
     },
     {
       "form_id": "rockzilla",
@@ -1117,7 +1151,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockzilla.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockzilla.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockzilla.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockzilla.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Rockzilla.png"
     },
     {
       "form_id": "meteorax",
@@ -1128,7 +1163,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/meteorax.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/meteorax.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/meteorax.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/meteorax.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Meteorax.png"
     },
     {
       "form_id": "zappur",
@@ -1139,7 +1175,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zappur.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zappur.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zappur.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zappur.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Zappur.png"
     },
     {
       "form_id": "electroar",
@@ -1150,7 +1187,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/electroar.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/electroar.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/electroar.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/electroar.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Electroar.png"
     },
     {
       "form_id": "blitzmane",
@@ -1161,7 +1199,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blitzmane.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blitzmane.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blitzmane.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blitzmane.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Blitzmane.png"
     },
     {
       "form_id": "stormlion",
@@ -1172,7 +1211,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/stormlion.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/stormlion.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/stormlion.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/stormlion.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Stormlion.png"
     },
     {
       "form_id": "sealing",
@@ -1183,7 +1223,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sealing.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sealing.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sealing.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sealing.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sealing.png"
     },
     {
       "form_id": "sealoon",
@@ -1194,7 +1235,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sealoon.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sealoon.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sealoon.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sealoon.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sealoon.png"
     },
     {
       "form_id": "seaswirl",
@@ -1205,7 +1247,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/seaswirl.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/seaswirl.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/seaswirl.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/seaswirl.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Seaswirl.png"
     },
     {
       "form_id": "sealord",
@@ -1216,7 +1259,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sealord.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sealord.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sealord.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sealord.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sealord.png"
     },
     {
       "form_id": "blueflick",
@@ -1227,7 +1271,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blueflick.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blueflick.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blueflick.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blueflick.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Blueflick.png"
     },
     {
       "form_id": "ignisnap",
@@ -1238,7 +1283,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ignisnap.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ignisnap.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ignisnap.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ignisnap.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Ignisnap.png"
     },
     {
       "form_id": "azurion",
@@ -1249,7 +1295,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/azurion.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/azurion.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/azurion.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/azurion.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Azurion.png"
     },
     {
       "form_id": "newflamander",
@@ -1260,7 +1307,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/newflamander.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/newflamander.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/newflamander.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/newflamander.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Newflamander.png"
     },
     {
       "form_id": "manteeny",
@@ -1271,7 +1319,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/manteeny.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/manteeny.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/manteeny.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/manteeny.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Manteeny.png"
     },
     {
       "form_id": "stalkerix",
@@ -1282,7 +1331,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/stalkerix.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/stalkerix.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/stalkerix.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/stalkerix.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Stalkerix.png"
     },
     {
       "form_id": "serrabloom",
@@ -1293,7 +1343,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/serrabloom.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/serrabloom.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/serrabloom.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/serrabloom.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Serrabloom.png"
     },
     {
       "form_id": "orchitoria",
@@ -1304,7 +1355,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/orchitoria.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/orchitoria.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/orchitoria.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/orchitoria.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Orchitoria.png"
     },
     {
       "form_id": "gibber",
@@ -1315,7 +1367,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gibber.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gibber.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gibber.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gibber.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Gibber.png"
     },
     {
       "form_id": "turtuff",
@@ -1326,7 +1379,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/turtuff.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/turtuff.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/turtuff.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/turtuff.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Turtuff.png"
     },
     {
       "form_id": "rockshell",
@@ -1337,7 +1391,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockshell.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockshell.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockshell.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockshell.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Rockshell.png"
     },
     {
       "form_id": "terraton",
@@ -1348,7 +1403,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/terraton.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/terraton.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/terraton.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/terraton.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Terraton.png"
     },
     {
       "form_id": "voltfawn",
@@ -1359,7 +1415,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltfawn.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltfawn.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltfawn.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltfawn.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Voltfawn.png"
     },
     {
       "form_id": "sparkdoe",
@@ -1370,7 +1427,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sparkdoe.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sparkdoe.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkdoe.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkdoe.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sparkdoe.png"
     },
     {
       "form_id": "zapantler",
@@ -1381,7 +1439,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zapantler.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zapantler.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapantler.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapantler.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Zapantler.png"
     },
     {
       "form_id": "magnedart",
@@ -1392,7 +1451,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/magnedart.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/magnedart.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/magnedart.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/magnedart.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Magnedart.png"
     },
     {
       "form_id": "droppit",
@@ -1403,7 +1463,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/droppit.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/droppit.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/droppit.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/droppit.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Droppit.png"
     },
     {
       "form_id": "bubbit",
@@ -1414,7 +1475,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/bubbit.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/bubbit.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/bubbit.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/bubbit.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Bubbit.png"
     },
     {
       "form_id": "tideon",
@@ -1425,7 +1487,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/tideon.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/tideon.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/tideon.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/tideon.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Tideon.png"
     },
     {
       "form_id": "haplysia",
@@ -1436,7 +1499,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/haplysia.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/haplysia.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/haplysia.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/haplysia.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Haplysia.png"
     },
     {
       "form_id": "sparkit",
@@ -1447,7 +1511,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sparkit.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sparkit.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkit.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkit.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sparkit.png"
     },
     {
       "form_id": "firefox",
@@ -1458,7 +1523,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/firefox.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/firefox.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/firefox.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/firefox.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Firefox.png"
     },
     {
       "form_id": "flarevix",
@@ -1469,7 +1535,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/flarevix.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/flarevix.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/flarevix.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/flarevix.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Flarevix.png"
     },
     {
       "form_id": "phantifox",
@@ -1480,7 +1547,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/phantifox.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/phantifox.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/phantifox.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/phantifox.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Phantifox.png"
     },
     {
       "form_id": "goonbug",
@@ -1491,7 +1559,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/goonbug.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/goonbug.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/goonbug.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/goonbug.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Goonbug.png"
     },
     {
       "form_id": "capobeetle",
@@ -1502,7 +1571,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/capobeetle.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/capobeetle.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/capobeetle.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/capobeetle.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Capobeetle.png"
     },
     {
       "form_id": "donscarab",
@@ -1513,7 +1583,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/donscarab.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/donscarab.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/donscarab.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/donscarab.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Donscarab.png"
     },
     {
       "form_id": "beetleknight",
@@ -1524,7 +1595,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/beetleknight.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/beetleknight.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/beetleknight.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/beetleknight.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Beetleknight.png"
     },
     {
       "form_id": "punchimp",
@@ -1535,7 +1607,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/punchimp.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/punchimp.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/punchimp.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/punchimp.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Punchimp.png"
     },
     {
       "form_id": "rockfu",
@@ -1546,7 +1619,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockfu.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockfu.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockfu.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockfu.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Rockfu.png"
     },
     {
       "form_id": "rockwu",
@@ -1557,7 +1631,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockwu.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockwu.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockwu.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockwu.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Rockong.png"
     },
     {
       "form_id": "rockong",
@@ -1568,7 +1643,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rockong.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rockong.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockong.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rockong.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Rockwu.png"
     },
     {
       "form_id": "voltkit",
@@ -1579,7 +1655,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltkit.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltkit.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltkit.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltkit.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Voltkit.png"
     },
     {
       "form_id": "voltling",
@@ -1590,7 +1667,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltling.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltling.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltling.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltling.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Voltling.png"
     },
     {
       "form_id": "voltverine",
@@ -1601,7 +1679,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltverine.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltverine.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltverine.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltverine.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Voltverine.png"
     },
     {
       "form_id": "voltreaver",
@@ -1612,7 +1691,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltreaver.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltreaver.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltreaver.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltreaver.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Voltreaver.png"
     },
     {
       "form_id": "waddledo",
@@ -1623,7 +1703,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/waddledo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/waddledo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/waddledo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/waddledo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Waddledo.png"
     },
     {
       "form_id": "swaystroll",
@@ -1634,7 +1715,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/swaystroll.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/swaystroll.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/swaystroll.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/swaystroll.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Swaystroll.png"
     },
     {
       "form_id": "stoodbeak",
@@ -1645,7 +1727,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/stoodbeak.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/stoodbeak.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/stoodbeak.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/stoodbeak.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Stoodbeak.png"
     },
     {
       "form_id": "glideflip",
@@ -1656,7 +1739,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/glideflip.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/glideflip.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/glideflip.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/glideflip.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Glideflip.png"
     },
     {
       "form_id": "zapuni",
@@ -1667,7 +1751,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zapuni.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zapuni.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapuni.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zapuni.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Zapuni.png"
     },
     {
       "form_id": "surgehoof",
@@ -1678,7 +1763,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/surgehoof.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/surgehoof.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/surgehoof.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/surgehoof.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Surgehoof.png"
     },
     {
       "form_id": "voltmare",
@@ -1689,7 +1775,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltmare.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltmare.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltmare.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltmare.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Voltmare.png"
     },
     {
       "form_id": "boltallion",
@@ -1700,7 +1787,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/boltallion.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/boltallion.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/boltallion.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/boltallion.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Boltallion.png"
     },
     {
       "form_id": "gopher",
@@ -1711,7 +1799,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gopher.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gopher.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gopher.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gopher.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Gopher.png"
     },
     {
       "form_id": "watchroo",
@@ -1722,7 +1811,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/watchroo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/watchroo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/watchroo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/watchroo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Watchroo.png"
     },
     {
       "form_id": "bastogard",
@@ -1733,7 +1823,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/bastogard.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/bastogard.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/bastogard.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/bastogard.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Bastogard.png"
     },
     {
       "form_id": "cratzar",
@@ -1744,7 +1835,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cratzar.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cratzar.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cratzar.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cratzar.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cratzar.png"
     },
     {
       "form_id": "ashlarva",
@@ -1755,7 +1847,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ashlarva.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ashlarva.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ashlarva.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ashlarva.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Ashlarva.png"
     },
     {
       "form_id": "firecoil",
@@ -1766,7 +1859,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/firecoil.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/firecoil.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/firecoil.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/firecoil.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Firecoil.png"
     },
     {
       "form_id": "charflutter",
@@ -1777,7 +1871,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/charflutter.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/charflutter.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/charflutter.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/charflutter.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Charflutter.png"
     },
     {
       "form_id": "chrysolaria",
@@ -1788,7 +1883,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/chrysolaria.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/chrysolaria.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chrysolaria.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chrysolaria.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Chrysolaria.png"
     },
     {
       "form_id": "pandaroo",
@@ -1799,7 +1895,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pandaroo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pandaroo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandaroo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandaroo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pandaroo.png"
     },
     {
       "form_id": "pandaroot",
@@ -1810,7 +1907,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pandaroot.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pandaroot.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandaroot.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandaroot.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pandaroot.png"
     },
     {
       "form_id": "pandarrior",
@@ -1821,7 +1919,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pandarrior.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pandarrior.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandarrior.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandarrior.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pandarrior.png"
     },
     {
       "form_id": "pandagrand",
@@ -1832,7 +1931,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pandagrand.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pandagrand.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandagrand.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pandagrand.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pandagrand.png"
     },
     {
       "form_id": "cribbler",
@@ -1843,7 +1943,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cribbler.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cribbler.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cribbler.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cribbler.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cribbler.png"
     },
     {
       "form_id": "clawzor",
@@ -1854,7 +1955,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/clawzor.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/clawzor.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/clawzor.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/clawzor.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Clawzor.png"
     },
     {
       "form_id": "dreadclaw",
@@ -1865,7 +1967,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dreadclaw.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dreadclaw.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dreadclaw.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dreadclaw.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Dreadclaw.png"
     },
     {
       "form_id": "cribking",
@@ -1876,7 +1979,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cribking.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cribking.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cribking.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cribking.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cribking.png"
     },
     {
       "form_id": "shrimpyro",
@@ -1887,7 +1991,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/shrimpyro.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/shrimpyro.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/shrimpyro.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/shrimpyro.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Shrimpyro.png"
     },
     {
       "form_id": "pyroprawn",
@@ -1898,7 +2003,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyroprawn.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyroprawn.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyroprawn.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyroprawn.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pyroprawn.png"
     },
     {
       "form_id": "pyroclobster",
@@ -1909,7 +2015,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyroclobster.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyroclobster.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyroclobster.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyroclobster.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pyroclobster.png"
     },
     {
       "form_id": "pyroviathan",
@@ -1920,7 +2027,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyroviathan.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyroviathan.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyroviathan.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyroviathan.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pyroviathan.png"
     },
     {
       "form_id": "buddi",
@@ -1931,7 +2039,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/buddi.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/buddi.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/buddi.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/buddi.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Buddi.png"
     },
     {
       "form_id": "sunfleur",
@@ -1942,7 +2051,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sunfleur.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sunfleur.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sunfleur.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sunfleur.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sunfleur.png"
     },
     {
       "form_id": "solaflora",
@@ -1953,7 +2063,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/solaflora.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/solaflora.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/solaflora.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/solaflora.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Solaflora.png"
     },
     {
       "form_id": "heliabloom",
@@ -1964,7 +2075,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/heliabloom.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/heliabloom.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/heliabloom.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/heliabloom.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Heliabloom-4.png"
     },
     {
       "form_id": "joeyo",
@@ -1975,7 +2087,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/joeyo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/joeyo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/joeyo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/joeyo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Joeyo.png"
     },
     {
       "form_id": "puncharoo",
@@ -1986,7 +2099,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/puncharoo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/puncharoo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/puncharoo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/puncharoo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Puncharoo.png"
     },
     {
       "form_id": "kangachamp",
@@ -1997,7 +2111,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/kangachamp.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/kangachamp.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kangachamp.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kangachamp.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Kangachamp.png"
     },
     {
       "form_id": "kaiseroo",
@@ -2008,7 +2123,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/kaiseroo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/kaiseroo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kaiseroo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kaiseroo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Kaiseroo.png"
     },
     {
       "form_id": "sparkeet",
@@ -2019,7 +2135,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sparkeet.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sparkeet.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkeet.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sparkeet.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sparkeet.png"
     },
     {
       "form_id": "buzzbeak",
@@ -2030,7 +2147,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/buzzbeak.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/buzzbeak.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/buzzbeak.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/buzzbeak.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Buzzbeak.png"
     },
     {
       "form_id": "toucanzam",
@@ -2041,7 +2159,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/toucanzam.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/toucanzam.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/toucanzam.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/toucanzam.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Toucanzam.png"
     },
     {
       "form_id": "technocan",
@@ -2052,7 +2171,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/technocan.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/technocan.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/technocan.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/technocan.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Technocan.png"
     },
     {
       "form_id": "sackling",
@@ -2063,7 +2183,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sackling.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sackling.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sackling.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sackling.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sackling.png"
     },
     {
       "form_id": "jarachnid",
@@ -2074,7 +2195,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/jarachnid.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/jarachnid.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/jarachnid.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/jarachnid.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Jarachnid.png"
     },
     {
       "form_id": "terracrawler",
@@ -2085,7 +2207,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/terracrawler.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/terracrawler.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/terracrawler.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/terracrawler.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Terracrawler.png"
     },
     {
       "form_id": "weaverfang",
@@ -2096,7 +2219,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/weaverfang.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/weaverfang.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/weaverfang.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/weaverfang.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Weaverfang.png"
     },
     {
       "form_id": "skinklet",
@@ -2107,7 +2231,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/skinklet.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/skinklet.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/skinklet.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/skinklet.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Skinklet.png"
     },
     {
       "form_id": "skinkoon",
@@ -2118,7 +2243,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/skinkoon.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/skinkoon.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/skinkoon.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/skinkoon.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Skinkoon.png"
     },
     {
       "form_id": "ninjaguana",
@@ -2129,7 +2255,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ninjaguana.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ninjaguana.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ninjaguana.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ninjaguana.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Ninjaguana.png"
     },
     {
       "form_id": "hychroma",
@@ -2140,7 +2267,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hychroma.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hychroma.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hychroma.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hychroma.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Hychroma.png"
     },
     {
       "form_id": "souphog",
@@ -2151,7 +2279,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/souphog.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/souphog.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/souphog.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/souphog.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Souphog.png"
     },
     {
       "form_id": "grillhog",
@@ -2162,7 +2291,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/grillhog.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/grillhog.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/grillhog.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/grillhog.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Grillhog.png"
     },
     {
       "form_id": "hothog",
@@ -2173,7 +2303,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hothog.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hothog.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hothog.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hothog.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Hothog.png"
     },
     {
       "form_id": "searhog",
@@ -2184,7 +2315,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/searhog.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/searhog.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/searhog.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/searhog.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Searhog.png"
     },
     {
       "form_id": "shardsnail",
@@ -2195,7 +2327,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/shardsnail.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/shardsnail.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/shardsnail.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/shardsnail.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Shardsnail.png"
     },
     {
       "form_id": "gemsnail",
@@ -2206,7 +2339,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gemsnail.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gemsnail.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gemsnail.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gemsnail.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Gemsnail.png"
     },
     {
       "form_id": "jewelsnail",
@@ -2217,7 +2351,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/jewelsnail.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/jewelsnail.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/jewelsnail.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/jewelsnail.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Jewelsnail.png"
     },
     {
       "form_id": "crystalsnail",
@@ -2228,7 +2363,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/crystalsnail.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/crystalsnail.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/crystalsnail.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/crystalsnail.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Crystalsnail.png"
     },
     {
       "form_id": "cheerling",
@@ -2239,7 +2375,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cheerling.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cheerling.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerling.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerling.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cheerling.png"
     },
     {
       "form_id": "cheerlet",
@@ -2250,7 +2387,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cheerlet.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cheerlet.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerlet.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerlet.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cheerlet.png"
     },
     {
       "form_id": "cheerspring",
@@ -2261,7 +2399,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cheerspring.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cheerspring.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerspring.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerspring.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cheerspring.png"
     },
     {
       "form_id": "cheerstella",
@@ -2272,7 +2411,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cheerstella.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cheerstella.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerstella.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cheerstella.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cheerstella.png"
     },
     {
       "form_id": "cactobud",
@@ -2283,7 +2423,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cactobud.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cactobud.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cactobud.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cactobud.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cactobud.png"
     },
     {
       "form_id": "cactobloom",
@@ -2294,7 +2435,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cactobloom.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cactobloom.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cactobloom.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cactobloom.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cactobloom.png"
     },
     {
       "form_id": "cactoczar",
@@ -2305,7 +2447,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cactoczar.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cactoczar.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cactoczar.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cactoczar.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cactoczar.png"
     },
     {
       "form_id": "lullelly",
@@ -2316,7 +2459,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lullelly.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lullelly.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lullelly.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lullelly.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Lullelly.png"
     },
     {
       "form_id": "yawnelly",
@@ -2327,7 +2471,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/yawnelly.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/yawnelly.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/yawnelly.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/yawnelly.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Yawnelly.png"
     },
     {
       "form_id": "souverelle",
@@ -2338,7 +2483,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/souverelle.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/souverelle.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/souverelle.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/souverelle.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Souverelle.png"
     },
     {
       "form_id": "somnrayna",
@@ -2349,7 +2495,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/somnrayna.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/somnrayna.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/somnrayna.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/somnrayna.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Somnrayna-4.png"
     },
     {
       "form_id": "tindercub",
@@ -2360,7 +2507,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/tindercub.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/tindercub.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/tindercub.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/tindercub.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Tindercub.png"
     },
     {
       "form_id": "kitjitsu",
@@ -2371,7 +2519,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/kitjitsu.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/kitjitsu.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kitjitsu.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kitjitsu.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Kitjitsu.png"
     },
     {
       "form_id": "taiglow",
@@ -2382,7 +2531,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/taiglow.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/taiglow.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/taiglow.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/taiglow.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Taiglow.png"
     },
     {
       "form_id": "saberheart",
@@ -2393,7 +2543,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/saberheart.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/saberheart.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/saberheart.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/saberheart.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Saberheart.png"
     },
     {
       "form_id": "humbug",
@@ -2404,7 +2555,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/humbug.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/humbug.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/humbug.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/humbug.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Humbug.png"
     },
     {
       "form_id": "humbleetle",
@@ -2415,7 +2567,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/humbleetle.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/humbleetle.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/humbleetle.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/humbleetle.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Humbeetle.png"
     },
     {
       "form_id": "zenscarab",
@@ -2426,7 +2579,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zenscarab.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zenscarab.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zenscarab.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zenscarab.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Zenscarab.png"
     },
     {
       "form_id": "hierotyrus",
@@ -2437,7 +2591,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hierotyrus.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hierotyrus.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hierotyrus.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hierotyrus.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Hierotyrus-4.png"
     },
     {
       "form_id": "fluffle",
@@ -2448,7 +2603,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/fluffle.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/fluffle.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/fluffle.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/fluffle.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Fluffle.png"
     },
     {
       "form_id": "nimbuzzy",
@@ -2459,7 +2615,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/nimbuzzy.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/nimbuzzy.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/nimbuzzy.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/nimbuzzy.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Nimbuzzy.png"
     },
     {
       "form_id": "galewether",
@@ -2470,7 +2627,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/galewether.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/galewether.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/galewether.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/galewether.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Galewether.png"
     },
     {
       "form_id": "cosmoram",
@@ -2481,7 +2639,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cosmoram.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cosmoram.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cosmoram.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cosmoram.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cosmoram-4.png"
     },
     {
       "form_id": "funglet",
@@ -2492,7 +2651,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/funglet.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/funglet.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/funglet.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/funglet.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Funglet.png"
     },
     {
       "form_id": "trippet",
@@ -2503,7 +2663,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/trippet.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/trippet.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/trippet.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/trippet.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Trippet.png"
     },
     {
       "form_id": "hyphoria",
@@ -2514,7 +2675,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hyphoria.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hyphoria.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hyphoria.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hyphoria.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Hyphoria.png"
     },
     {
       "form_id": "ecstamira",
@@ -2525,7 +2687,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ecstamira.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ecstamira.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ecstamira.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ecstamira.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Ecstamira.png"
     },
     {
       "form_id": "dewgrub",
@@ -2536,7 +2699,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dewgrub.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dewgrub.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dewgrub.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dewgrub.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Dewgrub.png"
     },
     {
       "form_id": "ripplewing",
@@ -2547,7 +2711,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ripplewing.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ripplewing.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ripplewing.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ripplewing.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Ripplewing.png"
     },
     {
       "form_id": "waveflutter",
@@ -2558,7 +2723,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/waveflutter.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/waveflutter.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/waveflutter.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/waveflutter.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Waveflutter.png"
     },
     {
       "form_id": "morphanessa",
@@ -2569,7 +2735,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/morphanessa.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/morphanessa.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/morphanessa.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/morphanessa.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Morphanessa.png"
     },
     {
       "form_id": "fumekit",
@@ -2580,7 +2747,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/fumekit.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/fumekit.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/fumekit.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/fumekit.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Fumekit.png"
     },
     {
       "form_id": "sulfunk",
@@ -2591,7 +2759,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sulfunk.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sulfunk.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sulfunk.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sulfunk.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sulfunk.png"
     },
     {
       "form_id": "magmusk",
@@ -2602,7 +2771,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/magmusk.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/magmusk.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/magmusk.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/magmusk.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Magmusk.png"
     },
     {
       "form_id": "blastniff",
@@ -2613,7 +2783,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blastniff.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blastniff.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blastniff.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blastniff.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Blastniff.png"
     },
     {
       "form_id": "taptail",
@@ -2624,7 +2795,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/taptail.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/taptail.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/taptail.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/taptail.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Taptail.png"
     },
     {
       "form_id": "rattlecoil",
@@ -2635,7 +2807,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rattlecoil.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rattlecoil.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rattlecoil.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rattlecoil.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Rattlecoil.png"
     },
     {
       "form_id": "clangnaga",
@@ -2646,7 +2819,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/clangnaga.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/clangnaga.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/clangnaga.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/clangnaga.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Clangnaga.png"
     },
     {
       "form_id": "dharmadder",
@@ -2657,7 +2831,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dharmadder.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dharmadder.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dharmadder.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dharmadder.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Dharmadder.png"
     },
     {
       "form_id": "kittazap",
@@ -2668,7 +2843,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/kittazap.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/kittazap.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kittazap.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/kittazap.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Kittazap.png"
     },
     {
       "form_id": "nekowatt",
@@ -2679,7 +2855,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/nekowatt.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/nekowatt.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/nekowatt.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/nekowatt.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Nekowatt.png"
     },
     {
       "form_id": "voltazar",
@@ -2690,7 +2867,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/voltazar.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/voltazar.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltazar.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/voltazar.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Voltazar.png"
     },
     {
       "form_id": "thunderpaw",
@@ -2701,7 +2879,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/thunderpaw.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/thunderpaw.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/thunderpaw.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Thunderclaw.png"
     },
     {
       "form_id": "lollama",
@@ -2712,7 +2891,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lollama.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lollama.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lollama.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lollama.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Lollama.png"
     },
     {
       "form_id": "slobberlama",
@@ -2723,7 +2903,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/slobberlama.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/slobberlama.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/slobberlama.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/slobberlama.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Slobberlama.png"
     },
     {
       "form_id": "ptooielama",
@@ -2734,7 +2915,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ptooielama.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ptooielama.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ptooielama.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ptooielama.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Ptooielama.png"
     },
     {
       "form_id": "blechlama",
@@ -2745,7 +2927,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blechlama.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blechlama.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blechlama.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blechlama.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Blechlama.png"
     },
     {
       "form_id": "dumbopus",
@@ -2756,7 +2939,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dumbopus.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dumbopus.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dumbopus.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dumbopus.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Dumbopus.png"
     },
     {
       "form_id": "dazopus",
@@ -2767,7 +2951,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dazopus.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dazopus.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dazopus.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dazopus.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Dazopus.png"
     },
     {
       "form_id": "fishopus",
@@ -2778,7 +2963,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/fishopus.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/fishopus.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/fishopus.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/fishopus.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Fishopus.png"
     },
     {
       "form_id": "lordopus",
@@ -2789,7 +2975,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lordopus.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lordopus.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lordopus.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lordopus.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Lordopus.png"
     },
     {
       "form_id": "flameow",
@@ -2800,7 +2987,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/flameow.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/flameow.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/flameow.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/flameow.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Flameow.png"
     },
     {
       "form_id": "nekoflare",
@@ -2811,7 +2999,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/nekoflare.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/nekoflare.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/nekoflare.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/nekoflare.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Nekoflare.png"
     },
     {
       "form_id": "silversear",
@@ -2822,7 +3011,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/silversear.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/silversear.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/silversear.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/silversear.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Silversear.png"
     },
     {
       "form_id": "cinderclaw",
@@ -2833,7 +3023,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cinderclaw.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cinderclaw.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cinderclaw.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cinderclaw.png"
     },
     {
       "form_id": "drilleroo",
@@ -2844,7 +3035,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/drilleroo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/drilleroo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/drilleroo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/drilleroo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Drilleroo.png"
     },
     {
       "form_id": "cragolin",
@@ -2855,7 +3047,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cragolin.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cragolin.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cragolin.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cragolin.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cragolin.png"
     },
     {
       "form_id": "borelord",
@@ -2866,7 +3059,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/borelord.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/borelord.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/borelord.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/borelord.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Borelord.png"
     },
     {
       "form_id": "zaplet",
@@ -2877,7 +3071,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zaplet.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zaplet.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zaplet.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zaplet.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Zaplet.png"
     },
     {
       "form_id": "synthhog",
@@ -2888,7 +3083,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/synthhog.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/synthhog.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/synthhog.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/synthhog.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Synthhog.png"
     },
     {
       "form_id": "sonarbat",
@@ -2899,7 +3095,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sonarbat.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sonarbat.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sonarbat.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sonarbat.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sonarbat.png"
     },
     {
       "form_id": "umbraveil",
@@ -2910,7 +3107,8 @@
       "role": "Specialist",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/umbraveil.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/umbraveil.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/umbraveil.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/umbraveil.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Umbraveil.png"
     },
     {
       "form_id": "maskfry",
@@ -2921,7 +3119,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/maskfry.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/maskfry.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/maskfry.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/maskfry.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Maskfry.png"
     },
     {
       "form_id": "ospisces",
@@ -2932,7 +3131,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ospisces.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ospisces.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ospisces.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ospisces.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Ospisces.png"
     },
     {
       "form_id": "armorjaw",
@@ -2943,7 +3143,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/armorjaw.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/armorjaw.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/armorjaw.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/armorjaw.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Armorjaw.png"
     },
     {
       "form_id": "dagondeep",
@@ -2954,7 +3155,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dagondeep.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dagondeep.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dagondeep.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dagondeep.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Dagondeep.png"
     },
     {
       "form_id": "hootlet",
@@ -2965,7 +3167,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hootlet.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hootlet.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hootlet.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hootlet.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Hootlet.png"
     },
     {
       "form_id": "tikowl",
@@ -2976,7 +3179,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/tikowl.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/tikowl.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/tikowl.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/tikowl.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Tikowl.png"
     },
     {
       "form_id": "chronerva",
@@ -2987,7 +3191,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/chronerva.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/chronerva.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chronerva.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chronerva.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Chronerva.png"
     },
     {
       "form_id": "hypnostrix",
@@ -2998,7 +3203,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hypnostrix.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hypnostrix.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hypnostrix.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hypnostrix.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Hypnostrix.png"
     },
     {
       "form_id": "momopo",
@@ -3009,7 +3215,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/momopo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/momopo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/momopo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/momopo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Momopo.png"
     },
     {
       "form_id": "lulupo",
@@ -3020,7 +3227,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lulupo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lulupo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lulupo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lulupo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Lulupo.png"
     },
     {
       "form_id": "lilypo",
@@ -3031,7 +3239,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lilypo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lilypo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lilypo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lilypo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Lilypo.png"
     },
     {
       "form_id": "gemmapo",
@@ -3042,7 +3251,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gemmapo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gemmapo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gemmapo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gemmapo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Gemmapo.png"
     },
     {
       "form_id": "blowfin",
@@ -3053,7 +3263,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blowfin.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blowfin.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blowfin.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blowfin.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Blowfin.png"
     },
     {
       "form_id": "puffbelly",
@@ -3064,7 +3275,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/puffbelly.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/puffbelly.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/puffbelly.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/puffbelly.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Puffbelly-2.png"
     },
     {
       "form_id": "chefugu",
@@ -3075,7 +3287,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/chefugu.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/chefugu.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chefugu.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chefugu.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Chefugu-3.png"
     },
     {
       "form_id": "pyromaki",
@@ -3086,7 +3299,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/pyromaki.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/pyromaki.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyromaki.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/pyromaki.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Pyromaki.png"
     },
     {
       "form_id": "glowfly",
@@ -3097,7 +3311,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/glowfly.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/glowfly.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/glowfly.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/glowfly.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Glowfly.png"
     },
     {
       "form_id": "phosflare",
@@ -3108,7 +3323,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/phosflare.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/phosflare.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/phosflare.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/phosflare.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Phosflare.png"
     },
     {
       "form_id": "glimmerwing",
@@ -3119,7 +3335,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/glimmerwing.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/glimmerwing.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/glimmerwing.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/glimmerwing.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Glimmerwing.png"
     },
     {
       "form_id": "luminastra",
@@ -3130,7 +3347,8 @@
       "role": "Healer",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/luminastra.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/luminastra.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/luminastra.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/luminastra.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Luminastra-4.png"
     },
     {
       "form_id": "poakie",
@@ -3141,7 +3359,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/poakie.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/poakie.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/poakie.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/poakie.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Poakie.png"
     },
     {
       "form_id": "sizzribb",
@@ -3152,7 +3371,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/sizzribb.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/sizzribb.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sizzribb.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/sizzribb.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Sizzribb.png"
     },
     {
       "form_id": "lickflicker",
@@ -3163,7 +3383,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/lickflicker.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/lickflicker.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lickflicker.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/lickflicker.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Lickflicker.png"
     },
     {
       "form_id": "ignitoad",
@@ -3174,7 +3395,8 @@
       "role": "Guardian",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ignitoad.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ignitoad.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ignitoad.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ignitoad.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Ignitoad.png"
     },
     {
       "form_id": "budboo",
@@ -3185,7 +3407,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/budboo.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/budboo.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/budboo.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/budboo.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Budboo.png"
     },
     {
       "form_id": "snapshade",
@@ -3196,7 +3419,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/snapshade.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/snapshade.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/snapshade.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/snapshade.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Snapshade.png"
     },
     {
       "form_id": "thornwisp",
@@ -3207,7 +3431,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/thornwisp.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/thornwisp.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/thornwisp.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/thornwisp.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Thornwisp.png"
     },
     {
       "form_id": "chomperwraith",
@@ -3218,7 +3443,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/chomperwraith.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/chomperwraith.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chomperwraith.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/chomperwraith.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Chomperwraith.png"
     },
     {
       "form_id": "cavyzap",
@@ -3229,7 +3455,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/cavyzap.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/cavyzap.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cavyzap.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/cavyzap.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Cavyzap.png"
     },
     {
       "form_id": "hippiehog",
@@ -3240,7 +3467,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/hippiehog.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/hippiehog.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hippiehog.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/hippiehog.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Hippiehog.png"
     },
     {
       "form_id": "wheekroller",
@@ -3251,7 +3479,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/wheekroller.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/wheekroller.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/wheekroller.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/wheekroller.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Wheekroller.png"
     },
     {
       "form_id": "gigagnash",
@@ -3262,7 +3491,8 @@
       "role": "DPS",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/gigagnash.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/gigagnash.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gigagnash.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/gigagnash.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Giganash.png"
     },
     {
       "form_id": "snowcub",
@@ -3273,7 +3503,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/snowcub.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/snowcub.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/snowcub.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/snowcub.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Snowcub.png"
     },
     {
       "form_id": "polarpaw",
@@ -3284,7 +3515,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/polarpaw.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/polarpaw.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/polarpaw.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/polarpaw.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Polarpaw.png"
     },
     {
       "form_id": "blizzgrizz",
@@ -3295,7 +3527,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blizzgrizz.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blizzgrizz.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blizzgrizz.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blizzgrizz.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Blizzgrizz.png"
     },
     {
       "form_id": "anglerbear",
@@ -3306,7 +3539,8 @@
       "role": "Tank",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/anglerbear.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/anglerbear.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/anglerbear.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/anglerbear.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Anglerbear.png"
     },
     {
       "form_id": "ringtail",
@@ -3317,7 +3551,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/ringtail.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/ringtail.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ringtail.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/ringtail.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Ringtail.png"
     },
     {
       "form_id": "rizzler",
@@ -3328,7 +3563,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/rizzler.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/rizzler.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rizzler.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/rizzler.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Rizzler.png"
     },
     {
       "form_id": "zorrock",
@@ -3339,7 +3575,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/zorrock.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/zorrock.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zorrock.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/zorrock.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Zorrock.png"
     },
     {
       "form_id": "phantothief",
@@ -3350,7 +3587,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/phantothief.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/phantothief.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/phantothief.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/phantothief.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Phantothief.png"
     },
     {
       "form_id": "dolphie",
@@ -3361,7 +3599,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/dolphie.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/dolphie.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dolphie.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/dolphie.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Dolphie.png"
     },
     {
       "form_id": "blubbles",
@@ -3372,7 +3611,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/blubbles.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/blubbles.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blubbles.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/blubbles.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Blubbles.png"
     },
     {
       "form_id": "aquariel",
@@ -3383,7 +3623,8 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/aquariel.png",
       "glitter_sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/glitter/aquariel.png",
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/aquariel.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/aquariel.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Aquariel.png"
     },
     {
       "form_id": "irisia",
@@ -3394,7 +3635,12 @@
       "role": "Support",
       "sprite_url": "https://jeremycanlas.github.io/clash-of-critters-horde-planner/data/images/tatari/irisia.png",
       "glitter_sprite_url": null,
-      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/irisia.png"
+      "local_sprite_path": "/Users/kaichinh/ClashCrittersCollection/2026-10-05/reference-sprites/irisia.png",
+      "wiki_image_url": "https://clashofcritters.wiki.gg/images/Irisia.png"
     }
-  ]
+  ],
+  "sprite_source": {
+    "url": "https://clashofcritters.wiki.gg/wiki/Tatari",
+    "note": "Normal-form (non-glitter) images from the wiki Tatari list, fetched November 18, 2026 via the MediaWiki API, trimmed and fitted to 176px inside 200x200. Glitter sprites still come from the planner."
+  }
 }
