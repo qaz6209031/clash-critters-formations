@@ -34,6 +34,12 @@ CHAPTER_PUBLICATION_CUTOFFS = {
     chapter: datetime(2026, 10, 22, 7, tzinfo=timezone.utc)
     for chapter in range(23, 29)
 }
+CHAPTER_CUTOFF_REASONS = {chapter: "Enemy formations changed in the October 21 update." for chapter in range(23, 29)}
+# No game update has changed Chapter 6 and almost no clears were posted after August 27,
+# so the owner allows older Chapter 6 posts (November 18, 2026).
+CHAPTER_PUBLICATION_CUTOFFS[6] = datetime(2025, 1, 1, tzinfo=timezone.utc)
+CHAPTER_CUTOFF_REASONS[6] = ("No game update has changed Chapter 6; the owner allows clears posted before "
+                             "August 28, 2026 (decided November 18, 2026).")
 CATALOG_ROOT = ROOT.parent / "2026-10-05"
 CATALOG = json.loads((CATALOG_ROOT / "tatari-reference.json").read_text())
 FORMS = {form["form_id"]: form for form in CATALOG["forms"]}
@@ -1276,6 +1282,9 @@ def build() -> None:
         selected = selected and bool(website_numbers)
         formation_id = (f'{source["id"]}:chapter-{chapter}'
                         if SOURCE_RECORD_COUNTS[source["id"]] > 1 else source["id"])
+        if reviewed.get("image_index"):
+            # A second screenshot in the same post is a separate formation.
+            formation_id += f':image-{reviewed["image_index"]}'
         displayed = reviewed["screenshot_displayed_stage"]
         credit, board = reviewed["credited_player_name"], reviewed["board"]
         level = reviewed["tatari_level"]
@@ -1348,7 +1357,7 @@ def build() -> None:
             "selected_for_website": selected,
             "source_date_eligible": not excluded_reference_ids,
             "excluded_reference_message_ids": excluded_reference_ids,
-            "publication_exclusion_reason": (("Source or supporting evidence was posted on/before October 21, 2026, or has no verified timestamp."
+            "publication_exclusion_reason": ((f"Source or supporting evidence was posted before {CHAPTER_PUBLICATION_CUTOFFS[chapter].date().isoformat()}, or has no verified timestamp."
                                                if chapter in CHAPTER_PUBLICATION_CUTOFFS else
                                                "Source or supporting evidence was posted on/before August 27, 2026, or has no verified timestamp.")
                                               if excluded_reference_ids else None),
@@ -1488,9 +1497,8 @@ def build() -> None:
         "supporting_evidence_must_qualify": True,
         "chapter_overrides": {
             str(chapter): {
-                "posted_after_date": "2026-10-21",
                 "posted_at_minimum_inclusive": cutoff.isoformat().replace("+00:00", "Z"),
-                "reason": "Enemy formations changed in the October 21 update.",
+                "reason": CHAPTER_CUTOFF_REASONS[chapter],
             }
             for chapter, cutoff in CHAPTER_PUBLICATION_CUTOFFS.items()
         },
