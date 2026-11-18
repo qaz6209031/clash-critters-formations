@@ -235,7 +235,6 @@
     .dojo-grass { --el: var(--color-grass) !important; --edge-c: oklch(48% 0.12 155) !important; }
     .dojo-rock { --el: var(--color-rock) !important; --edge-c: var(--color-kraft-deep) !important; --el-ink-2: var(--color-ink-fixed) !important; }
     .dojo-lightning { --el: var(--color-lightning) !important; --edge-c: var(--color-accent-deep) !important; }
-    .boss-grid a.is-soon { opacity: 0.7; }
 
     /* dojo pages */
     .dojo-tabs { display: flex; flex-wrap: wrap; gap: var(--space-sm); margin: 0 0 var(--space-lg); }
@@ -248,16 +247,11 @@
     .floor-head { display: flex; align-items: baseline; flex-wrap: wrap; column-gap: var(--space-md); margin: var(--space-2xl) 0 var(--space-lg); }
     .floor-head h2.section-heading { margin: 0; }
     .floor-range { font-size: var(--text-sm); color: var(--color-muted); font-variant-numeric: tabular-nums; }
-    .dojo-card[data-dojo="water"], .boss-card[data-element="water"] { --board: color-mix(in oklab, var(--color-water) 30%, var(--color-sugar)); --cell-a: color-mix(in oklab, var(--color-water) 8%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-water) 14%, var(--color-card)); }
-    .dojo-card[data-dojo="fire"], .boss-card[data-element="fire"] { --board: color-mix(in oklab, var(--color-fire) 40%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-fire) 10%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-fire) 17%, var(--color-card)); }
-    .dojo-card[data-dojo="rock"], .boss-card[data-element="rock"] { --board: color-mix(in oklab, var(--color-rock) 40%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-rock) 10%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-rock) 18%, var(--color-card)); }
-    .dojo-card[data-dojo="lightning"], .boss-card[data-element="lightning"] { --board: color-mix(in oklab, var(--color-lightning) 70%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-lightning) 16%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-lightning) 28%, var(--color-card)); }
+    .dojo-card[data-dojo="water"] { --board: color-mix(in oklab, var(--color-water) 30%, var(--color-sugar)); --cell-a: color-mix(in oklab, var(--color-water) 8%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-water) 14%, var(--color-card)); }
+    .dojo-card[data-dojo="fire"] { --board: color-mix(in oklab, var(--color-fire) 40%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-fire) 10%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-fire) 17%, var(--color-card)); }
+    .dojo-card[data-dojo="rock"] { --board: color-mix(in oklab, var(--color-rock) 40%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-rock) 10%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-rock) 18%, var(--color-card)); }
+    .dojo-card[data-dojo="lightning"] { --board: color-mix(in oklab, var(--color-lightning) 70%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-lightning) 16%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-lightning) 28%, var(--color-card)); }
 
-    /* boss challenge */
-    .boss-intro { max-width: 70ch; margin: 0 0 var(--space-lg); color: var(--color-ink-2); }
-    .cards-grid.boss-cards { grid-template-columns: repeat(4, minmax(0, 1fr)); }
-    .boss-details { padding: 0 var(--space-lg); font-size: var(--text-sm); font-weight: 600; color: var(--color-ink-2); font-variant-numeric: tabular-nums; }
-    .boss-missing { margin-top: var(--space-xl); max-width: 60ch; color: var(--color-muted); scroll-margin-top: var(--space-lg); }
 
     /* formation cards */
     .cards-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-lg); align-items: start; }
@@ -367,7 +361,7 @@
     .site-footer nav a:active { color: var(--color-footer-ink-2); }
     .site-footer :focus-visible, .site-footer nav a:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
 
-    @media (max-width: 1100px) { .dojo-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); } .cards-grid.boss-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+    @media (max-width: 1100px) { .dojo-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
     @media (max-width: 60rem) {
       :root { --gutter: 24px; }
       .cards-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -397,8 +391,7 @@
       main > h1 { font-size: var(--text-2xl); }
       h2.section-heading { font-size: var(--text-xl); margin: var(--space-xl) 0 var(--space-md); }
       .floor-head { margin: var(--space-xl) 0 var(--space-md); }
-      .cards-grid, .cards-grid.boss-cards { grid-template-columns: minmax(0, 1fr); gap: var(--space-md); }
-      .boss-details { padding-inline: var(--space-md); }
+      .cards-grid { grid-template-columns: minmax(0, 1fr); gap: var(--space-md); }
       .dojo-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-sm); }
       .chapter-grid { gap: var(--space-sm); }
       .chapter-name { font-size: var(--text-md); }
@@ -453,7 +446,7 @@
         <div class="chapter-picker">
           <label for="chapter-select">Chapter</label>
           <span class="select-wrap"><select id="chapter-select"><option value="1">Chapter 1</option><option value="2">Chapter 2</option><option value="3">Chapter 3</option><option value="4">Chapter 4</option><option value="5">Chapter 5</option><option value="6">Chapter 6</option><option value="7">Chapter 7</option><option value="8">Chapter 8</option><option value="9">Chapter 9</option><option value="10">Chapter 10</option><option value="11">Chapter 11</option><option value="12">Chapter 12</option><option value="13">Chapter 13</option><option value="14">Chapter 14</option><option value="15">Chapter 15</option><option value="16">Chapter 16</option><option value="17">Chapter 17</option><option value="18">Chapter 18</option><option value="19">Chapter 19</option><option value="20">Chapter 20</option><option value="21">Chapter 21</option><option value="22">Chapter 22</option><option value="23">Chapter 23</option><option value="24">Chapter 24</option><option value="25">Chapter 25</option><option value="26">Chapter 26</option><option value="27">Chapter 27</option><option value="28">Chapter 28</option><option value="29">Chapter 29</option><option value="30">Chapter 30</option><option value="31">Chapter 31</option><option value="32">Chapter 32</option><option value="33">Chapter 33</option><option value="34">Chapter 34</option><option value="35">Chapter 35</option><option value="36">Chapter 36</option><option value="37">Chapter 37</option><option value="38">Chapter 38</option><option value="39">Chapter 39</option><option value="40">Chapter 40</option><option value="41">Chapter 41</option><option value="42">Chapter 42</option><option value="43">Chapter 43</option><option value="44">Chapter 44</option><option value="45" selected>Chapter 45</option><option value="46">Chapter 46</option><option value="47">Chapter 47</option><option value="48">Chapter 48</option><option value="49">Chapter 49</option><option value="50">Chapter 50</option><option value="51">Chapter 51</option><option value="52">Chapter 52</option><option value="53">Chapter 53</option><option value="54">Chapter 54</option><option value="55">Chapter 55</option><option value="56">Chapter 56</option><option value="57">Chapter 57</option><option value="58">Chapter 58</option><option value="59">Chapter 59</option><option value="60">Chapter 60</option><option value="61">Chapter 61</option><option value="62">Chapter 62</option><option value="63">Chapter 63</option><option value="64">Chapter 64</option><option value="65">Chapter 65</option><option value="66">Chapter 66</option><option value="67">Chapter 67</option><option value="68">Chapter 68</option><option value="69">Chapter 69</option><option value="70">Chapter 70</option><option value="71">Chapter 71</option><option value="72">Chapter 72</option><option value="73">Chapter 73</option><option value="74">Chapter 74</option><option value="75">Chapter 75</option><option value="76">Chapter 76</option><option value="77">Chapter 77</option><option value="78">Chapter 78</option><option value="79">Chapter 79</option></select><svg class="chev" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
-          <a class="dojo-nav-link" href="/dojo/">Dojo</a><a class="dojo-nav-link boss-nav-link" href="/boss/">Boss</a>
+          <a class="dojo-nav-link" href="/dojo/">Dojo</a>
         </div>
       </div>
       <p id="chapter-status" class="sr-only" role="status" aria-live="polite"></p>

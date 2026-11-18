@@ -12,8 +12,6 @@
 !/dojo/
 !/dojo/README.md
 !/dojo/reviewed-dojo-formations.json
-!/boss/
-!/boss/reviewed-boss-formations.json
 !/stage-*/
 !/stage-*/README.md
 !/stage-*/reviewed-formations.json
@@ -34,8 +32,6 @@
 !/stage-47/site/dojo/index.html
 !/stage-47/site/dojo/*/
 !/stage-47/site/dojo/*/index.html
-!/stage-47/site/boss/
-!/stage-47/site/boss/index.html
 !/stage-47/site/vi/
 !/stage-47/site/vi/index.html
 !/stage-47/site/vi/privacy.html
@@ -47,8 +43,6 @@
 !/stage-47/site/vi/dojo/index.html
 !/stage-47/site/vi/dojo/*/
 !/stage-47/site/vi/dojo/*/index.html
-!/stage-47/site/vi/boss/
-!/stage-47/site/vi/boss/index.html
 !/stage-47/site/zh-hant/
 !/stage-47/site/zh-hant/index.html
 !/stage-47/site/zh-hant/privacy.html
@@ -60,8 +54,6 @@
 !/stage-47/site/zh-hant/dojo/index.html
 !/stage-47/site/zh-hant/dojo/*/
 !/stage-47/site/zh-hant/dojo/*/index.html
-!/stage-47/site/zh-hant/boss/
-!/stage-47/site/zh-hant/boss/index.html
 !/stage-47/site/ko/
 !/stage-47/site/ko/index.html
 !/stage-47/site/ko/privacy.html
@@ -73,8 +65,6 @@
 !/stage-47/site/ko/dojo/index.html
 !/stage-47/site/ko/dojo/*/
 !/stage-47/site/ko/dojo/*/index.html
-!/stage-47/site/ko/boss/
-!/stage-47/site/ko/boss/index.html
 !/stage-47/site/og/
 !/stage-47/site/og/*.png
 !/stage-47/site/sprites/

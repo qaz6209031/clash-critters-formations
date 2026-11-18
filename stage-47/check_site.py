@@ -122,13 +122,10 @@ def check_page(path: Path) -> None:
         fail(f"{rel}: old language link row still present")
     has_feedback = 'id="feedback-form"' in text
     is_updates = rel.name == "updates.html"
-    is_boss = "boss" in rel.parts
-    if (is_chapter or is_home or is_dojo or is_boss or is_updates) != has_feedback:
-        fail(f"{rel}: feedback form should appear on home, chapter, dojo, boss and updates pages only")
+    if (is_chapter or is_home or is_dojo or is_updates) != has_feedback:
+        fail(f"{rel}: feedback form should appear on home, chapter, dojo and updates pages only")
     if 'class="theme-toggle"' not in text:
         fail(f"{rel}: header dark-mode toggle missing")
-    if 'class="dojo-nav-link boss-nav-link"' not in text:
-        fail(f"{rel}: header Boss link missing")
     if 'class="dojo-nav-link"' not in text:
         fail(f"{rel}: header Dojo link missing")
     if f'href="{prefix}/updates.html"' not in text:
@@ -283,28 +280,6 @@ def main() -> None:
             dojo_cards[lang] += len(ids)
     if len(set(dojo_cards.values())) != 1:
         fail(f"dojo card counts differ between languages: {dojo_cards}")
-
-    boss_cards = {}
-    for lang in LANGS:
-        page = lang_dir(SITE, lang) / "boss" / "index.html"
-        if not page.exists():
-            fail(f"missing boss page: {page.relative_to(SITE)}")
-            continue
-        pages_to_check.append(page)
-        text = page.read_text()
-        ids = re.findall(r'<article class="stage boss-card" id="boss-([a-z-]+)"', text)
-        if len(ids) != len(set(ids)):
-            fail(f"{page.relative_to(SITE)}: duplicate boss cards")
-        if text.count('class="cell') != len(ids) * 25:
-            fail(f"{page.relative_to(SITE)}: every boss board needs 25 cells")
-        if 'class="report-btn"' in text:
-            fail(f"{page.relative_to(SITE)}: boss cards should not have chapter report buttons")
-        home_text = (lang_dir(SITE, lang) / "index.html").read_text()
-        if f'href="{LANG_INFO[lang]["prefix"]}/boss/#boss-' not in home_text:
-            fail(f"{lang}: home page missing Boss Challenge links")
-        boss_cards[lang] = len(ids)
-    if set(boss_cards.values()) != {4}:
-        fail(f"expected 4 boss cards per language, found {boss_cards}")
 
     for lang in LANGS:
         if total_cards[lang] != 1817:

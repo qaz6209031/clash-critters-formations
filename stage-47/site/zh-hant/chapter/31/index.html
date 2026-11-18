@@ -235,7 +235,6 @@
     .dojo-grass { --el: var(--color-grass) !important; --edge-c: oklch(48% 0.12 155) !important; }
     .dojo-rock { --el: var(--color-rock) !important; --edge-c: var(--color-kraft-deep) !important; --el-ink-2: var(--color-ink-fixed) !important; }
     .dojo-lightning { --el: var(--color-lightning) !important; --edge-c: var(--color-accent-deep) !important; }
-    .boss-grid a.is-soon { opacity: 0.7; }
 
     /* dojo pages */
     .dojo-tabs { display: flex; flex-wrap: wrap; gap: var(--space-sm); margin: 0 0 var(--space-lg); }
@@ -248,16 +247,11 @@
     .floor-head { display: flex; align-items: baseline; flex-wrap: wrap; column-gap: var(--space-md); margin: var(--space-2xl) 0 var(--space-lg); }
     .floor-head h2.section-heading { margin: 0; }
     .floor-range { font-size: var(--text-sm); color: var(--color-muted); font-variant-numeric: tabular-nums; }
-    .dojo-card[data-dojo="water"], .boss-card[data-element="water"] { --board: color-mix(in oklab, var(--color-water) 30%, var(--color-sugar)); --cell-a: color-mix(in oklab, var(--color-water) 8%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-water) 14%, var(--color-card)); }
-    .dojo-card[data-dojo="fire"], .boss-card[data-element="fire"] { --board: color-mix(in oklab, var(--color-fire) 40%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-fire) 10%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-fire) 17%, var(--color-card)); }
-    .dojo-card[data-dojo="rock"], .boss-card[data-element="rock"] { --board: color-mix(in oklab, var(--color-rock) 40%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-rock) 10%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-rock) 18%, var(--color-card)); }
-    .dojo-card[data-dojo="lightning"], .boss-card[data-element="lightning"] { --board: color-mix(in oklab, var(--color-lightning) 70%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-lightning) 16%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-lightning) 28%, var(--color-card)); }
+    .dojo-card[data-dojo="water"] { --board: color-mix(in oklab, var(--color-water) 30%, var(--color-sugar)); --cell-a: color-mix(in oklab, var(--color-water) 8%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-water) 14%, var(--color-card)); }
+    .dojo-card[data-dojo="fire"] { --board: color-mix(in oklab, var(--color-fire) 40%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-fire) 10%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-fire) 17%, var(--color-card)); }
+    .dojo-card[data-dojo="rock"] { --board: color-mix(in oklab, var(--color-rock) 40%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-rock) 10%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-rock) 18%, var(--color-card)); }
+    .dojo-card[data-dojo="lightning"] { --board: color-mix(in oklab, var(--color-lightning) 70%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-lightning) 16%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-lightning) 28%, var(--color-card)); }
 
-    /* boss challenge */
-    .boss-intro { max-width: 70ch; margin: 0 0 var(--space-lg); color: var(--color-ink-2); }
-    .cards-grid.boss-cards { grid-template-columns: repeat(4, minmax(0, 1fr)); }
-    .boss-details { padding: 0 var(--space-lg); font-size: var(--text-sm); font-weight: 600; color: var(--color-ink-2); font-variant-numeric: tabular-nums; }
-    .boss-missing { margin-top: var(--space-xl); max-width: 60ch; color: var(--color-muted); scroll-margin-top: var(--space-lg); }
 
     /* formation cards */
     .cards-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-lg); align-items: start; }
@@ -367,7 +361,7 @@
     .site-footer nav a:active { color: var(--color-footer-ink-2); }
     .site-footer :focus-visible, .site-footer nav a:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 2px; }
 
-    @media (max-width: 1100px) { .dojo-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); } .cards-grid.boss-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+    @media (max-width: 1100px) { .dojo-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
     @media (max-width: 60rem) {
       :root { --gutter: 24px; }
       .cards-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -397,8 +391,7 @@
       main > h1 { font-size: var(--text-2xl); }
       h2.section-heading { font-size: var(--text-xl); margin: var(--space-xl) 0 var(--space-md); }
       .floor-head { margin: var(--space-xl) 0 var(--space-md); }
-      .cards-grid, .cards-grid.boss-cards { grid-template-columns: minmax(0, 1fr); gap: var(--space-md); }
-      .boss-details { padding-inline: var(--space-md); }
+      .cards-grid { grid-template-columns: minmax(0, 1fr); gap: var(--space-md); }
       .dojo-cards { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-sm); }
       .chapter-grid { gap: var(--space-sm); }
       .chapter-name { font-size: var(--text-md); }
@@ -453,7 +446,7 @@
         <div class="chapter-picker">
           <label for="chapter-select">章節</label>
           <span class="select-wrap"><select id="chapter-select"><option value="1">第 1 章</option><option value="2">第 2 章</option><option value="3">第 3 章</option><option value="4">第 4 章</option><option value="5">第 5 章</option><option value="6">第 6 章</option><option value="7">第 7 章</option><option value="8">第 8 章</option><option value="9">第 9 章</option><option value="10">第 10 章</option><option value="11">第 11 章</option><option value="12">第 12 章</option><option value="13">第 13 章</option><option value="14">第 14 章</option><option value="15">第 15 章</option><option value="16">第 16 章</option><option value="17">第 17 章</option><option value="18">第 18 章</option><option value="19">第 19 章</option><option value="20">第 20 章</option><option value="21">第 21 章</option><option value="22">第 22 章</option><option value="23">第 23 章</option><option value="24">第 24 章</option><option value="25">第 25 章</option><option value="26">第 26 章</option><option value="27">第 27 章</option><option value="28">第 28 章</option><option value="29">第 29 章</option><option value="30">第 30 章</option><option value="31" selected>第 31 章</option><option value="32">第 32 章</option><option value="33">第 33 章</option><option value="34">第 34 章</option><option value="35">第 35 章</option><option value="36">第 36 章</option><option value="37">第 37 章</option><option value="38">第 38 章</option><option value="39">第 39 章</option><option value="40">第 40 章</option><option value="41">第 41 章</option><option value="42">第 42 章</option><option value="43">第 43 章</option><option value="44">第 44 章</option><option value="45">第 45 章</option><option value="46">第 46 章</option><option value="47">第 47 章</option><option value="48">第 48 章</option><option value="49">第 49 章</option><option value="50">第 50 章</option><option value="51">第 51 章</option><option value="52">第 52 章</option><option value="53">第 53 章</option><option value="54">第 54 章</option><option value="55">第 55 章</option><option value="56">第 56 章</option><option value="57">第 57 章</option><option value="58">第 58 章</option><option value="59">第 59 章</option><option value="60">第 60 章</option><option value="61">第 61 章</option><option value="62">第 62 章</option><option value="63">第 63 章</option><option value="64">第 64 章</option><option value="65">第 65 章</option><option value="66">第 66 章</option><option value="67">第 67 章</option><option value="68">第 68 章</option><option value="69">第 69 章</option><option value="70">第 70 章</option><option value="71">第 71 章</option><option value="72">第 72 章</option><option value="73">第 73 章</option><option value="74">第 74 章</option><option value="75">第 75 章</option><option value="76">第 76 章</option><option value="77">第 77 章</option><option value="78">第 78 章</option><option value="79">第 79 章</option></select><svg class="chev" aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="m6 9 6 6 6-6"/></svg></span>
-          <a class="dojo-nav-link" href="/zh-hant/dojo/">道場</a><a class="dojo-nav-link boss-nav-link" href="/zh-hant/boss/">Boss</a>
+          <a class="dojo-nav-link" href="/zh-hant/dojo/">道場</a>
         </div>
       </div>
       <p id="chapter-status" class="sr-only" role="status" aria-live="polite"></p>
