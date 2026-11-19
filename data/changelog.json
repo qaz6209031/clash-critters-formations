@@ -1,5 +1,24 @@
 [
   {
+    "date": "2026-11-19",
+    "en": [
+      "30-20 – 30-24: new lower-level lineup (Lv.585) after many \"can't pass\" reports. The Pharaoh boss should spawn in the leftmost lane.",
+      "22-30: new lower-level lineup (Lv.403) that uses easier-to-raise T2 Tatari."
+    ],
+    "zh-hant": [
+      "30-20～30-24：因多位玩家回報過不了，換成等級更低的陣容（Lv.585）。法老王 Boss 需出現在最左邊的路線。",
+      "22-30：換成等級更低的陣容（Lv.403），使用較容易培養的 T2 塔塔。"
+    ],
+    "ko": [
+      "30-20~30-24: 통과가 어렵다는 제보가 많아 더 낮은 레벨(Lv.585) 진형으로 교체했습니다. 파라오 보스가 가장 왼쪽 라인에 나와야 합니다.",
+      "22-30: 키우기 쉬운 T2 타타리를 쓰는 더 낮은 레벨(Lv.403) 진형으로 교체했습니다."
+    ],
+    "vi": [
+      "30-20 – 30-24: thay bằng đội hình cấp thấp hơn (Lv.585) sau nhiều báo cáo không qua được màn. Boss Pharaoh cần xuất hiện ở làn ngoài cùng bên trái.",
+      "22-30: thay bằng đội hình cấp thấp hơn (Lv.403), dùng các Tatari T2 dễ nâng cấp hơn."
+    ]
+  },
+  {
     "date": "2026-11-18",
     "en": [
       "Grass Dojo 7: new lineup with T4 Mantis, Owl and Budboo (by dooka).",
