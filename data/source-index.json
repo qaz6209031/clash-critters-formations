@@ -34949,5 +34949,29 @@
     "channel_id": "1544627061736345690",
     "attachments": [],
     "local_image_path": null
+  },
+  {
+    "id": "1570617640328634550",
+    "text": "30-20, 30-21, 30-22, 30-23, 30-24 Level 585 54444 (Pharaoh should spawn on the leftmost lane)",
+    "display_name": "New Frontiers #1 Fan",
+    "posted_at": "2026-11-13T01:53:46.119Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1567843847386439830/1570617640328634550",
+    "permalink_method": "Original message ID and thread read from the authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "AdAstra | Chapter 27 onwards (Underleveled)",
+    "channel_id": "1567843847386439830",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1555546349863313458",
+    "text": "I was stuck on 22-30 but this worked for me (lvl 403)",
+    "display_name": "Pomodoro",
+    "posted_at": "2026-10-02T11:45:50.461Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1537191777662931064/1555546349863313458",
+    "permalink_method": "Original message ID and thread read from the authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Layios F2P Adventure from ch 10-50 to ch 50",
+    "channel_id": "1537191777662931064",
+    "attachments": [],
+    "local_image_path": null
   }
 ]

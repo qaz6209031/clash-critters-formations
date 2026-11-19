@@ -1926,10 +1926,12 @@
     "notes": "Exact deployed forms, Glitter variants and positions visually matched to the planner catalog. Level is explicitly stated in this source message. Cleared stages follow the author’s caption; the screenshot’s displayed stage is preserved separately and may show the range beginning or an intermediate stage. No unlisted stage or missing unit is inferred.",
     "stage_assignment_basis": "Only the stages explicitly listed in the author’s clear caption; screenshot stage is preserved separately.",
     "selected_for_website": true,
-    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage.",
+    "selection_reason": "Newer date-eligible reference replaces a hidden older source; only explicitly captioned stages are published. Where newer references overlap, keep the later original post for that stage. November 19, 2026: 22-30 replaced by a lower-level (Lv.403) clear after repeated player reports.",
     "website_stage_numbers": [
-      30,
       31
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1555546349863313458"
     ]
   },
   {
@@ -3025,5 +3027,72 @@
     "website_stage_numbers": [
       65
     ]
+  },
+  {
+    "source_message_id": "1555546349863313458",
+    "screenshot_displayed_stage": "22-31",
+    "screenshot_enemy_level": 579,
+    "tatari_level": 403,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 403",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the unit levels in its own screenshot.",
+    "deployed_count": 15,
+    "stage_start": 30,
+    "stage_end": 30,
+    "caption_stage_numbers": [
+      30
+    ],
+    "website_stage_numbers": [
+      30
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selection_reason": "November 19, 2026: 22-30 drew repeated reports and feedback #85 called the Lv.413 board outdated; this clear is lower level (403) and uses several T2 units that are easier to raise.",
+    "replaces_website_source_message_ids": [
+      "1545910677397307392"
+    ],
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        "ospisces"
+      ],
+      [
+        null,
+        null,
+        null,
+        "rockshell",
+        "firecoil"
+      ],
+      [
+        null,
+        "rockwu",
+        "sonarbat",
+        "blitzmane",
+        "kitjitsu"
+      ],
+      [
+        "serrabloom",
+        "cheerspring",
+        "zapooch",
+        "nimbuzzy",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "frostique"
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 19, 2026). All five rows are occupied, so rows are unambiguous. Costumes are shown with the catalog's standard models."
   }
 ]
