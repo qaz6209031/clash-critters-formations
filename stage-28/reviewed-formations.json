@@ -3660,9 +3660,7 @@
     "caption_stage_numbers": [
       60
     ],
-    "website_stage_numbers": [
-      60
-    ],
+    "website_stage_numbers": [],
     "screenshot_displayed_stage": "28-61",
     "screenshot_enemy_level": null,
     "tatari_level": 591,
@@ -3713,11 +3711,14 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28. November 20, 2026: 28-60 replaced by AdAstra's lower-level (Lv.551) clear.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1551615080695734433"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1568916906495311882"
     ]
   },
   {
@@ -4369,9 +4370,7 @@
     "caption_stage_numbers": [
       55
     ],
-    "website_stage_numbers": [
-      55
-    ],
+    "website_stage_numbers": [],
     "screenshot_displayed_stage": "28-56",
     "screenshot_enemy_level": null,
     "tatari_level": 571,
@@ -4422,11 +4421,14 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28. November 20, 2026: 28-55 replaced by AdAstra's lower-level (Lv.551) clear.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1551257734689587230"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1568915306179727510"
     ]
   },
   {
@@ -4437,10 +4439,7 @@
       63,
       64
     ],
-    "website_stage_numbers": [
-      63,
-      64
-    ],
+    "website_stage_numbers": [],
     "screenshot_displayed_stage": "28-65",
     "screenshot_enemy_level": null,
     "tatari_level": 571,
@@ -4491,11 +4490,14 @@
     "needs_review": false,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. ",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28. November 20, 2026: 28-63, 28-64 replaced by AdAstra's lower-level (Lv.551) clear.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1551615080695734433"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1568918722301665370"
     ]
   },
   {
@@ -4508,12 +4510,7 @@
       77,
       78
     ],
-    "website_stage_numbers": [
-      75,
-      76,
-      77,
-      78
-    ],
+    "website_stage_numbers": [],
     "screenshot_displayed_stage": "28-80",
     "screenshot_enemy_level": null,
     "tatari_level": 571,
@@ -4564,11 +4561,14 @@
     "needs_review": true,
     "notes": "Visually reviewed exact forms and 25 grid positions against planner catalog. Author says the screenshot was taken late and explicitly assigns this lineup to 28-75–78. The original clear level is unverified; 571 is the level visible in this source screenshot.",
     "stage_assignment_basis": "Only explicitly captioned clears; displayed next stage retained separately.",
-    "selected_for_website": true,
-    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28.",
+    "selected_for_website": false,
+    "selection_reason": "Original reference posted after October 21, 2026 for revamped chapters 24–28. November 20, 2026: 28-75, 28-76, 28-77, 28-78 replaced by AdAstra's lower-level (Lv.551) clear.",
     "source_image_number": 1,
     "replaces_website_source_message_ids": [
       "1551616442015817738"
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1568923382815260752"
     ]
   },
   {
@@ -4721,7 +4721,9 @@
       72
     ],
     "website_stage_numbers": [
-      70
+      70,
+      71,
+      72
     ],
     "screenshot_displayed_stage": "28-73",
     "screenshot_enemy_level": null,
@@ -4775,7 +4777,7 @@
     "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 28-73 screenshot; all five rows are used. Blitzmane wears a goggles costume, Cheerspring a bow and Azurion a top hat; catalog standard models are shown. Only 28-70 is published from this post; 28-71 and 28-72 keep their existing cards.",
     "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
     "selected_for_website": true,
-    "selection_reason": "November 12, 2026: the previous card drew 5+ \"Can't pass this stage?\" reports; replaced with this lower-level (Lv.551) clear posted after the chapter's publication cutoff.",
+    "selection_reason": "November 12, 2026: the previous card drew 5+ \"Can't pass this stage?\" reports; replaced with this lower-level (Lv.551) clear posted after the chapter's publication cutoff. November 20, 2026: extended to every stage in its caption to fill the Chapter 28 gap.",
     "replaces_website_source_message_ids": [
       "1563589810868985886"
     ]
@@ -4792,7 +4794,11 @@
       54
     ],
     "website_stage_numbers": [
-      50
+      50,
+      51,
+      52,
+      53,
+      54
     ],
     "screenshot_displayed_stage": "28-55",
     "screenshot_enemy_level": 747,
@@ -4846,7 +4852,7 @@
     "notes": "Visually reviewed exact forms and 25 grid positions against the planner catalog. Post-clear 28-55 screenshot; same layout as the author's 28-70 and 29-10 posts, all five rows used. Costumes: Dreadclaw hat, Charflutter flower, Cheerspring bow, Azurion top hat, Sparkdoe tie. Only 28-50 is published from this post; 28-51 to 28-54 keep their cards.",
     "stage_assignment_basis": "Only explicitly captioned stages; the screenshot's displayed stage is retained separately.",
     "selected_for_website": true,
-    "selection_reason": "November 13, 2026: the 28-50 card drew 5 stage reports on November 12. Lower-level (Lv.551) clear posted after the chapter's publication cutoff.",
+    "selection_reason": "November 13, 2026: the 28-50 card drew 5 stage reports on November 12. Lower-level (Lv.551) clear posted after the chapter's publication cutoff. November 20, 2026: extended to every stage in its caption to fill the Chapter 28 gap.",
     "replaces_website_source_message_ids": [
       "1563584038810288198"
     ]
@@ -4984,5 +4990,636 @@
     "replaces_website_source_message_ids": [
       "1563602636731715715"
     ]
+  },
+  {
+    "source_message_id": "1568787853566283897",
+    "stage_start": 30,
+    "stage_end": 32,
+    "caption_stage_numbers": [
+      30,
+      31,
+      32
+    ],
+    "website_stage_numbers": [
+      31,
+      32
+    ],
+    "screenshot_displayed_stage": "28-33",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv.551 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: fills Chapter 28 stages missing since the October 21 update (feedback #82, #88, #89, #91); Lv.551 is the lowest post-update clear found for these stages.",
+    "board": [
+      [
+        "blitzmane",
+        "rockshell",
+        "dreadclaw",
+        "swaystroll",
+        "serrabloom"
+      ],
+      [
+        "zapantler",
+        "cheerspring",
+        "seaswirl",
+        "charflutter",
+        "rockwu"
+      ],
+      [
+        "surgehoof",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "aquariel",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 20, 2026). Rows calibrated against the same player's 28-50 screenshot from the same device. Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1568788872089837680",
+    "stage_start": 33,
+    "stage_end": 34,
+    "caption_stage_numbers": [
+      33,
+      34
+    ],
+    "website_stage_numbers": [
+      33,
+      34
+    ],
+    "screenshot_displayed_stage": "28-35",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv.551 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: fills Chapter 28 stages missing since the October 21 update (feedback #82, #88, #89, #91); Lv.551 is the lowest post-update clear found for these stages.",
+    "board": [
+      [
+        "blitzmane",
+        "rockwu",
+        "dreadclaw",
+        "swaystroll",
+        "serrabloom"
+      ],
+      [
+        "zapantler",
+        "cheerspring",
+        "seaswirl",
+        "charflutter",
+        "solaflora"
+      ],
+      [
+        "surgehoof",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "zenscarab"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 20, 2026). Rows calibrated against the same player's 28-50 screenshot from the same device. Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1568792515472130088",
+    "stage_start": 35,
+    "stage_end": 39,
+    "caption_stage_numbers": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "website_stage_numbers": [
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "screenshot_displayed_stage": "28-40",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv.551 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: fills Chapter 28 stages missing since the October 21 update (feedback #82, #88, #89, #91); Lv.551 is the lowest post-update clear found for these stages.",
+    "board": [
+      [
+        "voltling",
+        null,
+        "hellhound",
+        "dreadclaw",
+        "puffbelly"
+      ],
+      [
+        "blitzmane",
+        "charflutter",
+        "frostique",
+        "cheerspring",
+        "kitjitsu"
+      ],
+      [
+        "zapantler",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "firefox"
+      ],
+      [
+        "solaflora",
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 20, 2026). Rows calibrated against the same player's 28-50 screenshot from the same device. Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1568796059449430166",
+    "stage_start": 40,
+    "stage_end": 44,
+    "caption_stage_numbers": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "website_stage_numbers": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "screenshot_displayed_stage": "28-45",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv.551 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: fills Chapter 28 stages missing since the October 21 update (feedback #82, #88, #89, #91); Lv.551 is the lowest post-update clear found for these stages.",
+    "board": [
+      [
+        null,
+        null,
+        "blitzmane",
+        null,
+        null
+      ],
+      [
+        "tikowl",
+        "rockwu",
+        "sonarbat",
+        null,
+        "serrabloom"
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "zapantler",
+        "charflutter",
+        "capobeetle"
+      ],
+      [
+        "frugagon",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        "boltskipper",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 20, 2026). Rows calibrated against the same player's 28-50 screenshot from the same device. Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1568915306179727510",
+    "stage_start": 55,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "website_stage_numbers": [
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "screenshot_displayed_stage": "28-60",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv.551 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: fills Chapter 28 stages missing since the October 21 update (feedback #82, #88, #89, #91); Lv.551 is the lowest post-update clear found for these stages.",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "tikowl",
+        "rockwu",
+        "blitzmane",
+        "swaystroll"
+      ],
+      [
+        "solaflora",
+        "charflutter",
+        null,
+        "cheerspring",
+        "frostique"
+      ],
+      [
+        "capobeetle",
+        "azurion",
+        "waveflutter",
+        "tideon",
+        "aquariel"
+      ],
+      [
+        null,
+        "frugagon",
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 20, 2026). Rows calibrated against the same player's 28-50 screenshot from the same device. Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1568916906495311882",
+    "stage_start": 60,
+    "stage_end": 61,
+    "caption_stage_numbers": [
+      60,
+      61
+    ],
+    "website_stage_numbers": [
+      60,
+      61
+    ],
+    "screenshot_displayed_stage": "28-62",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv.551 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: fills Chapter 28 stages missing since the October 21 update (feedback #82, #88, #89, #91); Lv.551 is the lowest post-update clear found for these stages.",
+    "board": [
+      [
+        null,
+        null,
+        "rockzilla",
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "serrabloom",
+        "rockwu",
+        "tikowl",
+        null
+      ],
+      [
+        "zapantler",
+        "cheerspring",
+        "rockshell",
+        "charflutter",
+        null
+      ],
+      [
+        "zenscarab",
+        "solaflora",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "rattlecoil",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 20, 2026). Rows calibrated against the same player's 28-50 screenshot from the same device. Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1568918722301665370",
+    "stage_start": 62,
+    "stage_end": 69,
+    "caption_stage_numbers": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "website_stage_numbers": [
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69
+    ],
+    "screenshot_displayed_stage": "28-70",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv.551 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: fills Chapter 28 stages missing since the October 21 update (feedback #82, #88, #89, #91); Lv.551 is the lowest post-update clear found for these stages.",
+    "board": [
+      [
+        null,
+        null,
+        "rockshell",
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "serrabloom",
+        "rockwu",
+        "tikowl",
+        "hellhound"
+      ],
+      [
+        "zapantler",
+        "cheerspring",
+        "trippet",
+        "charflutter",
+        null
+      ],
+      [
+        "zenscarab",
+        "capobeetle",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 20, 2026). Rows calibrated against the same player's 28-50 screenshot from the same device. Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1568922275955347508",
+    "stage_start": 73,
+    "stage_end": 74,
+    "caption_stage_numbers": [
+      73,
+      74
+    ],
+    "website_stage_numbers": [
+      73,
+      74
+    ],
+    "screenshot_displayed_stage": "28-75",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv.551 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: fills Chapter 28 stages missing since the October 21 update (feedback #82, #88, #89, #91); Lv.551 is the lowest post-update clear found for these stages.",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "blitzmane",
+        "hellhound",
+        "rockwu",
+        "sizzribb",
+        "rockshell"
+      ],
+      [
+        "surgehoof",
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        "serrabloom"
+      ],
+      [
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion",
+        "zenscarab"
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 20, 2026). Rows calibrated against the same player's 28-50 screenshot from the same device. Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1568923382815260752",
+    "stage_start": 75,
+    "stage_end": 79,
+    "caption_stage_numbers": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "website_stage_numbers": [
+      75,
+      76,
+      77,
+      78,
+      79
+    ],
+    "screenshot_displayed_stage": "28-80",
+    "screenshot_enemy_level": null,
+    "tatari_level": 551,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 551",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv.551 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": true,
+    "credited_player_name": null,
+    "credit_basis": "Posting author retained; no separate creator identified.",
+    "capture_type": "post_clear",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stages explicitly named in the source caption; the screenshot shows the next stage after the clear.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: fills Chapter 28 stages missing since the October 21 update (feedback #82, #88, #89, #91); Lv.551 is the lowest post-update clear found for these stages.",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "serrabloom",
+        "blitzmane",
+        "tikowl",
+        "dreadclaw",
+        null
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "frugagon",
+        "charflutter",
+        null
+      ],
+      [
+        "capobeetle",
+        "zapantler",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        "trippet",
+        "pandaroot",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 20, 2026). Rows calibrated against the same player's 28-50 screenshot from the same device. Costumes are shown with the catalog's standard models."
   }
 ]
