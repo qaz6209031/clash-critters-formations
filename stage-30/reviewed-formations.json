@@ -157,8 +157,13 @@
     "capture_type": "post_clear",
     "needs_review": false,
     "notes": "Exact forms and occupied cells visually matched to the supplied planner catalog. Each selected range is explicitly reported in its own source caption.",
-    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived.",
-    "credit_basis": "Source caption explicitly credits jacobdumbnut as the guide adapted by the poster."
+    "selection_reason": "Supported stage-block reference with a readable image and a level explicitly stated in its own post. Exhaustive lowest-level comparison was waived. November 20, 2026: 30-10 replaced by Vrondius's Lv.619 clear after repeated player reports.",
+    "credit_basis": "Source caption explicitly credits jacobdumbnut as the guide adapted by the poster.",
+    "website_stage_numbers": [],
+    "selected_for_website": false,
+    "replaced_by_website_source_message_ids": [
+      "1551622108302278726"
+    ]
   },
   {
     "source_message_id": "1539543534581850112",
@@ -2767,5 +2772,72 @@
       ]
     ],
     "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 19, 2026). All five rows are occupied, so rows are unambiguous. Costumes are shown with the catalog's standard models."
+  },
+  {
+    "source_message_id": "1551622108302278726",
+    "stage_start": 10,
+    "stage_end": 10,
+    "caption_stage_numbers": [
+      10
+    ],
+    "website_stage_numbers": [
+      10
+    ],
+    "screenshot_displayed_stage": "30-10",
+    "screenshot_enemy_level": 786,
+    "tatari_level": 619,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 619",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv 619 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "Layios",
+    "credit_basis": "Source caption explicitly credits Layios.",
+    "capture_type": "setup_screen",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stage explicitly named in the source caption.",
+    "selected_for_website": true,
+    "selection_reason": "November 20, 2026: chosen by the site owner after the Lv.573 board kept drawing \"Can't pass this stage?\" reports; the poster notes the first lane needs levels to overpower and failed at 590.",
+    "replaces_website_source_message_ids": [
+      "1549527503477940296"
+    ],
+    "board": [
+      [
+        null,
+        "serrabloom",
+        "hellhound",
+        null,
+        null
+      ],
+      [
+        "clangnaga",
+        "cheerspring",
+        "charflutter",
+        "solaflora",
+        null
+      ],
+      [
+        "firefox",
+        "hyphoria",
+        "pyroprawn",
+        "blitzmane",
+        "zapantler"
+      ],
+      [
+        null,
+        "azurion",
+        "waveflutter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        null,
+        "scorchwing",
+        null,
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original pre-battle 30-10 screenshot and the catalog sprites (November 20, 2026). All five rows are occupied, so rows are unambiguous."
   }
 ]
