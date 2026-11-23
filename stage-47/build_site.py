@@ -744,12 +744,13 @@ for _lang, _extra in UPDATES_STRINGS.items():
 # Lineups use the normal 5×5 board and are sorted by critter level.
 # Official Boss Challenge names; Discord players often use the original Zobo names
 # (Goonch Zobo for Frankenfish, Manager Zobo for Dean Zobo, Roadhog Zobo for Road Bully).
+# Listed in the dojo element order: water, fire, grass, rock, lightning.
 BOSSES = {
     "frankenfish": "Frankenfish",
-    "pop-star": "Pop Star",
-    "road-bully": "Road Bully",
     "tipsy-zobo": "Tipsy Zobo",
     "dean-zobo": "Dean Zobo",
+    "road-bully": "Road Bully",
+    "pop-star": "Pop Star",
 }
 # Tile colour per boss: the boss's element, reusing the dojo element palette.
 BOSS_ELEMENTS = {"frankenfish": "water", "pop-star": "lightning", "road-bully": "rock",
