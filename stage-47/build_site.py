@@ -740,20 +740,20 @@ UPDATES_STRINGS = {
 for _lang, _extra in UPDATES_STRINGS.items():
     STRINGS[_lang].update(_extra)
 
-# Boss Challenge: six bosses, each with Difficulty 1–100 and then an Endless damage mode.
+# Boss Challenge: five bosses, each with Difficulty 1–100 and then an Endless damage mode.
 # Lineups use the normal 5×5 board and are sorted by critter level.
+# Official Boss Challenge names; Discord players often use the original Zobo names
+# (Goonch Zobo for Frankenfish, Manager Zobo for Dean Zobo, Roadhog Zobo for Road Bully).
 BOSSES = {
-    "popstar-zobo": "Popstar Zobo",
+    "frankenfish": "Frankenfish",
+    "pop-star": "Pop Star",
     "road-bully": "Road Bully",
     "tipsy-zobo": "Tipsy Zobo",
-    "manager-zobo": "Manager Zobo",
-    "frankenfish": "Frankenfish",
-    "goonch-zobo": "Goonch Zobo",
+    "dean-zobo": "Dean Zobo",
 }
-# Tile colour per boss, reusing the dojo element palette. Popstar (lightning) and Manager (grass)
-# are named in clyde's guide; the rest are inferred from the element their lineups lean on.
-BOSS_ELEMENTS = {"popstar-zobo": "lightning", "road-bully": "rock", "tipsy-zobo": "fire",
-                 "manager-zobo": "grass", "frankenfish": "water", "goonch-zobo": "water"}
+# Tile colour per boss: the boss's element, reusing the dojo element palette.
+BOSS_ELEMENTS = {"frankenfish": "water", "pop-star": "lightning", "road-bully": "rock",
+                 "tipsy-zobo": "fire", "dean-zobo": "grass"}
 BOSS_FILE = ROOT.parent / "boss" / "reviewed-boss-formations.json"
 BOSS_REVIEWED = json.loads(BOSS_FILE.read_text())
 BOSS_STRINGS = {
@@ -764,7 +764,7 @@ BOSS_STRINGS = {
         "boss_count": "{cards} lineups · Lv.{lo}–{hi}",
         "boss_count_one": "1 lineup · Lv.{lo}",
         "boss_index_title": "Clash of Critters Boss Challenge Lineups | Critter Formations",
-        "boss_index_description": "Boss Challenge lineups for Popstar Zobo, Road Bully, Tipsy Zobo, Manager Zobo, Frankenfish and Goonch Zobo in Clash of Critters, sorted by level, with links to the original player posts.",
+        "boss_index_description": "Boss Challenge lineups for Frankenfish, Pop Star, Road Bully, Tipsy Zobo and Dean Zobo in Clash of Critters, sorted by level, with links to the original player posts.",
         "boss_index_h1": "Boss Challenge Lineups",
         "boss_title": "{boss} Boss Challenge Lineups | Critter Formations",
         "boss_description": "{cards} Boss Challenge lineups for {boss} in Clash of Critters, from Lv.{lo} to Lv.{hi}, with links to the original Discord posts.",
@@ -783,7 +783,7 @@ BOSS_STRINGS = {
         "boss_count": "{cards} 組陣容 · Lv.{lo}–{hi}",
         "boss_count_one": "1 組陣容 · Lv.{lo}",
         "boss_index_title": "塔塔冒險隊 Boss 挑戰陣容 | Critter Formations",
-        "boss_index_description": "塔塔冒險隊（Clash of Critters）Popstar Zobo、Road Bully、Tipsy Zobo、Manager Zobo、Frankenfish、Goonch Zobo 的 Boss 挑戰陣容，依等級排序，附玩家原始貼文連結。",
+        "boss_index_description": "塔塔冒險隊（Clash of Critters）Frankenfish、Pop Star、Road Bully、Tipsy Zobo、Dean Zobo 的 Boss 挑戰陣容，依等級排序，附玩家原始貼文連結。",
         "boss_index_h1": "Boss 挑戰陣容",
         "boss_title": "塔塔冒險隊 {boss} Boss 挑戰陣容 | Critter Formations",
         "boss_description": "塔塔冒險隊 {boss} 的 {cards} 組 Boss 挑戰陣容（Lv.{lo}–{hi}），附 Discord 原始貼文連結。",
@@ -802,7 +802,7 @@ BOSS_STRINGS = {
         "boss_count": "진형 {cards}개 · Lv.{lo}–{hi}",
         "boss_count_one": "진형 1개 · Lv.{lo}",
         "boss_index_title": "Clash of Critters 보스 챌린지 진형 | Critter Formations",
-        "boss_index_description": "Clash of Critters의 Popstar Zobo, Road Bully, Tipsy Zobo, Manager Zobo, Frankenfish, Goonch Zobo 보스 챌린지 진형을 레벨순으로 정리하고 원본 플레이어 게시물 링크를 달았습니다.",
+        "boss_index_description": "Clash of Critters의 Frankenfish, Pop Star, Road Bully, Tipsy Zobo, Dean Zobo 보스 챌린지 진형을 레벨순으로 정리하고 원본 플레이어 게시물 링크를 달았습니다.",
         "boss_index_h1": "보스 챌린지 진형",
         "boss_title": "Clash of Critters {boss} 보스 챌린지 진형 | Critter Formations",
         "boss_description": "Clash of Critters {boss} 보스 챌린지 진형 {cards}개(Lv.{lo}–{hi})와 원본 Discord 게시물 링크.",
@@ -821,7 +821,7 @@ BOSS_STRINGS = {
         "boss_count": "{cards} đội hình · Lv.{lo}–{hi}",
         "boss_count_one": "1 đội hình · Lv.{lo}",
         "boss_index_title": "Đội hình Thử thách Boss Clash of Critters | Critter Formations",
-        "boss_index_description": "Đội hình Thử thách Boss cho Popstar Zobo, Road Bully, Tipsy Zobo, Manager Zobo, Frankenfish và Goonch Zobo trong Clash of Critters, xếp theo cấp, kèm liên kết bài đăng gốc của người chơi.",
+        "boss_index_description": "Đội hình Thử thách Boss cho Frankenfish, Pop Star, Road Bully, Tipsy Zobo và Dean Zobo trong Clash of Critters, xếp theo cấp, kèm liên kết bài đăng gốc của người chơi.",
         "boss_index_h1": "Đội hình Thử thách Boss",
         "boss_title": "Đội hình Thử thách Boss {boss} Clash of Critters | Critter Formations",
         "boss_description": "{cards} đội hình Thử thách Boss cho {boss} trong Clash of Critters (Lv.{lo}–{hi}), kèm liên kết bài đăng Discord gốc.",

@@ -1,5 +1,173 @@
 [
   {
+    "source_message_id": "1570356834655674448",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1569035295540772977/1570356834655674448",
+    "source_thread": "Boss challenge (t2/t3) around 40-70 difficulty",
+    "channel_id": "1569035295540772977",
+    "display_name": "Boomking",
+    "posted_at": "2026-11-12T08:37:25.201Z",
+    "caption": "Manager boss",
+    "boss": "dean-zobo",
+    "mode": "difficulty",
+    "difficulty": 74,
+    "percent": null,
+    "endless_damage": null,
+    "tatari_level": 519,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        null,
+        "electroar",
+        "serrabloom",
+        "hellhound",
+        "puffbelly"
+      ],
+      [
+        null,
+        "firecoil",
+        "flarevix",
+        "cheerspring",
+        "sulfunk"
+      ],
+      [
+        "ignisnap",
+        "waveflutter",
+        "pyroprawn",
+        "hyphoria",
+        "sonarbat"
+      ],
+      [
+        null,
+        null,
+        "cactobloom",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "scorchwing",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1530876330697293894",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1530876330697293894",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-07-26T09:55:59.545Z",
+    "caption": "Manager Zobo; Diff 88: 96%",
+    "boss": "dean-zobo",
+    "mode": "difficulty",
+    "difficulty": 88,
+    "percent": 96,
+    "endless_damage": null,
+    "tatari_level": 653,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "serrabloom",
+        "hellhound",
+        null
+      ],
+      [
+        "embertail",
+        "cheerspring",
+        "flarevix",
+        "charflutter",
+        "sonarbat"
+      ],
+      [
+        "sulfunk",
+        "waveflutter",
+        "pyroprawn",
+        "hyphoria",
+        null
+      ],
+      [
+        null,
+        null,
+        "azurion",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        "scorchwing",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1548559168368148600",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1548559168368148600",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-09-13T05:01:16.577Z",
+    "caption": "Manager Zobo; Endless: 94.29M",
+    "boss": "dean-zobo",
+    "mode": "endless",
+    "difficulty": null,
+    "percent": null,
+    "endless_damage": "94.29M",
+    "tatari_level": 1190,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        null,
+        "cribking",
+        "orchitoria",
+        "hellhound",
+        null
+      ],
+      [
+        "sonarbat",
+        "cheerspring",
+        "kitjitsu",
+        "charflutter",
+        "embertail"
+      ],
+      [
+        null,
+        "hyphoria",
+        "azurion",
+        "waveflutter",
+        "sulfunk"
+      ],
+      [
+        null,
+        null,
+        "flarevix",
+        "pandaroot",
+        null
+      ],
+      [
+        null,
+        null,
+        "silversear",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
     "source_message_id": "1523871581343060000",
     "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1523871581343060000",
     "source_thread": "Dis’s Boss Challenge Stash",
@@ -175,7 +343,7 @@
     "display_name": "Dis",
     "posted_at": "2026-09-15T16:26:47.979Z",
     "caption": "Goonch Zobo; Endless: 38.55M",
-    "boss": "goonch-zobo",
+    "boss": "frankenfish",
     "mode": "endless",
     "difficulty": null,
     "percent": null,
@@ -221,175 +389,7 @@
       ]
     ],
     "selected_for_website": true,
-    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
-  },
-  {
-    "source_message_id": "1570356834655674448",
-    "source_message_url": "https://discord.com/channels/1343763804349267989/1569035295540772977/1570356834655674448",
-    "source_thread": "Boss challenge (t2/t3) around 40-70 difficulty",
-    "channel_id": "1569035295540772977",
-    "display_name": "Boomking",
-    "posted_at": "2026-11-12T08:37:25.201Z",
-    "caption": "Manager boss",
-    "boss": "manager-zobo",
-    "mode": "difficulty",
-    "difficulty": 74,
-    "percent": null,
-    "endless_damage": null,
-    "tatari_level": 519,
-    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
-    "capture_type": "setup_screen",
-    "board": [
-      [
-        null,
-        "electroar",
-        "serrabloom",
-        "hellhound",
-        "puffbelly"
-      ],
-      [
-        null,
-        "firecoil",
-        "flarevix",
-        "cheerspring",
-        "sulfunk"
-      ],
-      [
-        "ignisnap",
-        "waveflutter",
-        "pyroprawn",
-        "hyphoria",
-        "sonarbat"
-      ],
-      [
-        null,
-        null,
-        "cactobloom",
-        null,
-        null
-      ],
-      [
-        null,
-        null,
-        "scorchwing",
-        null,
-        null
-      ]
-    ],
-    "selected_for_website": true,
-    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
-  },
-  {
-    "source_message_id": "1530876330697293894",
-    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1530876330697293894",
-    "source_thread": "Dis’s Boss Challenge Stash",
-    "channel_id": "1519015491769864402",
-    "display_name": "Dis",
-    "posted_at": "2026-07-26T09:55:59.545Z",
-    "caption": "Manager Zobo; Diff 88: 96%",
-    "boss": "manager-zobo",
-    "mode": "difficulty",
-    "difficulty": 88,
-    "percent": 96,
-    "endless_damage": null,
-    "tatari_level": 653,
-    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
-    "capture_type": "leaderboard_lineup",
-    "board": [
-      [
-        null,
-        "blitzmane",
-        "serrabloom",
-        "hellhound",
-        null
-      ],
-      [
-        "embertail",
-        "cheerspring",
-        "flarevix",
-        "charflutter",
-        "sonarbat"
-      ],
-      [
-        "sulfunk",
-        "waveflutter",
-        "pyroprawn",
-        "hyphoria",
-        null
-      ],
-      [
-        null,
-        null,
-        "azurion",
-        "solaflora",
-        null
-      ],
-      [
-        null,
-        null,
-        "scorchwing",
-        null,
-        null
-      ]
-    ],
-    "selected_for_website": true,
-    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
-  },
-  {
-    "source_message_id": "1548559168368148600",
-    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1548559168368148600",
-    "source_thread": "Dis’s Boss Challenge Stash",
-    "channel_id": "1519015491769864402",
-    "display_name": "Dis",
-    "posted_at": "2026-09-13T05:01:16.577Z",
-    "caption": "Manager Zobo; Endless: 94.29M",
-    "boss": "manager-zobo",
-    "mode": "endless",
-    "difficulty": null,
-    "percent": null,
-    "endless_damage": "94.29M",
-    "tatari_level": 1190,
-    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
-    "capture_type": "leaderboard_lineup",
-    "board": [
-      [
-        null,
-        "cribking",
-        "orchitoria",
-        "hellhound",
-        null
-      ],
-      [
-        "sonarbat",
-        "cheerspring",
-        "kitjitsu",
-        "charflutter",
-        "embertail"
-      ],
-      [
-        null,
-        "hyphoria",
-        "azurion",
-        "waveflutter",
-        "sulfunk"
-      ],
-      [
-        null,
-        null,
-        "flarevix",
-        "pandaroot",
-        null
-      ],
-      [
-        null,
-        null,
-        "silversear",
-        null,
-        null
-      ]
-    ],
-    "selected_for_website": true,
-    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss). The poster labelled it Goonch Zobo, the original Zobo that Frankenfish is based on; the Boss Challenge has five bosses and this lineup is filed under Frankenfish."
   },
   {
     "source_message_id": "1520972072208171038",
@@ -399,7 +399,7 @@
     "display_name": "Dis",
     "posted_at": "2026-06-29T02:00:00.309Z",
     "caption": "Popstar Zobo; Diff 46: 91%",
-    "boss": "popstar-zobo",
+    "boss": "pop-star",
     "mode": "difficulty",
     "difficulty": 46,
     "percent": 91,
@@ -455,7 +455,7 @@
     "display_name": "Dis",
     "posted_at": "2026-07-20T04:51:33.030Z",
     "caption": "Popstar Zobo; Diff 74: 89%",
-    "boss": "popstar-zobo",
+    "boss": "pop-star",
     "mode": "difficulty",
     "difficulty": 74,
     "percent": 89,
@@ -511,7 +511,7 @@
     "display_name": "Dis",
     "posted_at": "2026-09-17T05:47:32.650Z",
     "caption": "Popstar Zobo; Endless: 64.38M",
-    "boss": "popstar-zobo",
+    "boss": "pop-star",
     "mode": "endless",
     "difficulty": null,
     "percent": null,
