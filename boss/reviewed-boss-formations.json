@@ -1,0 +1,898 @@
+[
+  {
+    "source_message_id": "1523871581343060000",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1523871581343060000",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-07-07T02:01:37.157Z",
+    "caption": "Frankenfish; Diff 51: 96%",
+    "boss": "frankenfish",
+    "mode": "difficulty",
+    "difficulty": 51,
+    "percent": 96,
+    "endless_damage": null,
+    "tatari_level": 391,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        "serrabloom",
+        null,
+        "voltling",
+        "blitzmane",
+        null
+      ],
+      [
+        null,
+        "rockwu",
+        "nimbuzzy",
+        "cheerspring",
+        "zapooch"
+      ],
+      [
+        "boltskipper",
+        "trippet",
+        "sonarbat",
+        "charflutter",
+        "surgehoof"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "sparkdoe",
+        null
+      ],
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1534747574156918856",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1534747574156918856",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-08-06T02:18:55.910Z",
+    "caption": "Frankenfish; Diff 86:99%",
+    "boss": "frankenfish",
+    "mode": "difficulty",
+    "difficulty": 86,
+    "percent": 99,
+    "endless_damage": null,
+    "tatari_level": 738,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        null,
+        "serrabloom",
+        null,
+        "voltverine",
+        null
+      ],
+      [
+        "boltskipper",
+        null,
+        "cheerspring",
+        null,
+        "zapooch"
+      ],
+      [
+        null,
+        "sonarbat",
+        "nimbuzzy",
+        "rockwu",
+        null
+      ],
+      [
+        "voltmare",
+        "hyphoria",
+        "tideon",
+        "waveflutter",
+        "zapantler"
+      ],
+      [
+        null,
+        "solaflora",
+        "frostique",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1546098775704076319",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1546098775704076319",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-09-06T10:04:33.254Z",
+    "caption": "Frankenfish; Endless: 31.84M",
+    "boss": "frankenfish",
+    "mode": "endless",
+    "difficulty": null,
+    "percent": null,
+    "endless_damage": "31.84M",
+    "tatari_level": 1130,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        null,
+        "orchitoria",
+        null,
+        "zapooch",
+        null
+      ],
+      [
+        "voltverine",
+        null,
+        "boltallion",
+        null,
+        "boltskipper"
+      ],
+      [
+        null,
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        null
+      ],
+      [
+        "frostique",
+        "hyphoria",
+        "nimbuzzy",
+        "waveflutter",
+        "zapantler"
+      ],
+      [
+        "solaflora",
+        null,
+        "haplysia",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1549456461703151669",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1549456461703151669",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-09-15T16:26:47.979Z",
+    "caption": "Goonch Zobo; Endless: 38.55M",
+    "boss": "goonch-zobo",
+    "mode": "endless",
+    "difficulty": null,
+    "percent": null,
+    "endless_damage": "38.55M",
+    "tatari_level": 1229,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        null,
+        "orchitoria",
+        null,
+        "cribking",
+        null
+      ],
+      [
+        "voltverine",
+        null,
+        "boltallion",
+        null,
+        "zapooch"
+      ],
+      [
+        null,
+        "cheerspring",
+        "sonarbat",
+        "charflutter",
+        null
+      ],
+      [
+        null,
+        "hyphoria",
+        "nimbuzzy",
+        "waveflutter",
+        "zapantler"
+      ],
+      [
+        "solaflora",
+        null,
+        "haplysia",
+        "rockong",
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1570356834655674448",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1569035295540772977/1570356834655674448",
+    "source_thread": "Boss challenge (t2/t3) around 40-70 difficulty",
+    "channel_id": "1569035295540772977",
+    "display_name": "Boomking",
+    "posted_at": "2026-11-12T08:37:25.201Z",
+    "caption": "Manager boss",
+    "boss": "manager-zobo",
+    "mode": "difficulty",
+    "difficulty": 74,
+    "percent": null,
+    "endless_damage": null,
+    "tatari_level": 519,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        null,
+        "electroar",
+        "serrabloom",
+        "hellhound",
+        "puffbelly"
+      ],
+      [
+        null,
+        "firecoil",
+        "flarevix",
+        "cheerspring",
+        "sulfunk"
+      ],
+      [
+        "ignisnap",
+        "waveflutter",
+        "pyroprawn",
+        "hyphoria",
+        "sonarbat"
+      ],
+      [
+        null,
+        null,
+        "cactobloom",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "scorchwing",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1530876330697293894",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1530876330697293894",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-07-26T09:55:59.545Z",
+    "caption": "Manager Zobo; Diff 88: 96%",
+    "boss": "manager-zobo",
+    "mode": "difficulty",
+    "difficulty": 88,
+    "percent": 96,
+    "endless_damage": null,
+    "tatari_level": 653,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "serrabloom",
+        "hellhound",
+        null
+      ],
+      [
+        "embertail",
+        "cheerspring",
+        "flarevix",
+        "charflutter",
+        "sonarbat"
+      ],
+      [
+        "sulfunk",
+        "waveflutter",
+        "pyroprawn",
+        "hyphoria",
+        null
+      ],
+      [
+        null,
+        null,
+        "azurion",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        null,
+        "scorchwing",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1548559168368148600",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1548559168368148600",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-09-13T05:01:16.577Z",
+    "caption": "Manager Zobo; Endless: 94.29M",
+    "boss": "manager-zobo",
+    "mode": "endless",
+    "difficulty": null,
+    "percent": null,
+    "endless_damage": "94.29M",
+    "tatari_level": 1190,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        null,
+        "cribking",
+        "orchitoria",
+        "hellhound",
+        null
+      ],
+      [
+        "sonarbat",
+        "cheerspring",
+        "kitjitsu",
+        "charflutter",
+        "embertail"
+      ],
+      [
+        null,
+        "hyphoria",
+        "azurion",
+        "waveflutter",
+        "sulfunk"
+      ],
+      [
+        null,
+        null,
+        "flarevix",
+        "pandaroot",
+        null
+      ],
+      [
+        null,
+        null,
+        "silversear",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1520972072208171038",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1520972072208171038",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-06-29T02:00:00.309Z",
+    "caption": "Popstar Zobo; Diff 46: 91%",
+    "boss": "popstar-zobo",
+    "mode": "difficulty",
+    "difficulty": 46,
+    "percent": 91,
+    "endless_damage": null,
+    "tatari_level": 331,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        "rockzilla",
+        "rockwu",
+        "rockshell",
+        null,
+        "snoozebo"
+      ],
+      [
+        "sonarbat",
+        "cheerspring",
+        "rattlecoil",
+        "blitzmane",
+        null
+      ],
+      [
+        "watchroo",
+        null,
+        "humbleetle",
+        "firecoil",
+        null
+      ],
+      [
+        null,
+        null,
+        "rockhog",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1528625388186632264",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1528625388186632264",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-07-20T04:51:33.030Z",
+    "caption": "Popstar Zobo; Diff 74: 89%",
+    "boss": "popstar-zobo",
+    "mode": "difficulty",
+    "difficulty": 74,
+    "percent": 89,
+    "endless_damage": null,
+    "tatari_level": 591,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        "snoozebo",
+        "rockzilla",
+        "rockshell",
+        "rockwu",
+        "serrabloom"
+      ],
+      [
+        null,
+        "charflutter",
+        "clangnaga",
+        "cheerspring",
+        "sonarbat"
+      ],
+      [
+        "solaflora",
+        "waveflutter",
+        "humbleetle",
+        "trippet",
+        null
+      ],
+      [
+        null,
+        null,
+        "rockhog",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1550020363524640829",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1550020363524640829",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-09-17T05:47:32.650Z",
+    "caption": "Popstar Zobo; Endless: 64.38M",
+    "boss": "popstar-zobo",
+    "mode": "endless",
+    "difficulty": null,
+    "percent": null,
+    "endless_damage": "64.38M",
+    "tatari_level": 1244,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        "rizzler",
+        "rockzilla",
+        "rockshell",
+        "rockong",
+        null
+      ],
+      [
+        null,
+        "cheerspring",
+        "rockhog",
+        "charflutter",
+        "sonarbat"
+      ],
+      [
+        null,
+        "morphanessa",
+        "zenscarab",
+        "hyphoria",
+        null
+      ],
+      [
+        null,
+        "solaflora",
+        "clangnaga",
+        "pandaroot",
+        null
+      ],
+      [
+        null,
+        null,
+        "haplysia",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1569035295540772977",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1569035295540772977/1569035295540772977",
+    "source_thread": "Boss challenge (t2/t3) around 40-70 difficulty",
+    "channel_id": "1569035295540772977",
+    "display_name": "Boomking",
+    "posted_at": "2026-11-08T17:06:05.723Z",
+    "caption": "Road Bully formation",
+    "boss": "road-bully",
+    "mode": "difficulty",
+    "difficulty": 68,
+    "percent": null,
+    "endless_damage": null,
+    "tatari_level": 470,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        null,
+        "trippet",
+        "snapshade",
+        "hellhound",
+        null
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "serrabloom",
+        "blitzmane",
+        "capobeetle"
+      ],
+      [
+        "jarachnid",
+        null,
+        "cactobloom",
+        null,
+        null
+      ],
+      [
+        null,
+        "ignisnap",
+        "waveflutter",
+        "rockwu",
+        "sonarbat"
+      ],
+      [
+        null,
+        null,
+        "cluckeroo",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1528947667533561977",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1528947667533561977",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-07-21T02:12:10.414Z",
+    "caption": "Road Bully; Diff 83: 99%",
+    "boss": "road-bully",
+    "mode": "difficulty",
+    "difficulty": 83,
+    "percent": 99,
+    "endless_damage": null,
+    "tatari_level": 603,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        null,
+        "blitzmane",
+        "serrabloom",
+        null,
+        null
+      ],
+      [
+        "capobeetle",
+        "charflutter",
+        "cactobloom",
+        "cheerspring",
+        "tikowl"
+      ],
+      [
+        "solaflora",
+        null,
+        "frugagon",
+        "trippet",
+        "jarachnid"
+      ],
+      [
+        null,
+        "tideon",
+        "waveflutter",
+        "azurion",
+        null
+      ],
+      [
+        null,
+        null,
+        "cluckeroo",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1550675970329944126",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1550675970329944126",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-09-19T01:12:41.493Z",
+    "caption": "Road Bully; Endless: 116.31M",
+    "boss": "road-bully",
+    "mode": "endless",
+    "difficulty": null,
+    "percent": null,
+    "endless_damage": "116.31M",
+    "tatari_level": 1266,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        null,
+        "cribking",
+        "orchitoria",
+        "blitzmane",
+        null
+      ],
+      [
+        "solaflora",
+        "cheerspring",
+        "cactobloom",
+        "charflutter",
+        "silversear"
+      ],
+      [
+        "chronerva",
+        null,
+        "slobberlama",
+        "hyphoria",
+        "sonarbat"
+      ],
+      [
+        null,
+        "haplysia",
+        "morphanessa",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "cluckeroo",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1569698312473542838",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1569035295540772977/1569698312473542838",
+    "source_thread": "Boss challenge (t2/t3) around 40-70 difficulty",
+    "channel_id": "1569035295540772977",
+    "display_name": "Boomking",
+    "posted_at": "2026-11-10T13:00:41.278Z",
+    "caption": "Tipsy boss formation, if u have fire Mothra t3 use it with mushroom ( replace the bat)",
+    "boss": "tipsy-zobo",
+    "mode": "difficulty",
+    "difficulty": 67,
+    "percent": null,
+    "endless_damage": null,
+    "tatari_level": 490,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "setup_screen",
+    "board": [
+      [
+        "boldclaw",
+        "clawzor",
+        "ospisces",
+        "electroar",
+        "swaystroll"
+      ],
+      [
+        "solaflora",
+        "firecoil",
+        "frostique",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        "sonarbat",
+        "tideon",
+        "waveflutter",
+        "ignisnap"
+      ],
+      [
+        null,
+        null,
+        "sealoon",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "blubbles",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1529696733158834339",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1529696733158834339",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-07-23T03:48:41.576Z",
+    "caption": "Tipsy Zobo; Diff 85: 93%",
+    "boss": "tipsy-zobo",
+    "mode": "difficulty",
+    "difficulty": 85,
+    "percent": 93,
+    "endless_damage": null,
+    "tatari_level": 630,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        "boldclaw",
+        "dreadclaw",
+        "ospisces",
+        "blitzmane",
+        "waddledo"
+      ],
+      [
+        null,
+        "charflutter",
+        "yawnelly",
+        "cheerspring",
+        null
+      ],
+      [
+        "capypapa",
+        "hyphoria",
+        "tideon",
+        "waveflutter",
+        "azurion"
+      ],
+      [
+        null,
+        null,
+        "seaswirl",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "frostique",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  },
+  {
+    "source_message_id": "1551459123600560128",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1519015491769864402/1551459123600560128",
+    "source_thread": "Dis’s Boss Challenge Stash",
+    "channel_id": "1519015491769864402",
+    "display_name": "Dis",
+    "posted_at": "2026-09-21T05:04:39.783Z",
+    "caption": "Tipsy Zobo; Endless: 130.02M",
+    "boss": "tipsy-zobo",
+    "mode": "endless",
+    "difficulty": null,
+    "percent": null,
+    "endless_damage": "130.02M",
+    "tatari_level": 1291,
+    "tatari_level_basis": "Read from the unit level shown on the critter cards in the poster's own screenshot.",
+    "capture_type": "leaderboard_lineup",
+    "board": [
+      [
+        "morphanessa",
+        "cribking",
+        "armorjaw",
+        "blitzmane",
+        "embertail"
+      ],
+      [
+        null,
+        "charflutter",
+        "capypapa",
+        "cheerspring",
+        "nimbuzzy"
+      ],
+      [
+        null,
+        "hyphoria",
+        "frostique",
+        "rockong",
+        "sonarbat"
+      ],
+      [
+        null,
+        null,
+        "silversear",
+        null,
+        null
+      ],
+      [
+        null,
+        null,
+        "haplysia",
+        null,
+        null
+      ]
+    ],
+    "selected_for_website": true,
+    "notes": "Exact forms and all 25 cells visually reviewed against the original screenshot and catalog sprites (November 23, 2026). Top row is the front (nearest the boss)."
+  }
+]

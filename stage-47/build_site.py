@@ -740,6 +740,99 @@ UPDATES_STRINGS = {
 for _lang, _extra in UPDATES_STRINGS.items():
     STRINGS[_lang].update(_extra)
 
+# Boss Challenge: six bosses, each with Difficulty 1–100 and then an Endless damage mode.
+# Lineups use the normal 5×5 board and are sorted by critter level.
+BOSSES = {
+    "popstar-zobo": "Popstar Zobo",
+    "road-bully": "Road Bully",
+    "tipsy-zobo": "Tipsy Zobo",
+    "manager-zobo": "Manager Zobo",
+    "frankenfish": "Frankenfish",
+    "goonch-zobo": "Goonch Zobo",
+}
+BOSS_FILE = ROOT.parent / "boss" / "reviewed-boss-formations.json"
+BOSS_REVIEWED = json.loads(BOSS_FILE.read_text())
+BOSS_STRINGS = {
+    "en": {
+        "boss_nav": "Bosses",
+        "boss_heading": "Boss Challenge",
+        "boss_intro": "Every boss has Difficulty 1–100. Once you clear Difficulty 100 you reach Endless mode, where players are ranked by total damage. Lineups are sorted by critter level, so start with the one closest to your level.",
+        "boss_count": "{cards} lineups · Lv.{lo}–{hi}",
+        "boss_count_one": "1 lineup · Lv.{lo}",
+        "boss_index_title": "Clash of Critters Boss Challenge Lineups | Critter Formations",
+        "boss_index_description": "Boss Challenge lineups for Popstar Zobo, Road Bully, Tipsy Zobo, Manager Zobo, Frankenfish and Goonch Zobo in Clash of Critters, sorted by level, with links to the original player posts.",
+        "boss_index_h1": "Boss Challenge Lineups",
+        "boss_title": "{boss} Boss Challenge Lineups | Critter Formations",
+        "boss_description": "{cards} Boss Challenge lineups for {boss} in Clash of Critters, from Lv.{lo} to Lv.{hi}, with links to the original Discord posts.",
+        "boss_h1": "{boss} Lineups",
+        "boss_difficulty": "Difficulty {n}",
+        "boss_endless": "Endless · {damage}",
+        "boss_result_title": "The poster's best result with this lineup",
+        "boss_board_aria": "{boss} lineup at Lv.{level}: 5 by 5 formation, top row is the front",
+        "boss_level_title": "Critter level {level}",
+        "og_alt_boss": "{boss} Boss Challenge lineups preview",
+    },
+    "zh-hant": {
+        "boss_nav": "Boss",
+        "boss_heading": "Boss 挑戰",
+        "boss_intro": "每個 Boss 都有難度 1–100。通過難度 100 後會進入無盡模式，改以總傷害排名。陣容依角色等級排序，請先參考和你等級最接近的那一組。",
+        "boss_count": "{cards} 組陣容 · Lv.{lo}–{hi}",
+        "boss_count_one": "1 組陣容 · Lv.{lo}",
+        "boss_index_title": "塔塔冒險隊 Boss 挑戰陣容 | Critter Formations",
+        "boss_index_description": "塔塔冒險隊（Clash of Critters）Popstar Zobo、Road Bully、Tipsy Zobo、Manager Zobo、Frankenfish、Goonch Zobo 的 Boss 挑戰陣容，依等級排序，附玩家原始貼文連結。",
+        "boss_index_h1": "Boss 挑戰陣容",
+        "boss_title": "塔塔冒險隊 {boss} Boss 挑戰陣容 | Critter Formations",
+        "boss_description": "塔塔冒險隊 {boss} 的 {cards} 組 Boss 挑戰陣容（Lv.{lo}–{hi}），附 Discord 原始貼文連結。",
+        "boss_h1": "{boss} 陣容",
+        "boss_difficulty": "難度 {n}",
+        "boss_endless": "無盡 · {damage}",
+        "boss_result_title": "原作者用這組陣容的最佳成績",
+        "boss_board_aria": "{boss} Lv.{level} 陣容：5×5，最上排為前排",
+        "boss_level_title": "角色等級 {level}",
+        "og_alt_boss": "塔塔冒險隊 {boss} Boss 挑戰陣容預覽",
+    },
+    "ko": {
+        "boss_nav": "보스",
+        "boss_heading": "보스 챌린지",
+        "boss_intro": "보스마다 난이도 1–100이 있습니다. 난이도 100을 깨면 무한 모드가 열리고, 총 피해량으로 순위를 겨룹니다. 진형은 크리터 레벨순으로 정렬되어 있으니 내 레벨과 가장 가까운 것부터 시도해 보세요.",
+        "boss_count": "진형 {cards}개 · Lv.{lo}–{hi}",
+        "boss_count_one": "진형 1개 · Lv.{lo}",
+        "boss_index_title": "Clash of Critters 보스 챌린지 진형 | Critter Formations",
+        "boss_index_description": "Clash of Critters의 Popstar Zobo, Road Bully, Tipsy Zobo, Manager Zobo, Frankenfish, Goonch Zobo 보스 챌린지 진형을 레벨순으로 정리하고 원본 플레이어 게시물 링크를 달았습니다.",
+        "boss_index_h1": "보스 챌린지 진형",
+        "boss_title": "Clash of Critters {boss} 보스 챌린지 진형 | Critter Formations",
+        "boss_description": "Clash of Critters {boss} 보스 챌린지 진형 {cards}개(Lv.{lo}–{hi})와 원본 Discord 게시물 링크.",
+        "boss_h1": "{boss} 진형",
+        "boss_difficulty": "난이도 {n}",
+        "boss_endless": "무한 · {damage}",
+        "boss_result_title": "작성자가 이 진형으로 낸 최고 기록",
+        "boss_board_aria": "{boss} Lv.{level} 진형: 5×5, 맨 위 줄이 전열",
+        "boss_level_title": "크리터 레벨 {level}",
+        "og_alt_boss": "Clash of Critters {boss} 보스 챌린지 진형 미리보기",
+    },
+    "vi": {
+        "boss_nav": "Boss",
+        "boss_heading": "Thử thách Boss",
+        "boss_intro": "Mỗi boss có độ khó 1–100. Vượt qua độ khó 100 sẽ mở chế độ Vô tận, nơi người chơi được xếp hạng theo tổng sát thương. Đội hình được xếp theo cấp tatari, hãy bắt đầu với đội hình gần cấp của bạn nhất.",
+        "boss_count": "{cards} đội hình · Lv.{lo}–{hi}",
+        "boss_count_one": "1 đội hình · Lv.{lo}",
+        "boss_index_title": "Đội hình Thử thách Boss Clash of Critters | Critter Formations",
+        "boss_index_description": "Đội hình Thử thách Boss cho Popstar Zobo, Road Bully, Tipsy Zobo, Manager Zobo, Frankenfish và Goonch Zobo trong Clash of Critters, xếp theo cấp, kèm liên kết bài đăng gốc của người chơi.",
+        "boss_index_h1": "Đội hình Thử thách Boss",
+        "boss_title": "Đội hình Thử thách Boss {boss} Clash of Critters | Critter Formations",
+        "boss_description": "{cards} đội hình Thử thách Boss cho {boss} trong Clash of Critters (Lv.{lo}–{hi}), kèm liên kết bài đăng Discord gốc.",
+        "boss_h1": "Đội hình {boss}",
+        "boss_difficulty": "Độ khó {n}",
+        "boss_endless": "Vô tận · {damage}",
+        "boss_result_title": "Thành tích tốt nhất của người đăng với đội hình này",
+        "boss_board_aria": "Đội hình {boss} Lv.{level}: 5×5, hàng trên cùng là hàng đầu",
+        "boss_level_title": "Cấp tatari {level}",
+        "og_alt_boss": "Xem trước đội hình Thử thách Boss {boss} Clash of Critters",
+    },
+}
+for _lang, _extra in BOSS_STRINGS.items():
+    STRINGS[_lang].update(_extra)
+
 # Owner-written change log shown on /updates.html and summarised on the home page.
 CHANGELOG = json.loads((ROOT.parent / "data" / "changelog.json").read_text())
 
@@ -782,6 +875,11 @@ def page_path(lang: str, page_type: str, chapter: int | None = None) -> str:
     if page_type == "dojo":
         # For dojo pages the "chapter" argument carries the element slug.
         return f"{prefix}/dojo/{chapter}/"
+    if page_type == "boss_index":
+        return f"{prefix}/boss/"
+    if page_type == "boss":
+        # For boss pages the "chapter" argument carries the boss slug.
+        return f"{prefix}/boss/{chapter}/"
     raise ValueError(page_type)
 
 
@@ -882,8 +980,9 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
         + (' selected' if l == lang else '')
         + f'>{html.escape(LANG_INFO[l]["native"])}</option>'
         for l in LANGS)
-    show_feedback = page_type in ("home", "chapter", "dojo_index", "dojo", "updates")
+    show_feedback = page_type in ("home", "chapter", "dojo_index", "dojo", "boss_index", "boss", "updates")
     is_dojo = page_type in ("dojo_index", "dojo")
+    is_boss = page_type in ("boss_index", "boss")
     footer_lang_links = "\n      ".join(
         f'<a href="{page_path(l, page_type, chapter)}" hreflang="{LANG_INFO[l]["code"]}" lang="{LANG_INFO[l]["code"]}">'
         f'{html.escape(LANG_INFO[l]["native"])}</a>'
@@ -909,6 +1008,10 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
                      + (' aria-current="page"' if page_type == "dojo_index" else '')
                      + (' data-active="true"' if is_dojo else '')
                      + f'>{html.escape(S["dojo_nav"])}</a>'),
+        "BOSS_NAV": (f'<a class="dojo-nav-link boss-nav-link" href="{page_path(lang, "boss_index")}"'
+                     + (' aria-current="page"' if page_type == "boss_index" else '')
+                     + (' data-active="true"' if is_boss else '')
+                     + f'>{html.escape(S["boss_nav"])}</a>'),
         "DONATION_LABEL_TEXT": html.escape(S["donation_label"]),
         "DONATION_ARIA_TEXT": html.escape(S["donation_aria"], quote=True),
         "DONATION_DESKTOP_TEXT": html.escape(S["donation_desktop"]),
@@ -930,6 +1033,7 @@ def render_shell(template: str, lang: str, page_type: str, *, title: str, descri
             "pageType": page_type,
             "chapter": chapter if page_type == "chapter" else None,
             "dojoElement": chapter if page_type == "dojo" else None,
+            "boss": chapter if page_type == "boss" else None,
             "feedback": {
                 "endpoint": FEEDBACK_ENDPOINT,
                 "ratingLabels": S["feedback_rating_labels"],
@@ -1049,7 +1153,7 @@ def count_spans(fmt: str, cards: int, stages: int) -> str:
     return "".join(f'<span>{html.escape(part.format(cards=cards, stages=stages))}</span>' for part in parts)
 
 
-def render_home_main(lang: str, chapter_stats: dict, dojo_stats: dict) -> str:
+def render_home_main(lang: str, chapter_stats: dict, dojo_stats: dict, boss_stats: dict) -> str:
     S = STRINGS[lang]
     items = []
     for c in CHAPTERS:
@@ -1066,7 +1170,9 @@ def render_home_main(lang: str, chapter_stats: dict, dojo_stats: dict) -> str:
     return (render_whats_new(lang) + f'<h2 class="section-heading">{heading}</h2>'
             f'<ul class="chapter-grid" aria-label="{heading}">{"".join(items)}</ul>'
             f'<h2 class="section-heading" id="dojo">{html.escape(S["dojo_heading"])}</h2>'
-            + render_dojo_grid(lang, dojo_stats))
+            + render_dojo_grid(lang, dojo_stats)
+            + f'<h2 class="section-heading" id="boss">{html.escape(S["boss_heading"])}</h2>'
+            + render_boss_grid(lang, boss_stats))
 
 
 def changelog_date(date: str, lang: str) -> str:
@@ -1207,6 +1313,92 @@ def render_dojo_main(lang: str, element: str, floor_groups: dict[int, list[dict]
     return (render_dojo_tabs(lang, element)
             + f'<nav class="floor-jump" aria-label="{html.escape(S["dojo_element_title"].format(element=element_name), quote=True)}">{jump}</nav>'
             + "".join(sections))
+
+
+def boss_result_text(record: dict, lang: str) -> str:
+    S = STRINGS[lang]
+    if record["mode"] == "endless":
+        return S["boss_endless"].format(damage=record["endless_damage"])
+    text = S["boss_difficulty"].format(n=record["difficulty"])
+    if record.get("percent") is not None:
+        text += f' · {record["percent"]}%'
+    return text
+
+
+def render_boss_card(record: dict, lang: str, is_first: bool) -> str:
+    S = STRINGS[lang]
+    boss_name = BOSSES[record["boss"]]
+    level = record["tatari_level"]
+    cells_html = []
+    for r, row in enumerate(record["board"], 1):
+        for c, key in enumerate(row, 1):
+            if key:
+                unit = unit_record(key, r, c)
+                label = f'{unit["name"]} · T{unit["tier"]} · ' + S["row_col"].format(row=r, column=c)
+                loading_attr = "" if is_first else ' loading="lazy"'
+                cells_html.append(
+                    f'<div class="cell occupied" title="{html.escape(label)}">'
+                    f'<img src="/sprites/{key}.png" alt="{html.escape(label)}" width="200" height="200" '
+                    f'decoding="async" draggable="false"{loading_attr}></div>')
+            else:
+                cells_html.append(f'<div class="cell" aria-label="{html.escape(S["empty_cell"].format(row=r, column=c))}"></div>')
+    url = html.escape(record["source_message_url"], quote=True)
+    posted_date = format_posted_date(record["posted_at"], lang)
+    posted_label = S["posted_on"].format(date=posted_date)
+    level_title = html.escape(S["boss_level_title"].format(level=level), quote=True)
+    board_aria = html.escape(S["boss_board_aria"].format(boss=boss_name, level=level), quote=True)
+    return (
+        f'<article class="stage boss-card" id="{record["card_id"]}" data-boss="{record["boss"]}" '
+        f'data-mode="{record["mode"]}" data-level="{level}" data-formation-id="{record["source_message_id"]}" '
+        f'data-posted-at="{html.escape(record["posted_at"], quote=True)}">'
+        f'<h3 class="stage-title"><a href="{url}" target="_blank" rel="noopener noreferrer" '
+        f'title="{html.escape(S["boss_result_title"], quote=True)}">{html.escape(boss_result_text(record, lang))}</a>'
+        f'<span class="card-meta"><span class="level" title="{level_title}" aria-label="{level_title}">Lv.{level}</span>'
+        f'<time class="posted" datetime="{html.escape(record["posted_at"], quote=True)}" '
+        f'title="{html.escape(posted_label, quote=True)}">{html.escape(posted_date)}</time></span></h3>'
+        f'<p class="poster">{S["posted_by"]} <a href="{url}" target="_blank" rel="noopener noreferrer">'
+        f'{html.escape(record["display_name"])}</a></p>'
+        f'<div class="board" role="group" aria-label="{board_aria}">{"".join(cells_html)}</div></article>')
+
+
+def boss_count_text(lang: str, stats: dict) -> str:
+    S = STRINGS[lang]
+    if stats["cards"] == 1:
+        return S["boss_count_one"].format(lo=stats["level_min"])
+    return S["boss_count"].format(cards=stats["cards"], lo=stats["level_min"], hi=stats["level_max"])
+
+
+def render_boss_tabs(lang: str, current: str | None) -> str:
+    tabs = "".join(
+        f'<a class="dojo-tab boss-tab" href="{page_path(lang, "boss", slug)}"'
+        + (' aria-current="page"' if slug == current else '')
+        + f'>{html.escape(name)}</a>'
+        for slug, name in BOSSES.items())
+    return f'<nav class="dojo-tabs boss-tabs" aria-label="{html.escape(STRINGS[lang]["boss_heading"], quote=True)}">{tabs}</nav>'
+
+
+def render_boss_grid(lang: str, boss_stats: dict) -> str:
+    heading = html.escape(STRINGS[lang]["boss_heading"])
+    items = "".join(
+        f'<li><a class="boss-tile" href="{page_path(lang, "boss", slug)}">'
+        f'<span class="chapter-name">{html.escape(name)}</span>'
+        f'<span class="chapter-count"><span>{html.escape(boss_count_text(lang, boss_stats[slug]))}</span></span></a></li>'
+        for slug, name in BOSSES.items())
+    return f'<ul class="chapter-grid boss-grid" aria-label="{heading}">{items}</ul>'
+
+
+def render_boss_intro(lang: str) -> str:
+    return f'<p class="boss-intro">{html.escape(STRINGS[lang]["boss_intro"])}</p>'
+
+
+def render_boss_index_main(lang: str, boss_stats: dict) -> str:
+    return render_boss_intro(lang) + render_boss_grid(lang, boss_stats)
+
+
+def render_boss_main(lang: str, slug: str, records: list[dict]) -> str:
+    cards = "".join(render_boss_card(record, lang, index == 0) for index, record in enumerate(records))
+    return (render_boss_tabs(lang, slug) + render_boss_intro(lang)
+            + f'<div class="cards-grid boss-cards">{cards}</div>')
 
 
 def render_privacy_main(lang: str) -> str:
@@ -1638,12 +1830,39 @@ def build() -> None:
         "formations": dojo_records,
     }, ensure_ascii=False, indent=2) + "\n")
 
+    # Boss Challenge lineups: 5×5 boards with unique families, sorted by critter level per boss.
+    boss_records: dict[str, list[dict]] = {slug: [] for slug in BOSSES}
+    for record in BOSS_REVIEWED:
+        mid, board = record["source_message_id"], record["board"]
+        assert record["boss"] in BOSSES, mid
+        assert record["mode"] in ("difficulty", "endless"), mid
+        assert (record["mode"] == "endless") == (record.get("endless_damage") is not None), mid
+        assert record["mode"] == "endless" or 1 <= record["difficulty"] <= 100, mid
+        assert isinstance(record["tatari_level"], int) and record["tatari_level"] > 0, mid
+        assert len(board) == 5 and all(len(row) == 5 for row in board), mid
+        lineup = [unit_record(key, r, c) for r, row in enumerate(board, 1) for c, key in enumerate(row, 1) if key]
+        assert len(lineup) == 15, (mid, len(lineup))
+        families = Counter(unit["family_id"] for unit in lineup)
+        assert all(count == 1 for count in families.values()), (mid, families)
+        if not record.get("selected_for_website", True):
+            continue
+        for unit in lineup:
+            sprites.setdefault(unit["form_id"], sprite_path(unit["form_id"]))
+        boss_records[record["boss"]].append({**record, "card_id": f'{record["boss"]}-lv{record["tatari_level"]}-{mid[-6:]}'})
+    for slug, records in boss_records.items():
+        assert records, f"No lineups for boss {slug}"
+        records.sort(key=lambda r: (r["tatari_level"], r["mode"] == "endless"))
+        assert len({r["card_id"] for r in records}) == len(records), slug
+    boss_stats = {slug: {"cards": len(records), "level_min": records[0]["tatari_level"],
+                         "level_max": records[-1]["tatari_level"]}
+                  for slug, records in boss_records.items()}
+
     template = (ROOT / "page-template.html").read_text()
     site = ROOT / "site"
     # Chapter pages are static (crawlable without JS); each chapter's sprites are separate
     # files so visitors download only what a chapter's cards reference.
     shutil.rmtree(site / "chapters", ignore_errors=True)
-    for generated in ("sprites", "chapter", "dojo", "og", *(lang_prefix(l).lstrip("/") for l in LANGS if lang_prefix(l))):
+    for generated in ("sprites", "chapter", "dojo", "boss", "og", *(lang_prefix(l).lstrip("/") for l in LANGS if lang_prefix(l))):
         shutil.rmtree(site / generated, ignore_errors=True)
     (site / "sprites").mkdir(parents=True)
     (site / "chapter").mkdir(parents=True)
@@ -1671,10 +1890,15 @@ def build() -> None:
         stats = dojo_stats[element]
         render_og_image(site / "og" / f"dojo-{element}.png", f"{STRINGS['en']['dojo_element_names'][element]} Dojo",
                          "Clash of Critters Formations", f"{stats['cards']} cards · {stats['stages']} stages")
+    render_og_image(site / "og" / "boss.png", "Boss Challenge", "Clash of Critters Formations",
+                     f"{len(BOSSES)} bosses · {sum(s['cards'] for s in boss_stats.values())} lineups")
+    for slug, name in BOSSES.items():
+        render_og_image(site / "og" / f"boss-{slug}.png", name, "Clash of Critters Boss Challenge",
+                         boss_count_text("en", boss_stats[slug]))
 
     for lang in LANGS:
         strings = STRINGS[lang]
-        main_content = render_home_main(lang, chapter_stats, dojo_stats)
+        main_content = render_home_main(lang, chapter_stats, dojo_stats, boss_stats)
         page = render_shell(
             template, lang, "home",
             title=strings["home_title"], description=strings["home_description"],
@@ -1753,6 +1977,41 @@ def build() -> None:
 
     for lang in LANGS:
         strings = STRINGS[lang]
+        page = render_shell(
+            template, lang, "boss_index",
+            title=strings["boss_index_title"], description=strings["boss_index_description"],
+            canonical_path=page_path(lang, "boss_index"), h1=strings["boss_index_h1"],
+            main_content=render_boss_index_main(lang, boss_stats),
+            og_image_path="og/boss.png", og_image_alt=strings["boss_index_h1"], jsonld_scripts=[],
+        )
+        boss_dir = lang_dir(site, lang) / "boss"
+        boss_dir.mkdir(parents=True, exist_ok=True)
+        (boss_dir / "index.html").write_text(page)
+        for slug, name in BOSSES.items():
+            stats = boss_stats[slug]
+            breadcrumb = jsonld_script({
+                "@context": "https://schema.org", "@type": "BreadcrumbList",
+                "itemListElement": [
+                    {"@type": "ListItem", "position": 1, "name": strings["breadcrumb_home"], "item": SITE_URL + page_path(lang, "home")},
+                    {"@type": "ListItem", "position": 2, "name": strings["boss_heading"], "item": SITE_URL + page_path(lang, "boss_index")},
+                    {"@type": "ListItem", "position": 3, "name": name, "item": SITE_URL + page_path(lang, "boss", slug)},
+                ],
+            })
+            page = render_shell(
+                template, lang, "boss", chapter=slug,
+                title=strings["boss_title"].format(boss=name),
+                description=strings["boss_description"].format(boss=name, cards=stats["cards"],
+                                                               lo=stats["level_min"], hi=stats["level_max"]),
+                canonical_path=page_path(lang, "boss", slug), h1=strings["boss_h1"].format(boss=name),
+                main_content=render_boss_main(lang, slug, boss_records[slug]),
+                og_image_path=f"og/boss-{slug}.png", og_image_alt=strings["og_alt_boss"].format(boss=name),
+                jsonld_scripts=[breadcrumb],
+            )
+            (boss_dir / slug).mkdir(parents=True, exist_ok=True)
+            (boss_dir / slug / "index.html").write_text(page)
+
+    for lang in LANGS:
+        strings = STRINGS[lang]
         main_content = render_privacy_main(lang)
         page = render_shell(
             template, lang, "privacy",
@@ -1797,6 +2056,8 @@ def build() -> None:
     sitemap_urls += [sitemap_entry(lang, "dojo_index") for lang in LANGS]
     sitemap_urls += [sitemap_entry(lang, "dojo", element) for element in DOJO_ELEMENTS
                      if dojo_stats[element]["cards"] for lang in LANGS]
+    sitemap_urls += [sitemap_entry(lang, "boss_index") for lang in LANGS]
+    sitemap_urls += [sitemap_entry(lang, "boss", slug) for slug in BOSSES for lang in LANGS]
     sitemap_urls += [sitemap_entry(lang, "privacy") for lang in LANGS]
     sitemap_urls += [sitemap_entry(lang, "updates") for lang in LANGS]
     sitemap_xml = ('<?xml version="1.0" encoding="UTF-8"?>\n'
@@ -1808,6 +2069,7 @@ def build() -> None:
 
     print(f"Built {len(stages)} stages in {len(ordered_groups)} grouped formation cards; "
           f"{len(dojo_coverage)} dojo stages in {sum(s['cards'] for s in dojo_stats.values())} dojo cards; "
+          f"{sum(s['cards'] for s in boss_stats.values())} boss lineups for {len(BOSSES)} bosses; "
           f"{len(sprites)} exact sprite variants. Site: {site}")
 
 
