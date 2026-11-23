@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent
 SITE = ROOT / "site"
 
 sys.path.insert(0, str(ROOT))
-from build_site import CHAPTERS, DOJO_ELEMENTS, LANG_INFO, LANGS, SITE_URL, STRINGS, lang_dir  # noqa: E402
+from build_site import BOSSES, CHAPTERS, DOJO_ELEMENTS, LANG_INFO, LANGS, SITE_URL, STRINGS, lang_dir  # noqa: E402
 
 errors: list[str] = []
 warnings: list[str] = []
@@ -105,6 +105,7 @@ def check_page(path: Path) -> None:
     prefix = LANG_INFO[page_lang]["prefix"]
     is_chapter = "chapter" in rel.parts
     is_dojo = "dojo" in rel.parts
+    is_boss = "boss" in rel.parts
     is_home = rel == lang_dir(Path("."), page_lang) / "index.html"
     if f'<html lang="{LANG_INFO[page_lang]["code"]}">' not in text:
         fail(f"{rel}: expected <html lang=\"{LANG_INFO[page_lang]['code']}\">")
@@ -122,12 +123,14 @@ def check_page(path: Path) -> None:
         fail(f"{rel}: old language link row still present")
     has_feedback = 'id="feedback-form"' in text
     is_updates = rel.name == "updates.html"
-    if (is_chapter or is_home or is_dojo or is_updates) != has_feedback:
-        fail(f"{rel}: feedback form should appear on home, chapter, dojo and updates pages only")
+    if (is_chapter or is_home or is_dojo or is_boss or is_updates) != has_feedback:
+        fail(f"{rel}: feedback form should appear on home, chapter, dojo, boss and updates pages only")
     if 'class="theme-toggle"' not in text:
         fail(f"{rel}: header dark-mode toggle missing")
     if 'class="dojo-nav-link"' not in text:
         fail(f"{rel}: header Dojo link missing")
+    if f'class="dojo-nav-link boss-nav-link" href="{prefix}/boss/"' not in text:
+        fail(f"{rel}: header Boss link missing")
     if f'href="{prefix}/updates.html"' not in text:
         fail(f"{rel}: footer Updates link missing")
     if is_home and 'class="whats-new"' not in text:
@@ -280,6 +283,43 @@ def main() -> None:
             dojo_cards[lang] += len(ids)
     if len(set(dojo_cards.values())) != 1:
         fail(f"dojo card counts differ between languages: {dojo_cards}")
+
+    boss_cards = {lang: 0 for lang in LANGS}
+    for lang in LANGS:
+        index = lang_dir(SITE, lang) / "boss" / "index.html"
+        if not index.exists():
+            fail(f"missing boss index: {index.relative_to(SITE)}")
+            continue
+        pages_to_check.append(index)
+        index_text = index.read_text()
+        home_text = (lang_dir(SITE, lang) / "index.html").read_text()
+        for slug in BOSSES:
+            href = f'href="{LANG_INFO[lang]["prefix"]}/boss/{slug}/"'
+            if href not in home_text or href not in index_text:
+                fail(f"{lang}: home or boss index missing link to {slug}")
+            page = lang_dir(SITE, lang) / "boss" / slug / "index.html"
+            if not page.exists():
+                fail(f"missing boss page: {page.relative_to(SITE)}")
+                continue
+            pages_to_check.append(page)
+            text = page.read_text()
+            cards = re.findall(r'<article class="stage boss-card" id="([^"]+)" data-boss="([a-z-]+)"[^>]*?data-level="(\d+)"', text)
+            if not cards:
+                fail(f"{page.relative_to(SITE)}: no boss lineups")
+            if len({c for c, _, _ in cards}) != len(cards):
+                fail(f"{page.relative_to(SITE)}: duplicate boss card ids")
+            if any(b != slug for _, b, _ in cards):
+                fail(f"{page.relative_to(SITE)}: lineup from another boss")
+            levels = [int(level) for _, _, level in cards]
+            if levels != sorted(levels):
+                fail(f"{page.relative_to(SITE)}: boss lineups should be sorted by level")
+            if text.count('class="cell') != len(cards) * 25:
+                fail(f"{page.relative_to(SITE)}: every boss board needs 25 cells")
+            if 'class="report-btn"' in text:
+                fail(f"{page.relative_to(SITE)}: boss cards should not have chapter report buttons")
+            boss_cards[lang] += len(cards)
+    if len(set(boss_cards.values())) != 1:
+        fail(f"boss card counts differ between languages: {boss_cards}")
 
     for lang in LANGS:
         if total_cards[lang] != 1833:
