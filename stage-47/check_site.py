@@ -322,8 +322,8 @@ def main() -> None:
         fail(f"boss card counts differ between languages: {boss_cards}")
 
     for lang in LANGS:
-        if total_cards[lang] != 1833:
-            fail(f"{lang} chapter pages: expected 1833 total cards, found {total_cards[lang]}")
+        if total_cards[lang] != 1834:
+            fail(f"{lang} chapter pages: expected 1834 total cards, found {total_cards[lang]}")
 
     for page in pages_to_check:
         check_page(page)
