@@ -251,7 +251,8 @@
     .dojo-card[data-dojo="rock"] { --board: color-mix(in oklab, var(--color-rock) 40%, var(--color-paper-2)); --cell-a: color-mix(in oklab, var(--color-rock) 10%, var(--color-card)); --cell-b: color-mix(in oklab, var(--color-rock) 18%, var(--color-card)); }
     /* boss challenge: six bosses as tickets, lineups on the normal 5×5 board */
     .boss-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
-    .boss-grid a { min-height: 96px; justify-content: flex-end; padding: var(--space-md) var(--space-lg) var(--space-lg); }
+    .boss-grid a { --el: var(--color-card); --el-ink: var(--color-ink); --el-ink-2: var(--color-ink-2); background: var(--grain), var(--el); color: var(--el-ink); box-shadow: 0 var(--edge) 0 0 var(--edge-c); min-height: 96px; justify-content: flex-end; padding: var(--space-md) var(--space-lg) var(--space-lg); }
+    .boss-grid .chapter-count, .boss-grid a:not(.is-empty) .chapter-count span:first-child { color: var(--el-ink-2); }
     .boss-grid .chapter-name { font-size: var(--text-xl); }
     .boss-intro { max-width: 64ch; margin: 0 0 var(--space-lg); color: var(--color-muted); font-size: var(--text-md); line-height: 1.5; }
     .boss-tabs + .boss-intro { margin-top: var(--space-xs); }

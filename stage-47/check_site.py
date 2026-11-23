@@ -130,7 +130,7 @@ def check_page(path: Path) -> None:
     if 'class="dojo-nav-link"' not in text:
         fail(f"{rel}: header Dojo link missing")
     if f'class="dojo-nav-link boss-nav-link" href="{prefix}/boss/"' not in text:
-        fail(f"{rel}: header Bosses link missing")
+        fail(f"{rel}: header Boss link missing")
     if f'href="{prefix}/updates.html"' not in text:
         fail(f"{rel}: footer Updates link missing")
     if is_home and 'class="whats-new"' not in text:

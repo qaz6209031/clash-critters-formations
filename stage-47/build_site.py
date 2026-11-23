@@ -750,11 +750,15 @@ BOSSES = {
     "frankenfish": "Frankenfish",
     "goonch-zobo": "Goonch Zobo",
 }
+# Tile colour per boss, reusing the dojo element palette. Popstar (lightning) and Manager (grass)
+# are named in clyde's guide; the rest are inferred from the element their lineups lean on.
+BOSS_ELEMENTS = {"popstar-zobo": "lightning", "road-bully": "rock", "tipsy-zobo": "fire",
+                 "manager-zobo": "grass", "frankenfish": "water", "goonch-zobo": "water"}
 BOSS_FILE = ROOT.parent / "boss" / "reviewed-boss-formations.json"
 BOSS_REVIEWED = json.loads(BOSS_FILE.read_text())
 BOSS_STRINGS = {
     "en": {
-        "boss_nav": "Bosses",
+        "boss_nav": "Boss",
         "boss_heading": "Boss Challenge",
         "boss_intro": "Every boss has Difficulty 1–100. Once you clear Difficulty 100 you reach Endless mode, where players are ranked by total damage. Lineups are sorted by critter level, so start with the one closest to your level.",
         "boss_count": "{cards} lineups · Lv.{lo}–{hi}",
@@ -1370,7 +1374,7 @@ def boss_count_text(lang: str, stats: dict) -> str:
 
 def render_boss_tabs(lang: str, current: str | None) -> str:
     tabs = "".join(
-        f'<a class="dojo-tab boss-tab" href="{page_path(lang, "boss", slug)}"'
+        f'<a class="dojo-tab boss-tab dojo-{BOSS_ELEMENTS[slug]}" href="{page_path(lang, "boss", slug)}"'
         + (' aria-current="page"' if slug == current else '')
         + f'>{html.escape(name)}</a>'
         for slug, name in BOSSES.items())
@@ -1380,9 +1384,11 @@ def render_boss_tabs(lang: str, current: str | None) -> str:
 def render_boss_grid(lang: str, boss_stats: dict) -> str:
     heading = html.escape(STRINGS[lang]["boss_heading"])
     items = "".join(
-        f'<li><a class="boss-tile" href="{page_path(lang, "boss", slug)}">'
+        f'<li><a class="boss-tile dojo-{BOSS_ELEMENTS[slug]}" href="{page_path(lang, "boss", slug)}">'
         f'<span class="chapter-name">{html.escape(name)}</span>'
-        f'<span class="chapter-count"><span>{html.escape(boss_count_text(lang, boss_stats[slug]))}</span></span></a></li>'
+        f'<span class="chapter-count">'
+        + "".join(f'<span>{html.escape(part)}</span>' for part in boss_count_text(lang, boss_stats[slug]).split(" · "))
+        + '</span></a></li>'
         for slug, name in BOSSES.items())
     return f'<ul class="chapter-grid boss-grid" aria-label="{heading}">{items}</ul>'
 
