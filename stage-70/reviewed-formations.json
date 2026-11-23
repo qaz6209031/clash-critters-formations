@@ -3435,7 +3435,6 @@
       51
     ],
     "website_stage_numbers": [
-      50,
       51
     ],
     "credited_player_name": null,
@@ -3447,7 +3446,7 @@
     "needs_review": true,
     "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog. Enemy level is separate from player inventory level. Inclusive range coverage relies on Casey’s explicit caption; the screenshot alone does not document every completion. Blitzmane is wearing a goggles costume; underlying unit and tier match Blitzmane, displayed using the catalog’s standard model.",
     "stage_assignment_basis": "Casey’s literal, explicitly inclusive stage caption, split by chapter. No additional stage is inferred from the displayed next stage. Later claims are author-reported, not independently tested.",
-    "selection_reason": "Owner requested Casey’s verified formations from 63-60 onward. All old records remain archived.",
+    "selection_reason": "Owner requested Casey’s verified formations from 63-60 onward. All old records remain archived. November 22, 2026: 70-50 replaced by Vrondius's Lv.1430 board at the owner's request; this card keeps 70-51.",
     "superseded_for_website_by_message_ids": [],
     "replaces_website_source_message_ids": [
       "1550710276226289686",
@@ -3495,6 +3494,9 @@
           ]
         ]
       }
+    ],
+    "replaced_by_website_source_message_ids": [
+      "1570195993696272404"
     ]
   },
   {
@@ -4830,5 +4832,72 @@
         ]
       }
     ]
+  },
+  {
+    "source_message_id": "1570195993696272404",
+    "stage_start": 50,
+    "stage_end": 50,
+    "caption_stage_numbers": [
+      50
+    ],
+    "website_stage_numbers": [
+      50
+    ],
+    "screenshot_displayed_stage": "70-50",
+    "screenshot_enemy_level": 1866,
+    "tatari_level": 1430,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "lvl 1430",
+    "tatari_level_basis": "Level explicitly typed in this source post; matches the Lv 1430 unit cards in its own screenshot.",
+    "level_from_original_post_clear_screenshot": false,
+    "credited_player_name": "dwyncookie",
+    "credit_basis": "Source caption explicitly credits dwyncookie.",
+    "capture_type": "setup_screen",
+    "deployed_count": 15,
+    "needs_review": false,
+    "stage_assignment_basis": "Only the stage explicitly named in the source caption.",
+    "selected_for_website": true,
+    "selection_reason": "November 22, 2026: chosen by the site owner to replace the 70-50 board.",
+    "replaces_website_source_message_ids": [
+      "1566890209239498863"
+    ],
+    "board": [
+      [
+        "orchitoria",
+        null,
+        null,
+        "rockong",
+        "stormlion"
+      ],
+      [
+        "clangnaga",
+        null,
+        "sonarbat",
+        "cheerspring",
+        null
+      ],
+      [
+        null,
+        null,
+        "magnedart",
+        "hyphoria",
+        "silversear"
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa:glitter",
+        "tideon",
+        null
+      ],
+      [
+        null,
+        "capobeetle",
+        "boltallion",
+        "solaflora",
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original pre-battle 70-50 screenshot and catalog sprites (November 22, 2026). All five rows are occupied, so rows are unambiguous. Orchitoria and Azurion wear alternate skins and are shown with the catalog's standard models; the butterfly's teal colouring matches the Glitter Morphanessa sprite."
   }
 ]
