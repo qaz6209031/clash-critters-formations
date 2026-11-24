@@ -753,13 +753,14 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 24, 2026: 74-51 replaced by Casey's lower-level (1631-1645) clears.",
     "caption_stage_numbers_original": [
       51
     ],
-    "website_stage_numbers": [
-      51
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1572862881891094548"
     ]
   },
   {
@@ -820,13 +821,14 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 24, 2026: 74-52 replaced by Casey's lower-level (1631-1645) clears.",
     "caption_stage_numbers_original": [
       52
     ],
-    "website_stage_numbers": [
-      52
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1572864749534838826"
     ]
   },
   {
@@ -953,15 +955,15 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 24, 2026: 74-53, 74-54 replaced by Casey's lower-level (1631-1645) clears.",
     "caption_stage_numbers_original": [
       53,
       54
     ],
-    "website_stage_numbers": [
-      53,
-      54
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1572864749534838826"
     ]
   },
   {
@@ -1025,19 +1027,20 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 24, 2026: 74-55, 74-56, 74-57, 74-58 replaced by Casey's lower-level (1631-1645) clears.",
     "caption_stage_numbers_original": [
       55,
       56,
       57,
       58
     ],
-    "website_stage_numbers": [
-      55,
-      56,
-      57,
-      58
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1572865859859259476",
+      "1572866298801561663",
+      "1572866793851191336",
+      "1573018149840883802"
     ]
   },
   {
@@ -1098,13 +1101,14 @@
     "needs_review": false,
     "notes": "Exact forms, Glitter variants and occupied cells visually matched to the planner catalog. Empty cells are preserved. Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
     "stage_assignment_basis": "Only explicitly captioned stages are claimed; no unlisted stage is inferred from the screenshot’s displayed stage.",
-    "selected_for_website": true,
-    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived.",
+    "selected_for_website": false,
+    "selection_reason": "Date-eligible, caption-supported reference with a level in its own caption or image. Exhaustive lowest-level comparison was waived. November 24, 2026: 74-59 replaced by Casey's lower-level (1631-1645) clears.",
     "caption_stage_numbers_original": [
       59
     ],
-    "website_stage_numbers": [
-      59
+    "website_stage_numbers": [],
+    "replaced_by_website_source_message_ids": [
+      "1573018724401807550"
     ]
   },
   {
@@ -4184,6 +4188,474 @@
     "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 18, 2026). Rows calibrated from the board's fixed screen position. Costumes are shown with the catalog's standard models; Umbraveil is the glitter form as in Casey's earlier boards.",
     "replaces_website_source_message_ids": [
       "1543110590245896202"
+    ]
+  },
+  {
+    "source_message_id": "1572862881891094548",
+    "screenshot_displayed_stage": "74-52",
+    "screenshot_enemy_level": 2021,
+    "tatari_level": 1631,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 51,
+    "stage_end": 51,
+    "caption_stage_numbers": [
+      51
+    ],
+    "website_stage_numbers": [
+      51
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1631 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption. No additional stage is inferred from the displayed next stage.",
+    "selection_reason": "November 24, 2026: owner requested Casey's newest formations (74-51 through 74-59).",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "cinderclaw",
+        "rockong",
+        "blitzmane",
+        "chronerva",
+        null
+      ],
+      [
+        "pyrodaemon",
+        "charflutter",
+        "hyphoria",
+        "cheerstella",
+        "orchitoria"
+      ],
+      [
+        "phantifox",
+        null,
+        "umbraveil:glitter",
+        "solaflora",
+        null
+      ],
+      [
+        null,
+        "azurion",
+        "morphanessa",
+        "tideon",
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 24, 2026). Rows calibrated from the board's fixed screen position. Costumes are shown with the catalog's standard models; Umbraveil is the glitter form as in Casey's earlier boards; the blue Solaflora is its glitter form. The purple Morphanessa is a costume and is shown with the standard model.",
+    "replaces_website_source_message_ids": [
+      "1543357992206860341"
+    ]
+  },
+  {
+    "source_message_id": "1572864749534838826",
+    "screenshot_displayed_stage": "74-55",
+    "screenshot_enemy_level": 2023,
+    "tatari_level": 1639,
+    "tatari_level_source": "message_text",
+    "tatari_level_quote": "Level 1639",
+    "deployed_count": 15,
+    "stage_start": 52,
+    "stage_end": 54,
+    "caption_stage_numbers": [
+      52,
+      53,
+      54
+    ],
+    "website_stage_numbers": [
+      52,
+      53,
+      54
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1639 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption. No additional stage is inferred from the displayed next stage.",
+    "selection_reason": "November 24, 2026: owner requested Casey's newest formations (74-51 through 74-59).",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "donscarab",
+        "rockong",
+        "blitzmane",
+        "chronerva",
+        "orchitoria"
+      ],
+      [
+        "cinderclaw",
+        "charflutter",
+        "hyphoria",
+        "cheerstella",
+        null
+      ],
+      [
+        "phantifox",
+        null,
+        "umbraveil:glitter",
+        "solaflora:glitter",
+        null
+      ],
+      [
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion",
+        null
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 24, 2026). Rows calibrated from the board's fixed screen position. Costumes are shown with the catalog's standard models; Umbraveil is the glitter form as in Casey's earlier boards; the blue Solaflora is its glitter form. The purple Morphanessa is a costume and is shown with the standard model.",
+    "replaces_website_source_message_ids": [
+      "1543361553620013268",
+      "1550695921325572231"
+    ]
+  },
+  {
+    "source_message_id": "1572865859859259476",
+    "screenshot_displayed_stage": "74-56",
+    "screenshot_enemy_level": 2023,
+    "tatari_level": 1639,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 55,
+    "stage_end": 55,
+    "caption_stage_numbers": [
+      55
+    ],
+    "website_stage_numbers": [
+      55
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1639 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption. No additional stage is inferred from the displayed next stage.",
+    "selection_reason": "November 24, 2026: owner requested Casey's newest formations (74-51 through 74-59).",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "rockzilla",
+        "blitzmane",
+        "orchitoria",
+        null
+      ],
+      [
+        null,
+        "cheerstella",
+        "rockong",
+        "charflutter",
+        null
+      ],
+      [
+        "cinderclaw",
+        "hyphoria",
+        "umbraveil:glitter",
+        "solaflora:glitter",
+        "donscarab"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion"
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 24, 2026). Rows calibrated from the board's fixed screen position. Costumes are shown with the catalog's standard models; Umbraveil is the glitter form as in Casey's earlier boards; the blue Solaflora is its glitter form. The purple Morphanessa is a costume and is shown with the standard model.",
+    "replaces_website_source_message_ids": [
+      "1545137020157034516"
+    ]
+  },
+  {
+    "source_message_id": "1572866298801561663",
+    "screenshot_displayed_stage": "74-57",
+    "screenshot_enemy_level": 2024,
+    "tatari_level": 1639,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 56,
+    "stage_end": 56,
+    "caption_stage_numbers": [
+      56
+    ],
+    "website_stage_numbers": [
+      56
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1639 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption. No additional stage is inferred from the displayed next stage.",
+    "selection_reason": "November 24, 2026: owner requested Casey's newest formations (74-51 through 74-59).",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "rockzilla",
+        "rockong",
+        "orchitoria",
+        null
+      ],
+      [
+        null,
+        "cheerstella",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "cinderclaw",
+        "clangnaga",
+        "umbraveil:glitter",
+        "solaflora:glitter",
+        "donscarab"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion"
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 24, 2026). Rows calibrated from the board's fixed screen position. Costumes are shown with the catalog's standard models; Umbraveil is the glitter form as in Casey's earlier boards; the blue Solaflora is its glitter form. The purple Morphanessa is a costume and is shown with the standard model.",
+    "replaces_website_source_message_ids": [
+      "1545137020157034516"
+    ]
+  },
+  {
+    "source_message_id": "1572866793851191336",
+    "screenshot_displayed_stage": "74-58",
+    "screenshot_enemy_level": 2024,
+    "tatari_level": 1639,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 57,
+    "stage_end": 57,
+    "caption_stage_numbers": [
+      57
+    ],
+    "website_stage_numbers": [
+      57
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1639 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption. No additional stage is inferred from the displayed next stage.",
+    "selection_reason": "November 24, 2026: owner requested Casey's newest formations (74-51 through 74-59).",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "rockzilla",
+        "rockong",
+        "orchitoria",
+        null
+      ],
+      [
+        null,
+        "cheerstella",
+        "hyphoria",
+        "charflutter",
+        "donscarab"
+      ],
+      [
+        null,
+        "clangnaga",
+        "umbraveil:glitter",
+        "solaflora:glitter",
+        "cinderclaw"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion"
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 24, 2026). Rows calibrated from the board's fixed screen position. Costumes are shown with the catalog's standard models; Umbraveil is the glitter form as in Casey's earlier boards; the blue Solaflora is its glitter form. The purple Morphanessa is a costume and is shown with the standard model.",
+    "replaces_website_source_message_ids": [
+      "1545137020157034516"
+    ]
+  },
+  {
+    "source_message_id": "1573018149840883802",
+    "screenshot_displayed_stage": "74-59",
+    "screenshot_enemy_level": 2025,
+    "tatari_level": 1645,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 58,
+    "stage_end": 58,
+    "caption_stage_numbers": [
+      58
+    ],
+    "website_stage_numbers": [
+      58
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1645 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption. No additional stage is inferred from the displayed next stage.",
+    "selection_reason": "November 24, 2026: owner requested Casey's newest formations (74-51 through 74-59).",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "rockzilla",
+        "rockong",
+        "chronerva",
+        null
+      ],
+      [
+        null,
+        "cheerstella",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "cinderclaw",
+        "solaflora:glitter",
+        "umbraveil:glitter",
+        "clangnaga",
+        "donscarab"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion"
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 24, 2026). Rows calibrated from the board's fixed screen position. Costumes are shown with the catalog's standard models; Umbraveil is the glitter form as in Casey's earlier boards; the blue Solaflora is its glitter form. The purple Morphanessa is a costume and is shown with the standard model.",
+    "replaces_website_source_message_ids": [
+      "1545137020157034516"
+    ]
+  },
+  {
+    "source_message_id": "1573018724401807550",
+    "screenshot_displayed_stage": "74-60",
+    "screenshot_enemy_level": 2025,
+    "tatari_level": 1645,
+    "tatari_level_source": "image",
+    "deployed_count": 15,
+    "stage_start": 59,
+    "stage_end": 59,
+    "caption_stage_numbers": [
+      59
+    ],
+    "website_stage_numbers": [
+      59
+    ],
+    "credited_player_name": null,
+    "credit_basis": "Casey is the posting author; any adapted-from credit remains in the original caption.",
+    "capture_type": "post_clear",
+    "level_from_original_post_clear_screenshot": true,
+    "tatari_level_basis": "Player level 1645 is readable in this source's own screenshot inventory or caption.",
+    "selected_for_website": true,
+    "needs_review": false,
+    "stage_assignment_basis": "Casey's literal, explicitly inclusive stage caption. No additional stage is inferred from the displayed next stage.",
+    "selection_reason": "November 24, 2026: owner requested Casey's newest formations (74-51 through 74-59).",
+    "board": [
+      [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      [
+        "armorjaw",
+        "rockzilla",
+        "rockong",
+        "orchitoria",
+        null
+      ],
+      [
+        null,
+        "cheerstella",
+        "hyphoria",
+        "charflutter",
+        null
+      ],
+      [
+        "cinderclaw",
+        "clangnaga",
+        "umbraveil:glitter",
+        "solaflora:glitter",
+        "donscarab"
+      ],
+      [
+        null,
+        null,
+        "tideon",
+        "morphanessa",
+        "azurion"
+      ]
+    ],
+    "notes": "Exact forms, evolution tiers and all 25 cells were visually reviewed against the original screenshot and catalog (November 24, 2026). Rows calibrated from the board's fixed screen position. Costumes are shown with the catalog's standard models; Umbraveil is the glitter form as in Casey's earlier boards; the blue Solaflora is its glitter form. The purple Morphanessa is a costume and is shown with the standard model.",
+    "replaces_website_source_message_ids": [
+      "1545137120304173076"
     ]
   }
 ]

@@ -35117,5 +35117,89 @@
     "channel_id": "1537610539503583342",
     "attachments": [],
     "local_image_path": null
+  },
+  {
+    "id": "1572862881891094548",
+    "text": "74-51",
+    "display_name": "Casey | 31150710",
+    "posted_at": "2026-11-19T06:35:33.422Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1544627061736345690/1572862881891094548",
+    "permalink_method": "Original message ID and thread read from the authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 19 and onwards",
+    "channel_id": "1544627061736345690",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1572864749534838826",
+    "text": "74-52 to 74-54 (Level 1639/Badges 67667)",
+    "display_name": "Casey | 31150710",
+    "posted_at": "2026-11-19T06:42:58.703Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1544627061736345690/1572864749534838826",
+    "permalink_method": "Original message ID and thread read from the authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 19 and onwards",
+    "channel_id": "1544627061736345690",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1572865859859259476",
+    "text": "74-55 repeated from https://discord.com/channels/1343763804349267989/1544627061736345690/1565632033521270854",
+    "display_name": "Casey | 31150710",
+    "posted_at": "2026-11-19T06:47:23.425Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1544627061736345690/1572865859859259476",
+    "permalink_method": "Original message ID and thread read from the authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 19 and onwards",
+    "channel_id": "1544627061736345690",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1572866298801561663",
+    "text": "74-56",
+    "display_name": "Casey | 31150710",
+    "posted_at": "2026-11-19T06:49:08.077Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1544627061736345690/1572866298801561663",
+    "permalink_method": "Original message ID and thread read from the authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 19 and onwards",
+    "channel_id": "1544627061736345690",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1572866793851191336",
+    "text": "74-57",
+    "display_name": "Casey | 31150710",
+    "posted_at": "2026-11-19T06:51:06.106Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1544627061736345690/1572866793851191336",
+    "permalink_method": "Original message ID and thread read from the authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 19 and onwards",
+    "channel_id": "1544627061736345690",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1573018149840883802",
+    "text": "74-58",
+    "display_name": "Casey | 31150710",
+    "posted_at": "2026-11-19T16:52:32.186Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1544627061736345690/1573018149840883802",
+    "permalink_method": "Original message ID and thread read from the authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 19 and onwards",
+    "channel_id": "1544627061736345690",
+    "attachments": [],
+    "local_image_path": null
+  },
+  {
+    "id": "1573018724401807550",
+    "text": "74-59",
+    "display_name": "Casey | 31150710",
+    "posted_at": "2026-11-19T16:54:49.172Z",
+    "source_message_url": "https://discord.com/channels/1343763804349267989/1544627061736345690/1573018724401807550",
+    "permalink_method": "Original message ID and thread read from the authenticated Discord website DOM; posted_at derived from the message snowflake.",
+    "source_thread": "Chapter 19 and onwards",
+    "channel_id": "1544627061736345690",
+    "attachments": [],
+    "local_image_path": null
   }
 ]
