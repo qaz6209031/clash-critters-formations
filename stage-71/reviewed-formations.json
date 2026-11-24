@@ -2591,10 +2591,10 @@
       ],
       [
         null,
+        null,
         "azurion",
         "morphanessa",
-        "tideon",
-        null
+        "tideon"
       ],
       [
         null,
@@ -2666,6 +2666,47 @@
             "tideon",
             "morphanessa",
             "azurion",
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null
+          ]
+        ]
+      },
+      {
+        "date": "2026-11-23",
+        "reason": "Re-checked against Casey's original screenshot after a viewer report: the fourth row (Azurion, Morphanessa, Tideon) sits in columns 3-5, not 2-4.",
+        "previous_board": [
+          [
+            "voltverine",
+            "rockong",
+            "orchitoria",
+            "blitzmane",
+            null
+          ],
+          [
+            "voltazar",
+            "cheerspring",
+            "hyphoria",
+            "charflutter",
+            null
+          ],
+          [
+            null,
+            "clangnaga",
+            "umbraveil:glitter",
+            "solaflora",
+            "cinderclaw"
+          ],
+          [
+            null,
+            "azurion",
+            "morphanessa",
+            "tideon",
             null
           ],
           [
