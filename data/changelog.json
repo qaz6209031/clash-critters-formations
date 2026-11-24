@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-11-24",
+    "en": [
+      "74-51 to 74-59: new lineups from Casey (Lv.1631–1645), replacing the previous Lv.1907–1923 boards."
+    ],
+    "zh-hant": [
+      "74-51 至 74-59：換上 Casey 的新陣容（Lv.1631–1645），取代原本 Lv.1907–1923 的陣容。"
+    ],
+    "ko": [
+      "74-51~74-59: Casey의 새 배치(Lv.1631–1645)로 기존 Lv.1907–1923 배치를 교체했습니다."
+    ],
+    "vi": [
+      "74-51 đến 74-59: đội hình mới của Casey (Lv.1631–1645), thay cho các đội hình Lv.1907–1923 trước đó."
+    ]
+  },
+  {
     "date": "2026-11-23",
     "en": [
       "71-5 to 71-9: fixed the fourth row of Casey's board. Azurion, Morphanessa and Tideon are one column further right, matching the original screenshot."
