@@ -1,5 +1,20 @@
 [
   {
+    "date": "2026-11-23",
+    "en": [
+      "71-5 to 71-9: fixed the fourth row of Casey's board. Azurion, Morphanessa and Tideon are one column further right, matching the original screenshot."
+    ],
+    "zh-hant": [
+      "71-5 至 71-9：修正 Casey 陣容的第四排。Azurion、Morphanessa、Tideon 往右移一格，與原圖一致。"
+    ],
+    "ko": [
+      "71-5~71-9: Casey 배치의 네 번째 줄을 수정했습니다. Azurion, Morphanessa, Tideon이 원본 스크린샷처럼 한 칸 오른쪽에 있습니다."
+    ],
+    "vi": [
+      "71-5 đến 71-9: sửa hàng thứ tư trong đội hình của Casey. Azurion, Morphanessa và Tideon lùi sang phải một cột, đúng với ảnh gốc."
+    ]
+  },
+  {
     "date": "2026-11-22",
     "en": [
       "New: Boss Challenge lineups for all five bosses (Frankenfish, Pop Star, Road Bully, Tipsy Zobo, Dean Zobo). Each boss has lineups from about Lv.330 up to Endless mode at Lv.1100+, sorted by level. Find them under “Boss” at the top of every page.",
