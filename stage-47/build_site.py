@@ -187,7 +187,7 @@ STRINGS = {
         "og_alt_home": "Critter Formations: Clash of Critters formations by chapter",
         "og_alt_chapter": "Chapter {n} Clash of Critters formations preview",
         "privacy_title": "Privacy Policy | Critter Formations",
-        "privacy_description": "How Critter Formations handles visitor data: GitHub Pages hosting, Google Analytics 4, and PayPal donations.",
+        "privacy_description": "How Critter Formations handles visitor data: GitHub Pages hosting, Google Analytics 4, Google AdSense ads, and PayPal donations.",
         "privacy_h1": "Privacy Policy",
         "privacy_sections": [
             ("Overview",
@@ -204,6 +204,8 @@ STRINGS = {
              'target="_blank" rel="noopener noreferrer">policy on partner sites</a>. You can opt out using the '
              '<a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">Google Analytics '
              'Opt-out Browser Add-on</a>.</p>'),
+            ("Advertising (Google AdSense)",
+             '<p>This site shows ads from Google AdSense to help cover running costs. Google and its partners use cookies to serve ads based on your visits to this and other websites, and to measure ad performance. See <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">how Google uses cookies in advertising</a>. You can turn off personalized ads in <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">Google Ad Settings</a>, or opt out of some third-party vendors at <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer">aboutads.info</a>. Visitors in the EEA, the UK and Switzerland are asked for consent before personalized ads are shown.</p>'),
             ("Donations (PayPal)",
              '<p>The donate button links to PayPal, which processes payments under its own '
              '<a href="https://www.paypal.com/myaccount/privacy/privacyStatementFull" target="_blank" rel="noopener noreferrer">'
@@ -221,12 +223,12 @@ STRINGS = {
              "that need rechecking.</p>"),
             ("No accounts, no data sold",
              "<p>This site does not require an account and does not sell data. Apart from feedback you choose to "
-             "send, it does not store any personal data.</p>"),
+             "send, it does not store any personal data. Ad and analytics cookies are handled by Google as described above.</p>"),
             ("Contact",
              '<p>Questions about this policy can be filed as a '
              '<a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">'
              'GitHub issue</a>.</p>'),
-            ("Effective date", "<p>November 4, 2026.</p>"),
+            ("Effective date", "<p>November 26, 2026.</p>"),
         ],
     },
     "zh-hant": {
@@ -263,7 +265,7 @@ STRINGS = {
         "og_alt_home": "Critter Formations：依章節整理的塔塔冒險隊陣容",
         "og_alt_chapter": "塔塔冒險隊第 {n} 章陣容預覽",
         "privacy_title": "隱私權政策 | Critter Formations",
-        "privacy_description": "Critter Formations 如何處理訪客資料：GitHub Pages 託管、Google Analytics 4 與 PayPal 贊助。",
+        "privacy_description": "Critter Formations 如何處理訪客資料：GitHub Pages 託管、Google Analytics 4、Google AdSense 廣告與 PayPal 贊助。",
         "privacy_h1": "隱私權政策",
         "privacy_sections": [
             ("概述",
@@ -279,6 +281,8 @@ STRINGS = {
              '<a href="https://policies.google.com/technologies/partner-sites" target="_blank" rel="noopener noreferrer">'
              '合作夥伴網站政策</a>。您可以使用 <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" '
              'rel="noopener noreferrer">Google Analytics 停用瀏覽器外掛程式</a>選擇退出。</p>'),
+            ("廣告（Google AdSense）",
+             '<p>本網站顯示 Google AdSense 廣告，以支付營運成本。Google 及其合作夥伴會使用 Cookie，依據您造訪本網站及其他網站的紀錄提供廣告，並衡量廣告成效。詳見<a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">Google 如何在廣告中使用 Cookie</a>。您可以在<a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">Google 廣告設定</a>關閉個人化廣告，或到 <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer">aboutads.info</a> 停用部分第三方廣告商的 Cookie。歐洲經濟區、英國與瑞士的訪客，在顯示個人化廣告前會先被詢問是否同意。</p>'),
             ("贊助（PayPal）",
              '<p>贊助按鈕會連到 PayPal，由 PayPal 依其'
              '<a href="https://www.paypal.com/myaccount/privacy/privacyStatementFull" target="_blank" rel="noopener noreferrer">'
@@ -298,7 +302,7 @@ STRINGS = {
              '<p>對本政策有任何疑問，歡迎提交 '
              '<a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">'
              'GitHub issue</a>。</p>'),
-            ("生效日期", "<p>2026 年 11 月 4 日。</p>"),
+            ("生效日期", "<p>2026 年 11 月 26 日。</p>"),
         ],
     },
     "ko": {
@@ -335,7 +339,7 @@ STRINGS = {
         "og_alt_home": "Critter Formations: 챕터별 뚜까펫: 서바이벌 진형",
         "og_alt_chapter": "뚜까펫: 서바이벌 챕터 {n} 진형 미리보기",
         "privacy_title": "개인정보 처리방침 | Critter Formations",
-        "privacy_description": "Critter Formations의 방문자 데이터 처리 방식: GitHub Pages 호스팅, Google Analytics 4, PayPal 후원.",
+        "privacy_description": "Critter Formations의 방문자 데이터 처리 방식: GitHub Pages 호스팅, Google Analytics 4, Google AdSense 광고, PayPal 후원.",
         "privacy_h1": "개인정보 처리방침",
         "privacy_sections": [
             ("개요",
@@ -352,6 +356,8 @@ STRINGS = {
              'rel="noopener noreferrer">파트너 사이트 정책</a>을 참고하세요. '
              '<a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">Google 애널리틱스 '
              '차단 브라우저 부가기능</a>으로 수집을 거부할 수 있습니다.</p>'),
+            ("광고 (Google AdSense)",
+             '<p>이 사이트는 운영 비용을 충당하기 위해 Google AdSense 광고를 표시합니다. Google과 파트너는 쿠키를 사용하여 이 사이트 및 다른 웹사이트 방문 기록을 바탕으로 광고를 제공하고 광고 성과를 측정합니다. 자세한 내용은 <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">Google의 광고 쿠키 사용 방식</a>을 참고하세요. <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">Google 광고 설정</a>에서 맞춤 광고를 끌 수 있으며, <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer">aboutads.info</a>에서 일부 제3자 광고 업체의 쿠키를 거부할 수 있습니다. EEA, 영국, 스위스 방문자에게는 맞춤 광고 표시 전에 동의 여부를 묻습니다.</p>'),
             ("후원 (PayPal)",
              '<p>후원 버튼은 PayPal로 연결되며, 결제는 PayPal의 '
              '<a href="https://www.paypal.com/myaccount/privacy/privacyStatementFull" target="_blank" rel="noopener noreferrer">'
@@ -374,7 +380,7 @@ STRINGS = {
              '<p>이 정책에 관한 문의는 '
              '<a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">'
              'GitHub issue</a>로 남겨 주세요.</p>'),
-            ("시행일", "<p>2026년 11월 4일.</p>"),
+            ("시행일", "<p>2026년 11월 26일.</p>"),
         ],
     },
     "vi": {
@@ -411,7 +417,7 @@ STRINGS = {
         "og_alt_home": "Critter Formations: đội hình Clash of Critters theo chương",
         "og_alt_chapter": "Hình xem trước đội hình Clash of Critters Chương {n}",
         "privacy_title": "Chính Sách Quyền Riêng Tư | Critter Formations",
-        "privacy_description": "Cách Critter Formations xử lý dữ liệu khách truy cập: lưu trữ trên GitHub Pages, Google Analytics 4, và quyên góp qua PayPal.",
+        "privacy_description": "Cách Critter Formations xử lý dữ liệu khách truy cập: lưu trữ trên GitHub Pages, Google Analytics 4, quảng cáo Google AdSense và quyên góp qua PayPal.",
         "privacy_h1": "Chính Sách Quyền Riêng Tư",
         "privacy_sections": [
             ("Tổng quan",
@@ -428,6 +434,8 @@ STRINGS = {
              'target="_blank" rel="noopener noreferrer">chính sách của Google về trang đối tác</a>. Bạn có thể từ '
              'chối bằng <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener noreferrer">'
              'Tiện ích từ chối Google Analytics</a>.</p>'),
+            ("Quảng cáo (Google AdSense)",
+             '<p>Trang này hiển thị quảng cáo Google AdSense để bù đắp chi phí vận hành. Google và các đối tác sử dụng cookie để hiển thị quảng cáo dựa trên lượt truy cập của bạn vào trang này và các trang web khác, cũng như đo lường hiệu quả quảng cáo. Xem <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener noreferrer">cách Google sử dụng cookie trong quảng cáo</a>. Bạn có thể tắt quảng cáo cá nhân hóa trong <a href="https://adssettings.google.com" target="_blank" rel="noopener noreferrer">Cài đặt quảng cáo của Google</a>, hoặc từ chối cookie của một số nhà cung cấp bên thứ ba tại <a href="https://www.aboutads.info" target="_blank" rel="noopener noreferrer">aboutads.info</a>. Khách truy cập ở EEA, Vương quốc Anh và Thụy Sĩ sẽ được hỏi ý kiến đồng ý trước khi hiển thị quảng cáo cá nhân hóa.</p>'),
             ("Quyên góp (PayPal)",
              '<p>Nút quyên góp liên kết đến PayPal, xử lý thanh toán theo '
              '<a href="https://www.paypal.com/myaccount/privacy/privacyStatementFull" target="_blank" rel="noopener noreferrer">'
@@ -450,7 +458,7 @@ STRINGS = {
              '<p>Thắc mắc về chính sách này có thể gửi qua '
              '<a href="https://github.com/qaz6209031/clash-critters-formations/issues" target="_blank" rel="noopener noreferrer">'
              'GitHub issue</a>.</p>'),
-            ("Ngày có hiệu lực", "<p>4 tháng 11, 2026.</p>"),
+            ("Ngày có hiệu lực", "<p>26 tháng 11, 2026.</p>"),
         ],
     },
 }
@@ -2073,6 +2081,7 @@ def build() -> None:
     (site / "sitemap.xml").write_text(sitemap_xml)
     (site / "robots.txt").write_text(
         "User-agent: *\nAllow: /\nDisallow: /chapters/\nSitemap: " + SITE_URL + "/sitemap.xml\n")
+    (site / "ads.txt").write_text("google.com, pub-3570668644518301, DIRECT, f08c47fec0942fa0\n")
 
     print(f"Built {len(stages)} stages in {len(ordered_groups)} grouped formation cards; "
           f"{len(dojo_coverage)} dojo stages in {sum(s['cards'] for s in dojo_stats.values())} dojo cards; "
